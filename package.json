@@ -1,9 +1,14 @@
 {
   "scripts": {
-    "start": "docsify serve docs"
+    "start": "docsify serve docs",
+    "build": "father-build && cp dist/components.umd.min.js docs/components.umd.min.js"
   },
   "devDependencies": {
     "docsify": "^4.12.1",
+    "father-build": "^1.20.4",
     "prettier": "^2.5.0"
+  },
+  "dependencies": {
+    "crypto-js": "^4.1.1"
   }
 }
