@@ -1,5 +1,16 @@
+import CryptoJS from "crypto-js";
+
 const template = `<img v-if="visible" :src="src" alt="" />`;
-const assert = "assert";
+
+function arrayBufferToBase64(buffer) {
+  let binary = "";
+  const bytes = new Uint8Array(buffer);
+  const length = bytes.byteLength;
+  for (let i = 0; i < length; i++) {
+    binary += String.fromCharCode(bytes[i]);
+  }
+  return window.btoa(binary);
+}
 
 export default {
   template,
@@ -16,25 +27,26 @@ export default {
   data: function () {
     const secretKey = localStorage.getItem("lee6's-secret");
     return {
+      src: undefined,
       secretKey,
-      visible: !(this.dir === assert && !secretKey),
+      visible: !(this.dir === "assert" && !secretKey),
     };
   },
-  computed: {
-    src: function () {
-      if (this.dir === assert) {
-        if (this.secretKey) {
-          fetch("//lee6.com/img/assert/" + this.id + ".json")
-            .then((res) => res.json())
-            .then((data) => {
-              // const Cryptor = new cryptorjs(this.secretKey);
-              // const base64 = Cryptor.decode(data);
-              // console.warn(base64);
-            });
-        }
-      } else {
-        return "//lee6.com/img/public/" + this.id + ".webp";
+  mounted() {
+    if (this.dir === "assert") {
+      if (this.secretKey) {
+        fetch("//lee6.com/img/assert/" + this.id + ".webp")
+          .then((res) => res.arrayBuffer())
+          .then((arrayBuffer) => {
+            const encodedBase64 = arrayBufferToBase64(arrayBuffer);
+            const bytes = CryptoJS.AES.decrypt(encodedBase64, this.secretKey);
+            const base64 = bytes.toString(CryptoJS.enc.Utf8);
+            const url = `data:image/webp;base64,${base64}`;
+            this.src = url;
+          });
       }
-    },
+    } else {
+      this.src = "//lee6.com/img/public/" + this.id + ".webp";
+    }
   },
 };
