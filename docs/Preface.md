@@ -1,6 +1,8 @@
 
-<a-img name="00002026" dir="assert"></a-img>
+<a-img name="george-town-fengcheche" dir="assert"></a-img>
 
-<a-img name="00009150"></a-img>
+<a-img name="treehouse-yuner"></a-img>
+
+<a-img name="yimei"></a-img>
 
 <a-secret name="test"></a-secret>
