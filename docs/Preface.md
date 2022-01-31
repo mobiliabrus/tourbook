@@ -3,6 +3,8 @@
 
 <a-img name="treehouse-yuner"></a-img>
 
+<a-img name="manta-queen-1"></a-img>
+
 <a-img name="yimei" dir="assert"></a-img>
 
 <a-secret name="test"></a-secret>
