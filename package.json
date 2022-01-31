@@ -1,5 +1,7 @@
 {
   "scripts": {
+    "prebuild": "npm run encode",
+    "prestart": "npm run encode",
     "start": "docsify serve docs",
     "encode": "node src/run.js",
     "build": "father-build && cp dist/components.umd.min.js docs/components.umd.min.js"
