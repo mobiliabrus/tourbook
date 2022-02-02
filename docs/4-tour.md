@@ -23,9 +23,7 @@ Baiyoke Sky Hotel
 2015-04-01,1
 ```
 
-```image
-DSC0001.jpg
-```
+<a-img name="DSC0001.jpg"></a-img>
 
 13.7537798,100.5421587
 
@@ -44,15 +42,10 @@ Crystal Dive Resort
 2015-04-05,4
 ```
 
-```image
-19120471_661258937398565_3756030448896049152_n.jpg
-```
+<a-img name="19120471_661258937398565_3756030448896049152_n.jpg"></a-img>
 @vicky_jqliii
 
-```secret-image
-2015-04-08-120444.jpg
-autoload
-```
+<a-img name="2015-04-08-120444.jpg" dir="assert"></a-img>
 
 ### FULLMOON PARTY
 
@@ -60,57 +53,29 @@ autoload
 driving:10.084742,99.824118,Koh Tao (Mae Haad Pier)|9.709127,99.984432,Thong Sala|9.676993,100.068051,Haad Rin
 ```
 
-```image
-fullmoon-1.jpg
-```
+<a-img name="fullmoon-1.jpg"></a-img>
 
-```image
-fullmoon-2.jpg
-```
+<a-img name="fullmoon-2.jpg"></a-img>
 
-```image
-00009150.jpg
-```
+<a-img name="00009150.jpg"></a-img>
 
-```image
-00009213.jpg
-```
+<a-img name="00009213.jpg"></a-img>
 
-```image
-s3.jpg
-```
+<a-img name="s3.jpg"></a-img>
 
-```image
-s4.jpg
-```
+<a-img name="s4.jpg"></a-img>
 
-```image
-s5.jpg
-```
+<a-img name="s5.jpg"></a-img>
 
-```image
-00008507.jpg
-```
+<a-img name="00008507.jpg"></a-img>
 
-```secret-image
-G0281605.jpg
-autoload
-```
+<a-img name="G0281605.jpg" dir="assert"></a-img>
 
-```secret-image
-G0281606.jpg
-autoload
-```
+<a-img name="G0281606.jpg" dir="assert"></a-img>
 
-```secret-image
-2015-04-11-180042.jpg
-autoload
-```
+<a-img name="2015-04-11-180042" dir="assert"></a-img>
 
-```secret-image
-2015-04-06-182934.jpg
-autoload
-```
+<a-img name="2015-04-06-182934" dir="assert"></a-img>
 
 I lost her glass on this party.
 
@@ -120,9 +85,7 @@ I lost her glass on this party.
 driving:8.042807,98.810486,Ao Nang Landmark Bus Station|7.884028,98.395726,Phuket Bus Terminal 1|7.844075,98.294148,Woraburi Phuket Resort & Spa
 ```
 
-```image
-2015-04-09-162348.jpg
-```
+<a-img name="2015-04-09-162348.jpg"></a-img>
 
 ```hotel
 Deevana Plaza Krabi Aonang
@@ -151,36 +114,22 @@ driving:7.881441,98.294236,Corner|7.844075,98.294148,Woraburi Phuket Resort & Sp
 driving:7.844075,98.294148,Woraburi Phuket Resort & Spa|8.644964,98.251020,Khao Lak Scuba Adventures
 ```
 
-```image
-similan.jpg
-```
+<a-img name="similan.jpg"></a-img>
 
-```image
-00002032.jpg
-```
+<a-img name="00002032.jpg"></a-img>
 
 ```images
 00002026.jpg,00002034.jpg
 col:2;
 ```
 
-```image
-00009518.jpg
-```
-```image
-00009523.jpg
-```
+<a-img name="00009518.jpg"></a-img>
 
+<a-img name="00009523.jpg"></a-img>
 
-```secret-image
-P1010987.jpg
-autoload
-```
+<a-img name="P1010987.jpg" dir="assert"></a-img>
 
-```secret-image
-G0032734.jpg
-autoload
-```
+<a-img name="G0032734.jpg" dir="assert"></a-img>
 
 <a-img name="manta-queen-1"></a-img>
 

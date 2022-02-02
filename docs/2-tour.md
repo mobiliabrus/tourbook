@@ -59,11 +59,7 @@ Fall in love by riding. They just stay near by my hostel.
 points:5.9834548,116.0775237
 ```
 
-```image
-00003135.jpg
-```
-```image
-00003180.jpg
+<a-img name="00003135.jpg"></a-img><a-img name="00003135.jpg"></a-img>03180.jpg
 ```
 
 ```airasia
@@ -102,9 +98,7 @@ driving:4.313783,118.113794,Tawau Airport|4.479184,118.617147,Borneo Global Sipa
 Arrive I met feng cheche.
 And she will go penang after semporna.
 
-```image
-dd.jpg
-```
+<a-img name="dd.jpg"></a-img>
 
 ### PULAU MABUL
 
@@ -119,9 +113,7 @@ points:4.224935,118.683287
 zoom:18
 ```
 
-```image
-mabul-1.jpg
-```
+<a-img name="mabul-1.jpg"></a-img>
 ```images
 mabul-2.jpg,00023265.jpg,00023266.jpg
 col:3;
@@ -131,17 +123,9 @@ col:3;
 col:2;
 ```
 
-```image
-00003434.jpg
-```
+<a-img name="00003434.jpg"></a-img>
 
-```image
-1611278053015.jpg
-```
-```image
-mmexport1611412061154.jpg
-```
-```image
+<a-img name="1611278053015.jpg"></a-img><a-img name="1611278053015.jpg"></a-img>x<a-img name="1611278053015.jpg"></a-img>image
 mmexport1611411982058.jpg
 ```
 
@@ -207,9 +191,7 @@ Day & Night Guesthouse
 walking:5.420885,100.343897,Fort Cornwallis|5.421882,100.342654,DANNI|5.420896,100.337566,Love Ln|5.420208,100.335220,Ryokan Muntri Boutique Hostel
 ```
 
-```image
-1611500484268.jpg
-```
+<a-img name="1611500484268.jpg"></a-img>
 
 ### BAR
 
@@ -235,15 +217,11 @@ driving:5.418612,100.336421,Love Ln|5.477992,100.254231,.
 walking:5.420208,100.335220,Ryokan Muntri Boutique Hostel|5.418612,100.336421,Love Ln|5.416457,100.332673,Kimberley Street Food Night Market
 ```
 
-```image
-1611158680144.jpg
-```
+<a-img name="1611158680144.jpg"></a-img>
 
 ### PENANG HILL   
 
-```image
-s6.jpg
-```
+<a-img name="s6.jpg"></a-img>
 
 ```bing-map
 walking:5.423528,100.269514,Penang Hill Upper Station|5.418529,100.263881,Ice cream store|5.4181686,100.2628177,Monkey Family
