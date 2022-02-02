@@ -65,16 +65,16 @@ aerial
 walking:18.983908,99.124138,Rabeang Pasak Treehouse Resort|18.9869287,99.1186256,จุดชมวิวแผ่นดินหวิด
 ```
 
-<a-img name="treehouse-4.jpg"></a-img>
+<a-img name="treehouse-4"></a-img>
 
-<a-img name="00002369.jpg"></a-img>
+<a-img name="00002369"></a-img>
 
 ```bing-map
 aerial
 walking:18.983908,99.124138,Rabeang Pasak Treehouse Resort|18.981513,99.116642,.
 ```
 
-<a-img name="treehouse-3.jpg"></a-img>
+<a-img name="treehouse-3"></a-img>
 
 ## Swimming
 
@@ -107,19 +107,19 @@ driving:13.759380,100.498725,Lomprayah Bangkok|10.358415,99.267069,Chumphon (Lom
 
 ## KOH TAO
 
-<a-img name="crystal.jpg"></a-img>
+<a-img name="crystal"></a-img>
 
-<a-img name="FB_IMG_1627514624886.jpg"></a-img>
+<a-img name="FB_IMG_1627514624886"></a-img>
 
 Crystal Dive Koh Tao with Nick Button, James Tomlinson, Vincent Teschel, Brittany Kalenderian, Tina Major and others
 
-<a-img name="kohtao1.jpg" dir="assert"></a-img>
+<a-img name="kohtao1" dir="assert"></a-img>
 
 ### Praness's kitchen
 
 Traditional Thai restaurant at great value price.
 
-<a-img name="praness.jpg"></a-img>
+<a-img name="praness"></a-img>
 
 ### Moondance
 
@@ -134,11 +134,11 @@ walking:10.085781,99.825095,Crystal Dive|10.0780687,99.8458561,Moondance Magic V
 
 ...
 
-<a-img name="moondance.jpg"></a-img>
+<a-img name="moondance"></a-img>
 _@naootsubo_
 
 
-<a-img name="12940195_946079962178994_1559689102_n.jpg"></a-img>
+<a-img name="12940195_946079962178994_1559689102_n"></a-img>
 _@panjarat299_
 
 _The room is in darkness. Moonlight penetrates the threadbare curtain. The bed is surrounded by a mosquito net._

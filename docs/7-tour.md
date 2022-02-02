@@ -70,7 +70,7 @@ Paradise but not Sipadan, located just off shore Mabul Island. Minutes away from
 
 It named "Paradise 2".
 
-<a-img name="s1.jpg"></a-img>
+<a-img name="s1"></a-img>
 
 ```bing-map
 points:4.250431,118.630882
@@ -78,9 +78,9 @@ points:4.250431,118.630882
 
 ### Kapalai
 
-<a-img name="00005170-0001.jpg"></a-img>
+<a-img name="00005170-0001"></a-img>
 
-<a-img name="00025100-0002.jpg"></a-img>
+<a-img name="00025100-0002"></a-img>
 
 ```airasia
 AK5741
@@ -116,7 +116,7 @@ Samui Hostel
 
 drunkards, goats, hookers, drugsters and tourists.
 
-<a-img name="vicky-fish.jpg"></a-img>
+<a-img name="vicky-fish"></a-img>
 
 I found a camera in the sand. I asked around, it belongs to nobody. I danced and hang camera over my head. Later, a guy found me, it's his camera. I asked him to check photos in the camera. "Yes, they are!", These must be his important memories.
 
@@ -129,13 +129,13 @@ driving:9.6742334,100.0639134,Haad Rin Pier|9.5713503,100.0610741,Bangrak Seatra
 ```
 ## SONGKRAN 2561
 
-<a-img name="s2.jpg"></a-img>
+<a-img name="s2"></a-img>
 
 ```bing-map
 points:9.5179429,100.055656,Samui Hostel;9.5323031,100.0648453,.
 ```
 
-<a-img name="bitch.jpg" dir="assert"></a-img>
+<a-img name="bitch" dir="assert"></a-img>
 
 green dreadlocks on party
 
@@ -179,7 +179,7 @@ walking:9.5179429,100.055656,Samui Hostel|9.5256037,100.0567723,Irish Pub
 
 <br />
 
-<a-img name="IMG_20170413_234141.jpg" dir="assert"></a-img>
+<a-img name="IMG_20170413_234141" dir="assert"></a-img>
 
 ```airasia
 FD3232

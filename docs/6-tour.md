@@ -55,7 +55,7 @@ B.B.mansion
 2017-01-11,1
 ```
 
-<a-img name="pubketbusterminal2.jpg"></a-img>
+<a-img name="pubketbusterminal2"></a-img>
 
 ## KOH PHANGAN 2
 
