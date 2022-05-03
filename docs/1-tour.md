@@ -1,8 +1,9 @@
-## BANGKOK 1
+## BANGKOK
 
 > _Bangkok, good-time city. Gateway to Southeast Asia. Where dollars and Duetsmarks get turned into counterfeit watches and genuine scars._
+> <div style="text-align: right"><em>- The Beach, 2000</em></div>
 
-> _- The Beach, 2000_
+<a-flight no="FD2557"></a-flight>
 
 ```airasia
 FD2557
