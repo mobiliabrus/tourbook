@@ -1,17 +1,20 @@
 {
   "scripts": {
     "prebuild": "npm run encode",
-    "prestart": "npm run encode",
+    "prestart": "npm run encode && npm run build",
     "start": "docsify serve docs",
     "encode": "node src/run.js",
     "build": "father-build && cp dist/components.umd.min.js docs/components.umd.min.js"
   },
   "devDependencies": {
+    "@vue/compiler-sfc": "^3.2.33",
     "docsify": "^4.12.1",
     "father-build": "^1.20.4",
-    "prettier": "^2.5.0"
+    "prettier": "^2.5.0",
+    "rollup-plugin-vue": "^6.0.0"
   },
   "dependencies": {
-    "crypto-js": "^4.1.1"
+    "crypto-js": "^4.1.1",
+    "dayjs": "^1.11.1"
   }
 }

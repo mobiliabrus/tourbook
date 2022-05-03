@@ -3,21 +3,7 @@
 > _Bangkok, good-time city. Gateway to Southeast Asia. Where dollars and Duetsmarks get turned into counterfeit watches and genuine scars._
 > <div style="text-align: right"><em>- The Beach, 2000</em></div>
 
-<a-flight no="FD2557"></a-flight>
-
-```airasia
-FD2557
-
-ECONOMY
-PROMO
-Chongqing (CKG)
-Chongqing Jiangbei International
-Airport
-Tue 08 Oct 2013, 1110 hrs ( 11:10AM)
-Bangkok (DMK)
-Don Mueang International Airport
-Tue 08 Oct 2013, 1320 hrs ( 1:20PM)
-```
+<a-flight flight="FD2557" departure="CKG" departure-time="2013-10-08 11:10" destination="DMK" arrive-time="2013-10-08 13:20"></a-flight>
 
 ```bing-map
 driving:13.9181208,100.6009837,A1 Bus|13.802285,100.5545711,Mo Chit
@@ -34,6 +20,8 @@ Baiyoke Suite Hotel
 2013-10-09,3
 13.7530194,100.5373002
 ```
+
+I was traveling alone for two reasons. First of all, being alone allows you more opportunity to absorb your experiences on a personal level. Secondly, and this I felt acutely at that moment, there was no one who wanted to go with me.
 
 Racers, traffic whistle, dove and the air-conditioning.
 Noises can be heard through the sealed window of 9th floor.
@@ -54,16 +42,6 @@ walking:13.7284643,100.5339654,Sala Daeng|13.7275959,100.5336985,Flight Experien
 ```
 
 ### UNNIE
-
-> _I was traveling alone for two
-reasons. First of all, being alone
-allows you more opportunity to
-absorb your experiences on a
-personal level._
-> _Secondly, and this
-I felt acutely at that moment,
-there was no one who wanted to go
-with me._
 
 ```bing-map
 walking:13.7377986,100.5171146,Hua Lamphong|13.7408755,100.5175149,.|13.7423625,100.5064562,China Town
@@ -128,8 +106,7 @@ driving:17.030496,99.702936,Tourist Information Center|17.032004,99.702915|17.03
 > _Garden house with breakfast._
 > _The daughter of house owner is really beautiful._
 > _I still remember the golden doggy Latu and the pussy Momo._
-
-> _- My review on agoda.com_
+> <div style="text-align: right"><em>- I reviewed</em></div>
 
 ```hotel
 Baan Rim Klong Resort
@@ -354,26 +331,14 @@ Baiyoke Suite Hotel
 13.7530194,100.5373002
 ```
 
-I can't sleep.
-I lies on the bed, listening to the sound of upstairs engaging in noisy sex.
-He and his Thai girl did keep me awake. That's Ok, he's on holiday.
-I just has time to enjoy the "silence" after turning air-conditioning and television on.
-Then they reach the climax of their activity and fall silent.
+Above my bath room, Thai girl engaging in noisy sex in the bathtub. I heard loud and clear.
+They were reaching the climax of their activity.
+
+That's OK, they are on holiday.
+Instead of recording it, I turned on the television and air-con, and really enjoy the "silence".
 
 ```bing-map
 walking:13.7530194,100.5394889,Baiyoke Suite Hotel|13.7519761,100.531616,Ratchathewi
 ```
 
-```airasia
-FD2550
-
-ECONOMY
-PROMO
-Bangkok (DMK)
-Don Mueang International Airport
-Thu 31 Oct 2013, 0620 hrs ( 6:20AM)
-Chongqing (CKG)
-Chongqing Jiangbei International
-Airport
-Thu 31 Oct 2013, 1020 hrs ( 10:20AM)
-```
+<a-flight flight="FD2550" departure="DMK" departure-time="2013-10-31 06:20" destination="CKG" arrive-time="2013-10-31 10:20"></a-flight>

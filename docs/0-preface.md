@@ -46,6 +46,8 @@ CA4166
 
 ## LUST
 
+There is two windows. One is noisy open outer window and the other is soundproof sealed inner window.
+
 ### WESTERN SICHUAN
 
 ```airasia

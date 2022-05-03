@@ -1,7 +1,7 @@
 - TourBook
 
   - [Preface](0-preface.md)
-  - [Tour Solitary](1-tour.md)
+  - [Long, Solitary Tour](1-tour.md)
   - [Tour Backpacker](2-tour.md)
   - [Tour Tree Houses](3-tour.md)
   - [Tour For Soul](4-tour.md)
