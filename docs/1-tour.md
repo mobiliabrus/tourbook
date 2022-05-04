@@ -331,7 +331,7 @@ Baiyoke Suite Hotel
 13.7530194,100.5373002
 ```
 
-Above my bath room, Thai girl engaging in noisy sex in the bathtub. I heard loud and clear.
+Above my bath room, in the bathtub, Thai girl engaging in noisy sex. I heard loud and clear.
 They were reaching the climax of their activity.
 
 That's OK, they are on holiday.
