@@ -1,6 +1,7 @@
 import Map from "./Map";
+import './index.less';
 
-const template = `<v-map
+const template = `<div class="map-wrapper"><div class="map-mask"></div><v-map
 :center="this._center"
 :points="this._points"
 :walking="this._walking"
@@ -8,7 +9,7 @@ const template = `<v-map
 :driving="this._driving"
 :zoom="this.zoom"
 :aerial="this.aerial"
-></v-map>`;
+></v-map></div>`;
 
 export default {
   template,
