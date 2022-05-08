@@ -1,4 +1,5 @@
 import dayjs from "dayjs";
+import './index.css';
 
 const template = `<div style="position:relative;margin:16px;">
 <div style="position:absolute;left:50%;top:0;transform:translateX(-50%);z-index:999;"><span>{{ this.flight }}</span></div>
