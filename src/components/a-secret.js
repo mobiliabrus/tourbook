@@ -1,7 +1,7 @@
 import AES from "crypto-js/aes";
 import Utf8 from "crypto-js/enc-utf8";
 
-const template = `<span v-if="!visible" v-on:click="decrypt" style="display: inline-block;
+const template = `<span v-if="!visible" @click="decrypt" style="display: inline-block;
 background-color: #333;
 color: transparent;
 padding: 0 8px;

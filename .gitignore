@@ -3,3 +3,4 @@ yarn.lock
 dist
 src/password.js
 src/confidential/
+*.js.map

@@ -5,11 +5,7 @@
 
 <a-flight flight="FD2557" departure="CKG" departure-time="2013-10-08 11:10" destination="DMK" arrive-time="2013-10-08 13:20"></a-flight>
 
-```bing-map
-driving:13.9181208,100.6009837,A1 Bus|13.802285,100.5545711,Mo Chit
-transit:13.802285,100.5545711,Mo Chit|13.7404387,100.5553894,Nana
-walking:13.7404387,100.5553894,Nana|13.7417069,100.5567147,Suk11 Hostel
-```
+<a-map driving="13.9181208,100.6009837,A1 Bus|13.802285,100.5545711,Mo Chit" transit="13.802285,100.5545711,Mo Chit|13.7404387,100.5553894,Nana" walking="13.7404387,100.5553894,Nana|13.7417069,100.5567147,Suk11 Hostel"></a-map>
 
 ### PRATUNAM
 
