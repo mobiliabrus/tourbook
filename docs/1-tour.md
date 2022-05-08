@@ -224,18 +224,7 @@ Say goodbye to my "first love" in the music of `Every Breath You Take`.
 Lucky Massage (Loi Kroh Rd)
 18.784186, 98.997191
 
-```airasia
-FD3162
-
-ECONOMY
-PROMO
-Chiang Mai (CNX)
-Chiang Mai
-Sat 19 Oct 2013, 1310 hrs ( 1:10PM)
-Phuket (HKT)
-Phuket
-Sat 19 Oct 2013, 1515 hrs ( 3:15PM)
-```
+<a-flight flight="FD3162" departure="CNX" departure-time="2013-10-19 13:10" destination="HKT" arrive-time="2013-10-19 15:15"></a-flight>
 
 ## PHUKET 1
 

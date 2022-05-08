@@ -1,7 +1,5 @@
 import dayjs from "dayjs";
 
-const format = "HH:mm D MMM";
-
 const template = `<div style="position:relative;margin:16px;">
 <div style="position:absolute;left:50%;top:0;transform:translateX(-50%);z-index:999;"><span>{{ this.flight }}</span></div>
 <div class="am-steps am-steps-horizontal am-steps-label-vertical">
@@ -50,10 +48,13 @@ export default {
   },
   computed: {
     departureTimeLocale: function () {
-      return dayjs(this.departureTime).format(format);
+      return dayjs(this.departureTime).format("D MMM, HH:mm");
     },
     arriveTimeLocale: function () {
-      return dayjs(this.arriveTime).format(format);
+      if (dayjs(this.departureTime).diff(this.arriveTime, 'day') === 0) {
+        return dayjs(this.arriveTime).format("HH:mm");
+      }
+      return dayjs(this.arriveTime).format("D MMM, HH:mm");
     },
   },
 };
