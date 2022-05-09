@@ -92,11 +92,7 @@ Soon, I arrived.
 > _I still remember the golden doggy Latu and the pussy Momo._
 > <div style="text-align: right"><em>- I reviewed</em></div>
 
-```hotel
-Baan Rim Klong Resort
-2013-10-12,2
-17.031670,99.706329
-```
+<a-hotel name="Baan Rim Klong Resort" date="2013-10-12" nights="2" points="17.031670,99.706329"></a-hotel>
 
 After meal, the day just black out. And I can't recognize the way back in the black. The sense of direction told me I should ride to north. And I am far away from main road.
 
@@ -146,17 +142,9 @@ I'm riding in the road and say 'hello' to everyone I saw..
 
 Wat Buppharam
 
-```hotel
-Tapae Place Hotel
+<a-hotel name="Tapae Place Hotel" points="18.7878819,98.9973679"></a-hotel>
 
-18.7878819,98.9973679
-```
-
-```hotel
-Star Hotel Chiang Mai
-
-18.7828211,98.999133
-```
+<a-hotel name="Star Hotel Chiang Mai" points="18.7828211,98.999133"></a-hotel>
 
 ### SARA
 
@@ -206,17 +194,9 @@ Lucky Massage (Loi Kroh Rd)
 
 ### PATONG
 
-```hotel
-Royal Crown Hotel & Palm Spa resort
-2013-10-19,1
-7.893803,98.305505
-```
+<a-hotel name="Royal Crown Hotel & Palm Spa resort" date="2013-10-19" nights="1" points="7.893803,98.305505"></a-hotel>
 
-```hotel
-I Dee Hotel
-
-7.8818396,98.2929051
-```
+<a-hotel name="I Dee Hotel" points="7.8818396,98.2929051"></a-hotel>
 
 ### PHUKET TOWN
 
@@ -231,11 +211,7 @@ Mueang Phuket Exercise Park
 
 ### SIRI
 
-```hotel
-Chill House Nai Yang
-2013-10-27,2
-8.0920261,98.3019226
-```
+<a-hotel name="Chill House Nai Yang" date="2013-10-27" nights="2" points="8.0920261,98.3019226"></a-hotel>
 
 It's the last day I stay in Phuket, it heavy rained in the morning,
 and the wind below to East which mean planes will not landing at beach side.
@@ -259,19 +235,7 @@ And the sky just went to warming and shinning.
 
 I did it by perseverance.
 
-```airasia
-FD3020
-
-ECONOMY
-
-PROMO
-Phuket (HKT)
-Phuket
-Tue 29 Oct 2013, 0800 hrs ( 8:00AM)
-Bangkok (DMK)
-Don Mueang International Airport
-Tue 29 Oct 2013, 0925 hrs ( 9:25AM)
-```
+<a-flight flight="FD3020" departure="HKT" departure-time="2013-10-29 08:00" destination="DMK" arrive-time="2013-10-29 09:25"></a-flight>
 
 ## BANGKOK 2
 
@@ -279,11 +243,7 @@ Tue 29 Oct 2013, 0925 hrs ( 9:25AM)
 
 #### BAIYOKE SUITE HOTEL
 
-```hotel
-Baiyoke Suite Hotel
-2013-10-29,2
-13.7530194,100.5373002
-```
+<a-hotel name="Baiyoke Suite Hotel" date="2013-10-29" nights="2" points="13.7530194,100.5373002"></a-hotel>
 
 Above my bath room, in the bathtub, Thai girl engaging in noisy sex. I heard loud and clear.
 They were reaching the climax of their activity.

@@ -15,9 +15,11 @@ export default {
   props: ["name", "date", "nights"],
   computed: {
     from: function () {
+      if (!this.date) return '';
       return dayjs(this.date).format("D MMM, YYYY");
     },
     to: function () {
+      if (!this.date || !this.nights) return '';
       return this.detail ? ` - ${dayjs(this.date).add(this.nights, "d").format("D MMM, YYYY")}` : `, ${this.nights} night${this.nights > 1 ? "s" : ""}`;
     },
   },
