@@ -3,7 +3,8 @@
     "prebuild": "npm run encode",
     "prestart": "npm run encode && npm run build",
     "start": "docsify serve docs",
-    "encode": "node src/run.js",
+    "encode": "node src/encode.js",
+    "decode": "node src/decode.js",
     "build": "father-build && cp dist/components.umd.min.js docs/components.umd.min.js && cp dist/components.umd.min.js.map docs/components.umd.min.js.map && rm -rf dist"
   },
   "devDependencies": {
