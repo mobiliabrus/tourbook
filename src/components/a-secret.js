@@ -31,18 +31,22 @@ export default {
     };
   },
   mounted() {
-    fetch(`./confidential/${this.name}.md`)
-      .then((res) => res.text())
-      .then((rawContent) => {
-        this.rawContent = rawContent;
-        const bytes = AES.decrypt(rawContent, this.secretKey);
-        const content = bytes.toString(Utf8);
-        this.content = content;
-      });
+    if (this.secretKey) {
+      fetch(`./confidential/${this.name}.md`)
+        .then((res) => res.text())
+        .then((rawContent) => {
+          this.rawContent = rawContent;
+          const bytes = AES.decrypt(rawContent, this.secretKey);
+          const content = bytes.toString(Utf8);
+          this.content = content;
+        });
+    }
   },
   methods: {
     decrypt: function () {
-      this.visible = true;
+      if (this.secretKey) {
+        this.visible = true;
+      }
     },
   },
 };
