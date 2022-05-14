@@ -106,20 +106,17 @@ zoom:18
 ```
 
 <a-img name="mabul-1"></a-img>
-```images
-mabul-2.jpg,00023265.jpg,00023266.jpg
-col:3;
-```
-```images
-00023183.jpg,00023184.jpg
-col:2;
-```
+<a-img name="mabul-2"></a-img>
+<a-img name="00023265"></a-img>
+<a-img name="00023266"></a-img>
+<a-img name="00023183"></a-img>
+<a-img name="00023184"></a-img>
 
 <a-img name="00003434"></a-img>
 
-<a-img name="1611278053015"></a-img><a-img name="1611278053015"></a-img>x<a-img name="1611278053015"></a-img>image
-mmexport1611411982058.jpg
-```
+<a-img name="1611278053015"></a-img>
+<a-img name="mmexport1611412061154"></a-img>
+<a-img name="mmexport1611411982058"></a-img>
 
 ## KOTA KINABALU 2
 

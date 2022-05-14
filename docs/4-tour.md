@@ -102,11 +102,8 @@ driving:7.844075,98.294148,Woraburi Phuket Resort & Spa|8.644964,98.251020,Khao 
 <a-img name="similan"></a-img>
 
 <a-img name="00002032"></a-img>
-
-```images
-00002026.jpg,00002034.jpg
-col:2;
-```
+<a-img name="00002026"></a-img>
+<a-img name="00002034"></a-img>
 
 <a-img name="00009518"></a-img>
 

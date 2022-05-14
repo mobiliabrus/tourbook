@@ -162,9 +162,9 @@ She caught my eyes, a pure cute young face.
 ```
 , her name.
 
-```images
-DSC3276.jpg,DSC3279.jpg,DSC3280.jpg
-```
+<a-img name="DSC3276"></a-img>
+<a-img name="DSC3279"></a-img>
+<a-img name="DSC3280"></a-img>
 
 It became the only way I can forget loneliness.
 I came here everynight to dream? No, I came to be woken up.
