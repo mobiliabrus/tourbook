@@ -13,10 +13,7 @@ Don Mueang International Airport
 Tue 31 Mar 2015, 1320 hrs ( 1:20PM)
 ```
 
-```hotel
-Baiyoke Sky Hotel
-2015-03-31,1
-```
+<a-hotel name="Baiyoke Sky Hotel" date="2015-03-31" nights="1"></a-hotel>
 
 ```hotel
 
@@ -32,15 +29,9 @@ Baiyoke Sky Hotel
 You think I waste time taking photographs of the sky.
 One night I will get the perfect photograp
 
-```hotel
-Ananda Villa
-2015-04-03,2
-```
+<a-hotel name="Ananda Villa" date="2015-04-03" nights="2"></a-hotel>
 
-```hotel
-Crystal Dive Resort
-2015-04-05,4
-```
+<a-hotel name="Crystal Dive Resort" date="2015-04-05" nights="4"></a-hotel>
 
 <a-img name="19120471_661258937398565_3756030448896049152_n"></a-img>
 @vicky_jqliii
@@ -87,18 +78,12 @@ driving:8.042807,98.810486,Ao Nang Landmark Bus Station|7.884028,98.395726,Phuke
 
 <a-img name="2015-04-09-162348"></a-img>
 
-```hotel
-Deevana Plaza Krabi Aonang
-2015-04-9,2
-```
+<a-hotel name="Deevana Plaza Krabi Aonang" date="2015-04-9" nights="2"></a-hotel>
 
 
 ## KARON
 
-```hotel
-Woraburi Phuket Resort & Spa
-2015-04-11,4
-```
+<a-hotel name="Woraburi Phuket Resort & Spa" date="2015-04-11" nights="4"></a-hotel>
 
 ### SONGKRAN 1
 
@@ -137,10 +122,7 @@ col:2;
 
 *pre-flight surface interval*
 
-```hotel
-Cozy Coco Apartment@Phuket Airport
-2015-04-19,2
-```
+<a-hotel name="Cozy Coco Apartment@Phuket Airport" date="2015-04-19" nights="2"></a-hotel>
 
 ```airasia
 周二, 21 四月 2015	出发:	普吉岛国际机场 at 02:55	到达:	香港国际机场 客运大楼 2 at 07:30	HK Express - UO764

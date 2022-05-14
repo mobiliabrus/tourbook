@@ -46,10 +46,7 @@ I hit my kness twice again when desend.
 My kness can not band, extremely pantful pain when walk.
 I slowly move to a drug store,
 
-```hotel
-Borneo Backpackers
-2017-04-04,2
-```
+<a-hotel name="Borneo Backpackers" date="2017-04-04" nights="2"></a-hotel>
 
 ## SEA VENTURES
 
@@ -61,10 +58,7 @@ Thu 06 Apr 2017, 0740 hrs
 Thu 06 Apr 2017, 0830 hrs
 ```
 
-```hotel
-Seaventures Dive Rig
-2017-04-06,3
-```
+<a-hotel name="Seaventures Dive Rig" date="2017-04-06" nights="3"></a-hotel>
 
 Paradise but not Sipadan, located just off shore Mabul Island. Minutes away from the Rig, the dive site is made up of artificial house reef where old dive boats were sunk, man-made structure such as pyramids and crates are now home to abundance of marine life. The artificial reef is a collaboration work of resorts within and nearby Mabul.
 
@@ -91,10 +85,7 @@ Sun 09 Apr 2017, 0700 hrs
 Sun 09 Apr 2017, 0945 hrs
 ```
 
-```hotel
-Hotel Zamburger Kota Warisan
-2017-04-09,1
-```
+<a-hotel name="Hotel Zamburger Kota Warisan" date="2017-04-09" nights="1"></a-hotel>
 
 ```airasia
 AK838
@@ -107,10 +98,7 @@ Mon 10 Apr 2017, 1230 hrs
 
 ## KOH SAMUI
 
-```hotel
-Samui Hostel
-2017-04-10,7
-```
+<a-hotel name="Samui Hostel" date="2017-04-10" nights="7"></a-hotel>
 
 ## FULLMOON PARTY 3
 

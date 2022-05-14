@@ -36,10 +36,7 @@ Chiang Mai International Airport
 Mon 03 Nov 2014, 1140 hrs ( 11:40AM)
 ```
 
-```hotel
-So Hostel
-2014-11-03,5
-```
+<a-hotel name="So Hostel" date="2014-11-03" nights="5"></a-hotel>
 
 ### TREE HOUSES
 
@@ -123,10 +120,7 @@ Traditional Thai restaurant at great value price.
 
 ### Moondance
 
-```hotel
-Moondance Magicview Bungalow
-2014-11-12,1
-```
+<a-hotel name="Moondance Magicview Bungalow" date="2014-11-12" nights="1"></a-hotel>
 
 ```bing-map
 walking:10.085781,99.825095,Crystal Dive|10.0780687,99.8458561,Moondance Magic View Bungalow
@@ -151,10 +145,7 @@ _#THE BEACH#_
 
 ## BANGKOK
 
-```hotel
-48 ville
-2014-11-2,1
-```
+<a-hotel name="48 ville" date="2014-11-2" nights="1"></a-hotel>
 
 ```airasia
 FD552

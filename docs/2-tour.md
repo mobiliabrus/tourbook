@@ -22,11 +22,7 @@ red light area.
 driving:3.1314496300435706,101.69091652316015,KL Sentral|3.142778222755097,101.70906525342374,Berjaya Times Square
 ```
 
-```hotel
-Irsia BnB Guesthouse
-2014-1-4,2
-3.1413875,101.7100106
-```
+<a-hotel name="Irsia BnB Guesthouse" date="2014-1-4" nights="2" points="3.1413875,101.7100106"></a-hotel>
 
 ## KOTA KINABALU
 
@@ -102,11 +98,7 @@ And she will go penang after semporna.
 
 ### PULAU MABUL
 
-```hotel
-Uncle Chang Bungalow
-2014-01-09,2
-4.2477133,118.6271726
-```
+<a-hotel name="Uncle Chang Bungalow" date="2014-01-09" nights="2" points="4.2477133,118.6271726"></a-hotel>
 
 ```bing-map
 points:4.224935,118.683287
@@ -169,15 +161,9 @@ Penang International Airport
 Mon 13 Jan 2014, 1605 hrs ( 4:05PM)
 ```
 
-```hotel
-Ryokan @ Muntri Street
-2014-01-13,4
-```
+<a-hotel name="Ryokan @ Muntri Street" date="2014-01-13" nights="4"></a-hotel>
 
-```hotel
-Day & Night Guesthouse
-2014-01-17,2
-```
+<a-hotel name="Day & Night Guesthouse" date="2014-01-17" nights="2"></a-hotel>
 
 <a-img name="george-town-fengcheche"></a-img>
 
@@ -232,10 +218,7 @@ walking:5.423528,100.269514,Penang Hill Upper Station|5.418529,100.263881,Ice cr
 
 ## KULA LUMPUR 2
 
-```hotel
-Hotel Budget Inn Jalan Alor
-2014-01-19,2
-```
+<a-hotel name="Hotel Budget Inn Jalan Alor" date="2014-01-19" nights="2"></a-hotel>
 
 ```airasia
 AK1008 (KUL) - (KMG)

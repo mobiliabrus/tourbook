@@ -20,17 +20,9 @@ SC4723
 walking:24.4430276,118.0709874,厦门鼓浪朵拉旅馆|24.4476475,118.0659192|24.4494483,118.0676552,1919 Royal Nesting Villa Hotel
 ```
 
-```hotel
-厦门鼓浪朵拉旅馆
-2013-06-05,1
-24.4430276,118.0709874
-```
+<a-hotel name="厦门鼓浪朵拉旅馆" date="2013-06-05" nights="1" points="24.4430276,118.0709874"></a-hotel>
 
-```hotel
-1919 Royal Nesting Villa Hotel
-2013-06-06,1
-24.4494483,118.0676552
-```
+<a-hotel name="1919 Royal Nesting Villa Hotel" date="2013-06-06" nights="1" points="24.4494483,118.0676552"></a-hotel>
 
 #### ONE NIGHT
 
