@@ -2,6 +2,8 @@
 
 > _Why you travel?_
 
+record, review and remember
+
 <a-img name="yimei" dir="assert"></a-img>
 
 ## ESCAPE
