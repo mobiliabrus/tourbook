@@ -9,6 +9,8 @@
 
 <a-map driving="13.9181208,100.6009837,A1 Bus|13.802285,100.5545711,Mo Chit"></a-map>
 
+built with stup walls.
+
 shouting in the street
 
 ### PRATUNAM
