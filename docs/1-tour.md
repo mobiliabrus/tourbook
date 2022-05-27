@@ -17,8 +17,6 @@ shouting in the street
 
 <a-hotel name="Baiyoke Suite Hotel" date="2013-10-09" nights="3" points="13.7530194,100.5373002"></a-hotel>
 
-I was traveling alone for two reasons. First of all, being alone allows you more opportunity to absorb your experiences on a personal level. Secondly, and this I felt acutely at that moment, there was no one who wanted to go with me.
-
 Racers, traffic whistle, dove and the air-conditioning.
 Noises can be heard through the sealed window of 9th floor.
 
@@ -28,6 +26,9 @@ Noises can be heard through the sealed window of 9th floor.
 
 I met a white guy there who said he working in Chongqing. He's a farang, and he's waiting for his Thai girlfriend.
 We drinked till the thai girl come.
+
+"Why are you taking a trip by yourself", he asked.
+I was traveling alone for two reasons. First of all, being alone allows you more opportunity to absorb your experiences on a personal level. Secondly, and this I felt acutely at that moment, there was no one who wanted to go with me.
 
 ### NANA
 
