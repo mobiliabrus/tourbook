@@ -80,6 +80,7 @@ driving:8.042807,98.810486,Ao Nang Landmark Bus Station|7.884028,98.395726,Phuke
 
 <a-hotel name="Deevana Plaza Krabi Aonang" date="2015-04-9" nights="2"></a-hotel>
 
+And as for traveling alone, fuck it. If that's the way it has to be, then that's the way it is. 
 
 ## KARON
 
