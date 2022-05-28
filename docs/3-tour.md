@@ -10,31 +10,9 @@
 
 ## BANGKOK
 
-```airasia
-FD553
+<a-flight flight="FD553" departure="CKG" destination="DMK" departure-time="2014-11-02 19:55" arrive-time="2014-11-02 22:05"></a-flight>
 
-ECONOMY PROMO
-
-Chongqing (CKG)
-Chongqing Jiangbei International Airport
-Sun 02 Nov 2014, 1955 hrs ( 7:55PM)
-Bangkok (DMK)
-Don Mueang International Airport
-Sun 02 Nov 2014, 2205 hrs ( 10:05PM)## CHIANG MAI
-```
-
-```airasia
-FD3435
-
-ECONOMY PROMO
-
-Bangkok (DMK)
-Don Mueang International Airport
-Mon 03 Nov 2014, 1030 hrs ( 10:30AM)
-Chiang Mai (CNX)
-Chiang Mai International Airport
-Mon 03 Nov 2014, 1140 hrs ( 11:40AM)
-```
+<a-flight flight="FD3435" departure="DMK" destination="CNX" departure-time="2014-11-03 10:30" arrive-time="2014-11-03 11:40"></a-flight>
 
 <a-hotel name="So Hostel" date="2014-11-03" nights="5"></a-hotel>
 
@@ -85,18 +63,7 @@ Baan Thai Apartment
 
 ## BANGKOK
 
-```airasia
-FD3446
-
-ECONOMY PROMO
-
-Chiang Mai (CNX)
-Chiang Mai International Airport
-Sat 08 Nov 2014, 0930 hrs ( 9:30AM)
-Bangkok (DMK)
-Don Mueang International Airport
-Sat 08 Nov 2014, 1050 hrs ( 10:50AM)
-```
+<a-flight flight="FD3446" departure="CNX" destination="DMK" departure-time="2014-11-08 09:30" arrive-time="2014-11-08 10:50"></a-flight>
 
 ```bing-map
 driving:13.759380,100.498725,Lomprayah Bangkok|10.358415,99.267069,Chumphon (Lomprayah Pier)|10.084742,99.824118,Koh Tao (Mae Haad Pier)
@@ -126,8 +93,6 @@ Traditional Thai restaurant at great value price.
 walking:10.085781,99.825095,Crystal Dive|10.0780687,99.8458561,Moondance Magic View Bungalow
 ```
 
-...
-
 <a-img name="moondance"></a-img>
 _@naootsubo_
 
@@ -147,13 +112,4 @@ _#THE BEACH#_
 
 <a-hotel name="48 ville" date="2014-11-2" nights="1"></a-hotel>
 
-```airasia
-FD552
-ECONOMY PROMO
-Bangkok (DMK)
-Don Mueang International Airport
-Fri 14 Nov 2014, 1455 hrs ( 2:55PM)
-Chongqing (CKG)
-Chongqing Jiangbei International Airport
-Fri 14 Nov 2014, 1905 hrs ( 7:05PM)
-```
+<a-flight flight="FD552" departure="DMK" destination="CKG" departure-time="2014-11-14 14:55" arrive-time="2014-11-14 19:05"></a-flight>

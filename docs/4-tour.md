@@ -1,17 +1,6 @@
 ## BANGKOK
 
-```airasia
-FD557
-
-ECONOMY PROMO
-
-Chongqing (CKG)
-Chongqing Jiangbei International Airport
-Tue 31 Mar 2015, 1110 hrs ( 11:10AM)
-Bangkok (DMK)
-Don Mueang International Airport
-Tue 31 Mar 2015, 1320 hrs ( 1:20PM)
-```
+<a-flight flight="FD557" departure="CKG" destination="DMK" departure-time="2015-03-31 11:10" arrive-time="2015-03-31 13:20"></a-flight>
 
 <a-hotel name="Baiyoke Sky Hotel" date="2015-03-31" nights="1"></a-hotel>
 
@@ -122,8 +111,4 @@ driving:7.844075,98.294148,Woraburi Phuket Resort & Spa|8.644964,98.251020,Khao 
 
 <a-hotel name="Cozy Coco Apartment@Phuket Airport" date="2015-04-19" nights="2"></a-hotel>
 
-```airasia
-周二, 21 四月 2015	出发:	普吉岛国际机场 at 02:55	到达:	香港国际机场 客运大楼 2 at 07:30	HK Express - UO764
-Xxx 21 Apr 2015, 0255 hrs (HKT)
-Xxx 21 Apr 2015, 0730 hrs (HKG)
-```
+<a-flight flight="UO764" departure="HKT" destination="HKG" departure-time="2015-04-21 02:55" arrive-time="2015-04-21 07:30"></a-flight>

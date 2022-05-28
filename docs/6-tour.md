@@ -1,24 +1,10 @@
 ## BANGKOK
 
-```airasia
-FD553
-Low Fare	
-(CKG) Chongqing
-Thu 05 Jan 2017, 1955 hrs
-(DMK) Bangkok - Don Mueang
-Thu 05 Jan 2017, 2205 hrs
-```
+<a-flight flight="FD553" departure="CKG" destination="DMK" departure-time="2017-01-05 19:55" arrive-time="2017-01-05 22:05"></a-flight>
 
 <a-hotel name="Don Muang Hotel" date="2017-01-05" nights="1"></a-hotel>
 
-```airasia
-FD3239
-Low Fare	
-(DMK) Bangkok - Don Mueang
-Fri 06 Jan 2017, 1140 hrs
-(URT) Surat Thani
-Fri 06 Jan 2017, 1250 hrs
-```
+<a-flight flight="FD3239" departure="DMK" destination="URT" departure-time="2017-01-06 11:40" arrive-time="2017-01-06 12:50"></a-flight>
 
 ## SURATTHANI 1
 
@@ -54,22 +40,8 @@ driving:8.644791,98.251189,Khao Lak Scuba Adventures|7.917718,98.395462,Phuket B
 
 ## BANGKOK
 
-```airasia
-FD3240
-Low Fare	
-URTSurat Thani
-Tue 17 Jan 2017, 1320 hrs
-DMKBangkok - Don Mueang
-Tue 17 Jan 2017, 1435 hrs
-```
+<a-flight flight="FD3240" departure="URT" destination="DMK" departure-time="2017-01-17 13:20" arrive-time="2017-01-17 14:35"></a-flight>
 
 <a-hotel name="48 Ville Donmuang Airport" date="2017-01-17" nights="2"></a-hotel>
 
-```airasia
-FD556
-Low Fare	
-(DMK) Bangkok - Don Mueang
-Thu 19 Jan 2017, 0620 hrs
-(CKG) Chongqing
-Thu 19 Jan 2017, 1020 hrs
-```
+<a-flight flight="FD556" departure="DMK" destination="CKG" departure-time="2017-01-19 06:20" arrive-time="2017-01-19 10:20"></a-flight>

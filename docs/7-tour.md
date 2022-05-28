@@ -2,23 +2,9 @@
 KOTA KINABALU from 9 Am to 12 Am, directly.
 Airport bus to bus station, and mini bus to park.
 
-```airasia
-D7809
-Low Fare	
-(CKG) Chongqing
-Sun 02 Apr 2017, 0150 hrs
-(KUL) Kuala Lumpur
-Sun 02 Apr 2017, 0640 hrs
-```
+<a-flight flight="D7809" departure="CKG" destination="KUL" departure-time="2017-04-02 01:50" arrive-time="2017-04-02 06:40"></a-flight>
 
-```airasia
-AK5106
-Low Fare	
-(KUL) Kuala Lumpur
-Sun 02 Apr 2017, 0930 hrs
-(BKI) Kota Kinabalu
-Sun 02 Apr 2017, 1205 hrs
-```
+<a-flight flight="AK5106" departure="KUL" destination="BKI" departure-time="2017-04-02 09:30" arrive-time="2017-04-02 12:05"></a-flight>
 
 ```bing-map
 driving:5.9436606,116.0487216,KKIA Terminal 2|5.9809019,116.0763801,Airport Bus Station|6.0076652,116.565853,Mount Kinabalu National Park
@@ -50,13 +36,7 @@ I slowly move to a drug store,
 
 ## SEA VENTURES
 
-```airasia
-MH2121	
-(BKI) Kota Kinabalu
-Thu 06 Apr 2017, 0740 hrs
-(TWU) Tawau
-Thu 06 Apr 2017, 0830 hrs
-```
+<a-flight flight="MH2121" departure="BKI" destination="TWU" departure-time="2017-04-06 07:40" arrive-time="2017-04-06 08:30"></a-flight>
 
 <a-hotel name="Seaventures Dive Rig" date="2017-04-06" nights="3"></a-hotel>
 
@@ -76,25 +56,11 @@ points:4.250431,118.630882
 
 <a-img name="00025100-0002"></a-img>
 
-```airasia
-AK5741
-Low Fare	
-(TWU) Tawau
-Sun 09 Apr 2017, 0700 hrs
-(KUL) Kuala Lumpur
-Sun 09 Apr 2017, 0945 hrs
-```
+<a-flight flight="AK5741" departure="TWU" destination="KUL" departure-time="2017-04-09 07:00" arrive-time="2017-04-09 09:45"></a-flight>
 
 <a-hotel name="Hotel Zamburger Kota Warisan" date="2017-04-09" nights="1"></a-hotel>
 
-```airasia
-AK838
-Low Fare	
-(KUL) Kuala Lumpur
-Mon 10 Apr 2017, 1200 hrs
-(URT) Surat Thani
-Mon 10 Apr 2017, 1230 hrs
-```
+<a-flight flight="AK838" departure="KUL" destination="URT" departure-time="2017-04-10 12:00" arrive-time="2017-04-10 12:30"></a-flight>
 
 ## KOH SAMUI
 
@@ -169,20 +135,6 @@ walking:9.5179429,100.055656,Samui Hostel|9.5256037,100.0567723,Irish Pub
 
 <a-img name="IMG_20170413_234141" dir="assert"></a-img>
 
-```airasia
-FD3232
-Low Fare	
-(URT) Surat Thani
-Tue 18 Apr 2017, 0410 hrs
-(DMK) Bangkok - Don Mueang
-Tue 18 Apr 2017, 0520 hrs
-```
+<a-flight flight="FD3232" departure="URT" destination="DMK" departure-time="2017-04-18 04:10" arrive-time="2017-04-18 05:20"></a-flight>
 
-```airasia
-FD556
-Low Fare	
-(DMK) Bangkok - Don Mueang T1
-Wed 19 Apr 2017, 0620 hrs
-(CKG) Chongqing - T1
-Wed 19 Apr 2017, 1010 hrs
-```
+<a-flight flight="FD556" departure="DMK" destination="CKG" departure-time="2017-04-19 06:20" arrive-time="2017-04-19 10:10"></a-flight>

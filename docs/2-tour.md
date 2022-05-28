@@ -1,10 +1,6 @@
 ## KULA LUMPUR
 
-```airasia
-AK1009 (KMG) - (KUL)
-Sat 04 Jan 2014, 1740 hrs ( 5:40PM)
-Sat 04 Jan 2014, 2150 hrs ( 9:50PM)
-```
+<a-flight flight="AK1009" departure="KMG" destination="KUL" departure-time="2014-01-04 17:40" arrive-time="2014-01-04 21:50"></a-flight>
 
 ```bing-map
 driving:2.739671959819654,101.72049967310232,LCCT|3.1314496300435706,101.69091652316015,KL Sentral
@@ -26,16 +22,7 @@ driving:3.1314496300435706,101.69091652316015,KL Sentral|3.142778222755097,101.7
 
 ## KOTA KINABALU
 
-```airasia
-AK5104
-
-ECONOMY
-PROMO
-Kuala Lumpur - LCCT (KUL)
-Mon 06 Jan 2014, 1105 hrs ( 11:05AM)
-Kota Kinabalu (BKI)
-Wed 06 Jan 2014, 1340 hrs ( 1:40PM)
-```
+<a-flight flight="AK5104" departure="KUL" destination="BKI" departure-time="2014-01-06 11:05" arrive-time="2014-01-06 13:40"></a-flight>
 
 ```bing-map
 driving:5.943993,116.050642,KKIA Terminal 2|5.9833774,116.0776038,Borneo Backpackers
@@ -55,21 +42,11 @@ Fall in love by riding. They just stay near by my hostel.
 points:5.9834548,116.0775237
 ```
 
-<a-img name="00003135"></a-img><a-img name="00003135"></a-img>03180.jpg
-```
+<a-img name="00003135"></a-img>
+<a-img name="00003135"></a-img>
+<a-img name="00003180"></a-img>
 
-```airasia
-AK6262
-
-ECONOMY
-PROMO
-Kota Kinabalu (BKI)
-Kota Kinabalu International Airport (T2)
-Wed 08 Jan 2014, 1605 hrs ( 4:05PM)
-Tawau (TWU)
-Tawau Airport
-Wed 08 Jan 2014, 1700 hrs ( 5:00PM)
-```
+<a-flight flight="AK6262" departure="BKI" destination="TWU" departure-time="2014-01-08 16:05" arrive-time="2014-01-08 17:00"></a-flight>
 
 ### THE BLACK GUY
 
@@ -120,19 +97,7 @@ zoom:18
 
 ## KOTA KINABALU 2
 
-```airasia
-AK6269
-
-ECONOMY
-
-PROMO
-Tawau (TWU)
-Tawau Airport
-Sun 12 Jan 2014, 1015 hrs ( 10:15AM)
-Kota Kinabalu (BKI)
-Kota Kinabalu International Airport (T2)
-Sun 12 Jan 2014, 1105 hrs ( 11:05AM)
-```
+<a-flight flight="AK6269" departure="TWU" destination="BKI" departure-time="2014-01-12 10:15" arrive-time="2014-01-12 11:05"></a-flight>
 
 ### MAEILYNE
 
@@ -144,19 +109,7 @@ points:5.9830424,116.0764658
 
 ## GERGORE TOWN
 
-```airasia
-AK5323
-
-ECONOMY
-
-PROMO
-Kota Kinabalu (BKI)
-Kota Kinabalu International Airport (T2)
-Mon 13 Jan 2014, 1320 hrs ( 1:20PM)
-Penang (PEN)
-Penang International Airport
-Mon 13 Jan 2014, 1605 hrs ( 4:05PM)
-```
+<a-flight flight="AK5323" departure="BKI" destination="PEN" departure-time="2014-01-13 13:20" arrive-time="2014-01-13 16:05"></a-flight>
 
 <a-hotel name="Ryokan @ Muntri Street" date="2014-01-13" nights="4"></a-hotel>
 
@@ -217,8 +170,4 @@ walking:5.423528,100.269514,Penang Hill Upper Station|5.418529,100.263881,Ice cr
 
 <a-hotel name="Hotel Budget Inn Jalan Alor" date="2014-01-19" nights="2"></a-hotel>
 
-```airasia
-AK1008 (KUL) - (KMG)
-Tue 21 Jan 2014, 1305 hrs ( 1:05PM)
-Tue 21 Jan 2014, 1655 hrs ( 4:55PM)
-```
+<a-flight flight="AK1008" departure="BKI" destination="PEN" departure-time="2014-01-21 13:05" arrive-time="2014-01-21 16:55"></a-flight>
