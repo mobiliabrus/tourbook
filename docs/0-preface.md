@@ -1,6 +1,10 @@
-2011, in my twenties, I won the sales champion of last year and the tour of Thailand. Due to Red Shirts, I went Korea instead.
+2010, in my twenties, I won the sales champion of last year. They provided a journey to Thailand for me. Although I am quite satisfied, I went Korea instead. This was due to Red Shirts. 
 
-> _Why you travel?_
+In 2011 and 2012, I took two experiences in Weizhou island. 
+
+In January 2013, I reachs Golden Submit of Mt. Emei. 
+
+In summer, I was in Gulangyu
 
 record, review and remember
 
