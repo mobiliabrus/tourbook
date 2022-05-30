@@ -1,6 +1,6 @@
 2010, in my twenties, I won the sales champion of last year. They provided a journey to Thailand for me. Although I am quite satisfied, I went Korea instead. This was due to Red Shirts. 
 
-<a-flight flight="OZ6804" departure="PEK" departure-time="2010-04-16 13:45" destination="ICN" arrive-time="2010-04-16"></a-flight>
+<a-flight flight="CA123" departure="PEK" departure-time="2010-04-16 13:45" destination="ICN" arrive-time="2010-04-16"></a-flight>
 
 <a-flight flight="LJ0325" departure="GMP" departure-time="2010-04-17 18:40" destination="CJU" arrive-time="2010-04-17"></a-flight>
 
