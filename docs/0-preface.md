@@ -6,6 +6,10 @@
 
 In 2011 and 2012, I took two experiences in Weizhou island. 
 
+<a-flight flight="EU2718" departure="CKG" departure-time="2011-09-09 12:35" destination="BHY" arrive-time="2011-09-09 14:05"></a-flight>
+
+<a-flight flight="EU2717" departure="BHY" departure-time="2011-09-13 10:15" destination="CKG" arrive-time="2011-09-13 11:45"></a-flight>
+
 In January 2013, I reachs Golden Submit of Mt. Emei. 
 
 In summer, I was in Gulangyu
