@@ -14,8 +14,6 @@ In January 2013, I reachs Golden Submit of Mt. Emei.
 
 In summer, I was in Gulangyu
 
-record, review and remember
-
 <a-img name="yimei" dir="assert"></a-img>
 
 ## ESCAPE
