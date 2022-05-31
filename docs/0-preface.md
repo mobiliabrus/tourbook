@@ -14,19 +14,13 @@ In January 2013, I reachs Golden Submit of Mt. Emei.
 
 In summer, I was in Gulangyu
 
+<a-flight flight="SC4723" departure="CKG" departure-time="2013-06-05 07:00" destination="XMN" arrive-time="2013-06-05 10:30"></a-flight>
+
 <a-img name="yimei" dir="assert"></a-img>
 
 ## ESCAPE
 
 ### XIAMEN
-
-```airasia
-SC4723
-(CKG)
-05 Jun 2013, 0700 hrs
-(XMN)
-05 Jun 2013, 1030 hrs
-```
 
 ```bing-map
 walking:24.4430276,118.0709874,厦门鼓浪朵拉旅馆|24.4476475,118.0659192|24.4494483,118.0676552,1919 Royal Nesting Villa Hotel
@@ -35,18 +29,6 @@ walking:24.4430276,118.0709874,厦门鼓浪朵拉旅馆|24.4476475,118.0659192|2
 <a-hotel name="厦门鼓浪朵拉旅馆" date="2013-06-05" nights="1" points="24.4430276,118.0709874"></a-hotel>
 
 <a-hotel name="1919 Royal Nesting Villa Hotel" date="2013-06-06" nights="1" points="24.4494483,118.0676552"></a-hotel>
-
-#### ONE NIGHT
-
-I was watching Premier League, suddenly I hear moans.
-
-```airasia
-CA4166
-(XMN)
-07 Jun 2013, 2205 hrs
-(CKG)
-08 Jun 2013, 0030 hrs
-```
 
 ## LUST
 
