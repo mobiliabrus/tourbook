@@ -30,6 +30,8 @@ walking:24.4430276,118.0709874,厦门鼓浪朵拉旅馆|24.4476475,118.0659192|2
 
 <a-hotel name="1919 Royal Nesting Villa Hotel" date="2013-06-06" nights="1" points="24.4494483,118.0676552"></a-hotel>
 
+紫藤&鱼欢
+
 <a-flight flight="CA4166" departure="XMN" departure-time="2013-06-07 22:05" destination="CKG" arrive-time="2013-06-08 00:30"></a-flight>
 
 ## LUST
