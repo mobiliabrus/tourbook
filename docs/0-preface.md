@@ -1,8 +1,20 @@
-# Preface
+2010, in my twenties, I won the sales champion of last year. They provided a journey to Thailand for me. Although I am quite satisfied, I went Korea instead. This was due to Red Shirts. 
 
-> _Why you travel?_
+<a-flight flight="CA123" departure="PEK" departure-time="2010-04-16 13:45" destination="ICN" arrive-time="2010-04-16"></a-flight>
 
-record, review and remember
+<a-flight flight="LJ0325" departure="GMP" departure-time="2010-04-17 18:40" destination="CJU" arrive-time="2010-04-17"></a-flight>
+
+In 2011 and 2012, I took two experiences in Weizhou island. 
+
+<a-flight flight="EU2718" departure="CKG" departure-time="2011-09-09 12:35" destination="BHY" arrive-time="2011-09-09 14:05"></a-flight>
+
+<a-flight flight="EU2717" departure="BHY" departure-time="2011-09-13 10:15" destination="CKG" arrive-time="2011-09-13 11:45"></a-flight>
+
+In January 2013, I reachs Golden Submit of Mt. Emei. 
+
+In summer, I was in Gulangyu
+
+<a-flight flight="SC4723" departure="CKG" departure-time="2013-06-05 07:00" destination="XMN" arrive-time="2013-06-05 10:30"></a-flight>
 
 <a-img name="gly-1" dir="assert"></a-img>
 
@@ -12,14 +24,6 @@ record, review and remember
 
 ### XIAMEN
 
-```airasia
-SC4723
-(CKG)
-05 Jun 2013, 0700 hrs
-(XMN)
-05 Jun 2013, 1030 hrs
-```
-
 ```bing-map
 walking:24.4430276,118.0709874,厦门鼓浪朵拉旅馆|24.4476475,118.0659192|24.4494483,118.0676552,1919 Royal Nesting Villa Hotel
 ```
@@ -28,17 +32,9 @@ walking:24.4430276,118.0709874,厦门鼓浪朵拉旅馆|24.4476475,118.0659192|2
 
 <a-hotel name="1919 Royal Nesting Villa Hotel" date="2013-06-06" nights="1" points="24.4494483,118.0676552"></a-hotel>
 
-#### ONE NIGHT
+紫藤&鱼欢
 
-I was watching Premier League, suddenly I hear moans.
-
-```airasia
-CA4166
-(XMN)
-07 Jun 2013, 2205 hrs
-(CKG)
-08 Jun 2013, 0030 hrs
-```
+<a-flight flight="CA4166" departure="XMN" departure-time="2013-06-07 22:05" destination="CKG" arrive-time="2013-06-08 00:30"></a-flight>
 
 ## LUST
 
