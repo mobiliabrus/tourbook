@@ -4,6 +4,8 @@
 
 record, review and remember
 
+<a-img name="gly-1" dir="assert"></a-img>
+
 <a-img name="yimei" dir="assert"></a-img>
 
 ## ESCAPE
