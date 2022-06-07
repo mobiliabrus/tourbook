@@ -89,7 +89,7 @@ driving:9.6742334,100.0639134,Haad Rin Pier|9.5713503,100.0610741,Bangrak Seatra
 points:9.5179429,100.055656,Samui Hostel;9.5323031,100.0648453,.
 ```
 
-<a-img name="bitch" dir="assert"></a-img>
+<a-img name="bitch" dir="privacy"></a-img>
 
 green dreadlocks on party
 
@@ -133,7 +133,7 @@ walking:9.5179429,100.055656,Samui Hostel|9.5256037,100.0567723,Irish Pub
 
 <br />
 
-<a-img name="IMG_20170413_234141" dir="assert"></a-img>
+<a-img name="IMG_20170413_234141" dir="privacy"></a-img>
 
 <a-flight flight="FD3232" departure="URT" destination="DMK" departure-time="2017-04-18 04:10" arrive-time="2017-04-18 05:20"></a-flight>
 

@@ -16,9 +16,9 @@ In summer, I was in Gulangyu
 
 <a-flight flight="SC4723" departure="CKG" departure-time="2013-06-05 07:00" destination="XMN" arrive-time="2013-06-05 10:30"></a-flight>
 
-<a-img name="gly-1" dir="assert"></a-img>
+<a-img name="gly-1" dir="privacy"></a-img>
 
-<a-img name="yimei" dir="assert"></a-img>
+<a-img name="yimei" dir="privacy"></a-img>
 
 ## ESCAPE
 

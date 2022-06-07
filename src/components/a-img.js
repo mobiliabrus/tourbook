@@ -34,9 +34,9 @@ export default {
     };
   },
   mounted() {
-    if (this.dir === "assert") {
+    if (this.dir === "privacy") {
       if (this.secretKey) {
-        fetch("//lee6.com/img/assert/" + this.name + ".webp")
+        fetch("//lee6.com/img/privacy/" + this.name + ".webp")
           .then((res) => res.arrayBuffer())
           .then((arrayBuffer) => {
             const encodedBase64 = arrayBufferToBase64(arrayBuffer);
@@ -46,6 +46,8 @@ export default {
             this.src = url;
           });
       }
+    } else if (this.dir === "animation") {
+      this.src = "//lee6.com/img/animation/" + this.name + ".webp";
     } else {
       this.src = "//lee6.com/img/public/" + this.name + ".webp";
     }
