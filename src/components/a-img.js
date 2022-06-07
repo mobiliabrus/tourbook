@@ -47,7 +47,7 @@ export default {
           });
       }
     } else if (this.dir === "animation") {
-      this.src = "//lee6.com/img/animation/" + this.name + ".webp";
+      this.src = "//lee6.com/img/animation/" + this.name + ".gif";
     } else {
       this.src = "//lee6.com/img/public/" + this.name + ".webp";
     }
