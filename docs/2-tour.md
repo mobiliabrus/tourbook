@@ -7,7 +7,7 @@
 The plane is already there when I arrived boarding gate.
 The flight, its routes is fly to Chongqing and to another, then turn back to Chongqing, taking me to Kunming. 
 
-I maintenance 3 hours for transform, and the flight delayed for 2 hours 25 minutes. 
+There should be enough hours for transformation, but the arriving flight delayed for 2 hours 25 minutes. 
 
 I get aboard on AirAsia in the last few minutes. 
 
@@ -105,6 +105,11 @@ zoom:18
 <a-img name="1611278053015"></a-img>
 <a-img name="mmexport1611412061154"></a-img>
 <a-img name="mmexport1611411982058"></a-img>
+
+### KAPALAI
+
+Waves was pushing her far from boat, toward the houses.
+I swam backwards with our hands connected.
 
 ## KOTA KINABALU 2
 
