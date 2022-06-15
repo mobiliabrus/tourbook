@@ -182,3 +182,5 @@ walking:5.423528,100.269514,Penang Hill Upper Station|5.418529,100.263881,Ice cr
 <a-hotel name="Hotel Budget Inn Jalan Alor" date="2014-01-19" nights="2"></a-hotel>
 
 <a-flight flight="AK1008" departure="BKI" destination="PEN" departure-time="2014-01-21 13:05" arrive-time="2014-01-21 16:55"></a-flight>
+
+<a-flight flight="MU2244" departure="KUL" destination="KMG" departure-time="2014-01-21 21:10" arrive-time="2014-01-21 22:20"></a-flight>
