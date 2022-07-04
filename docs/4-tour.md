@@ -112,3 +112,9 @@ driving:7.844075,98.294148,Woraburi Phuket Resort & Spa|8.644964,98.251020,Khao 
 <a-hotel name="Cozy Coco Apartment@Phuket Airport" date="2015-04-19" nights="2"></a-hotel>
 
 <a-flight flight="UO764" departure="HKT" destination="HKG" departure-time="2015-04-21 02:55" arrive-time="2015-04-21 07:30"></a-flight>
+
+## Hongkong
+
+MTR Tsuen Wan Line: Sham Shui Po - Mei Foo
+MTR West Rail Line: Mei Foo - Tin Shui Wai
+HK NLB Route B2P: Tin Shui Wai - Shenzhen Bay Port
