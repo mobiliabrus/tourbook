@@ -1,5 +1,16 @@
 ## KULA LUMPUR
 
+### I almost missed my flight
+
+<a-flight flight="3U8722" departure="CKG" destination="KMG" departure-time="2014-01-04 12:50" arrive-time="2014-01-04 14:05"></a-flight>
+
+The plane is already there when I arrived boarding gate.
+The flight, its routes is fly to Chongqing and to another, then turn back to Chongqing, taking me to Kunming. 
+
+There should be enough hours for transformation, but the arriving flight delayed for 2 hours 25 minutes. 
+
+I get aboard on AirAsia in the last few minutes. 
+
 <a-flight flight="AK1009" departure="KMG" destination="KUL" departure-time="2014-01-04 17:40" arrive-time="2014-01-04 21:50"></a-flight>
 
 ```bing-map
@@ -95,6 +106,11 @@ zoom:18
 <a-img name="mmexport1611412061154"></a-img>
 <a-img name="mmexport1611411982058"></a-img>
 
+### KAPALAI
+
+Waves was pushing her far from boat, toward the houses.
+I swam backwards with our hands connected.
+
 ## KOTA KINABALU 2
 
 <a-flight flight="AK6269" departure="TWU" destination="BKI" departure-time="2014-01-12 10:15" arrive-time="2014-01-12 11:05"></a-flight>
@@ -171,3 +187,5 @@ walking:5.423528,100.269514,Penang Hill Upper Station|5.418529,100.263881,Ice cr
 <a-hotel name="Hotel Budget Inn Jalan Alor" date="2014-01-19" nights="2"></a-hotel>
 
 <a-flight flight="AK1008" departure="BKI" destination="PEN" departure-time="2014-01-21 13:05" arrive-time="2014-01-21 16:55"></a-flight>
+
+<a-flight flight="MU2244" departure="KUL" destination="KMG" departure-time="2014-01-21 21:10" arrive-time="2014-01-21 22:20"></a-flight>
