@@ -1,8 +1,8 @@
 import dayjs from "dayjs";
 import './index.css';
 
-const template = `<div style="position:relative;margin:16px;">
-<div style="position:absolute;left:50%;top:0;transform:translateX(-50%);z-index:999;"><span>{{ this.flight }}</span></div>
+const template = `<div class="a-flight">
+<div class="a-flight-no"><span>{{ this.flight }}</span></div>
 <div class="am-steps am-steps-horizontal am-steps-label-vertical">
 <div class="am-steps-item am-steps-item-process am-steps-item-custom">
 <div class="am-steps-item-tail"></div>
