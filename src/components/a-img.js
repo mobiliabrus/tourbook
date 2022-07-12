@@ -38,10 +38,8 @@ export default {
         fetch("//lee6.com/img/privacy/" + this.name)
           .then((res) => res.text())
           .then((text) => {
-            console.warn(text);
             const bytes = CryptoJS.AES.decrypt(text, this.secretKey);
             const base64 = bytes.toString(CryptoJS.enc.Utf8);
-            console.warn(base64);
             this.src = base64.toString();
           })
           .catch((err) => {
