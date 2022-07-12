@@ -77,7 +77,7 @@ driving:13.759380,100.498725,Lomprayah Bangkok|10.358415,99.267069,Chumphon (Lom
 
 Crystal Dive Koh Tao with Nick Button, James Tomlinson, Vincent Teschel, Brittany Kalenderian, Tina Major and others
 
-<a-img name="kohtao1" dir="privacy"></a-img>
+<a-img name="kohtao1.jpg" dir="privacy"></a-img>
 
 ### Praness's kitchen
 

@@ -14,7 +14,7 @@ fs.readdirSync(confidentialDirPath).forEach(function (filename) {
   const filePathStat = fs.statSync(filePath);
   if (filePathStat.isFile()) {
     const content = fs.readFileSync(filePath, "utf-8");
-    const encodeed = CryptoJS.AES.encrypt(content, password).toString();
+    const encodeed = CryptoJS.AES.encrypt(content, password, { mode: CryptoJS.mode.ECB, padding: CryptoJS.pad.Pkcs7 }).toString();
     fs.writeFileSync(path.join(targetDirPath, filename), encodeed, "utf-8");
   }
 });

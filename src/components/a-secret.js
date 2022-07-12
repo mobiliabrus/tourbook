@@ -1,5 +1,4 @@
-import AES from "crypto-js/aes";
-import Utf8 from "crypto-js/enc-utf8";
+import CryptoJS from "crypto-js";
 
 const template = `<span v-if="!visible" @click="decrypt" style="display: inline-block;
 background-color: #333;
@@ -36,8 +35,8 @@ export default {
         .then((res) => res.text())
         .then((rawContent) => {
           this.rawContent = rawContent;
-          const bytes = AES.decrypt(rawContent, this.secretKey);
-          const content = bytes.toString(Utf8);
+          const bytes = CryptoJS.AES.decrypt(rawContent, this.secretKey, { mode: CryptoJS.mode.ECB, padding: CryptoJS.pad.Pkcs7 });
+          const content = bytes.toString(CryptoJS.enc.Utf8);
           this.content = content;
         });
     }

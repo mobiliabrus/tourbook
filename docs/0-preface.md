@@ -18,9 +18,9 @@ In summer, I was in Gulangyu
 
 <a-img name="songkran-girl1" dir="animation"></a-img>
 
-<a-img name="gly-1" dir="privacy"></a-img>
+<a-img name="gly-1.jpg" dir="privacy"></a-img>
 
-<a-img name="yimei" dir="privacy"></a-img>
+<a-img name="yimei.jpg" dir="privacy"></a-img>
 
 ## ESCAPE
 

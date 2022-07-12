@@ -25,7 +25,7 @@ One night I will get the perfect photograp
 <a-img name="19120471_661258937398565_3756030448896049152_n"></a-img>
 @vicky_jqliii
 
-<a-img name="2015-04-08-120444" dir="privacy"></a-img>
+<a-img name="2015-04-08-120444.jpg" dir="privacy"></a-img>
 
 ### FULLMOON PARTY
 
@@ -49,13 +49,13 @@ driving:10.084742,99.824118,Koh Tao (Mae Haad Pier)|9.709127,99.984432,Thong Sal
 
 <a-img name="00008507"></a-img>
 
-<a-img name="G0281605" dir="privacy"></a-img>
+<a-img name="G0281605.jpg" dir="privacy"></a-img>
 
-<a-img name="G0281606" dir="privacy"></a-img>
+<a-img name="G0281606.jpg" dir="privacy"></a-img>
 
-<a-img name="2015-04-11-180042" dir="privacy"></a-img>
+<a-img name="2015-04-11-180042.jpg" dir="privacy"></a-img>
 
-<a-img name="2015-04-06-182934" dir="privacy"></a-img>
+<a-img name="2015-04-06-182934.jpg" dir="privacy"></a-img>
 
 I lost her glass on this party.
 
@@ -99,9 +99,9 @@ driving:7.844075,98.294148,Woraburi Phuket Resort & Spa|8.644964,98.251020,Khao 
 
 <a-img name="00009523"></a-img>
 
-<a-img name="P1010987" dir="privacy"></a-img>
+<a-img name="P1010987.jpg" dir="privacy"></a-img>
 
-<a-img name="G0032734" dir="privacy"></a-img>
+<a-img name="G0032734.jpg" dir="privacy"></a-img>
 
 <a-img name="manta-queen-1"></a-img>
 
