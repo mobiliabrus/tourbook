@@ -36,12 +36,16 @@ export default {
     if (this.dir === "privacy") {
       if (this.secretKey) {
         fetch("//lee6.com/img/privacy/" + this.name)
-          .then((res) => res.arrayBuffer())
-          .then((arrayBuffer) => {
-            const encodedBase64 = arrayBufferToBase64(arrayBuffer);
-            const bytes = CryptoJS.AES.decrypt(encodedBase64, this.secretKey, { mode: CryptoJS.mode.ECB, padding: CryptoJS.pad.Pkcs7 });
-            const base64 = bytes.toString(Utf8);
-            this.src = base64;
+          .then((res) => res.text())
+          .then((text) => {
+            console.warn(text);
+            const bytes = CryptoJS.AES.decrypt(text, this.secretKey);
+            const base64 = bytes.toString(CryptoJS.enc.Utf8);
+            console.warn(base64);
+            this.src = base64.toString();
+          })
+          .catch((err) => {
+            console.error(err);
           });
       }
     } else if (this.dir === "animation") {
