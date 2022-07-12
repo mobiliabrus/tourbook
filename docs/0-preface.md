@@ -26,7 +26,7 @@ In summer, I was in Gulangyu
 
 ### XIAMEN
 
-<a-map walking="4.4430276,118.0709874,厦门鼓浪朵拉旅馆|24.4476475,118.0659192|24.4494483,118.0676552,1919 Royal Nesting Villa Hotel"></a-map>
+<a-map walking="24.4430276,118.0709874,厦门鼓浪朵拉旅馆|24.4476475,118.0659192|24.4494483,118.0676552,1919 Royal Nesting Villa Hotel"></a-map>
 
 <a-hotel name="厦门鼓浪朵拉旅馆" date="2013-06-05" nights="1" points="24.4430276,118.0709874"></a-hotel>
 
