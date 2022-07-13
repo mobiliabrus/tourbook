@@ -32,10 +32,16 @@ export default {
       visible: !(this.dir === "assert" && !secretKey),
     };
   },
+  computed: {
+    suffer: function () {
+      const isMobile = window.innerWidth < 768;
+      return isMobile ? ".min" : "";
+    },
+  },
   mounted() {
     if (this.dir === "privacy") {
       if (this.secretKey) {
-        fetch("//lee6.com/img/privacy/" + this.name)
+        fetch("https://lee6.com/img/privacy/" + this.name)
           .then((res) => res.text())
           .then((text) => {
             const bytes = CryptoJS.AES.decrypt(text, this.secretKey);
@@ -47,9 +53,9 @@ export default {
           });
       }
     } else if (this.dir === "animation") {
-      this.src = "//lee6.com/img/animation/" + this.name + ".gif";
+      this.src = "https://lee6.com/img/animation/" + this.name + ".gif";
     } else {
-      this.src = "//lee6.com/img/public/" + this.name + ".webp";
+      this.src = "https://lee6.com/img/public/" + this.name + this.suffer + ".webp";
     }
   },
 };
