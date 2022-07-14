@@ -1,16 +1,9 @@
 import CryptoJS from "crypto-js";
 
-const template = `<img v-if="visible" :src="src" alt="" />`;
-
-function arrayBufferToBase64(buffer) {
-  let binary = "";
-  const bytes = new Uint8Array(buffer);
-  const length = bytes.byteLength;
-  for (let i = 0; i < length; i++) {
-    binary += String.fromCharCode(bytes[i]);
-  }
-  return window.btoa(binary);
-}
+const template = `<div v-if="visible">
+<img :src="src" alt="" />
+<div v-if="!src">loading...</div>
+</div>`;
 
 export default {
   template,
@@ -35,13 +28,14 @@ export default {
   computed: {
     suffer: function () {
       const isMobile = window.innerWidth < 768;
-      return isMobile ? ".min" : "";
+      return isMobile ? "min" : "";
     },
   },
   mounted() {
     if (this.dir === "privacy") {
       if (this.secretKey) {
-        fetch("https://lee6.com/img/privacy/" + this.name)
+        const name = this.suffer ? [this.name.split(".")[0], this.suffer, "webp"].join(".") : this.name;
+        fetch("https://lee6.com/img/privacy/" + name)
           .then((res) => res.text())
           .then((text) => {
             const bytes = CryptoJS.AES.decrypt(text, this.secretKey);
@@ -53,9 +47,9 @@ export default {
           });
       }
     } else if (this.dir === "animation") {
-      this.src = "https://lee6.com/img/animation/" + this.name + ".gif";
+      this.src = "https://lee6.com/img/animation/" + [this.name, "gif"].join(".");
     } else {
-      this.src = "https://lee6.com/img/public/" + this.name + this.suffer + ".webp";
+      this.src = "https://lee6.com/img/public/" + [this.name, this.suffer, "webp"].join(".");
     }
   },
 };
