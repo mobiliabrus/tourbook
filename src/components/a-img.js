@@ -2,7 +2,7 @@ import CryptoJS from "crypto-js";
 
 const template = `<div v-if="visible">
 <img :src="src" alt="" />
-<div v-if="!src">loading...</div>
+<div v-if="!src" style="width:100%;height:45vw;background:#ddd"></div>
 </div>`;
 
 export default {
