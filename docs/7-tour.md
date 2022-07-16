@@ -6,13 +6,13 @@ Airport bus to bus station, and mini bus to park.
 
 <a-flight flight="AK5106" departure="KUL" destination="BKI" departure-time="2017-04-02 09:30" arrive-time="2017-04-02 12:05"></a-flight>
 
-```bing-map
+```<a-map>
 driving:5.9436606,116.0487216,KKIA Terminal 2|5.9809019,116.0763801,Airport Bus Station|6.0076652,116.565853,Mount Kinabalu National Park
 ```
 
 ## MOUNT KINABALU
 
-```bing-map
+```<a-map>
 walking:6.0053195,116.5421188,Kinabalu National Park|6.0291003,116.5462398,Timpohon Gate
 points:6.058994,116.5651771,Laban Rata Resthouse|6.075277,116.558832,Mount Kinabalu
 ```
@@ -44,17 +44,21 @@ Paradise but not Sipadan, located just off shore Mabul Island. Minutes away from
 
 It named "Paradise 2".
 
-<a-img name="s1"></a-img>
-
-```bing-map
+```<a-map>
 points:4.250431,118.630882
 ```
 
 ### Kapalai
 
-<a-img name="00005170-0001"></a-img>
+```<a-img>
+name:seaventure-1.jpg
+dir:privacy
+```
 
-<a-img name="00025100-0002"></a-img>
+```<a-img>
+name:seaventure-2.jpg
+dir:privacy
+```
 
 <a-flight flight="AK5741" departure="TWU" destination="KUL" departure-time="2017-04-09 07:00" arrive-time="2017-04-09 09:45"></a-flight>
 
@@ -70,7 +74,9 @@ points:4.250431,118.630882
 
 drunkards, goats, hookers, drugsters and tourists.
 
-<a-img name="vicky-fish"></a-img>
+```<a-img>
+name:vicky-fish
+```
 
 I found a camera in the sand. I asked around, it belongs to nobody. I danced and hang camera over my head. Later, a guy found me, it's his camera. I asked him to check photos in the camera. "Yes, they are!", These must be his important memories.
 
@@ -78,18 +84,19 @@ Middle night, where the music from the beach party is audible, a couple that we 
 
 After that I took speed boat back to KOH SAMUI.
 
-```bing-map
+```<a-map>
 driving:9.6742334,100.0639134,Haad Rin Pier|9.5713503,100.0610741,Bangrak Seatran Pier
 ```
 ## SONGKRAN 2561
 
-<a-img name="s2"></a-img>
-
-```bing-map
+```<a-map>
 points:9.5179429,100.055656,Samui Hostel;9.5323031,100.0648453,.
 ```
 
-<a-img name="bitch.jpg" dir="privacy"></a-img>
+```<a-img>
+name:bitch.jpg
+dir:privacy
+```
 
 green dreadlocks on party
 
@@ -105,7 +112,7 @@ green dreadlocks in dark
 
 <br />
 
-```bing-map
+```<a-map>
 walking:9.5179429,100.055656,Samui Hostel|9.5256037,100.0567723,Irish Pub
 ```
 
@@ -133,7 +140,10 @@ walking:9.5179429,100.055656,Samui Hostel|9.5256037,100.0567723,Irish Pub
 
 <br />
 
-<a-img name="IMG_20170413_234141.jpg" dir="privacy"></a-img>
+```<a-img>
+name:bitch2.jpg
+dir:privacy
+```
 
 <a-flight flight="FD3232" departure="URT" destination="DMK" departure-time="2017-04-18 04:10" arrive-time="2017-04-18 05:20"></a-flight>
 

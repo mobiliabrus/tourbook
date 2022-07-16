@@ -101,8 +101,6 @@ At the cross, I saw fireflies, two or three. Not light in the dark, but beautifu
 
 <a-map walking="17.022397,99.687335,Restaurant|17.031913,99.702393,Fireflies|17.031670,99.706329,Baan Rim Klong Resort"></a-map>
 
-<a-img name="latu"></a-img>
-
 _@thongmuanthecrispyrolldog_
 
 Night, family play cards in parents‘ house.
@@ -114,8 +112,6 @@ _๑ ๒ ๓ ๔ ๕ ๖ ๗ ๘ ๙ ๑๐_
 
 They teach me how to count in thai.
 That have a lot of funny.
-
-<a-img name="DSC2996"></a-img>
 
 ### MORNING
 
@@ -150,8 +146,6 @@ thai girls learn about "Farangs" when they are small.
 If one finds a Farangs boyfriend or husband, who is willing to pay on her behalf.
 She can build a big house back home. A "Farangs" is a simply a "sugar daddy" to them._
 
-<a-img name="sara"></a-img>
-
 > _ - SARA, 2015_
 
 <a-map points="18.7840584,98.9978128,16"></a-map>
@@ -167,9 +161,20 @@ She caught my eyes, a pure cute young face.
 ```
 , her name.
 
-<a-img name="DSC3276"></a-img>
-<a-img name="DSC3279"></a-img>
-<a-img name="DSC3280"></a-img>
+```<a-img>
+name:mob-1.jpg
+dir:privacy
+```
+
+```<a-img>
+name:mob-2.jpg
+dir:privacy
+```
+
+```<a-img>
+name:mob-3.jpg
+dir:privacy
+```
 
 It became the only way I can forget loneliness.
 I came here everynight to dream? No, I came to be woken up.
