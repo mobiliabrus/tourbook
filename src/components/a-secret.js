@@ -35,7 +35,7 @@ export default {
         .then((res) => res.text())
         .then((rawContent) => {
           this.rawContent = rawContent;
-          const bytes = CryptoJS.AES.decrypt(rawContent, this.secretKey, { mode: CryptoJS.mode.ECB, padding: CryptoJS.pad.Pkcs7 });
+          const bytes = CryptoJS.AES.decrypt(rawContent, this.secretKey);
           const content = bytes.toString(CryptoJS.enc.Utf8);
           this.content = content;
         });
