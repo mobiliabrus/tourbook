@@ -353,7 +353,7 @@
   left: 50%;
   top: 0;
   transform: translateX(-50%);
-  z-index: 9;
+  z-index: 1;
   padding: 0 8px;
   background-color: #fff;
 }
