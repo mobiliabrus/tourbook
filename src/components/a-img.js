@@ -1,4 +1,4 @@
-import CryptoJS from "crypto-js";
+import crypto from "./crypto.js";
 import modal from "./a-modal";
 
 const template = `<a-modal @popover="this.popover">
@@ -58,10 +58,8 @@ export default {
           const name = suffer ? [this.name.split(".")[0], suffer, "webp"].join(".") : this.name;
           fetch("https://lee6.com/img/privacy/" + name)
             .then((res) => res.text())
-            .then((text) => {
-              const bytes = CryptoJS.AES.decrypt(text, this.secretKey);
-              const base64 = bytes.toString(CryptoJS.enc.Utf8);
-              this[t] = base64.toString();
+            .then((content) => {
+              this[t] = crypto(content, this.secretKey, "decrypt");
             })
             .catch((err) => {
               console.error(err);
