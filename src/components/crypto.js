@@ -8,8 +8,6 @@ function crypto(content, key, action = "encrypt") {
   const keyutf = CryptoJS.enc.Utf8.parse(key16);
   const iv = { iv: CryptoJS.enc.Base64.parse(key16) };
 
-  const content = file.contents.toString();
-
   if (action === "decrypt") {
     const raw = CryptoJS.AES.decrypt({ ciphertext: CryptoJS.enc.Base64.parse(content) }, keyutf, iv);
     return CryptoJS.enc.Utf8.stringify(raw);
