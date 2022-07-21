@@ -3,7 +3,7 @@
 const fs = require("fs");
 const path = require("path");
 const CryptoJS = require("crypto-js");
-const password = require("./password");
+const { key, iv } = require("./key");
 
 const confidentialDirPath = path.resolve("src/confidential");
 const targetDirPath = path.resolve("docs/confidential");
@@ -14,8 +14,8 @@ fs.readdirSync(targetDirPath).forEach(function (filename) {
   const filePathStat = fs.statSync(filePath);
   if (filePathStat.isFile()) {
     const content = fs.readFileSync(filePath, "utf-8");
-    const bytes = CryptoJS.AES.decrypt(content, password);
-    const decodeed = bytes.toString(CryptoJS.enc.Utf8);
+    const raw = CryptoJS.AES.decrypt({ ciphertext: CryptoJS.enc.Base64.parse(content) }, key, iv);
+    const decodeed = CryptoJS.enc.Utf8.stringify(raw);
     fs.writeFileSync(path.join(confidentialDirPath, filename), decodeed, "utf-8");
   }
 });
