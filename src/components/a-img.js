@@ -1,13 +1,16 @@
 import crypto from "./crypto.js";
 import modal from "./a-modal";
 
-const template = `<a-modal @popover="this.popover" scale="222" :scale="scale">
+const template = `<a-modal :scale="scale">
+<template v-slot:action>
+  <div @click="loadHD" v-if="!src" style="display:inline-block;color:#fff;height:32px;padding:4px 15px;font-size:14px;border-radius:2px;border:1px solid #fff;box-shadow:0 2px #00000004;">HD</div>
+</template>
 <template v-slot:popover>
-  <img :src="visible && srcMin" alt="" style="position:absolute;top:0;bottom:0;right:0;left:0;margin:auto;" />
+  <img :src="visible && (src || srcMin)" alt="" style="position:absolute;top:0;bottom:0;right:0;left:0;margin:auto;" />
 </template>
 <template v-slot:default>
-  <img :src="visible && srcMin" alt="" @load="onImageLoad" />
-  <div v-if="!visible || !srcMin" style="width:100%;height:45vw;background:#ddd"></div>
+  <img :src="visible && (src || srcMin)" alt="" @load="onImageLoad" />
+  <div v-if="!visible || (!src && !srcMin)" style="width:100%;height:45vw;background:#ddd"></div>
 </template>
 </a-modal>`;
 
@@ -41,10 +44,8 @@ export default {
       const img = e.target;
       this.scale = window.innerHeight / img.offsetHeight;
     },
-    popover() {
-      // if (!this.src) {
-      //   this.load();
-      // }
+    loadHD() {
+      this.load("", 'src')
     },
     load(suffer = "", t = "src") {
       if (this.dir === "privacy") {
