@@ -1,13 +1,13 @@
 import crypto from "./crypto.js";
 import modal from "./a-modal";
 
-const template = `<a-modal @popover="this.popover">
+const template = `<a-modal @popover="this.popover" scale="222" :scale="scale">
 <template v-slot:popover>
-  <img :src="visible && src" alt="" style="position:absolute;top:0;bottom:0;right:0;left:0;margin:auto;" />
+  <img :src="visible && srcMin" alt="" style="position:absolute;top:0;bottom:0;right:0;left:0;margin:auto;" />
 </template>
 <template v-slot:default>
-  <img :src="visible && (src || srcMin)" alt="" />
-  <div v-if="!visible || (!src && !srcMin)" style="width:100%;height:45vw;background:#ddd"></div>
+  <img :src="visible && srcMin" alt="" @load="onImageLoad" />
+  <div v-if="!visible || !srcMin" style="width:100%;height:45vw;background:#ddd"></div>
 </template>
 </a-modal>`;
 
@@ -28,29 +28,23 @@ export default {
     return {
       src: undefined,
       srcMin: undefined,
+      scale: undefined,
       secretKey,
       visible: !(this.dir === "assert" && !secretKey),
     };
   },
-  computed: {
-    suffer: function () {
-      const isMobile = window.innerWidth < 768;
-      return isMobile ? "min" : "";
-    },
-  },
   mounted() {
-    const isMobile = window.innerWidth < 768;
-    if (isMobile) {
-      this.load("min", "srcMin");
-    } else {
-      this.load();
-    }
+    this.load("min", "srcMin");
   },
   methods: {
+    onImageLoad(e) {
+      const img = e.target;
+      this.scale = window.innerHeight / img.offsetHeight;
+    },
     popover() {
-      if (!this.src) {
-        this.load();
-      }
+      // if (!this.src) {
+      //   this.load();
+      // }
     },
     load(suffer = "", t = "src") {
       if (this.dir === "privacy") {
