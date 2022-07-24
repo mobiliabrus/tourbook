@@ -1,3 +1,18 @@
+- Korea, 2010
+- Weizhou Island, 2011
+- Weizhou Island, 2012
+- Emei, Jan 2013
+- Gulangyu, Jun 2013
+- Western Sichuan, Jun 2013
+- Thailand, Oct 2013
+- Malaysia, Jan 2014
+- Thailand, Nov 2014
+- Thailand, Apr 2015
+- Thailand, Oct 2015
+- Thailand, Jan 2017
+- Malaysia & Thailand, Apr 2017
+
+
 2010, in my twenties, I won the sales champion of last year. They provided a journey to Thailand for me. Although I am quite satisfied, I went Korea instead. This was due to Red Shirts. 
 
 ```<a-flight>
