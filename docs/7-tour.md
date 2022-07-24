@@ -76,7 +76,18 @@ Scheduled land transfer from Semporna to Tawau Airport at 1200hrs
 
 <a-flight flight="AK5741" departure="TWU" destination="KUL" departure-time="2017-04-09 18:20" arrive-time="2017-04-09 21:45"></a-flight>
 
-<a-hotel name="Hotel Zamburger Kota Warisan" date="2017-04-09" nights="1"></a-hotel>
+
+```<a-map>
+aerial
+walking:2.8232368,101.703526,Salak Tinggi Station|2.8210419,101.6941487,Hotel Zamburger Kota Warisan
+```
+
+```<a-hotel>
+name:Hotel Zamburger Kota Warisan
+date:2017-04-09
+nights:1
+point:2.8210419,101.6941487
+```
 
 <a-flight flight="AK838" departure="KUL" destination="URT" departure-time="2017-04-10 12:00" arrive-time="2017-04-10 12:30"></a-flight>
 
