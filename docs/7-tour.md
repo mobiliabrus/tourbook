@@ -17,7 +17,13 @@ walking:6.0053195,116.5421188,Kinabalu National Park|6.0291003,116.5462398,Timpo
 points:6.058994,116.5651771,Laban Rata Resthouse|6.075277,116.558832,Mount Kinabalu
 ```
 
-### LOW'S PEAK
+Dormitory (Grace Hostel) at Kinabalu Park
+
+### Laban Rata (3,272.7M)
+
+Non-Heated Dormitory-Laban Rata Resthouse
+
+### LOW'S PEAK (4,095.2M)
 
 _The last leg of a journey just marks the halfway point._
 
