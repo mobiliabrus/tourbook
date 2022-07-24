@@ -9,8 +9,8 @@ const template = `<a-modal :scale="scale">
   <img :src="visible && (src || srcMin)" alt="" style="position:absolute;top:0;bottom:0;right:0;left:0;margin:auto;" />
 </template>
 <template v-slot:default>
-  <img :src="visible && (src || srcMin)" alt="" @load="onImageLoad" />
-  <div v-if="!visible || (!src && !srcMin)" style="width:100%;height:45vw;background:#ddd"></div>
+  <img :src="visible && !hide && (src || srcMin)" alt="" @load="onImageLoad" />
+  <div v-if="(!visible || hide) || (!src && !srcMin)" style="width:100%;height:45vw;background:#ddd"></div>
 </template>
 </a-modal>`;
 
@@ -25,6 +25,10 @@ export default {
       type: String,
       default: "public",
     },
+    hide: {
+      type: Boolean,
+      default: false,
+    }
   },
   data: function () {
     const secretKey = localStorage.getItem("lee6's-secret");

@@ -149,6 +149,7 @@ walking:9.5179429,100.055656,Samui Hostel|9.5256037,100.0567723,Irish Pub
 ```<a-img>
 name:bitch2.jpg
 dir:privacy
+hide:true
 ```
 
 <a-flight flight="FD3232" departure="URT" destination="DMK" departure-time="2017-04-18 04:10" arrive-time="2017-04-18 05:20"></a-flight>
