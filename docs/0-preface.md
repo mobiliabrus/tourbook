@@ -67,6 +67,11 @@ dir:animation
 ```
 
 ```<a-img>
+name:emei
+dir:animation
+```
+
+```<a-img>
 name:gly-1.jpg
 dir:privacy
 ```
