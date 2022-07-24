@@ -44,6 +44,10 @@ I slowly move to a drug store,
 
 <a-flight flight="MH2121" departure="BKI" destination="TWU" departure-time="2017-04-06 07:40" arrive-time="2017-04-06 08:30"></a-flight>
 
+Scheduled land transfer from Tawau Airport to Semporna at 1100hrs
+
+Scheduled boat transfer from Semporna to Rig at 1230hrs
+
 <a-hotel name="Seaventures Dive Rig" date="2017-04-06" nights="3"></a-hotel>
 
 Paradise but not Sipadan, located just off shore Mabul Island. Minutes away from the Rig, the dive site is made up of artificial house reef where old dive boats were sunk, man-made structure such as pyramids and crates are now home to abundance of marine life. The artificial reef is a collaboration work of resorts within and nearby Mabul.
@@ -66,7 +70,11 @@ name:seaventure-2.jpg
 dir:privacy
 ```
 
-<a-flight flight="AK5741" departure="TWU" destination="KUL" departure-time="2017-04-09 07:00" arrive-time="2017-04-09 09:45"></a-flight>
+Scheduled boat transfer from Rig to Semporna at 1100hrs
+
+Scheduled land transfer from Semporna to Tawau Airport at 1200hrs
+
+<a-flight flight="AK5741" departure="TWU" destination="KUL" departure-time="2017-04-09 18:20" arrive-time="2017-04-09 21:45"></a-flight>
 
 <a-hotel name="Hotel Zamburger Kota Warisan" date="2017-04-09" nights="1"></a-hotel>
 
