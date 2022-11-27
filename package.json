@@ -1,0 +1,12 @@
+{
+  "name": "tourbook",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "build": "node src/encode.js",
+    "start": "node src/decode.js"
+  },
+  "dependencies": {
+    "crypto-js": "^4.1.1"
+  }
+}
