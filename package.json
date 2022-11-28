@@ -3,10 +3,12 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "build": "node src/encode.js",
-    "start": "node src/decode.js"
+    "start": "node scripts/watch.js",
+    "build": "node scripts/encodeAll.js",
+    "revert": "node scripts/decodeAll.js"
   },
-  "dependencies": {
-    "crypto-js": "^4.1.1"
+  "devDependencies": {
+    "crypto-js": "^4.1.1",
+    "watch": "^1.0.2"
   }
 }

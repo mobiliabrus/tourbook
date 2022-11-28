@@ -3,4 +3,4 @@ yarn.lock
 .idea
 .vscode
 .password.json
-src/**/*.md
+*.mdx
