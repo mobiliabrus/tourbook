@@ -2,12 +2,14 @@
 
 <a-secret name="wxj"></a-secret>
 
+## South Korea
+
 2010, in my twenties, I won the sales champion of last year. They provided a journey to Thailand for me. Although I am quite satisfied, I went Korea instead. This was due to Red Shirts. 
 
 ```<a-flight>
-flight:CA123
-departure:PEK
-destination:ICN
+flight:CA125/OZ6804
+departure:CKG
+destination:PEK
 departure-time:2010-04-16 13:45
 arrive-time:2010-04-16
 ```
@@ -17,7 +19,7 @@ flight:LJ0325
 departure:GMP
 destination:CJU
 departure-time:2010-04-17 18:40
-arrive-time:2010-04-17
+arrive-time:2010-04-17 19:55
 ```
 
 ```<a-img>
