@@ -200,6 +200,26 @@ Lucky Massage (Loi Kroh Rd)
 
 <a-hotel name="I Dee Hotel" points="7.8818396,98.2929051"></a-hotel>
 
+```<a-img>
+name:patong
+```
+
+```<a-img>
+name:victorria
+```
+
+```<a-img>
+name:victorria-1
+```
+
+```<a-img>
+name:victorria-2
+```
+
+```<a-img>
+name:victorria-3
+```
+
 ### PHUKET TOWN
 
 <a-map driving="7.8877042,98.2913469, Patong Bus Station|7.8832076,98.3852828, Phuket Town Bus Terminal"></a-map>
