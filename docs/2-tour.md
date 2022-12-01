@@ -97,6 +97,14 @@ name:ng3
 dir:animation
 ```
 
+<a-carousel :img="[{name:'fly-1.jpg',dir:'privacy'},{name:'fly-2.jpg',dir:'privacy'},{name:'fly-3.jpg',dir:'privacy'},{name:'fly-4.jpg',dir:'privacy'}]"></a-carousel>
+
+```<a-img>
+name:fly-5
+dir:privacy
+```
+
+
 <a-flight flight="AK6262" departure="BKI" destination="TWU" departure-time="2014-01-08 16:05" arrive-time="2014-01-08 17:00"></a-flight>
 
 ### THE BLACK GUY
@@ -289,6 +297,16 @@ name:kc-danni.jpg
 dir:privacy
 ```
 
+```<a-img>
+name:loveln-2
+dir:privacy
+```
+
+```<a-img>
+name:loveln.jpg
+dir:privacy
+```
+
 ### NIGHT MARKET
 
 ```<a-map>
@@ -326,6 +344,13 @@ Night bar, riding danger
 
 Isis went Langkawi
 
+```<a-img>
+name:pbeach-1.jpg
+dir:privacy
+```
+
+<a-carousel :img="[{name:'pbeach-2.jpg',dir:'privacy'},{name:'pbeach-3.jpg',dir:'privacy'}]"></a-carousel>
+
 2014-01-15
 
 Tanjung Bungah Public Beach
@@ -346,7 +371,17 @@ dir:privacy
 
 Fengcheche left.
 
-<a-carousel :img="[{name:'danni-8.jpg',dir:'privacy'},{name:'danni-10.jpg',dir:'privacy'},{name:'danni-12.jpg',dir:'privacy'},{name:'danni-13.jpg',dir:'privacy'},{name:'danni-14.jpg',dir:'privacy'},{name:'danni-15.jpg',dir:'privacy'}]"></a-carousel>
+<a-carousel :img="[{name:'danni-8.jpg',dir:'privacy'},{name:'danni-9.jpg',dir:'privacy'},{name:'danni-10.jpg',dir:'privacy'},{name:'danni-11.jpg',dir:'privacy'},{name:'danni-12.jpg',dir:'privacy'},{name:'danni-13.jpg',dir:'privacy'},{name:'danni-14.jpg',dir:'privacy'},{name:'danni-15.jpg',dir:'privacy'},{name:'danni-17.jpg',dir:'privacy'}]"></a-carousel>
+
+```<a-img>
+name:danni-16.jpg
+dir:privacy
+```
+
+```<a-img>
+name:dan-17.jpg
+dir:privacy
+```
 
 ### PENANG HILL
 
