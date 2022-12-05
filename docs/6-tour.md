@@ -36,6 +36,8 @@ driving:8.644791,98.251189,Khao Lak Scuba Adventures|7.917718,98.395462,Phuket B
 
 <a-hotel name="Sarikantang Resort & Spa, Koh Phangan - SHA Plus" date="2017-1-12" nights="5"></a-hotel>
 
+Koh Phangan. I'm still only in the bangklow. Every time I woke up, I think I'm going to screw up my courage. When I was home after my first tour, it was worse. I'd wake up, and there'd be nothing. I believed I will lose my weight util I was getting back into the tour. When I was here, I wantted be there. When I was there, all I could think of was getting next I was here a week now. Waiting a miracle... get softer.
+
 ## BANGKOK
 
 <a-flight flight="FD3240" departure="URT" destination="DMK" departure-time="2017-01-17 13:20" arrive-time="2017-01-17 14:35"></a-flight>
