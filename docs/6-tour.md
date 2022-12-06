@@ -22,21 +22,48 @@ Manta Queen 1 - Khao Lak - Phuket bus terminal 2, by Scuba Adventures' mini bus.
 Bus terminal - Krabi, by bus to Hat Yai, walked to Krabi town at 2 a.m.
 Awaked at 5 a.m, Lomprayah's bus terminal - Donsak Pier - Koh Phangan Thong Sala Pier - Rin Nai Beach.
 
-### THE GREAT
+### THE GREAT ROUTE
 
-541km, 18 hrs, of course short sleep, a carefully caculately roadmap, a great escape, what do you want?
+No flight after dive. It's the hardest route plan I've made. 541km, 18 hours, Khao Lak-Phuket-Krabi-Donsak-Koh Phangan, of course short sleep. What do you want?
+
+The most difficult part is Khao Lak-Krabi. The information about the bus between this two destinations is very little. And It seems like I am certainly missing the last bus. After several twists, I found a google image of Pubket Bus Terminal 2, it shows there's a late bus from Phuket to Hat Yai which will stop at Krabi. And the minibus of diver shop also have enough time to transport me to the terminal.
 
 ```<a-map>
 driving:8.644791,98.251189,Khao Lak Scuba Adventures|7.917718,98.395462,Phuket Bus Terminal 2|8.102171,98.907734,Krabi|8.077127,98.904208,Lomprayah|9.318253,99.736982,Donsak|9.709127,99.984432,Thong Sala|9.671759,100.067371,Rin Nai
+points:8.6589171,97.6365055,Batfish Rock
 ```
+
+The bus was going to Hat Yai. I had to get off at Route 4. Then I must walk about 4 km to the guesthouse which is across the road of Lomprayah. It was already 2 a.m when I arrived, and I need walk up at 5 a.m.
+
+```<a-map>
+walking:8.102171,98.907734,Krabi|8.0777828,98.9021073,B.B.mansion
+points:8.077127,98.904208,Lomprayah
+```
+
+Next morning, by riding 6 hours bus and ferry in the morning, I was heading Koh Phangan.
 
 <a-hotel name="B.B.mansion" date="2017-01-11" nights="1"></a-hotel>
 
-## KOH PHANGAN 2
+## KOH PHANGAN
 
-<a-hotel name="Sarikantang Resort & Spa, Koh Phangan - SHA Plus" date="2017-1-12" nights="5"></a-hotel>
+I saw flood on this island. The minibus driver had to took detour from the jungle. Arrived at resort after lunchtime, I told the front deck that I had just finished my seagoing tour. The stormy weather made the ship swing and moving up and down. After voyage, I got a week-long Land Sickness which made me feel shifts under my feet.
 
-Koh Phangan. I'm still only in the bangklow. Every time I woke up, I think I'm going to screw up my courage. When I was home after my first tour, it was worse. I'd wake up, and there'd be nothing. I believed I will lose my weight util I was getting back into the tour. When I was here, I wantted be there. When I was there, all I could think of was getting next I was here a week now. Waiting a miracle... get softer.
+<a-hotel name="Sarikantang Resort & Spa, Koh Phangan" date="2017-1-12" nights="5"></a-hotel>
+
+It is full moon party night.
+
+At midnight, I was so sleepy. I didn't get enough sleep last night, and there's nothing motivates me.
+
+Koh Phangan. Shit. I'm still alone. Every time I woke up, I think I'm going to have passion. When I was home after my first tour, it was worse. I regretted my decisions util I was getting back into the tour.
+
+I'm here a weeknow. Wasting time on binge-watching... Getting softer. Every minute I stay in this room, I get weaker. And every minute I am lonely.
+
+When I was home, I wannted be here. When I was here, all I could think was getting depressed
+
+```<a-map>
+walking:9.6712821,100.0663727,Sarikantang|9.6756004,100.068082,Haad Rin Beach
+points:9.7108346,99.9854419,Market Ko Phangan
+```
 
 ## BANGKOK
 
