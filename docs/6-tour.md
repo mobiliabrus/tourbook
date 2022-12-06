@@ -24,7 +24,7 @@ Awaked at 5 a.m, Lomprayah's bus terminal - Donsak Pier - Koh Phangan Thong Sala
 
 ### THE GREAT ROUTE
 
-No flight after dive. It's the hardest route plan I've made. 541km, 18 hours, Khao Lak-Phuket-Krabi-Donsak-Koh Phangan, of course short sleep. What do you want?
+No flight after dive. It's the hardest route plan I've made. 541km, 18 hours, Khao Lak-Phuket-Krabi-Donsak-Koh Phangan, of course no sleep. What do you want?
 
 The most difficult part is Khao Lak-Krabi. The information about the bus between this two destinations is very little. And It seems like I am certainly missing the last bus. After several twists, I found a google image of Pubket Bus Terminal 2, it shows there's a late bus from Phuket to Hat Yai which will stop at Krabi. And the minibus of diver shop also have enough time to transport me to the terminal.
 
@@ -33,7 +33,7 @@ driving:8.644791,98.251189,Khao Lak Scuba Adventures|7.917718,98.395462,Phuket B
 points:8.6589171,97.6365055,Batfish Rock
 ```
 
-The bus was going to Hat Yai. I had to get off at Route 4. Then I must walk about 4 km to the guesthouse which is across the road of Lomprayah. It was already 2 a.m when I arrived, and I need walk up at 5 a.m.
+The bus stop at Route 4. I must walk about 4 km to the guesthouse which is across the road of Lomprayah. It was already 2 am when I arrived, and I need wake up at five.
 
 ```<a-map>
 walking:8.102171,98.907734,Krabi|8.0777828,98.9021073,B.B.mansion
