@@ -1,3 +1,5 @@
+Why you visit a place twice, people asked. First, it provides me chance to compensate. Then, I have memories there. 
+
 ## BANGKOK
 
 <a-flight flight="FD553" departure="CKG" destination="DMK" departure-time="2017-01-05 19:55" arrive-time="2017-01-05 22:05"></a-flight>
