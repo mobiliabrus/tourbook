@@ -1,4 +1,4 @@
-Why you visit a place twice, people asked. First, it provides me chance to compensate. Then, I have memories there. 
+Why you visit a place twice, people asked. First,  I have memories there. And then, it provides me chance to compensate
 
 ## BANGKOK
 
