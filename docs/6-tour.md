@@ -31,6 +31,14 @@ points:9.14651073017441,99.333013684943,Papangkorn House|8.644991293002645,98.25
 
 ## KOH SIMILAN
 
+```<a-img>
+name:similan3-1
+```
+
+```<a-img>
+name:similan3-2
+```
+
 ### THE GREAT ROUTE
 
 No flight after dive. It's the hardest route plan I've made.
