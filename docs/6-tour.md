@@ -4,7 +4,15 @@ Why you visit a place twice, people asked. First,  I have memories there. And th
 
 <a-flight flight="FD553" departure="CKG" destination="DMK" departure-time="2017-01-05 19:55" arrive-time="2017-01-05 22:05"></a-flight>
 
+```<a-map>
+line:29.719511433579026,106.64166669754162|13.913260159035573,100.60405920186665
+```
+
 <a-hotel name="Don Muang Hotel" date="2017-01-05" nights="1"></a-hotel>
+
+```<a-map>
+line:13.913260159035573,100.60405920186665|9.134339288768933,99.14265134181603
+```
 
 <a-flight flight="FD3239" departure="DMK" destination="URT" departure-time="2017-01-06 11:40" arrive-time="2017-01-06 12:50"></a-flight>
 
@@ -17,7 +25,8 @@ People visit Suratthani because it's the gateway to the Gulf of Thailand. From t
 Surat Thani Transport Station - Khao Lak
 
 ```<a-map>
-driving:9.1438932,99.3283169,Surat Thani Transport Station|8.9006588,98.5198817,Khao Sok Bus Stop|8.6668406,98.2527142,Khao Lak
+driving:9.1438932,99.3283169,Surat Thani Transport Station|8.9006588,98.5198817,Khao Sok Bus Stop|8.64327383935287,98.25130909519658,Khao Lak
+points:9.14651073017441,99.333013684943,Papangkorn House|8.644991293002645,98.25099184322282,Khao Lak Scuba Adventures
 ```
 
 ## KOH SIMILAN
@@ -40,7 +49,7 @@ points:8.6589171,97.6365055,Batfish Rock
 The bus stop at Route 4. I must walk about 4 km to the guesthouse which is across the road of Lomprayah. It was already 2 am when I arrived, and I need wake up at five.
 
 ```<a-map>
-walking:8.102171,98.907734,Krabi|8.0777828,98.9021073,B.B.mansion
+walking:8.102171,98.907734,Krabi|8.081144765640692,98.90655441718606|8.077798727763875,98.90439255672624,B.B.mansion
 points:8.077127,98.904208,Lomprayah
 ```
 
