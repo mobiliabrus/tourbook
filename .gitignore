@@ -4,3 +4,4 @@ yarn.lock
 .vscode
 .password.json
 *.mdx
+.DS_Store

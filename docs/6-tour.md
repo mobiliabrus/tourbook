@@ -1,4 +1,4 @@
-Why you visit a place twice, people asked. First,  I have memories there. And then, it provides me chance to compensate
+Why you visit a place twice, people asked. First,  I have memories there. And then, it provides me chance to compensate.
 
 ## BANGKOK
 
@@ -8,7 +8,9 @@ Why you visit a place twice, people asked. First,  I have memories there. And th
 
 <a-flight flight="FD3239" departure="DMK" destination="URT" departure-time="2017-01-06 11:40" arrive-time="2017-01-06 12:50"></a-flight>
 
-## SURATTHANI 1
+## SURATTHANI
+
+People visit Suratthani because it's the gateway to the Gulf of Thailand. From the international airport, you'll be able to visit Koh Phangan, Koh Samui and the Ang Thong National Marine.
 
 <a-hotel name="Papangkorn House" date="2017-01-06" nights="1"></a-hotel>
 
