@@ -23,7 +23,7 @@ driving:9.1438932,99.3283169,Surat Thani Transport Station|8.9006588,98.5198817,
 ### THE GREAT ROUTE
 
 No flight after dive. It's the hardest route plan I've made.
-541km, 18 hours.
+541km in 18 hours, 
 Manta Queen 1 - Khao Lak - Phuket Bus Terminal 2 - Krabi - Lomprayah's Bus Terminal - Donsak Pier - Koh Phangan Thong Sala Pier - Rin Nai Beach,
 of course no sleep.
 What do you want?
