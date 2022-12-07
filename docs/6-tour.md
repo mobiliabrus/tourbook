@@ -67,6 +67,8 @@ walking:9.6712821,100.0663727,Sarikantang|9.6756004,100.068082,Haad Rin Beach
 points:9.7108346,99.9854419,Market Ko Phangan
 ```
 
+What am I coming all the way to do? 
+
 ## BANGKOK
 
 <a-flight flight="FD3240" departure="URT" destination="DMK" departure-time="2017-01-17 13:20" arrive-time="2017-01-17 14:35"></a-flight>
