@@ -18,15 +18,15 @@ Surat Thani Transport Station - Khao Lak
 driving:9.1438932,99.3283169,Surat Thani Transport Station|8.9006588,98.5198817,Khao Sok Bus Stop|8.6668406,98.2527142,Khao Lak
 ```
 
-## KOH SIMILAN 2
-
-Manta Queen 1 - Khao Lak - Phuket bus terminal 2, by Scuba Adventures' mini bus.
-Bus terminal - Krabi, by bus to Hat Yai, walked to Krabi town at 2 a.m.
-Awaked at 5 a.m, Lomprayah's bus terminal - Donsak Pier - Koh Phangan Thong Sala Pier - Rin Nai Beach.
+## KOH SIMILAN
 
 ### THE GREAT ROUTE
 
-No flight after dive. It's the hardest route plan I've made. 541km, 18 hours, Khao Lak-Phuket-Krabi-Donsak-Koh Phangan, of course no sleep. What do you want?
+No flight after dive. It's the hardest route plan I've made.
+541km, 18 hours.
+Manta Queen 1 - Khao Lak - Phuket Bus Terminal 2 - Krabi - Lomprayah's Bus Terminal - Donsak Pier - Koh Phangan Thong Sala Pier - Rin Nai Beach,
+of course no sleep.
+What do you want?
 
 The most difficult part is Khao Lak-Krabi. The information about the bus between this two destinations is very little. And It seems like I am certainly missing the last bus. After several twists, I found a google image of Pubket Bus Terminal 2, it shows there's a late bus from Phuket to Hat Yai which will stop at Krabi. And the minibus of diver shop also have enough time to transport me to the terminal.
 
