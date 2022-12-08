@@ -1,18 +1,14 @@
+```<a-map>
+line:29.719511433579026,106.64166669754162|13.913260159035573,100.60405920186665|9.134339288768933,99.14265134181603|8.6589171,97.6365055|9.671759,100.067371
+```
+
 Why you visit a place twice, people asked. First,  I have memories there. And then, it provides me chance to compensate.
 
 ## BANGKOK
 
 <a-flight flight="FD553" departure="CKG" destination="DMK" departure-time="2017-01-05 19:55" arrive-time="2017-01-05 22:05"></a-flight>
 
-```<a-map>
-line:29.719511433579026,106.64166669754162|13.913260159035573,100.60405920186665
-```
-
 <a-hotel name="Don Muang Hotel" date="2017-01-05" nights="1"></a-hotel>
-
-```<a-map>
-line:13.913260159035573,100.60405920186665|9.134339288768933,99.14265134181603
-```
 
 <a-flight flight="FD3239" departure="DMK" destination="URT" departure-time="2017-01-06 11:40" arrive-time="2017-01-06 12:50"></a-flight>
 
