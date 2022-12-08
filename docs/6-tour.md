@@ -1,7 +1,3 @@
-```<a-map>
-line:13.913260159035573,100.60405920186665|9.134339288768933,99.14265134181603|8.6589171,97.6365055|9.671759,100.067371
-```
-
 Why you visit a place twice, people asked. First,  I have memories there. And then, it provides me chance to compensate.
 
 ## BANGKOK
@@ -26,6 +22,8 @@ points:9.14651073017441,99.333013684943,Papangkorn House|8.644991293002645,98.25
 ```
 
 ## KOH SIMILAN
+
+> January 2017, Southern Thailand experienced a devastating flood disaster. They are the biggest floods in over 30 years in the southern part of the country during the regional annual monsoon season. Thunderstorms and strong winds cause extreme waves on the sea.
 
 ```<a-img>
 name:similan3-1
