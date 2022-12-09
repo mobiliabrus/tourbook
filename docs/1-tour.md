@@ -224,6 +224,9 @@ name:victorria-3
 
 <a-map driving="7.8877042,98.2913469, Patong Bus Station|7.8832076,98.3852828, Phuket Town Bus Terminal"></a-map>
 
+```<a-img>
+name:phukettown-1
+```
 
 Mueang Phuket Exercise Park
 
@@ -234,6 +237,18 @@ Mueang Phuket Exercise Park
 ### SIRI
 
 <a-hotel name="Chill House Nai Yang" date="2013-10-27" nights="2" points="8.0920261,98.3019226"></a-hotel>
+
+```<a-img>
+name:siri-1
+```
+
+```<a-img>
+name:siri-2
+```
+
+```<a-img>
+name:siri-3
+```
 
 It's the last day I stay in Phuket, it heavy rained in the morning,
 and the wind below to East which mean planes will not landing at beach side.
