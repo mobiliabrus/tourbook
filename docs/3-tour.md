@@ -115,6 +115,10 @@ dir:privacy
 ```
 
 ```<a-img>
+name:treehouse-21
+```
+
+```<a-img>
 name:treehouse-18
 ```
 
@@ -151,6 +155,10 @@ points:18.7979829,98.9660400
 Baan Thai Apartment
 
 ### LOI KRATHONG
+
+```<a-img>
+name:chiangmai-1
+```
 
 ```<a-img>
 name:qin-3
