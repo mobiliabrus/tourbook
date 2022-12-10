@@ -1,5 +1,3 @@
-# TOUR THREE TREE HOUSES
-
 > _You are far from home._
 > _You meet a girl._
 > _It's exciting, why not?_

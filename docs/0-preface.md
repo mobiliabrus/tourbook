@@ -6,21 +6,6 @@
 
 2010, in my twenties, I won the sales champion of last year. They provided a journey to Thailand for me. Although I am quite satisfied, I went Korea instead. This was due to Red Shirts. 
 
-```<a-flight>
-flight:CA125/OZ6804
-departure:CKG
-destination:PEK
-departure-time:2010-04-16 13:45
-arrive-time:2010-04-16
-```
-
-```<a-flight>
-flight:LJ0325
-departure:GMP
-destination:CJU
-departure-time:2010-04-17 18:40
-arrive-time:2010-04-17 19:55
-```
 
 ```<a-img>
 name:dww-1
@@ -51,56 +36,6 @@ arrive-time:2011-09-13 11:45
 
 In January 2013, I reachs Golden Submit of Mt. Emei. 
 
-In summer, I was in Gulangyu
-
-```<a-flight>
-flight:SC4723
-departure:CKG
-destination:XMN
-departure-time:2013-06-05 07:00
-arrive-time:2013-06-05 10:30
-```
-
-```<a-img>
-name:emei
-dir:animation
-```
-
-```<a-img>
-name:gly-1.jpg
-dir:privacy
-```
-
-```<a-img>
-name:yimei.jpg
-dir:privacy
-```
-
-## ESCAPE
-
-### XIAMEN
-
-```<a-map>
-walking:24.4430276,118.0709874,厦门鼓浪朵拉旅馆|24.4476475,118.0659192|24.4494483,118.0676552,1919 Royal Nesting Villa Hotel
-```
-
-```<a-hotel>
-name:厦门鼓浪朵拉旅馆
-date:2013-06-05
-nights:1
-points:24.4430276,118.0709874
-```
-
-```<a-hotel>
-name:1919 Royal Nesting Villa Hotel
-date:2013-06-06
-nights:1
-points:24.4494483,118.0676552
-```
-
-紫藤&鱼欢
-
-<a-flight flight="CA4166" departure="XMN" departure-time="2013-06-07 22:05" destination="CKG" arrive-time="2013-06-08 00:30"></a-flight>
 
 ## LUST
 

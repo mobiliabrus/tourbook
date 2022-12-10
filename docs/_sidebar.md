@@ -1,6 +1,8 @@
 - TourBook
 
   - [Preface](0-preface.md)
+  - [Episode I. Korea](e1-korea.md)
+  - [Episode II. E'mei](e1-emei.md)
   - [I. Long, Solitary Tour](1-tour.md)
   - [II. Backpacking](2-tour.md)
   - [III. Three Tree Houses](3-tour.md)
