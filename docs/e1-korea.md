@@ -18,6 +18,11 @@ arrive-time:2010-04-17 19:55
 
 I met Wenwen in the tour group. We went the street in the first night of Seoul. And we were together when we had been leaved in a place for that we did not pay for the 38th parallel. The friendship was established after this trip.
 
+```<a-img>
+name:38-parallel.jpg
+dir:privacy
+```
+
 ```<a-map>
 points:37.51402948996639,127.03588586216844,Imperial Palace Seoul|37.56382942746806,126.98449333522179,Myeong-dong|37.55370946055917,126.98115396433205,Namsan|37.5690015,127.0855585,Siloam|37.778494623724804,126.68362613171828,Pilseung-ro
 ```
