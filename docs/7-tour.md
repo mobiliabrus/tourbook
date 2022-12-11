@@ -80,8 +80,9 @@ Paradise but not Sipadan, located just off shore Mabul Island. Minutes away from
 
 It named "Paradise 2".
 
-```<a-map
-points:4.250431,118.630882,Paradise 2|4.253798859528792,118.63344342417173,Seaventures Dive Rig|4.233858799351027,118.68229942787646,Kapalai|4.124777700091974, 118.6276134545917,Sipadan
+```<a-map>
+points:4.253798859528792,118.63344342417173,Seaventures Dive Rig|4.233858799351027,118.68229942787646,Kapalai|4.124777700091974,118.6276134545917,Sipadan
+divesites:4.250431,118.630882,Paradise 2
 ```
 
 ### BAND
