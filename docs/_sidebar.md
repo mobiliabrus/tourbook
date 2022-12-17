@@ -1,8 +1,7 @@
 - TourBook
 
-  - [Preface](0-preface.md)
   - [Episode I. Korea](episode-1.md)
-  - [Episode II. E'mei](episode-2.md)
+  - [Episode II. Kulangsu](episode-2.md)
   - [I. Long, Solitary Tour](1-tour.md)
   - [II. Backpacking](2-tour.md)
   - [III. Three Tree Houses](3-tour.md)

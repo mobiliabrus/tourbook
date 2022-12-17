@@ -135,7 +135,7 @@ I'm riding in the road and say 'hello' to everyone I saw..
 
 Wat Buppharam
 
-### SARA
+### MOB
 
 <a-hotel name="Tapae Place Hotel" date="2013-10-17" points="18.7878819,98.9973679"></a-hotel>
 
@@ -161,20 +161,7 @@ She caught my eyes, a pure cute young face.
 ```
 , her name.
 
-```<a-img>
-name:mob-1.jpg
-dir:privacy
-```
-
-```<a-img>
-name:mob-2.jpg
-dir:privacy
-```
-
-```<a-img>
-name:mob-3.jpg
-dir:privacy
-```
+<a-gallery :img="[{name:'mob-1.jpg',dir:'privacy'},{name:'mob-2.jpg',dir:'privacy'},{name:'mob-3.jpg',dir:'privacy'}]"></a-gallery>
 
 It became the only way I can forget loneliness.
 I came here everynight to dream? No, I came to be woken up.

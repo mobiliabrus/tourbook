@@ -1,6 +1,8 @@
 <a-secret name="timeline"></a-secret>
 
-<a-secret name="wxj"></a-secret>
+<a-secret name="wxj" blackout></a-secret>
+
+<a-secret name="wxj" autoload></a-secret>
 
 ## South Korea
 
@@ -47,5 +49,18 @@ There is two windows. One is noisy open outer window and the other is soundproof
 
 ```<a-img>
 name:bed-dy.jpg
+dir:privacy
+```
+
+### E'mei
+
+```<a-img>
+name:emei
+dir:animation
+```
+
+
+```<a-img>
+name:yimei.jpg
 dir:privacy
 ```

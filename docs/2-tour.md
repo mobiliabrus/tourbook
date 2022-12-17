@@ -97,7 +97,12 @@ name:ng3
 dir:animation
 ```
 
-<a-carousel :img="[{name:'fly-1.jpg',dir:'privacy'},{name:'fly-2.jpg',dir:'privacy'},{name:'fly-3.jpg',dir:'privacy'},{name:'fly-4.jpg',dir:'privacy'}]"></a-carousel>
+```<a-img>
+name:fly-1.jpg
+dir:privacy
+```
+
+<a-gallery :img="[{name:'fly-2.jpg',dir:'privacy'},{name:'fly-3.jpg',dir:'privacy'},{name:'fly-4.jpg',dir:'privacy'}]"></a-gallery>
 
 ```<a-img>
 name:fly-5
