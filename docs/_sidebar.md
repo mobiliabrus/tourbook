@@ -1,6 +1,6 @@
 - TourBook
 
-  - [Episode I. South Korea](episode-1.md)
+  - [Episode I. Korea](episode-1.md)
   - [Episode II. Kulangsu](episode-2.md)
   - [I. Long, Solitary Tour](1-tour.md)
   - [II. Backpacking](2-tour.md)

@@ -1,6 +1,6 @@
 <a-secret name="jyy" autoload></a-secret>
 
-### South Korea
+### Korea
 
 I had becamoe the sales winner of year, and the award is holidays in Thailand. However, the tour canceled, for the Red Shirts movement in this courtry. Instead, I chose the South Korea.
 
@@ -44,6 +44,10 @@ I've been Weizhou Island twice. One is Jul 2011, and another is Sep 2012.
 <a-secret name="shapingpark" autoload></a-secret>
 
 <a-secret name="apple" autoload></a-secret>
+
+<a-secret name="zx" autoload></a-secret>
+
+<a-secret name="lu" autoload></a-secret>
 
 <a-secret name="zounian" autoload></a-secret>
 

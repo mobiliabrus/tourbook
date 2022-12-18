@@ -56,8 +56,3 @@ name:emei
 dir:animation
 ```
 
-
-```<a-img>
-name:yimei.jpg
-dir:privacy
-```
