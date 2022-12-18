@@ -47,10 +47,7 @@ There is two windows. One is noisy open outer window and the other is soundproof
 
 
 
-```<a-img>
-name:bed-dy.jpg
-dir:privacy
-```
+
 
 ### E'mei
 

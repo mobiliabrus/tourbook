@@ -37,6 +37,8 @@ points:33.4617787104114,126.93850883584804,Seongsan Ilchulbong|33.51631305390506
 
 ### Weizhou Island
 
+I've been Weizhou Island twice. One is Jul 2011, and another is Sep 2012.
+
 <a-secret name="zwd" autoload></a-secret>
 
 <a-secret name="shapingpark" autoload></a-secret>
