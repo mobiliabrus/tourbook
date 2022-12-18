@@ -1,3 +1,5 @@
+<a-secret name="jyy" autoload></a-secret>
+
 ### South Korea
 
 I had becamoe the sales winner of year, and the award is holidays in Thailand. However, the tour canceled, for the Red Shirts movement in this courtry. Instead, I chose the South Korea.
@@ -36,6 +38,16 @@ points:33.4617787104114,126.93850883584804,Seongsan Ilchulbong|33.51631305390506
 ### Weizhou Island
 
 <a-secret name="zwd" autoload></a-secret>
+
+<a-secret name="shapingpark" autoload></a-secret>
+
+<a-secret name="apple" autoload></a-secret>
+
+<a-secret name="zounian" autoload></a-secret>
+
+<a-secret name="dy" autoload></a-secret>
+
+<a-secret name="wxj" autoload></a-secret>
 
 ### Emei
 

@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "start": "node scripts/watch.js &",
+    "start": "node scripts/watch.js",
     "build": "node scripts/encodeAll.js",
     "revert": "node scripts/decodeAll.js"
   },
