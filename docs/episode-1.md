@@ -39,6 +39,23 @@ points:33.4617787104114,126.93850883584804,Seongsan Ilchulbong|33.51631305390506
 
 I've been Weizhou Island twice. One is Jul 2011, and another is Sep 2012.
 
+
+```<a-flight>
+flight:EU2718
+departure:CKG
+destination:BHY
+departure-time:2011-09-09 12:35
+arrive-time:2011-09-09 14:05
+```
+
+```<a-flight>
+flight:EU2717
+departure:BHY
+destination:CKG
+departure-time:2011-09-13 10:15
+arrive-time:2011-09-13 11:45
+```
+
 <a-secret name="zwd" autoload></a-secret>
 
 <a-secret name="shapingpark" autoload></a-secret>
@@ -59,4 +76,9 @@ I've been Weizhou Island twice. One is Jul 2011, and another is Sep 2012.
 
 ```<a-map>
 walking:29.566614465370527,103.45149564712987,Emeishan|29.53855338361171, 103.33368381598733,Guidance Half|29.532209597285295,103.33578068753751,Prince Terrace|29.520319175975953,103.33850465097454,Golden Summit
+```
+
+```<a-img>
+name:emei
+dir:animation
 ```
