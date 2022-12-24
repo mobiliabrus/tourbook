@@ -184,7 +184,7 @@ dir:privacy
 
 ### KAPALAI
 
-<a-carousel :img="[{name:'kapalai-1'},{name:'kapalai-2'},{name:'kapalai-3'}]"></a-carousel>
+<a-gallery :img="[{name:'kapalai-1'},{name:'kapalai-2'},{name:'kapalai-3'}]"></a-gallery>
 
 Waves was pushing her far from boat, toward the houses.
 I swam backwards with our hands connected.
@@ -354,7 +354,7 @@ name:pbeach-1.jpg
 dir:privacy
 ```
 
-<a-carousel :img="[{name:'pbeach-2.jpg',dir:'privacy'},{name:'pbeach-3.jpg',dir:'privacy'}]"></a-carousel>
+<a-gallery :img="[{name:'pbeach-2.jpg',dir:'privacy'},{name:'pbeach-3.jpg',dir:'privacy'}]"></a-gallery>
 
 2014-01-15
 

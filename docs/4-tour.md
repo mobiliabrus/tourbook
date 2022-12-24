@@ -153,7 +153,7 @@ dir:privacy
 
 <a-hotel name="Crystal Dive Resort" date="2015-04-05" nights="4"></a-hotel>
 
-<a-carousel :img="[{name:'moment1'},{name:'moment2'}]"></a-carousel>
+<a-gallery :img="[{name:'moment1'},{name:'moment2'}]"></a-gallery>
 
 ## KRABI
 
