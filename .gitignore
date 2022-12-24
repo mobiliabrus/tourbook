@@ -2,6 +2,5 @@ node_modules
 yarn.lock
 .idea
 .vscode
-.password.json
 *.mdx
 .DS_Store

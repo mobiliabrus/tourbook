@@ -3,12 +3,6 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "start": "node scripts/watch.js",
-    "build": "node scripts/encodeAll.js",
-    "revert": "node scripts/decodeAll.js"
-  },
-  "devDependencies": {
-    "crypto-js": "^4.1.1",
-    "watch": "^1.0.2"
+    "start": "node ../scripts/lib/watch"
   }
 }
