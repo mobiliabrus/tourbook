@@ -37,6 +37,10 @@ name:mtkk-1
 name:mtkk-2
 ```
 
+```<a-img>
+name:mtkk-3
+```
+
 ### LABAN RATA (3,272.7M)
 
 ```<a-img>
@@ -202,6 +206,14 @@ After that I took speed boat back to KOH SAMUI.
 points:9.6742334,100.0639134,Haad Rin Pier|9.5713503,100.0610741,Bangrak Seatran Pier
 ```
 ## SONGKRAN 2561
+
+```<a-img>
+name:japanspa-1
+```
+
+```<a-img>
+name:japanspa-2
+```
 
 ```<a-map>
 walking:9.5179429,100.055656,Samui Hostel;9.520712852478027,100.05679321289062,Hot Nails;9.52495288848877,100.058837890625,Stacked;9.532194137573242,100.06055450439453,Central Festival Samui;9.5323031,100.0648453,.
