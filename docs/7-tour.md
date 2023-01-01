@@ -116,7 +116,7 @@ dir:animation
 ### SIPADAN
 
 ```<a-img>
-name:sipadan-2
+name:sipandan-2
 ```
 
 ```<a-img>
