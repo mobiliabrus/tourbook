@@ -25,6 +25,8 @@ Dormitory (Grace Hostel) at Kinabalu Park
 name:team-0
 ```
 
+I met three groups. The first one is three pair of Malaysian couples, the second is some Chinese from Sepang. The third is few Malaysian that I joined. 
+
 ```<a-img>
 name:team-1
 ```
@@ -49,6 +51,12 @@ dir:animation
 ```
 
 Non-Heated Dormitory-Laban Rata Resthouse
+
+I met Ailin and her boyfriend at the restaurant of Laran Rata. She is Chongqinger, and now living in HK. Though I always speak English, She didn't notice that I am Chongqinger too as I told. She felt surprised she can find a fellow countryman here.
+
+I also see the other groups of people in this restaurant. Actully everyone is here, it's just like a home.
+
+I found my passport was wet here, and I filled every page with tissues.
 
 ### LOW'S PEAK (4,095.2M)
 
