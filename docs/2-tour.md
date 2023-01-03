@@ -4,12 +4,14 @@
 
 <a-flight flight="3U8722" departure="CKG" destination="KMG" departure-time="2014-01-04 12:50" arrive-time="2014-01-04 14:05"></a-flight>
 
-The plane is already there when I arrived boarding gate.
-The flight, its routes is fly to Chongqing and to another, then turn back to Chongqing, taking me to Kunming. 
+When I arrived at the boarding gate, the plane was already here. The flight departured soon, and I was not there. 
+It routes from Kunming to Chongqing and then another. After that it would turn around, Chongqing and Kunming. 
+My plan was taking Chongqing to Kunming. It was the time now, and the flight was just on his half circle. 
 
-There should be enough hours for transformation, but the arriving flight delayed for 2 hours 25 minutes. 
+After arriving in Kunming, I would take an international flight. 
+So I kept hours in airport, and the domestic flight cost another 2 hours. 
 
-I get aboard on AirAsia in the last few minutes. 
+I aboarded on AirAsia in the last few minutes. 
 
 <a-flight flight="AK1009" departure="KMG" destination="KUL" departure-time="2014-01-04 17:40" arrive-time="2014-01-04 21:50"></a-flight>
 
