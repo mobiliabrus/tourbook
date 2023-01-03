@@ -44,9 +44,15 @@ I turned my head and told them it did.
 We became friends. 
 They are lovers, from Wuhan.
 They fall in love because they both love riding.
-Their hostel is just located behind mine. 
+Their guesthouse is just located behind mine. 
+
+I stayed in mixed dormitory of 6 beds.
+There was two girls, a Korean and two Chinese in this room. 
 
 ### PULAU SAPI
+
+The next morning, they asked me if would I join their tour to a island called 'sapi' which sounds like 'stupid' in Chinese.
+I was glad to.
 
 ```<a-img>
 name:marilyn-2
