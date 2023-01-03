@@ -5,22 +5,15 @@ The flight company almost ruined all my journey.
 <a-flight flight="3U8722" departure="CKG" destination="KMG" departure-time="2014-01-04 12:50" arrive-time="2014-01-04 14:05"></a-flight>
 
 I intended to take domestic flight to Kunming, and I would have plenty of time to  catch the connecting flight. When I arrived at the boarding gate, the plane was already there. It should fly from Kunming to Chongqing, and then from Chongqing to another. After that, it should turn its head and went directly to Chongqing and took me to Kunming. The plane was here because it's on the previous schedule, it's not early but delays. 
-
-Any way, I arrived at Kunming airport late than two hours.  I rushed out of cabin, got my package. I was the last one checked in at the counter. And I was so lucky I was getting on the flight before gate closed.
+Any way, I arrived at Kunming airport late than two hours. 
+I rushed out of cabin, got my package. I was the last one checked in at the counter. And I was so lucky I was getting on the flight before gate closed.
 
 <a-flight flight="AK1009" departure="KMG" destination="KUL" departure-time="2014-01-04 17:40" arrive-time="2014-01-04 21:50"></a-flight>
 
 ```<a-map>
 driving:2.739671959819654,101.72049967310232,LCCT|3.1314496300435706,101.69091652316015,KL Sentral
 ```
-
-### DANGEROUS
-
-Monorail is closing.
-walking on the street
-ask road to security of a building.
-
-red light area.
+Taking airport bus, I reached downtown lately. I didn't find the right way in the dark. I took a taxi as the railway station is closed. 
 
 ```<a-map>
 driving:3.1314496300435706,101.69091652316015,KL Sentral|3.142778222755097,101.70906525342374,Berjaya Times Square
@@ -28,9 +21,13 @@ driving:3.1314496300435706,101.69091652316015,KL Sentral|3.142778222755097,101.7
 
 <a-hotel name="Irsia BnB Guesthouse" date="2014-1-4" nights="2" points="3.1413875,101.7100106"></a-hotel>
 
-It was quite late. I gently climbeb into bed and did not awake them, whose snores continued solemnly. 
+It was quite late. I gently climbeb into bed and tryed not awake them, whose snores continued solemnly. 
 
-By the morning, everyone was gone when I woke up. I didn't know who was my roommate. The city is a black hole, and we were squeezed into it.
+By the morning, everyone was gone when I woke up.
+I didn't know who was my roommates.
+The city is such a black hole, and we were squeezed into it.
+People dodged amongst the seething crowds of men.
+I choosed leaving. 
 
 ## KOTA KINABALU
 
@@ -40,9 +37,14 @@ By the morning, everyone was gone when I woke up. I didn't know who was my roomm
 driving:5.943993,116.050642,KKIA Terminal 2|5.978026752086478,116.06991075377479|5.9833774,116.0776038,Borneo Backpackers
 ```
 
-A couple get on the bus, sit behind me. They talked about is this bus go downtown.
-I turned and told them it did. They are lovers, from Wuhan.
-Fall in love by riding. They just stay near by my hostel.
+It's just a few moments after the bus departured, it stopped at a corner of street for a while. 
+Two Chinese got on the bus, and sitting behind me. 
+They talked about weather would this bus went to the downtown.
+I turned my head and told them it did.
+We became friends. 
+They are lovers, from Wuhan.
+They fall in love because they both love riding.
+Their hostel is just located behind mine. 
 
 ### PULAU SAPI
 
