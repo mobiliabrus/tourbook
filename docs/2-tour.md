@@ -129,18 +129,28 @@ and mine is 6A.
 
 ## TAWAU & SEMPORNA
 
-My phone out of power after landing. I found a sim card store for charging.
-I missed the transform. A guy ask to buy a SIM card,I ask can I take a ride.
-Then I found we start at the same hostel. Brasil.
+After landing, I found my phone was out of power.
+I found a store selling phone cards to charge.
+A local driver found me and asked me am I the passager to take a ride.
+I am not sure what name she is, so I missed. 
+
+Then a rude Brazil guy came and bought a phone card. I asked if I take a ride.
+He didn't wish to at first, and then he said he didn't mind if the driver say so. 
+I found we have the same destination after talking to the driver.
+I got on the minibus after agree that I will pay the translate fee. 
 
 ```<a-map>
 driving:4.313783,118.113794,Tawau Airport|4.479184,118.617147,Borneo Global Sipadan Backpackers
 ```
 
-Arrive I met feng cheche.
-And she will go penang after semporna.
+When checking in, we just find out we lives in a same room. 
+I also met Feng Cheche and another girl in this room. 
+I just stay one night in the town, I went to Uncle Chang's Bungalow next morning. 
+But Feng Cheche would went to Penang after Semporna, we will met agian later. 
 
 ### PULAU MABUL
+
+There's only a Chinese guy and I at first when checking in. Three beautiful girls came who said Cantonese who I believed they're from Hong Kong When aboard. And we also know another girl who was traveling with her mother. 
 
 <a-hotel name="Uncle Chang Bungalow" date="2014-01-09" nights="2" points="4.2477133,118.6271726"></a-hotel>
 
