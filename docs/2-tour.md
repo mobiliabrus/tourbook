@@ -1,11 +1,11 @@
 ## KULA LUMPUR
 
-### I almost missed my flight
+The flight company almost ruined all my journey. 
 
 <a-flight flight="3U8722" departure="CKG" destination="KMG" departure-time="2014-01-04 12:50" arrive-time="2014-01-04 14:05"></a-flight>
 
-When I arrived at the boarding gate, the plane was already here. The flight departured soon, and I was not there. 
-It routes from Kunming to Chongqing and then another. After that it would turn around, Chongqing and Kunming. 
+When I arrived at the boarding gate, the plane was already here.
+It routes from Kunming to Chongqing and then another. Later, it would turn around, went directly Chongqing and Kunming. 
 My plan was taking Chongqing to Kunming. It was the time now, and the flight was just on his half circle. 
 
 After arriving in Kunming, I would take an international flight. 
