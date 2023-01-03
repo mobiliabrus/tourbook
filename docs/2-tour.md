@@ -1,17 +1,12 @@
 ## KULA LUMPUR
 
-The flight company almost ruined all my journey. 
+The flight company almost ruined all my journey.
 
 <a-flight flight="3U8722" departure="CKG" destination="KMG" departure-time="2014-01-04 12:50" arrive-time="2014-01-04 14:05"></a-flight>
 
-When I arrived at the boarding gate, the plane was already here.
-It routes from Kunming to Chongqing and then another. Later, it would turn around, went directly Chongqing and Kunming. 
-My plan was taking Chongqing to Kunming. It was the time now, and the flight was just on his half circle. 
+I intended to take domestic flight to Kunming, and I would have plenty of time to  catch the connecting flight. When I arrived at the boarding gate, the plane was already there. It should fly from Kunming to Chongqing, and then from Chongqing to another. After that, it should turn its head and went directly to Chongqing and took me to Kunming. The plane was here because it's on the previous schedule, it's not early but delays. 
 
-After arriving in Kunming, I would take an international flight. 
-So I kept hours in airport, and the domestic flight cost another 2 hours. 
-
-I aboarded on AirAsia in the last few minutes. 
+Any way, I arrived at Kunming airport late than two hours.  I rushed out of cabin, got my package. I was the last one checked in at the counter. And I was so lucky I was getting on the flight before gate closed.
 
 <a-flight flight="AK1009" departure="KMG" destination="KUL" departure-time="2014-01-04 17:40" arrive-time="2014-01-04 21:50"></a-flight>
 
