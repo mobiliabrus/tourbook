@@ -72,6 +72,36 @@ arrive-time:2011-09-13 11:45
 
 <a-secret name="wxj" autoload></a-secret>
 
+```<a-img>
+name:xlj-1.jpg
+dir:privacy
+```
+
+```<a-img>
+name:xlj-2.jpg
+dir:privacy
+```
+
+```<a-img>
+name:xlj-3.jpg
+dir:privacy
+```
+
+```<a-img>
+name:xlj-4.jpg
+dir:privacy
+```
+
+```<a-img>
+name:xlj-5.jpg
+dir:privacy
+```
+
+```<a-img>
+name:xlj-6.jpg
+dir:privacy
+```
+
 ### Emei
 
 ```<a-map>
