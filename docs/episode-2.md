@@ -1,3 +1,14 @@
+### Emei
+
+```<a-map>
+walking:29.566614465370527,103.45149564712987,Emeishan|29.53855338361171, 103.33368381598733,Guidance Half|29.532209597285295,103.33578068753751,Prince Terrace|29.520319175975953,103.33850465097454,Golden Summit
+```
+
+```<a-img>
+name:emei
+dir:animation
+```
+
 ### Kulangsu
 
 In summer, I was in Gulangyu
