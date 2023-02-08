@@ -155,6 +155,11 @@ dir:privacy
 
 <a-gallery :img="[{name:'moment1'},{name:'moment2'}]"></a-gallery>
 
+```<a-map>
+points:10.085696,99.825093,Crystal Dive Resort
+divesites:10.109045,99.816167,White Rock|10.057116,99.8256,Twins Rocks|10.1715,99.7784,Chumphon Pinnacle|10.1056,99.8136,HTMS Sattakut
+```
+
 ## KRABI
 
 ```<a-map>

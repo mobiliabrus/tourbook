@@ -210,6 +210,67 @@ name:crystal-students
 
 Crystal Dive Koh Tao with Nick Button, James Tomlinson, Vincent Teschel, Brittany Kalenderian, Tina Major and others
 
+```<a-divelog
+no:1
+date:2014-11-11
+location:Japanese Gardens, Koh Tao
+objective:OWTD 1
+conditions: 30℃ 8mViz
+timein:13:09
+timeout:13:53
+depth:12m
+time:44min
+comment:Neon Damselfish, Cleaner Wrasse
+buddy:280960
+```
+
+```<a-divelog
+no:2
+date:2014-11-11
+location:Japanese Gardens, Koh Tao
+objective:OWTD 2
+conditions: 30℃ 8mViz
+timein:15:17
+timeout:16:01
+depth:12m
+time:44min
+comment:All Skill Complete
+buddy:280960
+```
+
+```<a-divelog
+no:3
+date:2014-11-12
+location:White Rock, Koh Tao
+objective:OWTD 3
+conditions: 30℃ 8-10mViz
+timein:08:13
+timeout:09:51
+depth:17m
+time:38min
+comment:All Skill Complete
+buddy:280960
+```
+
+```<a-divelog
+no:4
+date:2014-11-12
+location:Tao Tong, Koh Tao
+objective:OWTD 4
+conditions: 30℃ 10mViz
+timein:10:07
+timeout:10:48
+depth:10m
+time:39min
+comment:All Skill Complete
+buddy:280960
+```
+
+```<a-map>
+points:10.085696,99.825093,Crystal Dive Resort
+divesites:10.120413,99.816775,Japanese Gardens|10.109045,99.816167,White Rock|10.057116,99.8256,Taa Toh Rock
+```
+
 ```<a-img>
 name:kohtao1.jpg
 dir:privacy
