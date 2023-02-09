@@ -157,7 +157,7 @@ dir:privacy
 
 ```<a-map>
 points:10.085696,99.825093,Crystal Dive Resort
-divesites:10.10535,99.81525,White Rock|10.11741,99.81301,Twins Rocks|8.82785,97.79508,Chumphon Pinnacle|10.10169,99.81537,HTMS Sattakut
+divesites:10.10535,99.81525,White Rock|10.11741,99.81301,Twins Rocks|10.16120,99.78779,Chumphon Pinnacle|10.10169,99.81537,HTMS Sattakut
 ```
 
 ## KRABI
