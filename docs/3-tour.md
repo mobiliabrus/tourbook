@@ -268,7 +268,7 @@ buddy:280960
 
 ```<a-map>
 points:10.085696,99.825093,Crystal Dive Resort
-divesites:10.120413,99.816775,Japanese Gardens|10.109045,99.816167,White Rock|10.057116,99.8256,Taa Toh Rock
+divesites:10.11937,99.81422,Japanese Gardens|10.10535,99.81525,White Rock|10.057116,99.8256,Taa Toh Rock
 ```
 
 ```<a-img>
