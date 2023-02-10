@@ -1,6 +1,6 @@
 <a-secret name="jyy" autoload></a-secret>
 
-### Korea
+### South Korea
 
 I had becamoe the sales winner of year, and the award is holidays in Thailand. However, the tour canceled, for the Red Shirts movement in this courtry. Instead, I chose the South Korea.
 
@@ -20,24 +20,28 @@ departure-time:2010-04-17 18:40
 arrive-time:2010-04-17 19:55
 ```
 
-I met Wenwen in the tour group. We went the street in the first night of Seoul. And we were together when we had been leaved in a place for that we did not pay for the 38th parallel. The friendship was established after this trip.
+I met Wenwen in this tour group. We went the street at the first night of Seoul. And we were together when we had been droped in a place called Pilseung-ro for we did'nt paid the fee to 38th parallel.
+
+```<a-map>
+points:37.51402948996639,127.03588586216844,Imperial Palace Seoul|37.56382942746806,126.98449333522179,Myeong-dong|37.55370946055917,126.98115396433205,Namsan|37.5690015,127.0855585,Siloam|37.778494623724804,126.68362613171828,Pilseung-ro|37.5219876,127.0244706,Hotel Sunshine
+```
 
 ```<a-img>
 name:38-parallel.jpg
 dir:privacy
 ```
 
-```<a-map>
-points:37.51402948996639,127.03588586216844,Imperial Palace Seoul|37.56382942746806,126.98449333522179,Myeong-dong|37.55370946055917,126.98115396433205,Namsan|37.5690015,127.0855585,Siloam|37.778494623724804,126.68362613171828,Pilseung-ro|37.5219876,127.0244706,Hotel Sunshine
-```
+
 
 ```<a-map>
 points:33.4617787104114,126.93850883584804,Seongsan Ilchulbong|33.516313053905066,126.51204652697128,Yongduam Rock|33.25073060613577,126.41677259684774,Cheonjeyeon Waterfalls
 ```
 
+The friendship was established after this trip.
+
 ### Weizhou Island
 
-I've been Weizhou Island twice. One is Jul 2011, and another is Sep 2012.
+I've been Weizhou Island twice. The first time is on July 2011.
 
 
 ```<a-flight>
@@ -99,5 +103,42 @@ dir:privacy
 
 ```<a-img>
 name:xlj-6.jpg
+dir:privacy
+```
+
+```<a-img>
+name:lxm1.jpg
+dir:privacy
+```
+```<a-img>
+name:lxm2.jpg
+dir:privacy
+```
+```<a-img>
+name:lxm3.jpg
+dir:privacy
+```
+```<a-img>
+name:lxm4.jpg
+dir:privacy
+```
+```<a-img>
+name:lxm5.jpg
+dir:privacy
+```
+```<a-img>
+name:lxm6.jpg
+dir:privacy
+```
+```<a-img>
+name:lxm7.jpg
+dir:privacy
+```
+```<a-img>
+name:lxm8.jpg
+dir:privacy
+```
+```<a-img>
+name:lxm9.jpg
 dir:privacy
 ```
