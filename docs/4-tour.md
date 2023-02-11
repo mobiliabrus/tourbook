@@ -116,13 +116,6 @@ name:fullmoonend
 dir:privacy
 ```
 
-```<a-img>
-name:before_sunrise
-```
-
-```<a-img>
-name:before_sunrise_detailed
-```
 
 ## KOH TAO
 
@@ -182,8 +175,14 @@ And as for traveling alone, fuck it. If that's the way it has to be, then that's
 name:songkran-karon
 ```
 
-### SONGKRAN 1
+### SONGKRAN
 
+```<a-img>
+name:songkran1-1
+```
+```<a-img>
+name:songkran1-2
+```
 #### A Free Riding
 
 ```<a-map>

@@ -1,7 +1,8 @@
 - [Tourbook](README.md)
 
   - [Episode I. Begins](episode-1.md)
-  - [Episode II. Warm Up](episode-2.md)
+  - [Episode II. Sashay](episode-2.md)
+  - [Episode III. Turning](episode-3.md)
   - [I. Long, Solitary Tour](1-tour.md)
   - [II. Backpacking](2-tour.md)
   - [III. Three Trees](3-tour.md)
