@@ -31,10 +31,10 @@ name:38-parallel.jpg
 dir:privacy
 ```
 
-
-
 ```<a-map>
 points:33.4617787104114,126.93850883584804,Seongsan Ilchulbong|33.516313053905066,126.51204652697128,Yongduam Rock|33.25073060613577,126.41677259684774,Cheonjeyeon Waterfalls
 ```
 
 The friendship was established after this trip.
+
+<a-secret name="dww" autoload></a-secret>

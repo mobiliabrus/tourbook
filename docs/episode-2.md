@@ -24,15 +24,17 @@ arrive-time:2011-09-13 11:45
 
 <a-secret name="shapingpark" autoload></a-secret>
 
+<a-secret name="zounian" autoload></a-secret>
+
+<a-secret name="dy" autoload></a-secret>
+
 <a-secret name="apple" autoload></a-secret>
+
+<a-secret name="lxm" autoload></a-secret>
 
 <a-secret name="zx" autoload></a-secret>
 
 <a-secret name="lu" autoload></a-secret>
-
-<a-secret name="zounian" autoload></a-secret>
-
-<a-secret name="dy" autoload></a-secret>
 
 <a-secret name="wxj" autoload></a-secret>
 
@@ -66,39 +68,6 @@ name:xlj-6.jpg
 dir:privacy
 ```
 
-```<a-img>
-name:lxm1.jpg
-dir:privacy
-```
-```<a-img>
-name:lxm2.jpg
-dir:privacy
-```
-```<a-img>
-name:lxm3.jpg
-dir:privacy
-```
-```<a-img>
-name:lxm4.jpg
-dir:privacy
-```
-
-```<a-img>
-name:lxm6.jpg
-dir:privacy
-```
-```<a-img>
-name:lxm7.jpg
-dir:privacy
-```
-```<a-img>
-name:lxm8.jpg
-dir:privacy
-```
-```<a-img>
-name:lxm9.jpg
-dir:privacy
-```
 
 ### Emei
 
