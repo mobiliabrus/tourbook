@@ -22,6 +22,19 @@ arrive-time:2011-09-13 11:45
 
 <a-secret name="zwd" autoload></a-secret>
 
+```<a-img>
+name:wzd
+```
+
+```<a-img>
+name:wzd2
+```
+
+```<a-img>
+name:wzd3.jpg
+dir:privacy
+```
+
 <a-secret name="shapingpark" autoload></a-secret>
 
 <a-secret name="zounian" autoload></a-secret>
