@@ -60,22 +60,27 @@ dir:privacy
 name:hq2.jpg
 dir:privacy
 ```
+
 ```<a-img>
 name:hq3.jpg
 dir:privacy
 ```
+
 ```<a-img>
 name:hq4.jpg
 dir:privacy
 ```
+
 ```<a-img>
 name:hq5.jpg
 dir:privacy
 ```
+
 ```<a-img>
 name:hq6.jpg
 dir:privacy
 ```
+
 ```<a-map>
 driving:27.7932316,99.6831596,Shangri-La Airport|27.811842,99.7053845,Dukezong|29.0366082,100.297561,Daocheng|30.021596,101.527224,Xinduqiao|30.0011057,101.9543686,Kangding|29.6745313,102.1020761|29.599233,102.171681,Minya Kongka|30.0011057,101.9543686,Kangding|30.129862,101.751812,Kangding Airport
 ```
