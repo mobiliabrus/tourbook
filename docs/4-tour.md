@@ -258,10 +258,7 @@ dir:privacy
 name:hk
 ```
 
-```<a-img>
-name:celling
-```
-
-MTR Tsuen Wan Line: Sham Shui Po - Mei Foo
-MTR West Rail Line: Mei Foo - Tin Shui Wai
-HK NLB Route B2P: Tin Shui Wai - Shenzhen Bay Port
+- MTR Tsuen Wan Line: Sham Shui Po - Mei Foo
+- MTR West Rail Line: Mei Foo - Tin Shui Wai
+- HK NLB Route B2P: Tin Shui Wai - Shenzhen Bay Port
+- Shenzhen Bay Port
