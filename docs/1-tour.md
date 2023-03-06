@@ -101,8 +101,6 @@ At the cross, I saw fireflies, two or three. Not light in the dark, but beautifu
 
 <a-map walking="17.022397,99.687335,Restaurant|17.031913,99.702393,Fireflies|17.031670,99.706329,Baan Rim Klong Resort"></a-map>
 
-_@thongmuanthecrispyrolldog_
-
 Night, family play cards in parents‘ house.
 They invite me even I can't play.
 We sit cross-legged on the floor.
@@ -112,6 +110,10 @@ _๑ ๒ ๓ ๔ ๕ ๖ ๗ ๘ ๙ ๑๐_
 
 They teach me how to count in thai.
 That have a lot of funny.
+
+```<a-img>
+name:skt-1
+```
 
 ### MORNING
 
