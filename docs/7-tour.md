@@ -141,6 +141,14 @@ name:seaventure-1
 name:seaventure-2
 ```
 
+```<a-img>
+name:seaventure-3
+```
+
+```<a-img>
+name:seaventure-4
+```
+
 Scheduled boat transfer from Rig to Semporna at 1100hrs
 
 Scheduled land transfer from Semporna to Tawau Airport at 1200hrs
@@ -231,6 +239,10 @@ name:japanspa-1
 
 ```<a-img>
 name:japanspa-2
+```
+
+```<a-img>
+name:japanspa-3
 ```
 
 ```<a-map>
