@@ -21,7 +21,7 @@
 <a-hotel name="Rabeang Pasak Treehouse Resort" date="2014-11-04" nights="1"></a-hotel>
 
 ```<a-img>
-tree-house-me
+name:tree-house-me
 ```
 
 ```<a-img>
@@ -77,11 +77,6 @@ name:treehouse-16
 
 ```<a-img>
 name:treehouse-yuner
-```
-
-```<a-img>
-name:treehouse-22.jpg
-dir:privacy
 ```
 
 1 pax @ So Hotel, 2 pax @ A Little Bird 2 Guest House, 1 pax @ 9 Hostel, 2 pax @ baan thai (36 nimmanhaeminda Road)
@@ -150,6 +145,11 @@ name:treehouse-3.jpg
 dir:privacy
 ```
 
+```<a-img>
+name:treehouse-22.jpg
+dir:privacy
+```
+
 ### Swimming
 
 ```<a-map>
@@ -177,15 +177,18 @@ name:dinger
 ```
 
 ```<a-img>
-name:oldcity-1
+name:oldcity-1.jpg
+dir:privacy
 ```
 
 ```<a-img>
-name:oldcity-2
+name:oldcity-2.jpg
+dir:privacy
 ```
 
 ```<a-img>
-name:oldcity-3
+name:oldcity-3.jpg
+dir:privacy
 ```
 
 ```<a-img>
@@ -195,16 +198,11 @@ name:oldcity-4
 11-7
 
 ```<a-img>
-name:chiang-1
+name:chiang-1.jpg
+dir:privacy
 ```
 
-```<a-img>
-name:chiang-2
-```
-
-```<a-img>
-name:chiang-3
-```
+<a-gallery :img="[{name:'chiang-2.jpg',dir:'privacy'},{name:'chiang-3.jpg',dir:'privacy'}]"></a-gallery>
 
 ```<a-map>
 driving:18.7979829,98.9660400,Baan Thai Apartment|18.8083025,98.9547589,Chiang Mai University

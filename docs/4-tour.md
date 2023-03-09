@@ -53,10 +53,6 @@ dir:animation
 name:fullmoon-4
 ```
 
-```<a-img>
-name:fullmoon-11
-```
-
 Her glasses, which was on my shirt lost. I didn't notice that. My attention was diverted.
 
 <a-secret name="fullmoon"></a-secret>
@@ -68,10 +64,6 @@ name:fullmoon-5
 ```<a-img>
 name:fullmoon-8
 dir:privacy
-```
-
-```<a-img>
-name:fullmoon-4
 ```
 
 ```<a-img>
