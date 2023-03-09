@@ -79,6 +79,11 @@ name:treehouse-16
 name:treehouse-yuner
 ```
 
+```<a-img>
+name:treehouse-22.jpg
+dir:privacy
+```
+
 1 pax @ So Hotel, 2 pax @ A Little Bird 2 Guest House, 1 pax @ 9 Hostel, 2 pax @ baan thai (36 nimmanhaeminda Road)
 
 ```<a-map>
@@ -181,6 +186,10 @@ name:oldcity-2
 
 ```<a-img>
 name:oldcity-3
+```
+
+```<a-img>
+name:oldcity-4
 ```
 
 11-7
