@@ -18,9 +18,10 @@
 
 ### TREE HOUSES
 
-```hotel
+<a-hotel name="Rabeang Pasak Treehouse Resort" date="2014-11-04" nights="1"></a-hotel>
 
-2014-11-04,1
+```<a-img>
+tree-house-me
 ```
 
 ```<a-img>
@@ -168,6 +169,18 @@ name:qin-3
 
 ```<a-img>
 name:dinger
+```
+
+```<a-img>
+name:oldcity-1
+```
+
+```<a-img>
+name:oldcity-2
+```
+
+```<a-img>
+name:oldcity-3
 ```
 
 11-7

@@ -225,6 +225,30 @@ name:similan-dive-5
 ```
 
 ```<a-img>
+name:similan-turtle
+```
+
+```<a-img>
+name:similan-me-1
+```
+
+```<a-img>
+name:similan-me-2
+```
+
+```<a-img>
+name:similan-me-3
+```
+
+```<a-img>
+name:similan-me-4
+```
+
+```<a-img>
+name:similan-me-5
+```
+
+```<a-img>
 name:similan-1.jpg
 dir:privacy
 ```
@@ -242,6 +266,10 @@ dir:privacy
 ```<a-img>
 name:similan-4.jpg
 dir:privacy
+```
+
+```<a-img>
+name:koh-bon
 ```
 
 ## Phuket
