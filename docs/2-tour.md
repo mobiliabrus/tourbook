@@ -393,6 +393,10 @@ Fengcheche left.
 
 <a-carousel :img="[{name:'danni-8.jpg',dir:'privacy'},{name:'danni-9.jpg',dir:'privacy'},{name:'danni-10.jpg',dir:'privacy'},{name:'danni-11.jpg',dir:'privacy'},{name:'danni-12.jpg',dir:'privacy'},{name:'danni-13.jpg',dir:'privacy'},{name:'danni-14.jpg',dir:'privacy'},{name:'danni-15.jpg',dir:'privacy'},{name:'danni-17.jpg',dir:'privacy'}]"></a-carousel>
 
+### PENANG HILL
+
+2014-01-16
+
 ```<a-img>
 name:danni-16.jpg
 dir:privacy
@@ -400,15 +404,6 @@ dir:privacy
 
 ```<a-img>
 name:dan-17.jpg
-dir:privacy
-```
-
-### PENANG HILL
-
-2014-01-16
-
-```<a-img>
-name:danni-16.jpg
 dir:privacy
 ```
 
@@ -421,6 +416,8 @@ dir:privacy
 name:danni.gif
 dir:privacy-gif
 ```
+
+Is there monekys?
 
 ```<a-img>
 name:danni-3.jpg
@@ -446,6 +443,8 @@ dir:privacy
 name:danni-7.jpg
 dir:privacy
 ```
+
+icecream & monkeys 
 
 ```<a-img>
 name:penang-hill
