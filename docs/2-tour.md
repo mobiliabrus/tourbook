@@ -1,19 +1,21 @@
 ## KULA LUMPUR
 
-The flight company almost ruined all my journey.
-
 <a-flight flight="3U8722" departure="CKG" destination="KMG" departure-time="2014-01-04 12:50" arrive-time="2014-01-04 14:05"></a-flight>
 
-I intended to take domestic flight to Kunming, and I would have plenty of time to  catch the connecting flight. When I arrived at the boarding gate, the plane was already there. It should fly from Kunming to Chongqing, and then from Chongqing to another. After that, it should turn its head and went directly to Chongqing and took me to Kunming. The plane was here because it's on the previous schedule, it's not early but delays. 
-Any way, I arrived at Kunming airport late than two hours. 
-I rushed out of cabin, got my package. I was the last one checked in at the counter. And I was so lucky I was getting on the flight before gate closed.
-
 <a-flight flight="AK1009" departure="KMG" destination="KUL" departure-time="2014-01-04 17:40" arrive-time="2014-01-04 21:50"></a-flight>
+
+I almost missed the international flight.
+
+I intended to take domestic flight to Kunming first, and I would have plenty of time to catch the airline to Kula Lumpur. When I arrived at the boarding gate, the plane was already there. It was scheduled to flew from Kunming to Chongqing, and then from Chongqing to another place. After all this routes, it should turn and went directly to Chongqing and took me to Kunming. The plane was there because it's on the previous schedule. It delayed.
+
+Two hours later, almost the same time I reserved, I finally arrived at Kunming. When I rushed out of cabin, the next one was on boarding. I found I must wait for my package. Even there's no international transfer channel, I must re-recheck in. I was the last one checked in at the counter, and I boarded at the last minute before gate close.
 
 ```<a-map>
 driving:2.739671959819654,101.72049967310232,LCCT|3.1314496300435706,101.69091652316015,KL Sentral
 ```
-Taking airport bus, I reached downtown lately. I didn't find the right way in the dark. I took a taxi as the railway station is closed. 
+
+Taking airport bus of LCCT, I reached KL Sentral in night. I was going to took the Monorail, but the station was already shutdown.
+
 
 ```<a-map>
 driving:3.1314496300435706,101.69091652316015,KL Sentral|3.142778222755097,101.70906525342374,Berjaya Times Square
