@@ -29,10 +29,11 @@ Everyone was obviously asleep because they were snoring loudly. I gently climbeb
 
 When I got up, people all left. The hostel offered free bread and butter.
 
+I walked the streets around, and I found it's a large-scaled community with people who led busy lives and have no time to stop.
 The city is such a black hole, and we were squeezed into it.
-
-People dodged amongst the seething crowds of men.
-
+People
+dodged amongst the seething crowds of men.
+it's not the place I belong to.
 I choosed leaving. 
 
 ## KOTA KINABALU
