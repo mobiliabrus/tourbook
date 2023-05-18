@@ -21,13 +21,13 @@ Taking airport bus from LCCT, I reached KL Sentral at midnight. I was going to t
 driving:3.1314496300435706,101.69091652316015,KL Sentral|3.142778222755097,101.70906525342374,Berjaya Times Square
 ```
 
-I took of at the Times Square where my hostel located.
+I took off at the Times Square where the hostel located.
 
 <a-hotel name="Irsia BnB Guesthouse" date="2014-1-4" nights="2" points="3.1413875,101.7100106"></a-hotel>
 
-Everyone was obviously asleep because they were snoring loudly. I gently climbeb into bed and tryed not awake them. My bed is beside a pipe, therefore, I heard the babble all the night. I was quite tired.
+Everyone was obviously asleep because they were snoring loudly. I gently climbeb onto bed and tried not awake anyone. My bed is beside a pipe which flews all the night. I, Even for those noises,  falt sleep. I was too tired.
 
-When I got up, everyone was gone.
+When I got up, people all leaved.
 
 The city is such a black hole, and we were squeezed into it.
 People dodged amongst the seething crowds of men.
