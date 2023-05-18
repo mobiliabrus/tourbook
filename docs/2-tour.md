@@ -14,19 +14,21 @@ Two hours later, almost the same time I reserved, I finally arrived at Kunming. 
 driving:2.739671959819654,101.72049967310232,LCCT|3.1314496300435706,101.69091652316015,KL Sentral
 ```
 
-Taking airport bus from LCCT, I reached KL Sentral at midnight. I was going to took the Monorail, but the station was already shutdown.
+Taking airport bus from LCCT, I reached KL Sentral at midnight. I was going to took the Monorail, but the station was already shutdown. Thus, I had to took a taxi.
 
 
 ```<a-map>
 driving:3.1314496300435706,101.69091652316015,KL Sentral|3.142778222755097,101.70906525342374,Berjaya Times Square
 ```
 
+I took of at the Times Square where my hostel located.
+
 <a-hotel name="Irsia BnB Guesthouse" date="2014-1-4" nights="2" points="3.1413875,101.7100106"></a-hotel>
 
-It was quite late. I gently climbeb into bed and tryed not awake them, whose snores continued solemnly. 
+Everyone was obviously asleep because they were snoring loudly. I gently climbeb into bed and tryed not awake them. My bed is beside a pipe, therefore, I heard the babble all the night. I was quite tired.
 
-By the morning, everyone was gone when I woke up.
-I didn't know who was my roommates.
+When I got up, everyone was gone.
+
 The city is such a black hole, and we were squeezed into it.
 People dodged amongst the seething crowds of men.
 I choosed leaving. 
