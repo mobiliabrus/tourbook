@@ -6,7 +6,7 @@
 
 I almost missed the international flight.
 
-I intended to take domestic flight to Kunming first, and I would have plenty of time to catch the airline to Kula Lumpur. It's too early when I arrived at the boarding gate, yet the plane was already there. It was scheduled to flew from Kunming to Chongqing, and then from Chongqing to another place. After all this routes, it should turn and went directly to Chongqing and took me to Kunming. The plane was there because it's on the previous schedule. It delayed.
+I intended to take domestic flight to Kunming first, and I would have plenty of time to catch the airline to Kula Lumpur. It's too early when I arrived at the boarding gate, yet the plane was already there. It was scheduled to flew from Kunming to Chongqing and then to another. After all this routes, it should turn and went directly to Chongqing and took me to Kunming. The plane was there because of delay of previous schedule. I must wave her off and wait her back.
 
 Two hours later, almost the same time I reserved, I finally arrived at Kunming. When I rushed out of cabin, the next one was on boarding. I found I must wait for my package. Even there's no international transfer channel, I must recheck in. I was the last one checked in at the counter, and I boarded at the last minute before gate close.
 
