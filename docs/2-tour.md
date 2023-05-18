@@ -14,7 +14,7 @@ Two hours later, almost the same time I reserved, I finally arrived at Kunming. 
 driving:2.739671959819654,101.72049967310232,LCCT|3.1314496300435706,101.69091652316015,KL Sentral
 ```
 
-Taking airport bus from LCCT, I reached KL Sentral in night. I was going to took the Monorail, but the station was already shutdown.
+Taking airport bus from LCCT, I reached KL Sentral at midnight. I was going to took the Monorail, but the station was already shutdown.
 
 
 ```<a-map>
