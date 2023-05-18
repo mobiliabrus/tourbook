@@ -25,12 +25,14 @@ I took off at the Times Square where the hostel located.
 
 <a-hotel name="Irsia BnB Guesthouse" date="2014-1-4" nights="2" points="3.1413875,101.7100106"></a-hotel>
 
-Everyone was obviously asleep because they were snoring loudly. I gently climbeb onto bed and tried not awake anyone. My bed is beside a pipe which flews all the night. I, Even for those noises,  falt sleep. I was too tired.
+Everyone was obviously asleep because they were snoring loudly. I gently climbeb onto bed and tried not awake anyone. My bed is beside a pipe which flews all the night. I, even for those noises,  falt sleep. I was too tired.
 
-When I got up, people all leaved.
+When I got up, people all left. The hostel offered free bread and butter.
 
 The city is such a black hole, and we were squeezed into it.
+
 People dodged amongst the seething crowds of men.
+
 I choosed leaving. 
 
 ## KOTA KINABALU
