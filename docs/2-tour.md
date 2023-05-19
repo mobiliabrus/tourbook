@@ -27,12 +27,13 @@ I took off at the Times Square where the hostel located.
 
 Everyone was obviously asleep because they were snoring loudly. I gently climbeb onto bed and tried not awake anyone. My bed is beside a pipe which flews all the night. I, even for those noises,  falt sleep. I was too tired.
 
-When I got up, people all left. The hostel offered free bread and butter.
+When I got up, people all left. Through the hall, the hostel offered free self-service breads and butters. On the wall, “Clean them if you used any plates or cups” was wroten.
 
-I walked the streets around, and I found it's a large-scaled community with people who led busy lives and have no time to stop.
+I walked on the streets after breakfast, and I found it's a large-scaled community with people who led busy lives and have no time to stop.
 The city is such a black hole, and we were squeezed into it.
 People
 dodged amongst the seething crowds of men.
+I stayed two days that I limited myself to walking, eating and sleeping.
 it's not the place I belong to.
 I choosed leaving. 
 
