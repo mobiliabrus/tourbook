@@ -45,14 +45,12 @@ I choosed leaving.
 driving:5.943993,116.050642,KKIA Terminal 2|5.978026752086478,116.06991075377479|5.9833774,116.0776038,Borneo Backpackers
 ```
 
-It's just a few moments after the bus departured, it stopped at a corner of street for a while. 
-Two Chinese got on the bus, and sitting behind me. 
-They talked about weather would this bus went to the downtown.
-I turned my head and told them it did.
-We became friends. 
-They are lovers, from Wuhan.
-They fall in love because they both love riding.
-Their guesthouse is just located behind mine. 
+I believed there's only one airport bus in this city. No wandering why a pair of lovers, who got on at the first stop, doubted wether this bus went to downtown. They sitted behind me, and talked in 
+Chinese.
+So I turned my head and told them the truth. They were surprised that I was traveling alone.
+They came from Wuhan. Both of them loved motorbike, and that's why they met and fall in love.
+By getting off, we found 
+our guesthouses were located on the same street. We became friends, and I visited him and talked a lot. He is a interior designer with cool style long hair and long beard.
 
 I stayed in mixed dormitory of 6 beds.
 There was two girls, a Korean and two Chinese in this room. 
