@@ -45,9 +45,8 @@ I choosed leaving.
 driving:5.943993,116.050642,KKIA Terminal 2|5.978026752086478,116.06991075377479|5.9833774,116.0776038,Borneo Backpackers
 ```
 
-I believed there's only one airport bus in this city. No wandering why a pair of lovers, who got on at the first stop, doubted wether this bus went to downtown. They sitted behind me, and talked in 
-Chinese.
-So I turned my head and told them the truth. They were surprised that I was traveling alone.
+I believed there's only one airport bus in this city. No wandering why a pair of Chinese lovers, who got on at the first stop, doubted whether this bus went to downtown. They sitted behind me, and talked about it.
+So I turned my head and join them. I told what I knew about this bus line, I also told how I arrived and how I got transfer information before departure. They were surprised that I was traveling alone.
 They came from Wuhan. Both of them loved motorbike, and that's why they met and fall in love.
 By getting off, we found 
 our guesthouses were located on the same street. We became friends, and I visited him and talked a lot. He is a interior designer with cool style long hair and long beard.
