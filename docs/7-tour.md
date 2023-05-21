@@ -149,6 +149,10 @@ name:seaventure-3
 name:seaventure-4
 ```
 
+```<a-img>
+name:seaventure-5
+```
+
 Scheduled boat transfer from Rig to Semporna at 1100hrs
 
 Scheduled land transfer from Semporna to Tawau Airport at 1200hrs
@@ -254,6 +258,23 @@ stacked
 ```<a-img>
 name:songkran-girl1
 dir:animation
+```
+
+```<a-img>
+name:nails1.jpg
+dir:privacy
+```
+
+<a-gallery :img="[{name:'nails2.jpg',dir:'privacy'},{name:'nails3.jpg',dir:'privacy'}]"></a-gallery>
+
+```<a-img>
+name:nails4.jpg
+dir:privacy
+```
+
+```<a-img>
+name:nails5.jpg
+dir:privacy
 ```
 
 ```<a-img>
