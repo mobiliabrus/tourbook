@@ -278,6 +278,16 @@ dir:privacy
 ```
 
 ```<a-img>
+name:gabi1.jpg
+dir:privacy
+```
+
+```<a-img>
+name:gabi2.jpg
+dir:privacy
+```
+
+```<a-img>
 name:bitch.jpg
 dir:privacy
 ```
