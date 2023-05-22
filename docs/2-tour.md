@@ -51,13 +51,15 @@ They came from Wuhan. Both of them loved motorbike, and that's why they met and 
 By getting off, we found 
 our guesthouses were located on the same street. We became friends, and I visited him and talked a lot. He is a interior designer with cool style long hair and long beard.
 
-I stayed in mixed dormitory of 6 beds.
-There was two girls, a Korean and two Chinese in this room. 
+I stayed in a mixed 6-beds dormitory where two girls and three guys slept. Marilyn is from Paris. She said she have been China for several months.
+
+Carl is another girl who comes from Germany. A night, in the dormitory, I asked a stupid question to her. "Do you have s child?" "I'm only 19" She said. I was so awkward. After that day, since her packages is still in the room, she missed. We all didn't know where she went. I leaved a message on her bag. Days later I received her texts, she went to Sandakan.
+
+There're another two Chinese boys who are quite funny. The next morning, they invited me to join their tour to a island. I was so glad to join, for Marilyn was invited too.
 
 ### PULAU SAPI
 
-The next morning, they asked me if would I join their tour to a island called 'sapi' which sounds like 'stupid' in Chinese.
-I was glad to.
+This island named 'sapi' which word sounds like 'stupid' in Chinese.
 
 ```<a-img>
 name:marilyn-2
