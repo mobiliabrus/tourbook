@@ -4,7 +4,7 @@
 
 <a-flight flight="AK5106" departure="KUL" destination="BKI" departure-time="2017-04-02 09:30" arrive-time="2017-04-02 12:05"></a-flight>
 
-At 2 am, under the stars, the plane departured. In the next four hours, I was half asleep. Since the sun rised up, we arrived at Kula Lumpur. After a time of coffee, I get on the flight down to Kota Kinabalu. When the sun climbed to top, I was riding airport bus. Later, in the terminal of downtown, I found a minibus which will took me to the park. After all the eighteen hours duration, even the sky went to dark, I've been the foot of KK mountain. I was so tired. 
+At 2 am, under the stars, the plane departured. In the next four hours, I was half asleep. Since the sun rised up, we arrived at Kula Lumpur. After a time of coffee, I get on the flight down to Kota Kinabalu. When the sun climbed to top, I was riding airport bus. Later, in the terminal of downtown, I found a minibus which will took me to the park. After all the routes of  eighteen hours, even the sky went to dark, I've been the foot of KK mountain. I was so tired. 
 
 ```<a-map>
 driving:5.9436606,116.0487216,KKIA Terminal 2|5.9809019,116.0763801,Airport Bus Station|6.0076652,116.565853,Mount Kinabalu National Park
