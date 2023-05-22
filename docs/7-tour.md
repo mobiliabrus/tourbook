@@ -1,49 +1,61 @@
+## MOUNT KINABALU
 
+At 2 am, under the stars, the plane departured. In the next four hours, I was half asleep. Since the sun rised up, we arrived at Kula Lumpur. After a time of coffee, I get on the flight down to Kota Kinabalu. When the sun climbed to top, I was riding airport bus. Later, in the terminal of downtown, I found a minibus which will took me to the park. Even sunset, after all the eighteen-hours routes, I've been the foot of KK mountain. I was so tired. 
 
 <a-flight flight="D7809" departure="CKG" destination="KUL" departure-time="2017-04-02 01:50" arrive-time="2017-04-02 06:40"></a-flight>
 
 <a-flight flight="AK5106" departure="KUL" destination="BKI" departure-time="2017-04-02 09:30" arrive-time="2017-04-02 12:05"></a-flight>
 
-At 2 am, under the stars, the plane departured. In the next four hours, I was half asleep. Since the sun rised up, we arrived at Kula Lumpur. After a time of coffee, I get on the flight down to Kota Kinabalu. When the sun climbed to top, I was riding airport bus. Later, in the terminal of downtown, I found a minibus which will took me to the park. Even sunset, after all the eighteen-hours routes, I've been the foot of KK mountain. I was so tired. 
-
 ```<a-map>
 driving:5.9436606,116.0487216,KKIA Terminal 2|5.9809019,116.0763801,Airport Bus Station|6.0076652,116.565853,Mount Kinabalu National Park
 ```
 
-## MOUNT KINABALU
-
-```<a-map>
-walking:6.0053195,116.5421188,Kinabalu National Park|6.0291003,116.5462398,Timpohon Gate
-points:6.058994,116.5651771,Laban Rata Resthouse;6.075277,116.558832,Mount Kinabalu;6.01042297268944,116.5393427365916,Grace hostel
-```
-
 Dormitory (Grace Hostel) at Kinabalu Park
 
-### FELLOW TRAVELLERS
+```<a-map>
+points:6.0053195,116.5421188,Kinabalu National Park;6.01042297268944,116.5393427365916,Grace hostel
+```
+
+Though a great problem confronted me that I was traveling alone. To climb this mountain, a guide was required. The guide fee is quite expensive, and the best way is share it into six. I need a team, so I made a pickup sign.
 
 ```<a-img>
 name:team-0
 ```
 
-I met three groups. The first one is three pair of Malaysian couples, the second is some Chinese from Sepang. The third is few Malaysian that I joined. 
+### FELLOW TRAVELLERS
+
+The next morning, at the gate, I met three groups. The first one is three pair of Malaysian couples. The second is six Malaysian Chinese from Sepang.
+The last is three Malaysian who welcomed me. 
 
 ```<a-img>
 name:team-1
 ```
 
 ```<a-img>
+name:mtkk-3
+```
+
+```<a-img>
 name:mtkk-1
+```
+
+The road to Laban Rata is a long long journey. We started at the Timpohon Gate on the 1866m.
+
+```<a-map>
+walking:6.0053195,116.5421188,Kinabalu National Park|6.0291003,116.5462398,Timpohon Gate
+points:6.058994,116.5651771,Laban Rata Resthouse;6.075277,116.558832,Low's Peak
 ```
 
 ```<a-img>
 name:mtkk-2
 ```
 
-```<a-img>
-name:mtkk-3
-```
 
-### LABAN RATA (3,272.7M)
+
+### LABAN RATA
+
+
+On the 3,272.7m, Laban Rata
 
 ```<a-img>
 name:rabanrata
@@ -58,9 +70,11 @@ I also see the other groups of people in this restaurant. Actully everyone is he
 
 I found my passport was wet here, and I filled every page with tissues.
 
-### LOW'S PEAK (4,095.2M)
+### LOW'S PEAK
 
 _So close, yet so far._
+
+the 4,095.2-meter summit of Low's Peak.
 
 We get up in 3AM. For a snack, we start climb in the dark.
 On the half, Ailin and her boyfriend turns back. 
@@ -131,6 +145,14 @@ name:sipandan-2
 name:sipadan-1
 ```
 
+```<a-img>
+name:seaventure-3
+```
+
+```<a-img>
+name:seaventure-4
+```
+
 ### KAPALAI
 
 ```<a-img>
@@ -142,16 +164,14 @@ name:seaventure-2
 ```
 
 ```<a-img>
-name:seaventure-3
-```
-
-```<a-img>
-name:seaventure-4
+name:seaventure-6
 ```
 
 ```<a-img>
 name:seaventure-5
 ```
+
+
 
 Scheduled boat transfer from Rig to Semporna at 1100hrs
 
