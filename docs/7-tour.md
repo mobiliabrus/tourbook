@@ -50,12 +50,18 @@ points:6.058994,116.5651771,Laban Rata Resthouse;6.075277,116.558832,Low's Peak
 name:mtkk-2
 ```
 
-
+```<a-img>
+name:mtkk-4
+```
 
 ### LABAN RATA
 
 
 On the 3,272.7m, Laban Rata
+
+```<a-img>
+name:raban-rata
+```
 
 ```<a-img>
 name:rabanrata
@@ -171,8 +177,6 @@ name:seaventure-6
 name:seaventure-5
 ```
 
-
-
 Scheduled boat transfer from Rig to Semporna at 1100hrs
 
 Scheduled land transfer from Semporna to Tawau Airport at 1200hrs
@@ -267,6 +271,14 @@ name:japanspa-2
 
 ```<a-img>
 name:japanspa-3
+```
+
+```<a-img>
+name:songkran-1
+```
+
+```<a-img>
+name:songkran-2
 ```
 
 ```<a-map>

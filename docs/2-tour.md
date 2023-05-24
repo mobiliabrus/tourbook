@@ -170,37 +170,42 @@ name:mabul-1
 ```
 
 ```<a-img>
-name:mabul-1
+name:mabul-1.jpg
 dir:privacy
 ```
 
 ```<a-img>
-name:mabul-2
+name:mabul-2.jpg
 dir:privacy
 ```
 
 ```<a-img>
-name:mabul-3
+name:mabulx.jpg
 dir:privacy
 ```
 
 ```<a-img>
-name:mabul-4
+name:mabul-3.jpg
 dir:privacy
 ```
 
 ```<a-img>
-name:mabul-5
+name:mabul-4.jpg
 dir:privacy
 ```
 
 ```<a-img>
-name:mabul-6
+name:mabul-5.jpg
 dir:privacy
 ```
 
 ```<a-img>
-name:mabul-7
+name:mabul-6.jpg
+dir:privacy
+```
+
+```<a-img>
+name:mabul-7.jpg
 dir:privacy
 ```
 

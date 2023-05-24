@@ -292,6 +292,26 @@ divesites:10.11937,99.81422,Japanese Gardens|10.10535,99.81525,White Rock|10.057
 ```
 
 ```<a-img>
+name:crystal-1
+```
+
+```<a-img>
+name:crystal-2
+```
+
+```<a-img>
+name:crystal-3
+```
+
+```<a-img>
+name:crystal-4
+```
+
+```<a-img>
+name:crystal-5
+```
+
+```<a-img>
 name:kohtao1.jpg
 dir:privacy
 ```
