@@ -420,11 +420,6 @@ dir:privacy
 ```
 
 ```<a-img>
-name:danni-17.jpg
-dir:privacy
-```
-
-```<a-img>
 name:danni.gif
 dir:privacy-gif
 ```

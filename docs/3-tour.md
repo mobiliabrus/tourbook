@@ -208,6 +208,10 @@ dir:privacy
 driving:18.7979829,98.9660400,Baan Thai Apartment|18.8083025,98.9547589,Chiang Mai University
 ```
 
+## CHIANG MAI AIRPORT
+
+I saw she off at the airport.
+
 Accident
 
 ## BANGKOK
@@ -219,6 +223,8 @@ driving:13.759380,100.498725,Lomprayah Bangkok|10.358415,99.267069,Chumphon (Lom
 ```
 
 ## KOH TAO
+
+<a-gallery :img="[{name:'kohtaorainny.jpg'},{name:'kohtaosunny.jpg'}]"></a-gallery>
 
 ```<a-img>
 name:crystal
@@ -317,6 +323,10 @@ dir:privacy
 ```
 
 ```<a-img>
+name:seadog
+```
+
+```<a-img>
 name:qin-3.jpg
 dir:privacy
 ```
@@ -327,6 +337,10 @@ dir:privacy
 ```
 
 <a-secret name="qinkohtao"></a-secret>
+
+```<a-img>
+name:kohtaosunset
+```
 
 ### Praness's kitchen
 

@@ -108,7 +108,6 @@ name:fullmoonend
 dir:privacy
 ```
 
-
 ## KOH TAO
 
 ```<a-img>
@@ -157,7 +156,7 @@ name:draw
 
 <a-hotel name="Deevana Plaza Krabi Aonang" date="2015-04-9" nights="2"></a-hotel>
 
-And as for traveling alone, fuck it. If that's the way it has to be, then that's the way it is. 
+And as for traveling alone, fuck it. If that's the way it has to be, then that's the way it is.
 
 ## KARON
 
@@ -176,6 +175,7 @@ name:songkran1-1
 ```<a-img>
 name:songkran1-2
 ```
+
 #### A Free Riding
 
 ```<a-map>
@@ -191,6 +191,8 @@ driving:7.844075,98.294148,Woraburi Phuket Resort & Spa|8.644964,98.251020,Khao 
 ```<a-map>
 divesites:8.573707,97.645576,Anita's Reef|8.599783,97.635619,Deep Six|8.554926,97.616323,West of Eden|8.619628,97.633515,Elephant Head Rock|8.684123,97.636178,Christmas Point|8.68071,97.65184,Three Trees|8.82785,97.79508,West Ridge|9.05802,97.81172,The Dome|9.36186,98.020175,Richelieu Rock|8.74631,98.18138,Boon Sung Wreck
 ```
+
+<a-carousel :img="[...Array.from(new Array(21)).map((_,i) =>({name:'fishbook-'+i}))]"></a-carousel>
 
 ```<a-img>
 name:similan
@@ -237,6 +239,10 @@ name:similan-me-4
 ```
 
 ```<a-img>
+name:similan-me-6
+```
+
+```<a-img>
 name:similan-me-5
 ```
 
@@ -266,7 +272,7 @@ name:koh-bon
 
 ## Phuket
 
-*pre-flight surface interval*
+_pre-flight surface interval_
 
 <a-hotel name="Cozy Coco Apartment@Phuket Airport" date="2015-04-19" nights="2"></a-hotel>
 
