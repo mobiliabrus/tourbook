@@ -1,6 +1,6 @@
 ## MOUNT KINABALU
 
-At 2 am, under the stars, the plane departured. In the next four hours, I was half asleep. Since the sun rised up, we arrived at Kula Lumpur. After a time of coffee, I get on the flight down to Kota Kinabalu. When the sun climbed to top, I was riding airport bus. Later, in the terminal of downtown, I found a minibus which will took me to the park. Even sunset, after all the eighteen-hours routes, I've been the foot of KK mountain. I was so tired. 
+At 2 am, under the stars, the plane departed. In the next four hours, I was half asleep. Bt the time the sun rose, I had arrived in Kula Lumpur. After having a cup of coffee, I boarded the flight to Kota Kinabalu. By the time the sun reached its peak, I was riding the airport bus. Later, at the downtown terminal, I found a minibus that would take me to the park. Even though it was sunset and I had been traveling for eighteen hours, I finally arrived at the foot of Mount KK. I was very tired. 
 
 <a-flight flight="D7809" departure="CKG" destination="KUL" departure-time="2017-04-02 01:50" arrive-time="2017-04-02 06:40"></a-flight>
 
