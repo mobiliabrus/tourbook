@@ -2,11 +2,7 @@
 
 At 2 am, under the stars, the plane departed. In the next four hours, I was half asleep. 
 
-
-
-By the time the sun rose, I had arrived in Kula Lumpur. After having a cup of coffee, I boarded the flight to Kota Kinabalu.
-
-
+By the time the sun rose, I had arrived in Kula Lumpur. After having a cup of coffee, I boarded the flight to Kota Kinabalu. It's a short route. As soon as it flew over the mountains, it descend directly.
 
 By the time the sun reached its peak, I was riding the airport bus.
 
