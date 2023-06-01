@@ -35,27 +35,26 @@ name:similan3-2
 
 ### THE GREAT ROUTE
 
-No flight after dive. It's the hardest route plan I've made.
-541km in 18 hours, 
-Manta Queen 1 - Khao Lak - Phuket Bus Terminal 2 - Krabi - Lomprayah's Bus Terminal - Donsak Pier - Koh Phangan Thong Sala Pier - Rin Nai Beach,
-of course no sleep.
-What do you want?
+No flights after diving.
 
-The most difficult part is from Khao Lak to Krabi. The information about the bus between this two destinations is very little. And It seems like I am certainly missing the last bus. After several twists, I found a google image of Pubket Bus Terminal 2, it shows there's a late bus from Phuket to Hat Yai which will stop at Krabi. And the minibus of diver shop also have enough time to transport me to the terminal.
+
+It's the hardest route plan I've ever made. 541km in 18 hours, Manta Queen 1, Khao Lak, Phuket Bus Terminal 2, Krabi,  Lomprayah's Bus Terminal, Donsak Pier, Koh Phangan Thong Sala Pier, Rin Nai Beach. Of course, no sleep. What do you want?
+
+The most difficult part is from Khao Lak to Krabi. The information about the bus between these two destinations is very limit. It seems like I will definitely missing the last bus. After several twists, I found a Google image of Pubket Bus Terminal 2, it shows there's a late bus from Phuket to Hat Yai which will stop at Krabi. The minibus of diving shop also have enough time to transport me to the terminal.
 
 ```<a-map>
 driving:8.644791,98.251189,Khao Lak Scuba Adventures|7.917718,98.395462,Phuket Bus Terminal 2|8.102171,98.907734,Krabi|8.077127,98.904208,Lomprayah|9.318253,99.736982,Donsak|9.709127,99.984432,Thong Sala|9.671759,100.067371,Rin Nai
 points:8.6589171,97.6365055,Batfish Rock
 ```
 
-The bus stop at Route 4. I must walk about 4 km to the guesthouse which is across the road of Lomprayah. It was already 2 am when I arrived, and I need wake up at five.
+The bus stops at Route 4. I had to walk about 4 km to the guesthouse which is across the road from Lomprayah. It was already 2 am when I arrived and I needef to wake up at 5 am.
 
 ```<a-map>
 walking:8.102171,98.907734,Krabi|8.081144765640692,98.90655441718606|8.077798727763875,98.90439255672624,B.B.mansion
 points:8.077127,98.904208,Lomprayah
 ```
 
-Next morning, by riding 6 hours bus and ferry in the morning, I was heading Koh Phangan.
+Next morning, I headed to Koh Phangan by riding 6-hours bus and ferry.
 
 <a-hotel name="B.B.mansion" date="2017-01-11" nights="1"></a-hotel>
 
