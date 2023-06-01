@@ -37,6 +37,8 @@ points:33.4617787104114,126.93850883584804,Seongsan Ilchulbong|33.51631305390506
 
 The friendship was established after this trip.
 
+After this trip, I left the company.
+
 <a-secret name="ranling" autoload></a-secret>
 
 ### Weizhou Island
