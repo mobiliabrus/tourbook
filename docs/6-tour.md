@@ -23,7 +23,7 @@ points:9.14651073017441,99.333013684943,Papangkorn House|8.644991293002645,98.25
 
 ## KOH SIMILAN
 
-> January 2017, Southern Thailand experience January 2017, Southern Thailand experienced a devastating flood disaster. Thunderstorms and strong winds cause extreme waves on the sea.
+> In January 2017, Southern Thailand was hit by a devastating flood disaster. Thunderstorms and strong winds caused extreme waves in the sea.
 
 ```<a-img>
 name:similan3-1
