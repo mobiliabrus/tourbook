@@ -27,21 +27,15 @@ Taking airport bus from LCCT, I reached KL Sentral at midnight. I was going to t
 driving:3.1314496300435706,101.69091652316015,KL Sentral|3.142778222755097,101.70906525342374,Berjaya Times Square
 ```
 
-I took off at the Times Square where the hostel located.
+I get off at the Times Square where my hostel located.
 
 <a-hotel name="Irsia BnB Guesthouse" date="2014-1-4" nights="2" points="3.1413875,101.7100106"></a-hotel>
 
-Everyone was obviously asleep because they were snoring loudly. I gently climbeb onto bed and tried not awake anyone. My bed is beside a pipe which flews all the night. I, even for those noises,  falt sleep. I was too tired.
+Everyone was obviously asleep because they were snoring loudly. I walked quietly and tried to not wake anyone up. My bed is situated to a pipe that made constant noise throughout the night. However, I was so exhausted that I fell asleep despite the noise. 
 
-When I got up, people all left. Through the hall, the hostel offered free self-service breads and butters. On the wall, “Clean them if you used any plates or cups” was wroten.
+When I woke up, anyone else had already left. There was self-service breakfast available, which included bread and butter. There was a reminder on the wall that said to clean any dishes or utensils after use. 
 
-I walked on the streets after breakfast, and I found it's a large-scaled community with people who led busy lives and have no time to stop.
-The city is such a black hole, and we were squeezed into it.
-People
-dodged amongst the seething crowds of men.
-I stayed two days that I limited myself to walking, eating and sleeping.
-it's not the place I belong to.
-I choosed leaving. 
+After breakfast, I went for a walk and realized that the community was extremely busy, and everyone led a fast-paced life without taking any breaks. The city felt like a black hole, and it absorbed the people around it. People walked fast and hurriedly through the crowded streets. I limited myself to just walking, eating and sleeping for two days; however, I realized that this wasn't the place for me, so I had to leave.
 
 ## KOTA KINABALU
 
