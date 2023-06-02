@@ -4,11 +4,17 @@
 
 <a-flight flight="AK1009" departure="KMG" destination="KUL" departure-time="2014-01-04 17:40" arrive-time="2014-01-04 21:50"></a-flight>
 
-I almost missed the international flight.
+I nearly missed my international flight.
 
-I intended to take domestic flight to Kunming first, and I would have plenty of time to catch the airline to Kula Lumpur. It's too early when I arrived at the boarding gate, yet the plane was already there. It was scheduled to flew from Kunming to Chongqing and then to another. After all this routes, it should turn and went directly to Chongqing and took me to Kunming. The plane was there because of delay of previous schedule. I need wave her off and wait her back.
+I had planned to take a domestic flight to Kunming first, and I thought I would have plenty of time to catch the airline to Kula Lumpur. When I arrived at the boarding gate, it was too early, but to my surprise, the plane was already there. It was scheduled to fly from Kunming to Chongqing and then to another destination. After completing those routes, it would turn and went directly to Chongqing and take me to Kunming. The plane was there due a delay of previous schedule. I had to wait for it to leave and come back.
 
-Two hours later, almost the same time I reserved, I finally arrived at Kunming. When I rushed out of cabin, the next one was on boarding. I found I must wait for my package. Even there's no international transfer channel, I must recheck in. I was the last one checked in at the counter, and I boarded at the last minute before gate close.
+ 
+
+Two hours later, around the same time I had  reserved, I finally arrived at Kunming. When I rushed out of cabin, the next flight was already boarding. I realized that I had to wait for my package and recheck in, even though there was no international transfer channel.  I was the last persih checked in at the counter, and I boarded at the last minute just before gate close.
+
+
+
+
 
 ```<a-map>
 driving:2.739671959819654,101.72049967310232,LCCT|3.1314496300435706,101.69091652316015,KL Sentral
