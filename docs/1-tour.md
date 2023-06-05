@@ -75,25 +75,9 @@ It drove about one one hundred meters forward, turned right for another one hund
 
 <a-hotel name="Baan Rim Klong Resort" date="2013-10-12" nights="2" points="17.031670,99.706329"></a-hotel>
 
-After meal, the day just black out. And I can't recognize the way back in the black. The sense of direction told me I should ride to north. And I am far away from main road.
 
-There's no light on the road, also my bike. I ride with feeling, and ride faster in the black. Tons of flies hit my face, and I tasted some. After crossing, I feel a river beside me, like a square river. The Wat Phrapai Luang I am confident.
-
-I met motorbike with a beam headlight riding opposite me that I believe which win't see me. So I have to stop my bike beside the road.
-
-At the cross, I saw fireflies, two or three. Not light in the dark, but beautiful.
 
 <a-map walking="17.022397,99.687335,Restaurant|17.031913,99.702393,Fireflies|17.031670,99.706329,Baan Rim Klong Resort"></a-map>
-
-Night, family play cards in parents‘ house.
-They invite me even I can't play.
-We sit cross-legged on the floor.
-The cat Momo besides my leg.
-
-_๑ ๒ ๓ ๔ ๕ ๖ ๗ ๘ ๙ ๑๐_
-
-They teach me how to count in thai.
-That have a lot of funny.
 
 ```<a-img>
 name:skt-1
