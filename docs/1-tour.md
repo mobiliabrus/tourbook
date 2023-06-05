@@ -75,7 +75,13 @@ It drove about one one hundred meters forward, turned right for another one hund
 
 <a-hotel name="Baan Rim Klong Resort" date="2013-10-12" nights="2" points="17.031670,99.706329"></a-hotel>
 
+The owner of the guesthouse was a Thai couple, and their daughter received me at the front desk. She was beautiful and even introduced me to their golden retriever, Latu.
 
+The guesthouse provided bicycles for 50 baht a day. I rode on one and started from the north of the ancient city, exploring my way to the center. As the sun began to set, I found a restaurant outside the city walls to have dinner. By the time I finished, it was already dark. Unlike cities, there were few streetlights here, and the roads were hardly visible at night. I looked at the map and had two options: spend more time returning along the main road, or take an unknown shortcut. I chose the latter. The path was completely dark, and I had to rely on a weak light to find my way. I rode my bike like crazy on this pitch-black road. All kinds of flying insects hit my face, and some even flew into my mouth. Halfway through the trip, I finally saw the light of a motorcycle and quickly moved over to the side of the road. Not long after, I saw fireflies on the roadside. There were only two or three of them, but they were especially prominent in the dark.
+
+When I returned to the guesthouse, they were amazed by my experience. They invited me to their room to play, and the couple, their daughter, and their cat Momo were there. We played poker together, and they even taught me how to count in Thai.
+
+On the last night, the daughter knocked on my door and said there was a festival activity tonight, asking if I wanted to join them. I said I was too tired and didn't want to go. Now looking back, I regret it a little bit
 
 <a-map walking="17.022397,99.687335,Restaurant|17.031913,99.702393,Fireflies|17.031670,99.706329,Baan Rim Klong Resort"></a-map>
 
