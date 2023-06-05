@@ -48,33 +48,17 @@ I was traveling alone for two reasons. First of all, being alone allows you more
 
 <a-map driving="13.813143,100.548074,Mo Chit Bus Station|17.014624,99.812901,Sukhothai Bus Terminal"></a-map>
 
-Bus stop in downtown, I head to songthaew.
-I asked a discount to ancient city, driver said yes.
-After, he told dropping me off at old town east.
-I insist take off at Tourist Information Center in the north.
-I don't remembered did he really give me discount, and I believe not.
+The bus only stopped in the new town, so I walked directly to the songthaew after getting off. I asked the driver how much it would cost to go to the ancient city and haggled with him. He just said "okay". The driver took me to a convenience store in the ancient city, where I insisted on going to a hotel nearby. When we arrived, the driver said the place was far and there was no discount, and this made the whole trip unpleasant.
 
-I saw no resorts around.
-I went to a snack waggon for asking road.
+When I got off, I couldn't find the resort and only saw a small food cart selling skewers. I went to buy some and asked for directions. The owner of the cart called over a person in a police uniform who helped me find the way. Just as I was leaving, the police officer stopped me and insisted on driving me to the hotel. I was worried about being cheated, but I couldn't resist his enthusiasm and had to get on the pickup.
 
-"Just go ahead from this road, then turn right.",
-a man with thai style uniform answered.
+It drove about one one hundred meters forward, turned right for another one hundred meters, and then we arrived at the hotel. He didn't ask me for any money and just said he was a teacher nearby. It was then that I remembered seeing a car of boy scouts on the road.
 
-"Thank you." I said.
 
-"I drive you there."
 
-I respectfully declined, but he insist.
-I was thinking of what if he ask me a high price.
 
-"Are you a policeman?" I questioned on the car.
 
-"No, I am a teacher."
 
-Scouts I saw when I arrived.
-It should be what he teach I think.
-
-Soon, I arrived.
 
 <a-map driving="17.030496,99.702936,Tourist Information Center|17.032004,99.702915|17.031670,99.706329,Baan Rim Klong Resort"></a-map>
 
