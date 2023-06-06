@@ -227,14 +227,10 @@ And a flood stream stopped me, my camera will die if I fall into it.
 
 <a-map walking="8.0920261,98.3019226,Chill House Nai Yang|8.092496,98.299101|8.101805,98.299957,↑walking alone beach" points="8.111834,98.302161"></a-map>
 
-Finally, I am at the end of runway.
 
-A A380 take off over my head, too late to get my camera.
-I watched my plane radar app and waiting for landing.
-I got some plane photos, include a beautiful B747.
-And the sky just went to warming and shinning.
 
-I did it by perseverance.
+
+Finally, I reached the end of the runway. An A380 took off over my head immediately. However, I continued to watch the flight radar app and waited for a landing. I tooked some photos of planes, including a beautiful B747. As the sky began to warm and shine, I felt proud of my perseverance and determination to get these photos desipte the challenging and circumstances. 
 
 <a-flight flight="FD3020" departure="HKT" departure-time="2013-10-29 08:00" destination="DMK" arrive-time="2013-10-29 09:25"></a-flight>
 
