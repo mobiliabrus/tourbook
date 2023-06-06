@@ -136,15 +136,10 @@ and mine is 6A.
 
 ## TAWAU & SEMPORNA
 
-After landing, I found my phone was out of power.
-I found a store selling phone cards to charge.
-A local driver found me and asked me am I the passager to take a ride.
-I am not sure what name she is, so I missed. 
+After landing, I found my phone was out of power. I found a store selling phone cards to charge. A local driver found me and asked me am I the passager they are looking for. I didn't know what name the girl is and I am not sure weather this was the bus she was at, so I declined.
 
-Then a rude Brazil guy came and bought a phone card. I asked if I take a ride.
-He didn't wish to at first, and then he said he didn't mind if the driver say so. 
-I found we have the same destination after talking to the driver.
-I got on the minibus after agree that I will pay the translate fee. 
+Then a rude Brazil guy came and bought a phone card. I asked if I take a ride. He didn't wish to at first, and then he said he didn't mind if the driver say so. I found we have the same destination after talking to the driver. I got on the minibus after agree that I will pay the translate fee.
+
 
 ```<a-map>
 driving:4.313783,118.113794,Tawau Airport|4.479184,118.617147,Borneo Global Sipadan Backpackers
