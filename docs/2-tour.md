@@ -145,10 +145,13 @@ Then a rude Brazil guy came and bought a phone card. I asked if I take a ride. H
 driving:4.313783,118.113794,Tawau Airport|4.479184,118.617147,Borneo Global Sipadan Backpackers
 ```
 
-When checking in, we just find out we lives in a same room. 
-I also met Feng Cheche and another girl in this room. 
-I just stay one night in the town, I went to Uncle Chang's Bungalow next morning. 
-But Feng Cheche would went to Penang after Semporna, we will met agian later. 
+When we checked in, we discovered we were assigned to the same room. Feng Cheche and another girl, who learned scuba diving at the store, were also staying in our room. Since we talked, Feng Cheche and I realized that we shared the same destination, Penang, a few days later.
+
+The Brazilian guy was extremely rude, stating that he did not like anyone sleeping on the upper bunk. As a result, I had to relocate to the neighboring room for the night.
+
+My stay here was only for one night. The next morning, the Brazilian and I hugged and he apologized to me.
+
+Afterward, I boarded Uncle Chang's boat.
 
 ### PULAU MABUL
 
