@@ -11,7 +11,7 @@
   <body>
     <div id="app"></div>
     <script>
-      if (typeof navigator.serviceWorker !== 'undefined') {
+      if (location.hostname !== 'localhost') {
         navigator.serviceWorker.register('/sw.js');
       }
     </script>
