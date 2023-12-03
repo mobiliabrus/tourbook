@@ -8,47 +8,6 @@
 
 Taking the A1 Bus, I arrived in there in early October 2013. On the first day, I suddenly found myself in an environment without Chinese. I felt like I had developed a loss of speech and couldn't even open my mouth. I stayed in a simple room that night. It was very noisy outside with the sound of tuk-tuks playing music, drunken people causing a racket, and doors slamming. I went to bed early, but when I woke up and looked at my watch, I found that it was still lively outside at 3 a.m. This is it. Bangkok, good-time city. Gateway to Southeast Asia. Where dollars and Duetsmarks get turned into counterfeit watches and genuine scars.
 
-### South Korea
-
-This is not my first time to go abroad. The year I became a sales champion, the prize was a trip. Due to the outbreak of the Red Shirt Movement in Thailand, I chose to go to South Korea. It was my first time abroad and my first time on a plane.
-
-```<a-flight>
-flight:CA125
-departure:CKG
-destination:PEK
-departure-time:2010-04-16 13:45
-arrive-time:2010-04-16
-```
-
-```<a-flight>
-flight:OZ6804
-departure:PEK
-destination:ICN
-departure-time:2010-04-16
-arrive-time:2010-04-16
-```
-
-I joined a tour group. When the tour guide asked if everyone was willing to go to the spots on the 38th parallel at their own expense, a girl named Wenwen and I chose not to go. We were pitifully left at a rest stop on the way. We found a convenience store and went inside to buy coffee to drink. The owner's child was particularly cute, and he came up to play with us. We couldn't understand his words, and he couldn't understand our language, but it was also interesting. Language seemed to be no obstacle.
-
-```<a-map>
-points:37.51402948996639,127.03588586216844,Imperial Palace Seoul|37.56382942746806,126.98449333522179,Myeong-dong|37.55370946055917,126.98115396433205,Namsan|37.5690015,127.0855585,Siloam|37.778494623724804,126.68362613171828,Pilseung-ro|37.5219876,127.0244706,Hotel Sunshine
-```
-
-```<a-img>
-name:38-parallel.jpg
-dir:privacy
-```
-
-Later, we went to Jeju Island.
-
-```<a-flight>
-flight:LJ0325
-departure:GMP
-destination:CJU
-departure-time:2010-04-17 18:40
-arrive-time:2010-04-17 19:55
-```
-
 ### PRATUNAM
 
 The next day, I felt that I could communicate in some simple English. I also moved from Sukhumvit to Pratunam.
