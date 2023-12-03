@@ -1,9 +1,8 @@
 <a-secret name="jyy" autoload></a-secret>
 
-
 ### South Korea
 
-This is not my first time to go abroad. The year I became a sales champion, the prize was a trip. Due to the outbreak of the Red Shirt Movement in Thailand, I chose to go to South Korea. It was my first time abroad and my first time on a plane.
+The year I became a sales champion, the prize was a trip. Due to the outbreak of the Red Shirt Movement in Thailand, I chose to go to South Korea. It was my first time abroad and my first time on a plane.
 
 ```<a-flight>
 flight:CA125
