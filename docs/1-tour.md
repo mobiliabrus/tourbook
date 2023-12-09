@@ -6,33 +6,29 @@
 
 <a-map driving="13.9181208,100.6009837,A1 Bus|13.802285,100.5545711,Mo Chit"></a-map>
 
-Taking the A1 Bus, I arrived in there in early October 2013. On the first day, I suddenly found myself in an environment without Chinese. I felt like I had developed a loss of speech and couldn't even open my mouth. I stayed in a simple room that night. It was very noisy outside with the sound of tuk-tuks playing music, drunken people causing a racket, and doors slamming. I went to bed early, but when I woke up and looked at my watch, I found that it was still lively outside at 3 a.m. This is it. Bangkok, good-time city. Gateway to Southeast Asia. Where dollars and Duetsmarks get turned into counterfeit watches and genuine scars.
+The first feeling after leaving Don Mueang Airport is heat. The bus drives on the right side, so you have to get on the bus from the left door. Take the A1 bus to mo Chit, then change to the BTS to get to your destination. I have taken this route many times.
+
+On the first day, I rarely spoke and didn't say much; I wasn't used to communicating in English yet.
+
+I am staying in a cramped room at a hostel, and outside my window at night, it is especially noisy - there are tuk-tuks blasting music loudly, drunk people laughing and arguing. I managed to get some sleep, but was awakened by the commotion outside. When I looked at my watch, it was already midnight, but the outside world was still as lively as daytime.
+
+This is it. Bangkok, good-time city. Gateway to Southeast Asia. Where dollars and Duetsmarks get turned into counterfeit watches and genuine scars.
 
 ### PRATUNAM
 
-The next day, I felt that I could communicate in some simple English. I also moved from Sukhumvit to Pratunam.
+Early the next morning, I moved to a hotel near Pratunam. The hotel was located on a busy street with a market below. There were crowds of people constantly walking by, and the road was filled with vendors selling their wares. You had to navigate through the crowds and gaps in between to get around.
 
 <a-hotel name="Baiyoke Suite Hotel" date="2013-10-09" nights="3" points="13.7530194,100.5373002"></a-hotel>
 
-Racers, traffic whistle, dove and the air-conditioning.
-Noises can be heard through the sealed window of 9th floor.
+The horn honking of cars, the whistles sounding for traffic direction, the chirping of doves, the humming of air conditioning and refrigerators, the shutting doors in other rooms, and the elevator's beep all filled the silence in the room with noise.
 
-> _"What do you want? Sell passport? Tickets? You want silk? I'll take you to the best silk place? Diamonds? Come with me, get presents for girlfriend. Maybe no girlfriend. You want a girl, no problem. Good time. Boy girl fucking no problem..."_
+"What do you want? Take a ride? Spots? You want silk? I'll take you to the best silk place? Diamonds? Come with me, get presents for girlfriend. Maybe no girlfriend. You want a girl, no problem. Good time. Boy girl fucking no problem..." When you walk on the street, there are always people of different colors trying to talk to you.
 
 ### COWBOY
 
-I met a white guy there who said he working in Chongqing. He's a farang, and he's waiting for his Thai girlfriend.
-We drinked till the thai girl come.
-
-"Why are you taking a trip by yourself", he asked.
-I was traveling alone for two reasons. First of all, being alone allows you more opportunity to absorb your experiences on a personal level. Secondly, and this I felt acutely at that moment, there was no one who wanted to go with me.
+In the evening, I went to Cowboy Street, a short red-light district. I found a seat and ordered a bottle of beer. Across from me, a Caucasian man sat and greeted me. We started chatting, and to my surprise, he worked in Chongqing. He departed as soon as his 'Thai wife' showed up.
 
 ### NANA
-
-### Flight
-
-
-<a-map walking="13.7284643,100.5339654,Sala Daeng|13.7275959,100.5336985,Flight Experience"></a-map>
 
 ### UNNIE
 
@@ -52,12 +48,6 @@ When I got off, I couldn't find the resort and only saw a small food cart sellin
 
 It drove about one one hundred meters forward, turned right for another one hundred meters, and then we arrived at the hotel. He didn't ask me for any money and just said he was a teacher nearby. It was then that I remembered seeing a car of boy scouts on the road.
 
-
-
-
-
-
-
 <a-map driving="17.030496,99.702936,Tourist Information Center|17.032004,99.702915|17.031670,99.706329,Baan Rim Klong Resort"></a-map>
 
 ### Baan Rim Klong Resort
@@ -75,39 +65,41 @@ It drove about one one hundred meters forward, turned right for another one hund
 
 The owner of the guesthouse was a Thai couple, and their daughter received me at the front desk. She was beautiful and even introduced me to their golden retriever, Latu.
 
-The guesthouse provided bicycles for 50 baht a day. I rode on one and started from the north of the ancient city, exploring my way to the center. As the sun began to set, I found a restaurant outside the city walls to have dinner. By the time I finished, it was already dark. Unlike cities, there were few streetlights here, and the roads were hardly visible at night. I looked at the map and had two options: spend more time returning along the main road, or take an unknown shortcut. I chose the latter. The path was completely dark, and I had to rely on a weak light to find my way. I rode my bike like crazy on this pitch-black road. All kinds of flying insects hit my face, and some even flew into my mouth. Halfway through the trip, I finally saw the light of a motorcycle and quickly moved over to the side of the road. Not long after, I saw fireflies on the roadside. There were only two or three of them, but they were especially prominent in the dark.
-
-When I returned to the guesthouse, they were amazed by my experience. They invited me to their room to play, and the couple, their daughter, and their cat Momo were there. We played poker together, and they even taught me how to count in Thai.
-
-On the last night, the daughter knocked on my door and said there was a festival activity tonight, asking if I wanted to join them. I said I was too tired and didn't want to go. Now looking back, I regret it a little bit
-
-<a-map walking="17.022397,99.687335,Restaurant|17.031913,99.702393,Fireflies|17.031670,99.706329,Baan Rim Klong Resort"></a-map>
+The guesthouse provided bicycles for 50 baht a day. I rode on one and started from the north of the ancient city, exploring my way to the center.
 
 ```<a-img>
 name:skt-1
 ```
 
+I met German girls，brown short hair and tall, which is my favorite type. I talked with them, but they were leaving tomorrow.
+
+As the sun began to set, I found a restaurant outside the city walls to have dinner. By the time I finished, it was already dark. Unlike cities, there were few streetlights here, and the roads were hardly visible at night. I looked at the map and had two options: spend more time returning along the main road, or take an unknown shortcut. I chose the latter. The path was completely dark, and I had to rely on a weak light to find my way. I rode my bike like crazy on this pitch-black road. All kinds of flying insects hit my face, and some even flew into my mouth. Halfway through the trip, I finally saw the light of a motorcycle and quickly moved over to the side of the road. Not long after, I saw fireflies on the roadside. There were only two or three of them, but they were especially prominent in the dark.
+
+When I returned to the guesthouse, they were amazed by my experience. They invited me to their room to play, and the couple, their daughter, and their cat Momo were there. We played poker together, and they even taught me how to count in Thai.
+
+<a-map walking="17.022397,99.687335,Restaurant|17.031913,99.702393,Fireflies|17.031670,99.706329,Baan Rim Klong Resort"></a-map>
+
 ### MORNING
 
-Morning, I'm riding east.
-I found a local path which have banglows along.
-I'm riding in the road and say 'hello' to everyone I saw..
+In the morning, I intended to cycle on a small road to the bus stop next to the 7-11 convenience store to book a ticket to Chiangmai. As I passed through a residential area, the residents along the road greeted me, and I smiled as I cycled through the whole road. Even a male resident came out of his yard, stopped me, shook my hand, and asked where I was from and where I was going.
 
-<a-map walking="17.031670,99.706329,Baan Rim Klong Resort|17.0247242,99.7038567,North Gate|17.018468,99.710928,7-Eleven"></a-map>
+<a-map walking="17.031670,99.706329,Baan Rim Klong Resort|17.032004,99.702915|17.0247242,99.7038567,North Gate|17.018468,99.710928,7-Eleven"></a-map>
+
+On the night, the daughter knocked on my door and said there was a festival activity tonight, asking if I wanted to join them. I said I was too tired and didn't want to go. Now I regret.
 
 ### ON THE ROAD
 
-<a-map driving="17.018732,99.712043,Wintour Bus Station|18.799716,99.017627,Chiang Mai Bus Terminal 3"></a-map>
+<a-map driving="17.018732,99.712043,Wintour Bus Station|18.2772803,99.4807422,Lampang bus terminal|18.799716,99.017627,Chiang Mai Bus Terminal 3"></a-map>
 
-#### GEM
+I was sitting a few rows behind the bus, and there were several foreigners at the back. We briefly chatted. Sitting next to me was a Chinese man who claimed to be in the Burmese gem business. He actively asked me for my contact information, saying that I could reach out to him in Chiang Mai. However, I didn't want to do that.
 
-## CHIANG MAI 1
+The bus stopped at Lampang bus terminal for a short while, and I thought it was Chiang Mai, so I got off. After a while, I realized that it wasn't right, so I got back on the bus.
+
+## CHIANG MAI
+
+On my first evening in Chiang Mai, I decided to go for a walk. With a little memory of the map, I walked along the Chiang Mai River past the embassy, flower and fruit markets, had a snack in a alley, and walked back to the hotel along the moat according to my sense of direction.
 
 <a-map walking="18.7964248,98.9940416,Royal Panerai Hotel|18.799951020249672,98.99499109404816|18.799282633655636,98.99798262641798|18.796672396049598,98.99682391219142|18.794726140240503,98.99898564451506|18.794685513174347,98.9964965546485|18.792156459649465,98.9976552688751|18.791294906412276,99.00110060396615|18.789749252874948,98.99644291037642|18.789984231751554,98.99322927281824,Baan klang vieng Tour|18.7964248,98.9940416,Royal Panerai Hotel"></a-map>
-
-<a-map points="18.7879872,98.9983752,16"></a-map>
-
-Wat Buppharam
 
 ### MOB
 
@@ -149,9 +141,15 @@ Say goodbye to my "first love" in the music of `Every Breath You Take`.
 Lucky Massage (Loi Kroh Rd)
 18.784186, 98.997191
 
+<a-map points="18.784186,98.997191,16"></a-map>
+
+<a-map points="18.7879872,98.9983752,16"></a-map>
+
+I changed hotels twice, including staying in the one next to the Wat Buppharam where "Old Zhou" lived in the movie "Lost in Thailand".
+
 <a-flight flight="FD3162" departure="CNX" departure-time="2013-10-19 13:10" destination="HKT" arrive-time="2013-10-19 15:15"></a-flight>
 
-## PHUKET 1
+## PHUKET
 
 > _What are you doing in thailand? Tourist? You go to Patpong? See smoke from pussy, ping pong ball from pussy, razor blade from pussy; bird from pussy. Why not? Thai girls best in the world. Thai food best in the world. Thai dope best in the world._
 
@@ -160,6 +158,16 @@ Lucky Massage (Loi Kroh Rd)
 <a-hotel name="Royal Crown Hotel & Palm Spa resort" date="2013-10-19" nights="1" points="7.893803,98.305505"></a-hotel>
 
 <a-hotel name="I Dee Hotel" points="7.8818396,98.2929051"></a-hotel>
+
+```<a-img>
+name:patong-1
+dir:animation
+```
+
+```<a-img>
+name:patong-2
+dir:animation
+```
 
 ```<a-img>
 name:patong
@@ -211,31 +219,23 @@ name:siri-2
 name:siri-3
 ```
 
-It's the last day I stay in Phuket, it heavy rained in the morning,
-and the wind below to East which mean planes will not landing at beach side.
-Even though, I plan to walking to airport, for photos of plane.
+On my last day in Phuket, the winds picked up and it started raining heavily, accompanied by strong gusts of wind. This meant that the planes wouldn't be able to land on the beachside, and I wouldn't be able to get the photos I wanted.
 
-I hide under my umbrella, elude the strong wind.
-
-Rain stopped, wind direction changed! When I reached the end of the road.
-
-I leave the road and step on sand, heading airport along the beach.
-And a flood stream stopped me, my camera will die if I fall into it.
+However, I didn't have time. I had to brave the wind and rain and struggle towards the beach. I passed through the Sirinat National Park and arrived at the end of the road. From here, there was only sand to walk on. Soon, I encountered a "river" where the rainwater on the land converged into a stream, carving out a "road" on the sand. The current was strong, so I put away my camera and carefully waded across it. After walking for a while, I finally arrived at the end of the runway. As soon as I got there, an A380 took off from above my head.
 
 <a-map walking="8.0920261,98.3019226,Chill House Nai Yang|8.092496,98.299101|8.101805,98.299957,↑walking alone beach" points="8.111834,98.302161"></a-map>
 
-
-
-
-Finally, I reached the end of the runway. An A380 took off over my head immediately. However, I continued to watch the flight radar app and waited for a landing. I tooked some photos of planes, including a beautiful B747. As the sky began to warm and shine, I felt proud of my perseverance and determination to get these photos desipte the challenging and circumstances. 
+Later, the rain stopped, the wind direction changed, and even the sun came out.
 
 <a-flight flight="FD3020" departure="HKT" departure-time="2013-10-29 08:00" destination="DMK" arrive-time="2013-10-29 09:25"></a-flight>
 
-## BANGKOK 2
+## BANGKOK
 
-### PRATUNAM 2
+### PRATUNAM
 
 #### BAIYOKE SUITE HOTEL
+
+I went back to the hotel where I had stayed.
 
 <a-hotel name="Baiyoke Suite Hotel" date="2013-10-29" nights="2" points="13.7530194,100.5373002"></a-hotel>
 

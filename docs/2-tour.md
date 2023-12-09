@@ -168,6 +168,10 @@ name:mabul-1
 ```
 
 ```<a-img>
+name:mabul-2
+```
+
+```<a-img>
 name:mabul-1.jpg
 dir:privacy
 ```
@@ -184,6 +188,11 @@ dir:privacy
 
 ```<a-img>
 name:mabul-3.jpg
+dir:privacy
+```
+
+```<a-img>
+name:mabul-8.jpg
 dir:privacy
 ```
 
@@ -328,7 +337,16 @@ dir:privacy
 ```
 
 ```<a-img>
-name:loveln-2
+name:gt-3
+```
+
+```<a-img>
+name:loveln-2.jpg
+dir:privacy
+```
+
+```<a-img>
+name:isis2.jpg
 dir:privacy
 ```
 
