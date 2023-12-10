@@ -116,12 +116,6 @@ dir:privacy
 
 <a-gallery :img="[{name:'fly-2.jpg',dir:'privacy'},{name:'fly-3.jpg',dir:'privacy'},{name:'fly-4.jpg',dir:'privacy'}]"></a-gallery>
 
-```<a-img>
-name:fly-5
-dir:privacy
-```
-
-
 <a-flight flight="AK6262" departure="BKI" destination="TWU" departure-time="2014-01-08 16:05" arrive-time="2014-01-08 17:00"></a-flight>
 
 ### THE BLACK GUY
@@ -165,10 +159,6 @@ points:4.253798859528792,118.63344342417173,Seaventures Dive Rig|4.2338587993510
 
 ```<a-img>
 name:mabul-1
-```
-
-```<a-img>
-name:mabul-2
 ```
 
 ```<a-img>
@@ -217,6 +207,10 @@ dir:privacy
 ```
 
 ### KAPALAI
+
+```<a-img>
+name:mabul-2
+```
 
 <a-gallery :img="[{name:'kapalai-1'},{name:'kapalai-2'},{name:'kapalai-3'}]"></a-gallery>
 
