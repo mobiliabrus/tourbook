@@ -20,6 +20,25 @@ Early the next morning, I moved to a hotel near Pratunam. The hotel was located 
 
 <a-hotel name="Baiyoke Suite Hotel" date="2013-10-09" nights="3" points="13.7530194,100.5373002"></a-hotel>
 
+
+```<a-img>
+name:bk1
+```
+
+```<a-img>
+name:bk2
+```
+
+```<a-img>
+name:bkdelay1
+dir:animation
+```
+
+```<a-img>
+name:bkdelay2
+dir:animation
+```
+
 The horn honking of cars, the whistles sounding for traffic direction, the chirping of doves, the humming of air conditioning and refrigerators, the shutting doors in other rooms, and the elevator's beep all filled the silence in the room with noise.
 
 "What do you want? Take a ride? Spots? You want silk? I'll take you to the best silk place? Diamonds? Come with me, get presents for girlfriend. Maybe no girlfriend. You want a girl, no problem. Good time. Boy girl fucking no problem..." When you walk on the street, there are always people of different colors trying to talk to you.
@@ -75,7 +94,15 @@ name:skt-1
 name:sukhothai
 ```
 
+```<a-img>
+name:sk1
+```
+
 I met German girls，brown short hair and tall, which is my favorite type. I talked with them, but they were leaving tomorrow.
+
+```<a-img>
+name:sk2
+```
 
 As the sun began to set, I found a restaurant outside the city walls to have dinner. By the time I finished, it was already dark. Unlike cities, there were few streetlights here, and the roads were hardly visible at night. I looked at the map and had two options: spend more time returning along the main road, or take an unknown shortcut. I chose the latter. The path was completely dark, and I had to rely on a weak light to find my way. I rode my bike like crazy on this pitch-black road. All kinds of flying insects hit my face, and some even flew into my mouth. Halfway through the trip, I finally saw the light of a motorcycle and quickly moved over to the side of the road. Not long after, I saw fireflies on the roadside. There were only two or three of them, but they were especially prominent in the dark.
 
@@ -105,6 +132,10 @@ On my first evening in Chiang Mai, I decided to go for a walk. With a little mem
 
 <a-map walking="18.7964248,98.9940416,Royal Panerai Hotel|18.799951020249672,98.99499109404816|18.799282633655636,98.99798262641798|18.796672396049598,98.99682391219142|18.794726140240503,98.99898564451506|18.794685513174347,98.9964965546485|18.792156459649465,98.9976552688751|18.791294906412276,99.00110060396615|18.789749252874948,98.99644291037642|18.789984231751554,98.99322927281824,Baan klang vieng Tour|18.7964248,98.9940416,Royal Panerai Hotel"></a-map>
 
+```<a-img>
+name:cmn
+```
+
 ### MOB
 
 <a-hotel name="Tapae Place Hotel" date="2013-10-17" points="18.7878819,98.9973679"></a-hotel>
@@ -131,7 +162,24 @@ She caught my eyes, a pure cute young face.
 ```
 , her name.
 
+```<a-img>
+name:mob-4.jpg
+dir:privacy
+```
+
+```<a-img>
+name:mob-5.jpg
+dir:privacy
+```
+
 <a-gallery :img="[{name:'mob-1.jpg',dir:'privacy'},{name:'mob-2.jpg',dir:'privacy'},{name:'mob-3.jpg',dir:'privacy'}]"></a-gallery>
+
+```<a-img>
+name:mob-6.jpg
+dir:privacy
+```
+
+<a-gallery :img="[{name:'mob-7.jpg',dir:'privacy'},{name:'mob-8.jpg',dir:'privacy'},{name:'mob-9.jpg',dir:'privacy'}]"></a-gallery>
 
 It became the only way I can forget loneliness.
 I came here everynight to dream? No, I came to be woken up.
@@ -150,6 +198,18 @@ Lucky Massage (Loi Kroh Rd)
 <a-map points="18.7879872,98.9983752,16"></a-map>
 
 I changed hotels twice, including staying in the one next to the Wat Buppharam where "Old Zhou" lived in the movie "Lost in Thailand".
+
+```<a-img>
+name:tj
+```
+
+```<a-img>
+name:tj2
+```
+
+```<a-img>
+name:tj3
+```
 
 <a-flight flight="FD3162" departure="CNX" departure-time="2013-10-19 13:10" destination="HKT" arrive-time="2013-10-19 15:15"></a-flight>
 
@@ -198,8 +258,13 @@ name:victorria-3
 <a-map driving="7.8877042,98.2913469, Patong Bus Station|7.8832076,98.3852828, Phuket Town Bus Terminal"></a-map>
 
 ```<a-img>
+name:pkt
+```
+
+```<a-img>
 name:phukettown-1
 ```
+
 
 Mueang Phuket Exercise Park
 
@@ -229,6 +294,22 @@ However, I didn't have time. I had to brave the wind and rain and struggle towar
 
 <a-map walking="8.0920261,98.3019226,Chill House Nai Yang|8.092496,98.299101|8.101805,98.299957,↑walking alone beach" points="8.111834,98.302161"></a-map>
 
+```<a-img>
+name:flight
+```
+
+```<a-img>
+name:flight2
+```
+
+```<a-img>
+name:flight3
+```
+
+```<a-img>
+name:flightx
+```
+
 Later, the rain stopped, the wind direction changed, and even the sun came out.
 
 <a-flight flight="FD3020" departure="HKT" departure-time="2013-10-29 08:00" destination="DMK" arrive-time="2013-10-29 09:25"></a-flight>
@@ -243,12 +324,16 @@ I went back to the hotel where I had stayed.
 
 <a-hotel name="Baiyoke Suite Hotel" date="2013-10-29" nights="2" points="13.7530194,100.5373002"></a-hotel>
 
-Above my bath room, in the bathtub, Thai girl engaging in noisy sex. I heard loud and clear.
+From the ceiling above the bathtub in the bathroom, I heard a guy and a Thai girl engaging in noisy sex.
 They were reaching the climax of their activity.
 
 That's OK, they are on holiday.
-Instead of recording it, I turned on the television and air-con, and really enjoy the "silence".
+Instead of recording it, I turned on the air conditioning and television. I really enjoyed a moment of "silence".
 
 <a-map walking="13.7530194,100.5394889,Baiyoke Suite Hotel|13.7519761,100.531616,Ratchathewi"></a-map>
+
+```<a-img>
+name:a1
+```
 
 <a-flight flight="FD2550" departure="DMK" departure-time="2013-10-31 06:20" destination="CKG" arrive-time="2013-10-31 10:20"></a-flight>
