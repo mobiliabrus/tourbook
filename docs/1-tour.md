@@ -14,13 +14,6 @@ I am staying in a cramped room at a hostel, and outside my window at night, it i
 
 This is it. Bangkok, good-time city. Gateway to Southeast Asia. Where dollars and Duetsmarks get turned into counterfeit watches and genuine scars.
 
-### PRATUNAM
-
-Early the next morning, I moved to a hotel near Pratunam. The hotel was located on a busy street with a market below. There were crowds of people constantly walking by, and the road was filled with vendors selling their wares. You had to navigate through the crowds and gaps in between to get around.
-
-<a-hotel name="Baiyoke Suite Hotel" date="2013-10-09" nights="3" points="13.7530194,100.5373002"></a-hotel>
-
-
 ```<a-img>
 name:bk1
 ```
@@ -28,6 +21,12 @@ name:bk1
 ```<a-img>
 name:bk2
 ```
+
+### PRATUNAM
+
+Early the next morning, I moved to a hotel near Pratunam. The hotel was located on a busy street with a market below. There were crowds of people constantly walking by, and the road was filled with vendors selling their wares. You had to navigate through the crowds and gaps in between to get around.
+
+<a-hotel name="Baiyoke Suite Hotel" date="2013-10-09" nights="3" points="13.7530194,100.5373002"></a-hotel>
 
 ```<a-img>
 name:bkdelay1
@@ -42,6 +41,11 @@ dir:animation
 The horn honking of cars, the whistles sounding for traffic direction, the chirping of doves, the humming of air conditioning and refrigerators, the shutting doors in other rooms, and the elevator's beep all filled the silence in the room with noise.
 
 "What do you want? Take a ride? Spots? You want silk? I'll take you to the best silk place? Diamonds? Come with me, get presents for girlfriend. Maybe no girlfriend. You want a girl, no problem. Good time. Boy girl fucking no problem..." When you walk on the street, there are always people of different colors trying to talk to you.
+
+
+```<a-img>
+name:cola
+```
 
 ### COWBOY
 
