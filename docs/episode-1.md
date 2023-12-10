@@ -41,17 +41,15 @@ departure-time:2010-04-17 18:40
 arrive-time:2010-04-17 19:55
 ```
 
-<a-secret name="dww" autoload></a-secret>
-
 <a-secret name="lxx" autoload></a-secret>
 
-<a-secret name="ranling" autoload></a-secret>
+Later, I resigned and started my own business.
 
+<a-secret name="ranling" autoload></a-secret>
 
 ### Weizhou Island
 
 I've been Weizhou Island twice. The first time is on July 2011.
-
 
 ```<a-flight>
 flight:EU2718
@@ -69,8 +67,6 @@ departure-time:2011-09-13 10:15
 arrive-time:2011-09-13 11:45
 ```
 
-<a-secret name="zwd" autoload></a-secret>
-
 ```<a-img>
 name:wzd
 ```
@@ -78,6 +74,8 @@ name:wzd
 ```<a-img>
 name:wzd2
 ```
+
+<a-secret name="zwd" autoload></a-secret>
 
 ```<a-img>
 name:wzd3.jpg

@@ -299,6 +299,16 @@ dir:privacy
 ```
 
 ```<a-img>
+name:gt1.jpg
+dir:privacy
+```
+
+```<a-img>
+name:gt2.jpg
+dir:privacy
+```
+
+```<a-img>
 name:george-town-fengcheche
 ```
 
@@ -329,6 +339,11 @@ dir:privacy
 
 ```<a-img>
 name:gt-3
+```
+
+```<a-img>
+name:gt3.jpg
+dir:privacy
 ```
 
 ```<a-img>
@@ -382,6 +397,11 @@ Night bar, riding danger
 ### BEACH
 
 Isis went Langkawi
+
+```<a-img>
+name:gt4.jpg
+dir:privacy
+```
 
 ```<a-img>
 name:pbeach-1.jpg
