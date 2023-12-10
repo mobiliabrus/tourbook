@@ -33,6 +33,10 @@ driving:9.709127,99.984432,Thong Sala|9.676993,100.068051,Haad Rin
 ```
 
 ```<a-img>
+name:fullmoon0
+```
+
+```<a-img>
 name:fullmoon-3
 ```
 
@@ -263,6 +267,11 @@ dir:privacy
 
 ```<a-img>
 name:similan-4.jpg
+dir:privacy
+```
+
+```<a-img>
+name:qingl.jpg
 dir:privacy
 ```
 
