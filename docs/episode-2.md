@@ -20,6 +20,7 @@
 
 <a-secret name="wxj" autoload></a-secret>
 
+
 ```<a-img>
 name:xlj-1.jpg
 dir:privacy
@@ -35,20 +36,7 @@ name:xlj-3.jpg
 dir:privacy
 ```
 
-```<a-img>
-name:xlj-4.jpg
-dir:privacy
-```
-
-```<a-img>
-name:xlj-5.jpg
-dir:privacy
-```
-
-```<a-img>
-name:xlj-6.jpg
-dir:privacy
-```
+<a-carousel :img="[{name:'xlj-4.jpg',dir:'privacy'},{name:'xlj-5.jpg',dir:'privacy'},{name:'xlj-6.jpg',dir:'privacy'}]"></a-gallery>
 
 
 ### Emei
