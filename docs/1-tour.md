@@ -259,6 +259,14 @@ name:victorria-3
 
 ### PHUKET TOWN
 
+```<a-img>
+name:pktbus
+```
+
+```<a-img>
+name:pktbus2
+```
+
 <a-map driving="7.8877042,98.2913469, Patong Bus Station|7.8832076,98.3852828, Phuket Town Bus Terminal"></a-map>
 
 ```<a-img>
@@ -292,11 +300,19 @@ name:siri-2
 name:siri-3
 ```
 
+```<a-img>
+name:sirix
+```
+
 On my last day in Phuket, the winds picked up and it started raining heavily, accompanied by strong gusts of wind. This meant that the planes wouldn't be able to land on the beachside, and I wouldn't be able to get the photos I wanted.
 
 However, I didn't have time. I had to brave the wind and rain and struggle towards the beach. I passed through the Sirinat National Park and arrived at the end of the road. From here, there was only sand to walk on. Soon, I encountered a "river" where the rainwater on the land converged into a stream, carving out a "road" on the sand. The current was strong, so I put away my camera and carefully waded across it. After walking for a while, I finally arrived at the end of the runway. As soon as I got there, an A380 took off from above my head.
 
 <a-map walking="8.0920261,98.3019226,Chill House Nai Yang|8.092496,98.299101|8.101805,98.299957,↑walking alone beach" points="8.111834,98.302161"></a-map>
+
+```<a-img>
+name:flight0
+```
 
 ```<a-img>
 name:flight
@@ -311,7 +327,15 @@ name:flight3
 ```
 
 ```<a-img>
+name:flight4
+```
+
+```<a-img>
 name:flightx
+```
+
+```<a-img>
+name:flighte
 ```
 
 Later, the rain stopped, the wind direction changed, and even the sun came out.
