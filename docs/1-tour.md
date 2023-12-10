@@ -71,6 +71,10 @@ The guesthouse provided bicycles for 50 baht a day. I rode on one and started fr
 name:skt-1
 ```
 
+```<a-img>
+name:sukhothai
+```
+
 I met German girls，brown short hair and tall, which is my favorite type. I talked with them, but they were leaving tomorrow.
 
 As the sun began to set, I found a restaurant outside the city walls to have dinner. By the time I finished, it was already dark. Unlike cities, there were few streetlights here, and the roads were hardly visible at night. I looked at the map and had two options: spend more time returning along the main road, or take an unknown shortcut. I chose the latter. The path was completely dark, and I had to rely on a weak light to find my way. I rode my bike like crazy on this pitch-black road. All kinds of flying insects hit my face, and some even flew into my mouth. Halfway through the trip, I finally saw the light of a motorcycle and quickly moved over to the side of the road. Not long after, I saw fireflies on the roadside. There were only two or three of them, but they were especially prominent in the dark.

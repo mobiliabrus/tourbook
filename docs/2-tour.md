@@ -220,8 +220,7 @@ dir:privacy
 
 <a-gallery :img="[{name:'kapalai-1'},{name:'kapalai-2'},{name:'kapalai-3'}]"></a-gallery>
 
-Waves was pushing her far from boat, toward the houses.
-I swam backwards with our hands connected.
+The crew had begun to shout to all the snorkelers to return to the boat. She was furthest away from the boat, and the current was strong, so I quickly swam over, took her hand, and tried to swim towards the boat.
 
 ## KOTA KINABALU
 
@@ -229,20 +228,18 @@ I swam backwards with our hands connected.
 
 ### SALT DOG
 
-After dinner, I said go for a drink. She agree.
-
-She suggest me a cup of Salt Dog.
+I went to dinner with her, and then followed her to an open-air bar. We talked about some things, such as her experience in China and why she wanted to go back to France. She recommended a wine that was soaked in salt, and she was surprised that I finished it so quickly and ordered another one. Afterwards, we walked back to the hostel along the road. When I entered the room, she was video chatting with her boyfriend on the bed, and I said hello.
 
 ```<a-map>
 walking:5.982953, 116.076504,Bar|5.9833774,116.0776038,Borneo Backpackers
 points:5.983082,116.076264
 ```
 
-We walked back to the hostel.
+The next morning, I was bored flipping through my book when he came over and squatted at my feet, telling me that she was going to KK Mountain with another tourist here. So, we parted ways. It was a strange feeling. I also wanted to go up the mountain with her, but my itinerary was already set.
 
-When I get back to the room, she's taking video call with her boyfriend on the upper bed. She find me and turn camera, and said: "here he is". And he say "hi" to me.
-
-next day, she told me that she will go Mountain KK with another guy.
+```<a-img>
+name:cat
+```
 
 ## PENANG
 
