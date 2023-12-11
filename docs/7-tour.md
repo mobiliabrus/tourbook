@@ -283,6 +283,24 @@ name:japanspa-3
 ```
 
 ```<a-img>
+name:songkran-boy
+```
+
+```<a-img>
+name:songkran-girl1
+```
+
+```<a-img>
+name:songkran-girl2
+```
+
+<a-carousel :img="[{name:'songkran-girl3a'},{name:'songkran-girl3b'},{name:'songkran-girl3c'}]"></a-carousel>
+
+```<a-img>
+name:songkran-rider
+```
+
+```<a-img>
 name:songkran-1
 ```
 
@@ -330,6 +348,11 @@ dir:privacy
 
 ```<a-img>
 name:bitch.jpg
+dir:privacy
+```
+
+```<a-img>
+name:bitch3.jpg
 dir:privacy
 ```
 

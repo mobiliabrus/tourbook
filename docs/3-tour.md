@@ -233,7 +233,7 @@ driving:13.759380,100.498725,Lomprayah Bangkok|10.358415,99.267069,Chumphon (Lom
 
 ## KOH TAO
 
-<a-gallery :img="[{name:'kohtaorainny.jpg'},{name:'kohtaosunny.jpg'}]"></a-gallery>
+<a-gallery :img="[{name:'kohtaorainny'},{name:'kohtaosunny'}]"></a-gallery>
 
 ```<a-img>
 name:crystal
