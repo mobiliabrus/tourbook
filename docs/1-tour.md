@@ -192,12 +192,7 @@ The dream had became my reality.
 The night before I leave Chiangmai, I cried.
 Say goodbye to my "first love" in the music of `Every Breath You Take`.
 
-### LUCKY
-
-Lucky Massage (Loi Kroh Rd)
-18.784186, 98.997191
-
-<a-map points="18.784186,98.997191,16"></a-map>
+<a-secret name="lucky" autoload></a-secret>
 
 <a-map points="18.7879872,98.9983752,16"></a-map>
 
