@@ -1,5 +1,7 @@
 ## BANGKOK
 
+<a-times :times="6" location="BANGKOK"></a-times>
+
 <a-flight flight="FD557" departure="CKG" destination="DMK" departure-time="2015-03-31 11:10" arrive-time="2015-03-31 13:20"></a-flight>
 
 <a-hotel name="Baiyoke Sky Hotel" date="2015-03-31" nights="1"></a-hotel>
@@ -18,12 +20,16 @@ dir:privacy
 
 ## KOH TAO
 
+<a-times :times="2" location="KOH TAO"></a-times>
+
 You think I waste time taking photographs of the sky.
 One night I will get the perfect photograp
 
 <a-hotel name="Ananda Villa" date="2015-04-03" nights="2"></a-hotel>
 
 ## KOH PHANGAN
+
+<a-times :times="1" location="KOH PHANGAN"></a-times>
 
 ### FULLMOON PARTY
 
@@ -150,6 +156,8 @@ divesites:10.10535,99.81525,White Rock|10.11741,99.81301,Twins Rocks|10.16120,99
 
 ## KRABI
 
+<a-times :times="1" location="KRABI"></a-times>
+
 ```<a-map>
 driving:8.042807,98.810486,Ao Nang Landmark Bus Station|7.884028,98.395726,Phuket Bus Terminal 1|7.844075,98.294148,Woraburi Phuket Resort & Spa
 ```
@@ -162,7 +170,11 @@ name:draw
 
 And as for traveling alone, fuck it. If that's the way it has to be, then that's the way it is.
 
-## KARON
+## PHUKET
+
+<a-times :times="2" location="PHUKET"></a-times>
+
+### KARON
 
 <a-hotel name="Woraburi Phuket Resort & Spa" date="2015-04-11" nights="4"></a-hotel>
 
@@ -187,6 +199,8 @@ driving:7.881441,98.294236,Corner|7.844075,98.294148,Woraburi Phuket Resort & Sp
 ```
 
 ## KOH SIMILAN
+
+<a-times :times="1" location="KOH SIMILAN"></a-times>
 
 ```<a-map>
 driving:7.844075,98.294148,Woraburi Phuket Resort & Spa|8.644964,98.251020,Khao Lak Scuba Adventures
@@ -287,7 +301,9 @@ _pre-flight surface interval_
 
 <a-flight flight="UO764" departure="HKT" destination="HKG" departure-time="2015-04-21 02:55" arrive-time="2015-04-21 07:30"></a-flight>
 
-## Hongkong
+## HONGKONG
+
+<a-times :times="1" location="HONGKONG"></a-times>
 
 ```<a-img>
 name:hk

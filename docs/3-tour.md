@@ -8,9 +8,13 @@
 
 ## BANGKOK
 
+<a-times :times="3" location="BANGKOK"></a-times>
+
 <a-flight flight="FD553" departure="CKG" destination="DMK" departure-time="2014-11-02 19:55" arrive-time="2014-11-02 22:05"></a-flight>
 
 ## CHIANG MAI
+
+<a-times :times="2" location="CHIANG MAI"></a-times>
 
 <a-flight flight="FD3435" departure="DMK" destination="CNX" departure-time="2014-11-03 10:30" arrive-time="2014-11-03 11:40"></a-flight>
 
@@ -225,6 +229,8 @@ Accident
 
 ## BANGKOK
 
+<a-times :times="4" location="BANGKOK"></a-times>
+
 <a-flight flight="FD3446" departure="CNX" destination="DMK" departure-time="2014-11-08 09:30" arrive-time="2014-11-08 10:50"></a-flight>
 
 ```<a-map>
@@ -232,6 +238,8 @@ driving:13.759380,100.498725,Lomprayah Bangkok|10.358415,99.267069,Chumphon (Lom
 ```
 
 ## KOH TAO
+
+<a-times :times="1" location="KOH TAO"></a-times>
 
 <a-gallery :img="[{name:'kohtaorainny'},{name:'kohtaosunny'}]"></a-gallery>
 
@@ -370,6 +378,8 @@ _Just visible through the net is the outline of two human forms entwined._
 _#THE BEACH#_
 
 ## BANGKOK
+
+<a-times :times="5" location="BANGKOK"></a-times>
 
 <a-hotel name="48 ville" date="2014-11-2" nights="1"></a-hotel>
 

@@ -1,5 +1,7 @@
 ## BANGKOK
 
+<a-times :times="1" location="BANGKOK"></a-times>
+
 ### DON MEANG
 
 <a-flight flight="FD2557" departure="CKG" departure-time="2013-10-08 11:10" destination="DMK" arrive-time="2013-10-08 13:20"></a-flight>
@@ -62,6 +64,8 @@ In the evening, I went to Cowboy Street, a short red-light district. I found a s
 <a-secret name="body2body"></a-secret>
 
 ## SUKHOTHAI
+
+<a-times :times="1" location="SUKHOTHAI"></a-times>
 
 <a-map driving="13.813143,100.548074,Mo Chit Bus Station|17.014624,99.812901,Sukhothai Bus Terminal"></a-map>
 
@@ -131,6 +135,8 @@ I was sitting a few rows behind the bus, and there were several foreigners at th
 The bus stopped at Lampang bus terminal for a short while, and I thought it was Chiang Mai, so I got off. After a while, I realized that it wasn't right, so I got back on the bus.
 
 ## CHIANG MAI
+
+<a-times :times="1" location="CHIANG MAI"></a-times>
 
 On my first evening in Chiang Mai, I decided to go for a walk. With a little memory of the map, I walked along the Chiang Mai River past the embassy, flower and fruit markets, had a snack in a alley, and walked back to the hotel along the moat according to my sense of direction.
 
@@ -213,6 +219,8 @@ name:tj3
 <a-flight flight="FD3162" departure="CNX" departure-time="2013-10-19 13:10" destination="HKT" arrive-time="2013-10-19 15:15"></a-flight>
 
 ## PHUKET
+
+<a-times :times="1" location="PHUKET"></a-times>
 
 > _What are you doing in thailand? Tourist? You go to Patpong? See smoke from pussy, ping pong ball from pussy, razor blade from pussy; bird from pussy. Why not? Thai girls best in the world. Thai food best in the world. Thai dope best in the world._
 
@@ -338,6 +346,8 @@ Later, the rain stopped, the wind direction changed, and even the sun came out.
 <a-flight flight="FD3020" departure="HKT" departure-time="2013-10-29 08:00" destination="DMK" arrive-time="2013-10-29 09:25"></a-flight>
 
 ## BANGKOK
+
+<a-times :times="2" location="BANGKOK"></a-times>
 
 ### PRATUNAM
 

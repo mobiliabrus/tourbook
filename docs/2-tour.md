@@ -1,5 +1,7 @@
 ## KULA LUMPUR
 
+<a-times :times="1" location="KULA LUMPUR"></a-times>
+
 <a-flight flight="3U8722" departure="CKG" destination="KMG" departure-time="2014-01-04 12:50" arrive-time="2014-01-04 14:05"></a-flight>
 
 <a-flight flight="AK1009" departure="KMG" destination="KUL" departure-time="2014-01-04 17:40" arrive-time="2014-01-04 21:50"></a-flight>
@@ -38,6 +40,8 @@ When I woke up, anyone else had already left. There was self-service breakfast a
 After breakfast, I went for a walk and realized that the community was extremely busy, and everyone led a fast-paced life without taking any breaks. The city felt like a black hole, and it absorbed the people around it. People walked fast and hurriedly through the crowded streets. I limited myself to just walking, eating and sleeping for two days; however, I realized that this wasn't the place for me, so I had to leave.
 
 ## KOTA KINABALU
+
+<a-times :times="1" location="KOTA KINABALU"></a-times>
 
 <a-flight flight="AK5104" departure="KUL" destination="BKI" departure-time="2014-01-06 11:05" arrive-time="2014-01-06 13:40"></a-flight>
 
@@ -128,7 +132,9 @@ when aborad, he ask me where my seat is, would I change my seat to continue our 
 He told me his seat no is 28.
 and mine is 6A.
 
-## TAWAU & SEMPORNA
+## SEMPORNA
+
+<a-times :times="1" location="SEMPORNA"></a-times>
 
 After landing, I found my phone was out of power. I found a store selling phone cards to charge. A local driver found me and asked me am I the passager they are looking for. I didn't know what name the girl is and I am not sure weather this was the bus she was at, so I declined.
 
@@ -236,6 +242,8 @@ name:cat
 ```
 
 ## PENANG
+
+<a-times :times="1" location="PENANG"></a-times>
 
 <a-flight flight="AK5323" departure="BKI" destination="PEN" departure-time="2014-01-13 13:20" arrive-time="2014-01-13 16:05"></a-flight>
 
@@ -502,7 +510,9 @@ name:drsun
 > _I feel bad. Isis came back and left again. I didn't go to airport to see her off. It like a huge whirling current. Finally everyone left. Just left me to follow Dr. Sun's step?_
 > <br/><div style="text-align:right">_- 2014-01-18_</div>
 
-## KULA LUMPUR 2
+## KULA LUMPUR
+
+<a-times :times="2" location="KULA LUMPUR"></a-times>
 
 <a-hotel name="Hotel Budget Inn Jalan Alor" date="2014-01-19" nights="2"></a-hotel>
 

@@ -2,6 +2,8 @@ Why you visit a place twice, people asked. First,  I have memories there. And th
 
 ## BANGKOK
 
+<a-times :times="8" location="BANGKOK"></a-times>
+
 <a-flight flight="FD553" departure="CKG" destination="DMK" departure-time="2017-01-05 19:55" arrive-time="2017-01-05 22:05"></a-flight>
 
 <a-hotel name="Don Muang Hotel" date="2017-01-05" nights="1"></a-hotel>
@@ -9,6 +11,8 @@ Why you visit a place twice, people asked. First,  I have memories there. And th
 <a-flight flight="FD3239" departure="DMK" destination="URT" departure-time="2017-01-06 11:40" arrive-time="2017-01-06 12:50"></a-flight>
 
 ## SURATTHANI
+
+<a-times :times="1" location="SURATTHANI"></a-times>
 
 People visit Suratthani because it's the gateway to the Gulf of Thailand. From the international airport, you'll be able to visit Koh Phangan, Koh Samui and the Ang Thong National Marine.
 
@@ -22,6 +26,8 @@ points:9.14651073017441,99.333013684943,Papangkorn House|8.644991293002645,98.25
 ```
 
 ## KOH SIMILAN
+
+<a-times :times="2" location="KOH SIMILAN"></a-times>
 
 > In January 2017, Southern Thailand was hit by a devastating flood disaster. Thunderstorms and strong winds caused extreme waves in the sea.
 
@@ -60,6 +66,8 @@ Next morning, I headed to Koh Phangan by riding 6-hours bus and ferry.
 
 ## KOH PHANGAN
 
+<a-times :times="2" location="KOH PHANGAN"></a-times>
+
 I saw flood on this island. The minibus driver had to took detour from the jungle. Arrived at resort after lunchtime, I told the front deck that I had just finished my seagoing tour. The stormy weather made the ship swing and moving up and down. After voyage, I got a week-long Land Sickness which made me feel shifts under my feet.
 
 <a-hotel name="Sarikantang Resort & Spa, Koh Phangan" date="2017-1-12" nights="5"></a-hotel>
@@ -82,6 +90,8 @@ points:9.7108346,99.9854419,Market Ko Phangan
 What am I coming all the way to do? 
 
 ## BANGKOK
+
+<a-times :times="9" location="BANGKOK"></a-times>
 
 <a-flight flight="FD3240" departure="URT" destination="DMK" departure-time="2017-01-17 13:20" arrive-time="2017-01-17 14:35"></a-flight>
 
