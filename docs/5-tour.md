@@ -6,4 +6,4 @@ Previously, in order to get the best price, I would need to buy my ticket a year
 
 <a-hotel name="Novotel Bangkok Platinum Pratunam" date="2015-10-27" nights="2"></a-hotel>
 
-Unfortunately, these two days are the Buddha's birthday, and I can't buy beer.
+Unfortunately, Today is the Buddha's birthday, so they didn't sold beer.
