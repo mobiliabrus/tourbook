@@ -8,11 +8,11 @@
 
 <a-map driving="13.9181208,100.6009837,A1 Bus|13.802285,100.5545711,Mo Chit"></a-map>
 
-The first feeling after leaving Don Mueang Airport is heat. The bus drives on the right side, so you have to get on the bus from the left door. Take the A1 bus to mo Chit, then change to the BTS to get to your destination. I have taken this route many times.
+As the airport doors slide open, a wall of heat engulfs me. The bus veers right, so I step on from the left. A1 to Mo Chit, BTS to my destination.
 
-On the first day, I rarely spoke and didn't say much; I wasn't used to communicating in English yet.
+My hostel room is a cramped cell, and outside its window, Bangkok comes alive at night. Tuk-tuks blast music, drunk laughter and arguments fill the air. Sleep comes in fits and starts, interrupted by the chaos beyond.
 
-I am staying in a cramped room at a hostel, and outside my window at night, it is especially noisy - there are tuk-tuks blasting music loudly, drunk people laughing and arguing. I managed to get some sleep, but was awakened by the commotion outside. When I looked at my watch, it was already midnight, but the outside world was still as lively as daytime.
+I check my watch: midnight. But this city never sleeps. Its energy pulsates like a living organism.
 
 This is it. Bangkok, good-time city. Gateway to Southeast Asia. Where dollars and Duetsmarks get turned into counterfeit watches and genuine scars.
 
