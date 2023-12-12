@@ -71,9 +71,11 @@ In the evening, I went to Cowboy Street, a short red-light district. I found a s
 
 The bus only stopped in the new town, so I walked directly to the songthaew after getting off. I asked the driver how much it would cost to go to the ancient city and haggled with him. He just said "okay". The driver took me to a convenience store in the ancient city, where I insisted on going to a hotel nearby. When we arrived, the driver said the place was far and there was no discount, and this made the whole trip unpleasant.
 
-When I got off, I couldn't find the resort and only saw a small food cart selling skewers. I went to buy some and asked for directions. The owner of the cart called over a person in a police uniform who helped me find the way. Just as I was leaving, the police officer stopped me and insisted on driving me to the hotel. I was worried about being cheated, but I couldn't resist his enthusiasm and had to get on the pickup.
+Disembarking, I found myself lost and unable to locate the resort, only spotting a humble food cart selling skewers. I approached and purchased some, using the opportunity to ask for directions. The owner of the cart promptly summoned a uniformed police officer who kindly offered to guide me.
 
-It drove about one one hundred meters forward, turned right for another one hundred meters, and then we arrived at the hotel. He didn't ask me for any money and just said he was a teacher nearby. It was then that I remembered seeing a car of boy scouts on the road.
+As I prepared to depart, the officer insisted on personally driving me to the hotel in his pickup truck. My suspicions were initially raised, but his unwavering enthusiasm left me with no choice but to accept.
+
+We drove a mere hundred meters forward before turning right for another hundred, and soon enough, we arrived at the hotel. To my surprise, he did not demand any payment, simply revealing that he was a teacher in the area. It was then that I recalled seeing a group of boy scouts traveling in a vehicle earlier - perhaps they were his students.
 
 <a-map driving="17.030496,99.702936,Tourist Information Center|17.032004,99.702915|17.031670,99.706329,Baan Rim Klong Resort"></a-map>
 
