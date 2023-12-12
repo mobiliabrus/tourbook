@@ -1,6 +1,6 @@
-## BANGKOK
+## BANGKOK ⁴
 
-<a-times :times="7" location="BANGKOK"></a-times>
+<a-times :times="4" location="BANGKOK"></a-times>
 
 Previously, in order to get the best price, I would need to buy my ticket a year in advance and set aside at least half a month for vacation. But this time, I didn't buy my ticket in advance, didn't set aside vacation time, and just went away for a weekend.
 

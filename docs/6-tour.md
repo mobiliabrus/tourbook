@@ -1,8 +1,8 @@
 Why you visit a place twice, people asked. First,  I have memories there. And then, it provides me chance to compensate.
 
-## BANGKOK
+## BANGKOK ⁵
 
-<a-times :times="8" location="BANGKOK"></a-times>
+<a-times :times="5" location="BANGKOK"></a-times>
 
 <a-flight flight="FD553" departure="CKG" destination="DMK" departure-time="2017-01-05 19:55" arrive-time="2017-01-05 22:05"></a-flight>
 
@@ -10,7 +10,7 @@ Why you visit a place twice, people asked. First,  I have memories there. And th
 
 <a-flight flight="FD3239" departure="DMK" destination="URT" departure-time="2017-01-06 11:40" arrive-time="2017-01-06 12:50"></a-flight>
 
-## SURATTHANI
+## SURATTHANI ¹
 
 <a-times :times="1" location="SURATTHANI"></a-times>
 
@@ -25,7 +25,7 @@ driving:9.1438932,99.3283169,Surat Thani Transport Station|8.9006588,98.5198817,
 points:9.14651073017441,99.333013684943,Papangkorn House|8.644991293002645,98.25099184322282,Khao Lak Scuba Adventures
 ```
 
-## KOH SIMILAN
+## KOH SIMILAN ²
 
 <a-times :times="2" location="KOH SIMILAN"></a-times>
 
@@ -64,7 +64,7 @@ Next morning, I headed to Koh Phangan by riding 6-hours bus and ferry.
 
 <a-hotel name="B.B.mansion" date="2017-01-11" nights="1"></a-hotel>
 
-## KOH PHANGAN
+## KOH PHANGAN ²
 
 <a-times :times="2" location="KOH PHANGAN"></a-times>
 
@@ -89,9 +89,7 @@ points:9.7108346,99.9854419,Market Ko Phangan
 
 What am I coming all the way to do? 
 
-## BANGKOK
-
-<a-times :times="9" location="BANGKOK"></a-times>
+## BANGKOK ⁵
 
 <a-flight flight="FD3240" departure="URT" destination="DMK" departure-time="2017-01-17 13:20" arrive-time="2017-01-17 14:35"></a-flight>
 

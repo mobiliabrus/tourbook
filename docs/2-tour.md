@@ -1,4 +1,4 @@
-## KULA LUMPUR
+## KULA LUMPUR ¹
 
 <a-times :times="1" location="KULA LUMPUR"></a-times>
 
@@ -39,7 +39,7 @@ When I woke up, anyone else had already left. There was self-service breakfast a
 
 After breakfast, I went for a walk and realized that the community was extremely busy, and everyone led a fast-paced life without taking any breaks. The city felt like a black hole, and it absorbed the people around it. People walked fast and hurriedly through the crowded streets. I limited myself to just walking, eating and sleeping for two days; however, I realized that this wasn't the place for me, so I had to leave.
 
-## KOTA KINABALU
+## KOTA KINABALU ¹
 
 <a-times :times="1" location="KOTA KINABALU"></a-times>
 
@@ -132,7 +132,7 @@ when aborad, he ask me where my seat is, would I change my seat to continue our 
 He told me his seat no is 28.
 and mine is 6A.
 
-## SEMPORNA
+## SEMPORNA ¹
 
 <a-times :times="1" location="SEMPORNA"></a-times>
 
@@ -222,7 +222,7 @@ name:mabul-2
 
 The crew had begun to shout to all the snorkelers to return to the boat. She was furthest away from the boat, and the current was strong, so I quickly swam over, took her hand, and tried to swim towards the boat.
 
-## KOTA KINABALU
+## KOTA KINABALU ¹
 
 <a-flight flight="AK6269" departure="TWU" destination="BKI" departure-time="2014-01-12 10:15" arrive-time="2014-01-12 11:05"></a-flight>
 
@@ -241,7 +241,7 @@ The next morning, I was bored flipping through my book when he came over and squ
 name:cat
 ```
 
-## PENANG
+## PENANG ¹
 
 <a-times :times="1" location="PENANG"></a-times>
 
@@ -510,9 +510,7 @@ name:drsun
 > _I feel bad. Isis came back and left again. I didn't go to airport to see her off. It like a huge whirling current. Finally everyone left. Just left me to follow Dr. Sun's step?_
 > <br/><div style="text-align:right">_- 2014-01-18_</div>
 
-## KULA LUMPUR
-
-<a-times :times="2" location="KULA LUMPUR"></a-times>
+## KULA LUMPUR ¹
 
 <a-hotel name="Hotel Budget Inn Jalan Alor" date="2014-01-19" nights="2"></a-hotel>
 

@@ -1,6 +1,6 @@
-## BANGKOK
+## BANGKOK ³
 
-<a-times :times="6" location="BANGKOK"></a-times>
+<a-times :times="3" location="BANGKOK"></a-times>
 
 <a-flight flight="FD557" departure="CKG" destination="DMK" departure-time="2015-03-31 11:10" arrive-time="2015-03-31 13:20"></a-flight>
 
@@ -18,7 +18,7 @@ name:she-1
 dir:privacy
 ```
 
-## KOH TAO
+## KOH TAO ²
 
 <a-times :times="2" location="KOH TAO"></a-times>
 
@@ -27,7 +27,7 @@ One night I will get the perfect photograp
 
 <a-hotel name="Ananda Villa" date="2015-04-03" nights="2"></a-hotel>
 
-## KOH PHANGAN
+## KOH PHANGAN ¹
 
 <a-times :times="1" location="KOH PHANGAN"></a-times>
 
@@ -118,7 +118,7 @@ name:fullmoonend
 dir:privacy
 ```
 
-## KOH TAO
+## KOH TAO ²
 
 ```<a-img>
 name:bed-she.jpg
@@ -154,7 +154,7 @@ points:10.085696,99.825093,Crystal Dive Resort
 divesites:10.10535,99.81525,White Rock|10.11741,99.81301,Twins Rocks|10.16120,99.78779,Chumphon Pinnacle|10.10169,99.81537,HTMS Sattakut
 ```
 
-## KRABI
+## KRABI ¹
 
 <a-times :times="1" location="KRABI"></a-times>
 
@@ -170,7 +170,7 @@ name:draw
 
 And as for traveling alone, fuck it. If that's the way it has to be, then that's the way it is.
 
-## PHUKET
+## PHUKET ²
 
 <a-times :times="2" location="PHUKET"></a-times>
 
@@ -198,7 +198,7 @@ name:songkran1-2
 driving:7.881441,98.294236,Corner|7.844075,98.294148,Woraburi Phuket Resort & Spa
 ```
 
-## KOH SIMILAN
+## KOH SIMILAN ¹
 
 <a-times :times="1" location="KOH SIMILAN"></a-times>
 
@@ -293,7 +293,7 @@ dir:privacy
 name:koh-bon
 ```
 
-## Phuket
+## Phuket ²
 
 _pre-flight surface interval_
 
@@ -301,7 +301,7 @@ _pre-flight surface interval_
 
 <a-flight flight="UO764" departure="HKT" destination="HKG" departure-time="2015-04-21 02:55" arrive-time="2015-04-21 07:30"></a-flight>
 
-## HONGKONG
+## HONGKONG ¹
 
 <a-times :times="1" location="HONGKONG"></a-times>
 

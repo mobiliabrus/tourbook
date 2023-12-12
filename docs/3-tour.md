@@ -6,13 +6,13 @@
 > _So you think something might happen; it's easy to believe, it's exciting._
 > _But she has a boyfriend so you are jealous._
 
-## BANGKOK
+## BANGKOK ²
 
-<a-times :times="3" location="BANGKOK"></a-times>
+<a-times :times="2" location="BANGKOK"></a-times>
 
 <a-flight flight="FD553" departure="CKG" destination="DMK" departure-time="2014-11-02 19:55" arrive-time="2014-11-02 22:05"></a-flight>
 
-## CHIANG MAI
+## CHIANG MAI ²
 
 <a-times :times="2" location="CHIANG MAI"></a-times>
 
@@ -181,7 +181,7 @@ name:chiangmai-1
 name:qin-3
 ```
 
-## OLD CITY
+### OLD CITY
 
 11-6
 
@@ -221,15 +221,13 @@ dir:privacy
 driving:18.7979829,98.9660400,Baan Thai Apartment|18.8083025,98.9547589,Chiang Mai University
 ```
 
-## CHIANG MAI AIRPORT
+### CHIANG MAI AIRPORT
 
 I saw she off at the airport.
 
 Accident
 
-## BANGKOK
-
-<a-times :times="4" location="BANGKOK"></a-times>
+## BANGKOK ²
 
 <a-flight flight="FD3446" departure="CNX" destination="DMK" departure-time="2014-11-08 09:30" arrive-time="2014-11-08 10:50"></a-flight>
 
@@ -237,7 +235,7 @@ Accident
 driving:13.759380,100.498725,Lomprayah Bangkok|10.358415,99.267069,Chumphon (Lomprayah Pier)|10.084742,99.824118,Koh Tao (Mae Haad Pier)
 ```
 
-## KOH TAO
+## KOH TAO ¹
 
 <a-times :times="1" location="KOH TAO"></a-times>
 
@@ -377,9 +375,7 @@ _Just visible through the net is the outline of two human forms entwined._
 
 _#THE BEACH#_
 
-## BANGKOK
-
-<a-times :times="5" location="BANGKOK"></a-times>
+## BANGKOK ²
 
 <a-hotel name="48 ville" date="2014-11-2" nights="1"></a-hotel>
 

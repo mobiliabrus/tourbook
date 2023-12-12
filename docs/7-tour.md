@@ -1,4 +1,4 @@
-## KOTA KINABALU
+## KOTA KINABALU ²
 
 <a-times :times="2" location="KOTA KINABALU"></a-times>
 
@@ -102,14 +102,12 @@ Then I give up. It's necessary to protect my kness as I will go scuba dive days 
 
 I hit my kness twice again when desend.
 
-## KOTA KINIBALU
-
 My kness can not band, extremely pantful pain when walk.
 I slowly move to a drug store,
 
 <a-hotel name="Borneo Backpackers" date="2017-04-04" nights="2"></a-hotel>
 
-## SEMPORNA
+## SEMPORNA ²
 
 ### SEA VENTURES
 
@@ -219,15 +217,17 @@ I took short path which goes though a living zone next morning.
 
 <a-flight flight="AK838" departure="KUL" destination="URT" departure-time="2017-04-10 12:00" arrive-time="2017-04-10 12:30"></a-flight>
 
-## KOH SAMUI
+## KOH SAMUI ¹
 
 <a-times :times="1" location="KOH SAMUI"></a-times>
 
 <a-hotel name="Samui Hostel" date="2017-04-10" nights="7"></a-hotel>
 
-## FULLMOON PARTY
+## KOH PHANGAN ³
 
 <a-times :times="3" location="KOH PHANGAN"></a-times>
+
+### FULLMOON PARTY
 
 drunkards, goats, hookers, drugsters and tourists.
 
@@ -278,7 +278,10 @@ After that I took speed boat back to KOH SAMUI.
 ```<a-map>
 points:9.6742334,100.0639134,Haad Rin Pier|9.5713503,100.0610741,Bangrak Seatran Pier
 ```
-## SONGKRAN 2561
+
+## KOH SAMUI ¹
+
+### SONGKRAN 2561
 
 ```<a-img>
 name:japanspa-1
