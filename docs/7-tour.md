@@ -26,16 +26,14 @@ Dormitory (Grace Hostel) at Kinabalu Park
 points:6.0053195,116.5421188,Kinabalu National Park;6.01042297268944,116.5393427365916,Grace hostel
 ```
 
-Though a great problem confronted me that I was traveling alone. To climb this mountain, a guide was required. The guide fee is quite expensive, and the best way is share it into six. I need a team, so I made a pickup sign.
+However, I still faced a problem. According to the rules, it was mandatory to hire a guide for climbing the sacred mountain, and the guide fee was quite expensive. A guide could only take up to six people, but I was traveling alone. Therefore, I had to find companions to form a group and share the expenses. So, I made a sign for teaming up.
 
 ```<a-img>
 name:team-0
 ```
 
-### FELLOW TRAVELLERS
 
-The next morning, at the gate, I met three groups. The first one is three pair of Malaysian couples. The second is six Malaysian Chinese from Sepang.
-The last is three Malaysian who welcomed me. 
+The next day, I arrived early at the park gate, hoping to find teammates there. The first group I encountered were three Malay couples, but unfortunately, they already had a full group of six. Later, I met six Chinese individuals, and finally, I came across three Malaysians with whom I successfully formed a team. I guessed that they too had been looking for teammates since one of them disappeared after we set off.
 
 ```<a-img>
 name:team-1
@@ -49,7 +47,9 @@ name:mtkk-3
 name:mtkk-1
 ```
 
-The road to Laban Rata is a long long journey. We started at the Timpohon Gate on the 1866m.
+The journey to Laban Rata was long, requiring six hours to climb from Timpohon Gate at an altitude of 1866 meters to 3273 meters.
+
+I also overlooked a major issue – my ten-kilogram backpack. Carrying it up the mountain would not be an easy task. Completely forgetting about it, I didn't hire a porter when passing through Timpohon Gate. Eventually, I had to pay the guide to carry it up for me.
 
 ```<a-map>
 walking:6.0053195,116.5421188,Kinabalu National Park|6.0291003,116.5462398,Timpohon Gate
