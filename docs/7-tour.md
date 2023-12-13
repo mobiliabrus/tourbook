@@ -92,7 +92,6 @@ It was also at the restaurant where I discovered my passport in the backpack had
 
 _So close, yet so far._
 
-
 To reach Low's Peak at 4,095.2 meters, one had to wake up at 3 am, eat a snack, and set off. A long line of people snaked its way up the mountain, illuminated only by faint headlamps, stretching far into the distance.
 
 Halfway through, I suddenly heard a voice saying, "Jiawei, we're not going any further; you keep going." It was pitch black, so I couldn't see who it was, but it must have been Ailin's voice. The path ahead was too difficult, so she and her boyfriend decided not to continue.
@@ -112,6 +111,8 @@ The day after descending the mountain, my knee became so swollen that I couldn't
 By the time I went diving, I had regained my mobility, although I still felt a faint discomfort.
 
 <a-hotel name="Borneo Backpackers" date="2017-04-04" nights="2"></a-hotel>
+
+When I returned to Borneo Backpackers, it felt completely different. Although the room layout remained the same, it seemed as though the owner had changed. The shop downstairs had also been converted into a restaurant. This time, I did not stay in a mixed dormitory but opted for a single room instead. Due to my knee and limited mobility, I rarely ventured out, resulting in minimal interaction with others. The stark contrast from my previous experience made me feel like this place was now entirely different.
 
 ## SEMPORNA ²
 
