@@ -375,6 +375,14 @@ _Just visible through the net is the outline of two human forms entwined._
 
 _#THE BEACH#_
 
+The house stood perched atop a cliff, facing the vast expanse of the ocean. Constructed from bamboo, it consisted of a single room and a spacious veranda, with walls woven from the same material that allowed glimpses of the outside world through its many gaps. Inside, there was a large bed, draped in mosquito netting, reminiscent of the one depicted in the film "The Beach."
+
+Behind the house stretched a large courtyard enclosed by stone walls, featuring a washbasin and an open-air toilet.
+
+The only difference between this setting and the movie was my solitude and lack of purpose.
+
+In the dead of night, I was awakened by sounds emanating from the courtyard. Switching on the light, I discovered a group of large crabs scuttling about.
+
 ## BANGKOK ²
 
 <a-hotel name="48 ville" date="2014-11-2" nights="1"></a-hotel>
