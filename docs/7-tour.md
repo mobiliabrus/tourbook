@@ -2,16 +2,15 @@
 
 <a-times :times="2" location="KOTA KINABALU"></a-times>
 
-At 2 am, under the stars, the plane departed. In the next four hours, I was half asleep. 
+At 2 a.m., I boarded the flight to Kuala Lumpur. I had underestimated red-eye flights; the noise and uncomfortable seats made me nod off continuously without truly sleeping. The four-hour journey felt much more agonizing than the three-hour flight to Bangkok.
 
-By the time the sun rose, I had arrived in Kula Lumpur. After having a cup of coffee, I boarded the flight to Kota Kinabalu. It's a short route. As soon as it flew over the mountains, it descend directly.
+Finally, as the sun rose, I arrived in Kuala Lumpur. With little food available at the airport, I settled for a cup of coffee before heading back to the departure lounge.
 
-By the time the sun reached its peak, I was riding the airport bus.
+At 9 a.m., I took another flight to Kota Kinabalu, arriving just past noon. After deplaning, I quickly rushed to catch an airport shuttle bus.
 
-Later, at Bandaran Berjaya, I found a minibus that would take me to the park.
+According to online information, Bandaran Berjaya, the terminal station for the airport bus, offered minibus connections to Mount Kinabalu. However, the minibusses only departed when full, so I ended up waiting for quite some time.
 
-Even though it was sunset and I had been traveling for eighteen hours, I finally arrived at the foot of Mount KK.
-I took dinner at Balsam Café.
+After a grueling eighteen-hour journey, by the time I reached my accommodation, settled in, and watched the sunset, I finally managed to enjoy a proper dinner at Balsam Café within the Mount Kinabalu Park.
 
 <a-flight flight="D7809" departure="CKG" destination="KUL" departure-time="2017-04-02 01:50" arrive-time="2017-04-02 06:40"></a-flight>
 
