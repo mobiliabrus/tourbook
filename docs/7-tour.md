@@ -32,6 +32,9 @@ However, I still faced a problem. According to the rules, it was mandatory to hi
 name:team-0
 ```
 
+```<a-img>
+name:mkk1
+```
 
 The next day, I arrived early at the park gate, hoping to find teammates there. The first group I encountered were three Malay couples, but unfortunately, they already had a full group of six. Later, I met six Chinese individuals, and finally, I came across three Malaysians with whom I successfully formed a team. I guessed that they too had been looking for teammates since one of them disappeared after we set off.
 
@@ -51,13 +54,29 @@ The journey to Laban Rata was long, requiring six hours to climb from Timpohon G
 
 I also overlooked a major issue – my ten-kilogram backpack. Carrying it up the mountain would not be an easy task. Completely forgetting about it, I didn't hire a porter when passing through Timpohon Gate. Eventually, I had to pay the guide to carry it up for me.
 
+```<a-img>
+name:mtkk-2
+```
+
 ```<a-map>
 walking:6.0053195,116.5421188,Kinabalu National Park|6.0291003,116.5462398,Timpohon Gate
 points:6.058994,116.5651771,Laban Rata Resthouse;6.075277,116.558832,Low's Peak
 ```
 
 ```<a-img>
-name:mtkk-2
+name:mkk2
+```
+
+```<a-img>
+name:mkk3
+```
+
+```<a-img>
+name:mkk4
+```
+
+```<a-img>
+name:mkk5
 ```
 
 ```<a-img>
