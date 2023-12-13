@@ -80,29 +80,36 @@ dir:animation
 
 Non-Heated Dormitory-Laban Rata Resthouse
 
-I met Ailin and her boyfriend at the restaurant of Laran Rata. She is Chongqinger, and now living in HK. Though I always speak English, She didn't notice that I am Chongqinger too as I told. She felt surprised she can find a fellow countryman here.
+In front of a rest station, I met the previous six Malaysians again, and we even took a group photo together. The journey was arduous, not as pleasant as I had imagined, with no special sights other than squirrels at the first stop. We encountered other climbers along the way, offering each other encouragement.
 
-I also see the other groups of people in this restaurant. Actully everyone is here, it's just like a home.
+Laban Rata was a large house where everyone stayed. At the restaurant, I met Ailin and her boyfriend. Surprisingly, she turned out to be from Chongqing, China, now living in Hong Kong with her partner. As I had been speaking English all the time, she didn't initially realize that I was also from Chongqing.
 
-I found my passport was wet here, and I filled every page with tissues.
+I thought I spotted someone among the Chinese hikers using the same OnePlus phone as mine, which I learned later is quite popular in Malaysia.
+
+It was also at the restaurant where I discovered my passport in the backpack had been soaked by rain. I had to insert many napkins between each page. Fortunately, after it dried completely, the passport remained usable.
 
 ### LOW'S PEAK
 
 _So close, yet so far._
 
-the 4,095.2-meter summit of Low's Peak.
 
-We get up in 3AM. For a snack, we start climb in the dark.
-On the half, Ailin and her boyfriend turns back. 
+To reach Low's Peak at 4,095.2 meters, one had to wake up at 3 am, eat a snack, and set off. A long line of people snaked its way up the mountain, illuminated only by faint headlamps, stretching far into the distance.
 
-I slipped on a rock and my knees hit, just at the feat of peak.
-I imagined that I stood at the peak, no sunrise, saw what I've saught on photos, lonely.
-Then I give up. It's necessary to protect my kness as I will go scuba dive days later.
+Halfway through, I suddenly heard a voice saying, "Jiawei, we're not going any further; you keep going." It was pitch black, so I couldn't see who it was, but it must have been Ailin's voice. The path ahead was too difficult, so she and her boyfriend decided not to continue.
 
-I hit my kness twice again when desend.
+All I remember about the next section was having to use both hands to grip the rope and push myself up with my feet. After that, there was another long uphill stretch, which was extremely tiring.
 
-My kness can not band, extremely pantful pain when walk.
-I slowly move to a drug store,
+As I approached the summit, dawn was breaking, and I could see a large pile of rocks that we needed to step on to climb higher. It was then that I realized how slippery my shoes were on these rocks; I stumbled and fell, hitting my knee against a rock. Although passersby encouraged me, I decided to give up on reaching the summit after resting for a while. Firstly, I was afraid of getting injured, as I had plans to go diving a few days later. Secondly, it was unlikely that we would be able to see the sunrise on such a rainy day.
+
+It was only when I started walking back that I realized how treacherous the path was. Looking down the steep slope, I could see the plains at the foot of the mountain directly below. The most challenging part of the climb turned out to be a cliff, and I couldn't even imagine how I had managed to climb up there in the first place. Later, I used a near rappelling position to climb back down. There were also some rocky areas behind that offered beautiful scenery.
+
+Descending the mountain was also a lengthy process, and my knee collided with rocks twice during the descent.
+
+By the time I reached the park gate, it was around 4 or 5 in the afternoon. I had to flag down a minibus outside to return to Kota Kinabalu.
+
+The day after descending the mountain, my knee became so swollen that I couldn't bend it, making walking difficult. It seemed as though there was swelling inside. With great difficulty, I managed to find a Chinese medicine shop and applied their medicine. Gradually, my condition improved.
+
+By the time I went diving, I had regained my mobility, although I still felt a faint discomfort.
 
 <a-hotel name="Borneo Backpackers" date="2017-04-04" nights="2"></a-hotel>
 
