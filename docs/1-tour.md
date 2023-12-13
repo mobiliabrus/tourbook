@@ -114,9 +114,13 @@ I met German girls，brown short hair and tall, which is my favorite type. I tal
 name:sk2
 ```
 
-As the sun began to set, I found a restaurant outside the city walls to have dinner. By the time I finished, it was already dark. Unlike cities, there were few streetlights here, and the roads were hardly visible at night. I looked at the map and had two options: spend more time returning along the main road, or take an unknown shortcut. I chose the latter. The path was completely dark, and I had to rely on a weak light to find my way. I rode my bike like crazy on this pitch-black road. All kinds of flying insects hit my face, and some even flew into my mouth. Halfway through the trip, I finally saw the light of a motorcycle and quickly moved over to the side of the road. Not long after, I saw fireflies on the roadside. There were only two or three of them, but they were especially prominent in the dark.
+As the sun began to dip below the horizon, I sought out a restaurant just beyond the city's boundaries. By the time my meal was finished, darkness had descended upon the landscape. Unlike the bustling cities, this place was sparsely lit, and the roads were shrouded in shadows at night.
 
-When I returned to the guesthouse, they were amazed by my experience. They invited me to their room to play, and the couple, their daughter, and their cat Momo were there. We played poker together, and they even taught me how to count in Thai.
+With the map in hand, I faced a choice: return along the well-lit main road or take an uncharted shortcut through the darkness. I chose the latter. The path ahead was pitch-black, forcing me to rely on a feeble light source to navigate. Gripping the handlebars tightly, I pedaled furiously down the winding road, with all manner of insects pelting my face and some even finding their way into my mouth.
+
+Halfway through my journey, a glimmer of hope appeared as the headlight of a motorcycle emerged from the darkness. I quickly veered to the side of the road, and soon after, I noticed a few fireflies hovering near the roadside. Only two or three in number, they seemed like beacons of light in the inky blackness.
+
+Upon my return to the guesthouse, the hosts were astonished by my account of the journey. They invited me to their room. The couple, their daughter, and their cat Momo was there. We laughed and played poker together, and they even taught me how to count in Thai.
 
 <a-map walking="17.022397,99.687335,Restaurant|17.031913,99.702393,Fireflies|17.031670,99.706329,Baan Rim Klong Resort"></a-map>
 
