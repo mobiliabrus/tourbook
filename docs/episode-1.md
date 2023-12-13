@@ -2,7 +2,7 @@
 
 ### South Korea
 
-The year I became a sales champion, the prize was a trip. Due to the outbreak of the Red Shirt Movement in Thailand, I chose to go to South Korea. It was my first time abroad and my first time on a plane.
+The year I was crowned Sales Champion, the reward was a trip. However, due to the Red Shirt Movement outbreak in Thailand, I had to visit South Korea instead. It was my first time traveling abroad and my maiden voyage on an airplane.
 
 ```<a-flight>
 flight:CA125
@@ -20,7 +20,7 @@ departure-time:2010-04-16
 arrive-time:2010-04-16
 ```
 
-I joined a tour group. When the tour guide asked if everyone was willing to go to the spots on the 38th parallel at their own expense, a girl named Wenwen and I chose not to go. We were pitifully left at a rest stop on the way. We found a convenience store and went inside to buy coffee to drink. The owner's child was particularly cute, and he came up to play with us. We couldn't understand his words, and he couldn't understand our language, but it was also interesting. Language seemed to be no obstacle.
+I joined a tour group for the journey. When the guide asked if everyone would be willing to pay extra to visit sites along the 38th parallel, Wenwen, a girl in the group, and I opted out. We were left behind at a rest stop along the way, feeling rather pitiful. We stumbled upon a convenience store and went inside to purchase coffee. The owner's child was particularly adorable and approached us to play. Although we couldn't understand each other's words, it was still an enjoyable experience. Language seemed to pose no barrier.
 
 ```<a-map>
 points:37.51402948996639,127.03588586216844,Imperial Palace Seoul|37.56382942746806,126.98449333522179,Myeong-dong|37.55370946055917,126.98115396433205,Namsan|37.5690015,127.0855585,Siloam|37.778494623724804,126.68362613171828,Pilseung-ro|37.5219876,127.0244706,Hotel Sunshine
@@ -31,7 +31,7 @@ name:38-parallel.jpg
 dir:privacy
 ```
 
-Later, we went to Jeju Island.
+Subsequently, we ventured to Jeju Island.
 
 ```<a-flight>
 flight:LJ0325
@@ -43,7 +43,7 @@ arrive-time:2010-04-17 19:55
 
 <a-secret name="lxx" autoload></a-secret>
 
-Later, I resigned and started my own business.
+Later on, I resigned from my job and embarked on my entrepreneurial journey.
 
 <a-secret name="ranling" autoload></a-secret>
 
