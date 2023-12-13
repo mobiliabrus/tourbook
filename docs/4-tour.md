@@ -154,6 +154,8 @@ points:10.085696,99.825093,Crystal Dive Resort
 divesites:10.10535,99.81525,White Rock|10.11741,99.81301,Twins Rocks|10.16120,99.78779,Chumphon Pinnacle|10.10169,99.81537,HTMS Sattakut
 ```
 
+In the evening, at the bar, I chatted with my diving instructor, who was strict in class but friendly in private. He told me about his adorable kitten that once climbed onto his shoulder to play. He also shared a piece of advice with me: "If you wear this massive dive computer, it won't help you attract any girls."
+
 ## KRABI ¹
 
 <a-times :times="1" location="KRABI"></a-times>
