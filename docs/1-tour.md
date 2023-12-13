@@ -92,9 +92,9 @@ We drove a mere hundred meters forward before turning right for another hundred,
 
 <a-hotel name="Baan Rim Klong Resort" date="2013-10-12" nights="2" points="17.031670,99.706329"></a-hotel>
 
-The owner of the guesthouse was a Thai couple, and their daughter received me at the front desk. She was beautiful and even introduced me to their golden retriever, Latu.
+The proprietors of the guesthouse were an amiable Thai couple, and their captivating daughter greeted me at the reception desk. She was a vision of beauty, and she even introduced me to their golden retriever, Latu.
 
-The guesthouse provided bicycles for 50 baht a day. I rode on one and started from the north of the ancient city, exploring my way to the center.
+For a modest fee of 50 baht per day, the guesthouse provided bicycles for its patrons. I hopped on one and began my exploration from the northern edge of the ancient city, leisurely making my way towards its heart.
 
 ```<a-img>
 name:skt-1
