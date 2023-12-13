@@ -383,6 +383,8 @@ The only difference between this setting and the movie was my solitude and lack 
 
 In the dead of night, I was awakened by sounds emanating from the courtyard. Switching on the light, I discovered a group of large crabs scuttling about.
 
+In retrospect, I wonder what compelled me to traverse half of Koh Tao, from one beach on one side of the mountain to another shore on the opposite side. Even with the risk of getting lost in the dark, I had to seek assistance from a local shopkeeper. They sent a motorcycle to fetch me, yet the steep downhill descent filled me with such trepidation that I chose to walk instead. Upon reaching my destination, I discovered that the hotel provided transportation services. So, what was the purpose of this arduous journey? Was it for the sake of a breathtaking vista or the hope that some goddess might suddenly appear amidst these surroundings?
+
 ## BANGKOK ²
 
 <a-hotel name="48 ville" date="2014-11-2" nights="1"></a-hotel>
