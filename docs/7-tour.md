@@ -205,8 +205,7 @@ Scheduled land transfer from Semporna to Tawau Airport at 1200hrs
 
 ### SEPANG
 
-It's dark. I walked on the main road called Kota Warisan. 
-I underestimated the time it would take to get there.
+As I walked down the street from the station, the crowds gradually thinned out. When I reached an intersection, I hesitated – should I take the dimly lit path in the distance or stick to the main road, even if it meant a longer detour? I chose the latter. However, this route proved to be much farther than I had anticipated, and it took me quite some time to reach the hotel.
 
 ```<a-map>
 transit:2.745129256594095,101.68628171948798,KLIA Transit Station @ KLIA2|2.827310480585382,101.71326935291293,Salak Tinggi Station
@@ -220,7 +219,9 @@ nights:1
 point:2.8210419,101.6941487
 ```
 
-I took short path which goes though a living zone next morning. 
+After waking up from my slumber, it was time to set off once again. With daylight on my side, I decided to take the shorter path this time. The newly constructed houses lined both sides of the narrow lane, creating a pleasant environment.
+
+Eventually, I made my way back to the station, waiting for the next airport express train.
 
 <a-flight flight="AK838" departure="KUL" destination="URT" departure-time="2017-04-10 12:00" arrive-time="2017-04-10 12:30"></a-flight>
 
