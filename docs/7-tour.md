@@ -210,7 +210,7 @@ I underestimated the time it would take to get there.
 
 ```<a-map>
 transit:2.745129256594095,101.68628171948798,KLIA Transit Station @ KLIA2|2.827310480585382,101.71326935291293,Salak Tinggi Station
-walking:2.827310480585382,101.71326935291293,Salak Tinggi Station|2.8210419,101.6941487,Hotel Zamburger Kota Warisan
+walking:2.827310480585382,101.71326935291293,Salak Tinggi Station|2.823730611756417,101.69583472862865|2.8210419,101.6941487,Hotel Zamburger Kota Warisan|2.827310480585382,101.71326935291293,Salak Tinggi Station
 ```
 
 ```<a-hotel>
