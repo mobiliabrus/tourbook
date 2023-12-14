@@ -399,7 +399,7 @@ dir:privacy
 walking:5.420208,100.335220,Ryokan Muntri Boutique Hostel|5.418612,100.336421,Love Ln|5.416457,100.332673,Kimberley Street Food Night Market
 ```
 
-To get to the night market, we had to walk a few streets, but it was completely worth it. We first tried Four-Fruit Soup, and the soy sauce chicken feet were amazing; we had them several times. Dannii and I also shared a durian that was so delicious that I haven't been able to find one as good since. Later on, Dannii and I came back and got takeout fried rice noodles.
+To get to the night market, we had to walk a few streets, but it was completely worth it. We first tried Four-Fruit Soup, and the soy sauce chicken feet were amazing; we had them several times. Danni and I also shared a durian that was so delicious that I haven't been able to find one as good since. Later on, Dannii and I came back and got takeout fried rice noodles.
 
 ```<a-img>
 name:night-food
