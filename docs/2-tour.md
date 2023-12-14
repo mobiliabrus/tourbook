@@ -228,6 +228,10 @@ Sharing our room was a man from Taiwan who had come for diving. He was always sh
 
 One time, their diving boat failed to return on schedule, causing concern among the platform staff. Eventually, it did return, and the Taiwanese man informed me that they had encountered a "washing machine current" at Sipadan, which nearly prevented them from returning safely. It was incidents like these that influenced me and eventually led me down the path of diving as well.
 
+The weather here in January is indeed quite unpleasant. One day, the sky was completely overcast and a strong wind blew across the platform. It was said that there was a typhoon coming from the Philippines.
+
+People on the island were all sea gypsies, with several young men among them who had dark skin and were especially friendly. One of them could even play the guitar and sing. On another occasion, a group of Malay tourists appeared out of nowhere to ask for a photo with me. I didn't even know them, but they told me they were from Penang, though not the George Town that I was headed to.
+
 ### KAPALAI
 
 ```<a-img>
