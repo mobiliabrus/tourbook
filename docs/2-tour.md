@@ -428,7 +428,9 @@ Night bar, riding danger
 
 ### BEACH
 
-Isis went Langkawi
+Isis went Langkawi.
+
+The rest of us took buses along the coast, heading to a public beach. The coastline was truly beautiful, but I don't remember anything particularly special about it. In fact, I've even doubted whether this event really happened or if we simply walked around and left.
 
 ```<a-img>
 name:gt4.jpg
