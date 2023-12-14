@@ -216,6 +216,14 @@ A popular game here involves a small iron ring suspended from a long string in m
 
 I spent a whole hour playing before I discovered the trick. First, one needs to make the ring follow an elliptical trajectory as it swings across. Secondly, applying a spinning force to the ring can help; a proper spin makes it easier for the ring to latch onto the hook.
 
+I didn't know the names of these two girls, nor did I have their contact information; all I remembered was that they seemed to be from Shanghai. After others had gradually left the island, I got to know them and spent quite some time together.
+
+I played more with the tall girl with long hair. Once, she and I found a hermit crab on a platform. Another time, we went to the island itself where we saw indigenous people and stationed troops. When we returned, we were told that everyone had been looking for us as the snorkeling boat had already departed without us. We had no choice but to wait for the next one.
+
+The short-haired girl made two impressions on me: one was when she wore a white bikini while snorkeling, and the other was that several staff members at the dive shop seemed to fancy her and asked me about her.
+
+Later, by chance, we left the island together. We took the same vehicle provided by the dive shop; they headed to Tawau Airport while I went to downtown Tawau.
+
 ### KAPALAI
 
 ```<a-img>
