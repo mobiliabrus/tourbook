@@ -224,6 +224,10 @@ The short-haired girl made two impressions on me: one was when she wore a white 
 
 Later, by chance, we left the island together. We took the same vehicle provided by the dive shop; they headed to Tawau Airport while I went to downtown Tawau.
 
+Sharing our room was a man from Taiwan who had come for diving. He was always sharing his diving experiences with us and told me that just a few days earlier he had seen several turtles under this very platform, assuring me that if I paid attention, I would surely see them too. So, in the following days, I enjoyed spending time on the platform, hoping to catch sight of these creatures. However, not a single turtle appeared.
+
+One time, their diving boat failed to return on schedule, causing concern among the platform staff. Eventually, it did return, and the Taiwanese man informed me that they had encountered a "washing machine current" at Sipadan, which nearly prevented them from returning safely. It was incidents like these that influenced me and eventually led me down the path of diving as well.
+
 ### KAPALAI
 
 ```<a-img>
