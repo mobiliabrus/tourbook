@@ -483,8 +483,6 @@ name:danni.gif
 dir:privacy-gif
 ```
 
-Is there monekys?
-
 ```<a-img>
 name:danni-3.jpg
 dir:privacy
@@ -510,7 +508,8 @@ name:danni-7.jpg
 dir:privacy
 ```
 
-icecream & monkeys 
+When we first arrived at the mountain, it seemed as though we could hear monkeys calling. However, after walking deep into the mountains without seeing a single one, we thought that the monkeys wouldn't show themselves. After walking for a while longer, a small shop appeared by the roadside, and I bought an ice cream cone to eat as I walked. Suddenly, I noticed a monkey on the path ahead, staring at me with angry eyes, as if wanting to snatch my cone. Soon, I spotted two smaller monkeys by the side of the road as well. In the end, I shared some of my ice cream with them.
+ 
 
 ```<a-img>
 name:penang-hill
@@ -519,6 +518,8 @@ name:penang-hill
 ```<a-map>
 walking:5.423528,100.269514,Penang Hill Upper Station|5.418529,100.263881,Ice cream store|5.4181686,100.2628177,Monkey Family
 ```
+
+As it got dark quickly, we descended the mountain. At the foot of the mountain, at a junction, we ate at a street stall. Around six o'clock, the owner suddenly started packing up. In China, six o'clock is when night markets are just starting to open. We all said that maybe Malaysians value life more than making money.
 
 > _The last day in Penang. Kota Kinabalu the next morning!_
 > <br/><div style="text-align:right">_Danni - 2014-01-16_</div>
