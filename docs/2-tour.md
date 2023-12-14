@@ -212,6 +212,10 @@ name:mabul-7.jpg
 dir:privacy
 ```
 
+A popular game here involves a small iron ring suspended from a long string in mid-air, with a small iron hook mounted on a post opposite. The objective is to swing the ring over and hook it onto the hook. It's an addictive game that most people initially struggle with, as the ring repeatedly swings back and forth without success.
+
+I spent a whole hour playing before I discovered the trick. First, one needs to make the ring follow an elliptical trajectory as it swings across. Secondly, applying a spinning force to the ring can help; a proper spin makes it easier for the ring to latch onto the hook.
+
 ### KAPALAI
 
 ```<a-img>
