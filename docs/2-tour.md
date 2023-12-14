@@ -161,6 +161,8 @@ There's only a Chinese guy and I at first when checking in. Three beautiful girl
 
 The first person I met was a boy from Chengdu, whom Uncle Chang even drove to the bank to withdraw money. On the boat, we saw three girls speaking Cantonese. Assuming they were from Hong Kong, upon inquiry, I learned that they were actually from Guangzhou. One of them was named Butterfly, and because another girl's clothing had a tomato pattern on it, I called her Tomato Soup. They stayed in the room next to ours, but only for half a day before heading off to Mabul Island. There was also another girl from Chongqing on the island, who came diving with her mother. We all admired her courage.
 
+The boat that took us to the island had to pass by an oil platform that had been converted into a diving shop. Our boat had stopped under the platform for a while because there was a girl on board who was heading to the diving shop.
+
 ```<a-map>
 points:4.253798859528792,118.63344342417173,Seaventures Dive Rig|4.233858799351027,118.68229942787646,Kapalai|4.249016266128097,118.62713486883527,Uncle Chang's Dive Lounge
 ```
