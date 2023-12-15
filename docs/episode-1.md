@@ -86,7 +86,7 @@ dir:privacy
 
 The second time I went to Weizhou Island, I went alone.
 
-It was just before this trip that I met her. A high school classmate invited me to dinner, and one of her friends also came along. I was smitten with her at first sight. However, I didn't ask for her contact information then, and perhaps they were wondering why I wasn't more proactive. It wasn't until the next day that I asked my classmate for her QQ number.
+<a-secret name="zly" autoload></a-secret>
 
 ```<a-flight>
 flight:EU2718
