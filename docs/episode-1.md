@@ -41,6 +41,22 @@ departure-time:2010-04-17 18:40
 arrive-time:2010-04-17 19:55
 ```
 
+```<a-flight>
+flight:
+departure:ICN
+destination:PEK
+departure-time:2010-04-17 08:30
+arrive-time:2010-04-17 11:30
+```
+
+```<a-flight>
+flight:
+departure:PEK
+destination:CKG
+departure-time:2010-04-17 15:30(21:20)
+arrive-time:2010-04-17 19:30(23:50)
+```
+
 <a-secret name="lxx" autoload></a-secret>
 
 Later on, I resigned from my job and embarked on my entrepreneurial journey.
