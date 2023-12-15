@@ -69,7 +69,7 @@ I've been Weizhou Island twice. The first time is on July 2011.
 
 <a-secret name="zwd" autoload></a-secret>
 
-My friend and I traveled from Chongqing to Nanning by train, and then from Nanning to Beihai by another train. From Beihai, We took the Feiyu fast ferry to Weizhou Island. We first stayed at a place called Piglet Bar, but the rooms were neither good nor cheap. I remember on our first night we spent a few hundred yuan on seafood, including abalone, mantis shrimp, grouper, and of course, beer. Later, we moved to a local guesthouse owned by the village head. The accommodation was affordable, and the seafood processing fees were reasonable. We continued to enjoy our seafood feasts, especially the abalone with its rich sauce poured over rice, which could easily fill several bowls.
+My friend and I traveled from Chongqing to Nanning by train, and then from Nanning to Beihai by another train. From Beihai, We took the Feiyu fast ferry to Weizhou Island. We first stayed at a place called Piglet Bar, but the rooms were neither good nor cheap. I remember on our first night we spent a few hundred yuan on seafood, including abalone, mantis shrimp, grouper, and of course, beer. Later, we moved to a local guesthouse owned by the village head. The accommodation was affordable, and the seafood processing fees were reasonable. We continued to enjoy our seafood feasts, especially the abalone with its rich sauce poured over rice, which could easily fill several bowls. We even tried shark meat, which was truly horrendous. It had a gritty texture like sand.
 
 ```<a-img>
 name:wzd
@@ -83,6 +83,10 @@ name:wzd2
 name:wzd3.jpg
 dir:privacy
 ```
+
+The second time I went to Weizhou Island, I went alone.
+
+It was just before this trip that I met her. A high school classmate invited me to dinner, and one of her friends also came along. I was smitten with her at first sight. However, I didn't ask for her contact information then, and perhaps they were wondering why I wasn't more proactive. It wasn't until the next day that I asked my classmate for her QQ number.
 
 ```<a-flight>
 flight:EU2718
