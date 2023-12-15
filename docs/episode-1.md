@@ -67,6 +67,10 @@ Later on, I resigned from my job and embarked on my entrepreneurial journey.
 
 I've been Weizhou Island twice. The first time is on July 2011.
 
+<a-secret name="zwd" autoload></a-secret>
+
+My friend and I traveled from Chongqing to Nanning by train, and then from Nanning to Beihai by another train. From Beihai, We took the Feiyu fast ferry to Weizhou Island. We first stayed at a place called Piglet Bar, but the rooms were neither good nor cheap. I remember on our first night we spent a few hundred yuan on seafood, including abalone, mantis shrimp, grouper, and of course, beer. Later, we moved to a local guesthouse owned by the village head. The accommodation was affordable, and the seafood processing fees were reasonable. We continued to enjoy our seafood feasts, especially the abalone with its rich sauce poured over rice, which could easily fill several bowls.
+
 ```<a-img>
 name:wzd
 ```
@@ -75,25 +79,23 @@ name:wzd
 name:wzd2
 ```
 
+```<a-img>
+name:wzd3.jpg
+dir:privacy
+```
+
 ```<a-flight>
 flight:EU2718
 departure:CKG
 destination:BHY
-departure-time:2011-09-09 12:35
-arrive-time:2011-09-09 14:05
+departure-time:2012-09-09 12:35
+arrive-time:2012-09-09 14:05
 ```
 
 ```<a-flight>
 flight:EU2717
 departure:BHY
 destination:CKG
-departure-time:2011-09-13 10:15
-arrive-time:2011-09-13 11:45
-```
-
-<a-secret name="zwd" autoload></a-secret>
-
-```<a-img>
-name:wzd3.jpg
-dir:privacy
+departure-time:2012-09-13 10:15
+arrive-time:2012-09-13 11:45
 ```
