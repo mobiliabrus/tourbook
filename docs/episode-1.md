@@ -51,6 +51,14 @@ Later on, I resigned from my job and embarked on my entrepreneurial journey.
 
 I've been Weizhou Island twice. The first time is on July 2011.
 
+```<a-img>
+name:wzd
+```
+
+```<a-img>
+name:wzd2
+```
+
 ```<a-flight>
 flight:EU2718
 departure:CKG
@@ -65,14 +73,6 @@ departure:BHY
 destination:CKG
 departure-time:2011-09-13 10:15
 arrive-time:2011-09-13 11:45
-```
-
-```<a-img>
-name:wzd
-```
-
-```<a-img>
-name:wzd2
 ```
 
 <a-secret name="zwd" autoload></a-secret>
