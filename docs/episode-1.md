@@ -83,23 +83,3 @@ name:wzd2
 name:wzd3.jpg
 dir:privacy
 ```
-
-The second time I went to Weizhou Island, I went alone.
-
-<a-secret name="zly" autoload></a-secret>
-
-```<a-flight>
-flight:EU2718
-departure:CKG
-destination:BHY
-departure-time:2012-09-09 12:35
-arrive-time:2012-09-09 14:05
-```
-
-```<a-flight>
-flight:EU2717
-departure:BHY
-destination:CKG
-departure-time:2012-09-13 10:15
-arrive-time:2012-09-13 11:45
-```

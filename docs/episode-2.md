@@ -1,5 +1,4 @@
 
-
 <a-secret name="shapingpark" autoload></a-secret>
 
 <a-secret name="zounian" autoload></a-secret>
@@ -10,33 +9,36 @@
 
 <a-secret name="lxm" autoload></a-secret>
 
-<a-secret name="dww" autoload></a-secret>
-
 <a-secret name="zx" autoload></a-secret>
 
 <a-secret name="lu" autoload></a-secret>
 
-<a-secret name="wxj" autoload></a-secret>
-
-<a-secret name="dww" autoload></a-secret>
-
-```<a-img>
-name:xlj-1.jpg
-dir:privacy
-```
-
-```<a-img>
-name:xlj-2.jpg
-dir:privacy
-```
-
-```<a-img>
-name:xlj-3.jpg
-dir:privacy
-```
+<a-carousel :img="[{name:'xlj-1.jpg',dir:'privacy'},{name:'xlj-2.jpg',dir:'privacy'},{name:'xlj-3.jpg',dir:'privacy'}]"></a-gallery>
 
 <a-carousel :img="[{name:'xlj-4.jpg',dir:'privacy'},{name:'xlj-5.jpg',dir:'privacy'},{name:'xlj-6.jpg',dir:'privacy'}]"></a-gallery>
 
+## Weizhou Island
+
+The second time I went to Weizhou Island, I went alone.
+
+<a-secret name="zly" autoload></a-secret>
+
+```<a-flight>
+flight:EU2718
+departure:CKG
+destination:BHY
+departure-time:2012-09-09 12:35
+arrive-time:2012-09-09 14:05
+```
+
+```<a-flight>
+flight:EU2717
+departure:BHY
+destination:CKG
+departure-time:2012-09-13 10:15
+arrive-time:2012-09-13 11:45
+```
+<a-secret name="dww" autoload></a-secret>
 
 ### Emei
 
