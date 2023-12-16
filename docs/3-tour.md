@@ -48,11 +48,6 @@ dir:privacy
 ```
 
 ```<a-img>
-name:treehousex.jpg
-dir:privacy
-```
-
-```<a-img>
 name:treehouse-7.jpg
 dir:privacy
 ```
