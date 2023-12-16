@@ -17,11 +17,9 @@
 
 <a-carousel :img="[{name:'xlj-4.jpg',dir:'privacy'},{name:'xlj-5.jpg',dir:'privacy'},{name:'xlj-6.jpg',dir:'privacy'}]"></a-gallery>
 
-## Weizhou Island
+### Weizhou Island
 
 The second time I went to Weizhou Island, I went alone.
-
-<a-secret name="zly" autoload></a-secret>
 
 ```<a-flight>
 flight:EU2718
@@ -38,6 +36,11 @@ destination:CKG
 departure-time:2012-09-13 10:15
 arrive-time:2012-09-13 11:45
 ```
+
+<a-secret name="zly" autoload></a-secret>
+
+<a-secret name="wxj" autoload></a-secret>
+
 <a-secret name="dww" autoload></a-secret>
 
 ### Emei
