@@ -1,5 +1,9 @@
 <a-secret name="jyy" autoload></a-secret>
 
+```<a-img>
+name:baidu
+```
+
 ### South Korea
 
 The year I was crowned Sales Champion, the reward was a trip. However, due to the Red Shirt Movement outbreak in Thailand, I had to visit South Korea instead. It was my first time traveling abroad and my maiden voyage on an airplane.
