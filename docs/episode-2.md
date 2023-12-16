@@ -3,6 +3,8 @@
 
 <a-secret name="zounian" autoload></a-secret>
 
+<a-secret name="tuhuan" autoload></a-secret>
+
 <a-secret name="dy" autoload></a-secret>
 
 <a-secret name="apple" autoload></a-secret>
