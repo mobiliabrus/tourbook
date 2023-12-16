@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "start": "node ../scripts/lib/watch"
+    "start": "node ../scripts/lib/watch",
+    "build": "node ../scripts/lib/encodeAll"
   }
 }
