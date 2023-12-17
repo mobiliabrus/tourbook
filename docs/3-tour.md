@@ -364,6 +364,10 @@ Traditional Thai restaurant at great value price.
 walking:10.085781,99.825095,Crystal Dive|10.0780687,99.8458561,Moondance Magic View Bungalow
 ```
 
+```<a-img>
+name:TheBeach
+```
+
 _The room is in darkness. Moonlight penetrates the threadbare curtain. The bed is surrounded by a mosquito net._
 
 _Just visible through the net is the outline of two human forms entwined._
