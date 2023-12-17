@@ -10,11 +10,7 @@
   </head>
   <body>
     <div id="app"></div>
-    <script>
-      if (location.hostname !== 'localhost') {
-        navigator.serviceWorker.register('/sw.js');
-      }
-    </script>
+    <script src="/init.js"></script>
     <script>
       window.$docsify = {
         loadNavbar: true,
