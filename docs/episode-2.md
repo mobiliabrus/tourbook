@@ -99,6 +99,11 @@ dir:privacy
 
 ### Western Sichua
 
+Having returned from Gulangyu only half a month ago, I received another invitation to travel to West Sichuan. Despite the fact that travelling has indeed become rather frequent lately, I agreed.
+
+My plan is to fly directly to Shangri-La in Zhongdian, then backtrack along National Highway 318,
+stopping along the way at Daocheng Yading and eventually reaching Minya Kongka.
+
 ```<a-flight>
 flight:3U8630
 departure:CKG
@@ -107,38 +112,10 @@ departure-time:2013-07-03 08:40
 arrive-time:2013-07-03 09:40
 ```
 
-```<a-img>
-name:hq1.jpg
-dir:privacy
-```
-
-```<a-img>
-name:hq2.jpg
-dir:privacy
-```
-
-```<a-img>
-name:hq3.jpg
-dir:privacy
-```
-
-```<a-img>
-name:hq4.jpg
-dir:privacy
-```
-
-```<a-img>
-name:hq5.jpg
-dir:privacy
-```
-
-```<a-img>
-name:hq6.jpg
-dir:privacy
-```
+<a-secret name="hq" autoload></a-secret>
 
 ```<a-map>
-driving:27.7932316,99.6831596,Shangri-La Airport|27.811842,99.7053845,Dukezong|29.0366082,100.297561,Daocheng|30.021596,101.527224,Xinduqiao|30.0011057,101.9543686,Kangding|29.6745313,102.1020761|29.599233,102.171681,Minya Kongka|30.0011057,101.9543686,Kangding|30.129862,101.751812,Kangding Airport
+driving:27.7932316,99.6831596,Shangri-La Airport|27.811842,99.7053845,Dukezong|29.0366082,100.297561,Daocheng|30.021596,101.527224,Xinduqiao|30.0011057,101.9543686,Kangding|29.643981581567523,102.12298657466907,Moxi Town|29.599233,102.171681,Minya Kongka|30.0011057,101.9543686,Kangding|30.129862,101.751812,Kangding Airport
 ```
 
 ```<a-flight>
