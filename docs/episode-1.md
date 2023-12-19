@@ -1,9 +1,5 @@
 <a-secret name="jyy" autoload></a-secret>
 
-```<a-img>
-name:baidu
-```
-
 ### South Korea
 
 The year I was crowned Sales Champion, the reward was a trip. However, due to the Red Shirt Movement outbreak in Thailand, I had to visit South Korea instead. It was my first time traveling abroad and my maiden voyage on an airplane.
@@ -71,8 +67,6 @@ Later on, I resigned from my job and embarked on my entrepreneurial journey.
 
 I've been Weizhou Island twice. The first time is on July 2011.
 
-<a-secret name="zwd" autoload></a-secret>
-
 My friend and I traveled from Chongqing to Nanning by train, and then from Nanning to Beihai by another train. From Beihai, We took the Feiyu fast ferry to Weizhou Island. We first stayed at a place called Piglet Bar, but the rooms were neither good nor cheap. I remember on our first night we spent a few hundred yuan on seafood, including abalone, mantis shrimp, grouper, and of course, beer. Later, we moved to a local guesthouse owned by the village head. The accommodation was affordable, and the seafood processing fees were reasonable. We continued to enjoy our seafood feasts, especially the abalone with its rich sauce poured over rice, which could easily fill several bowls. We even tried shark meat, which was truly horrendous. It had a gritty texture like sand.
 
 ```<a-img>
@@ -87,3 +81,5 @@ name:wzd2
 name:wzd3.jpg
 dir:privacy
 ```
+
+<a-secret name="zwd" autoload></a-secret>
