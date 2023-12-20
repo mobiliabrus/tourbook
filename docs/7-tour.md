@@ -156,6 +156,8 @@ points:4.253798859528792,118.63344342417173,Seaventures Dive Rig|4.2338587993510
 divesites:4.250431,118.630882,Paradise 2
 ```
 
+<iframe src="https://player.xinpianchang.com/?aid=10216905&amp;mid=9POpZQXqRxV7Er5a" allowfullscreen="" allow="fullscreen" frameborder="0" style="border: none;"></iframe>
+
 ### BAND
 
 ```<a-img>
@@ -179,6 +181,8 @@ dir:animation
 name:vivian
 dir:animation
 ```
+
+<iframe src="https://player.xinpianchang.com/?aid=10444190&amp;mid=5CE82A011B8FC" allowfullscreen="" allow="fullscreen" frameborder="0" style="border: none;"></iframe>
 
 ### SIPADAN
 
@@ -385,6 +389,8 @@ dir:privacy
 name:gabi2.jpg
 dir:privacy
 ```
+
+<iframe src="https://player.xinpianchang.com/?aid=79799&amp;mid=29WxJ7l8aKk781kM" allowfullscreen="" allow="fullscreen" frameborder="0" style="border: none;"></iframe>
 
 ```<a-img>
 name:bitch.jpg
