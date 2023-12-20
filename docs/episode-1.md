@@ -82,4 +82,19 @@ name:wzd3.jpg
 dir:privacy
 ```
 
+```<a-img>
+name:gb1.jpg
+dir:privacy
+```
+
+```<a-img>
+name:gb2.jpg
+dir:privacy
+```
+
+```<a-img>
+name:gb3.jpg
+dir:privacy
+```
+
 <a-secret name="zwd" autoload></a-secret>
