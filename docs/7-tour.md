@@ -172,17 +172,12 @@ name:band-2
 name:band-3
 ```
 
-```<a-img>
-name:ban
-dir:animation
-```
+<iframe src="https://player.xinpianchang.com/?aid=10444190&amp;mid=5CE82A011B8FC" allowfullscreen="" allow="fullscreen" frameborder="0" style="border: none;"></iframe>
 
 ```<a-img>
 name:vivian
 dir:animation
 ```
-
-<iframe src="https://player.xinpianchang.com/?aid=10444190&amp;mid=5CE82A011B8FC" allowfullscreen="" allow="fullscreen" frameborder="0" style="border: none;"></iframe>
 
 ### SIPADAN
 
