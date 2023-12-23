@@ -17,6 +17,10 @@ I check my watch: midnight. But this city never sleeps. Its energy pulsates like
 This is it. Bangkok, good-time city. Gateway to Southeast Asia. Where dollars and Duetsmarks get turned into counterfeit watches and genuine scars.
 
 ```<a-img>
+name:bkk
+```
+
+```<a-img>
 name:bk1
 ```
 

@@ -14,7 +14,7 @@
 13.7537798,100.5421587
 
 ```<a-img>
-name:she-1
+name:she-1.jpg
 dir:privacy
 ```
 
@@ -68,11 +68,7 @@ Her glasses, which was on my shirt lost. I didn't notice that. My attention was 
 <a-secret name="fullmoon"></a-secret>
 
 ```<a-img>
-name:fullmoon-5
-```
-
-```<a-img>
-name:fullmoon-8
+name:fullmoon-8.jpg
 dir:privacy
 ```
 
@@ -85,12 +81,27 @@ name:fullmoon-11
 ```
 
 ```<a-img>
-name:fullmoon-9
+name:fullmoon-11.jpg
 dir:privacy
 ```
 
 ```<a-img>
-name:fullmoon-10
+name:fullmoon-6.jpg
+dir:privacy
+```
+
+```<a-img>
+name:fullmoon-7.jpg
+dir:privacy
+```
+
+```<a-img>
+name:fullmoon-9.jpg
+dir:privacy
+```
+
+```<a-img>
+name:fullmoon-10.jpg
 dir:privacy
 ```
 
@@ -99,22 +110,22 @@ name:fullmoon-5
 ```
 
 ```<a-img>
-name:she-5
+name:she-5.jpg
 dir:privacy
 ```
 
 ```<a-img>
-name:she-6
+name:she-6.jpg
 dir:privacy
 ```
 
 ```<a-img>
-name:she-7
+name:she-7.jpg
 dir:privacy
 ```
 
 ```<a-img>
-name:fullmoonend
+name:fullmoonend.jpg
 dir:privacy
 ```
 
@@ -131,6 +142,11 @@ dir:privacy
 ```
 
 ```<a-img>
+name:she-9.jpg
+dir:privacy
+```
+
+```<a-img>
 name:she-13.jpg
 dir:privacy
 ```
@@ -142,6 +158,11 @@ dir:privacy
 
 ```<a-img>
 name:she-12.jpg
+dir:privacy
+```
+
+```<a-img>
+name:she-10.jpg
 dir:privacy
 ```
 
@@ -239,6 +260,10 @@ name:similan-dive-5
 ```
 
 ```<a-img>
+name:similan-dive-6
+```
+
+```<a-img>
 name:similan-turtle
 ```
 
@@ -279,6 +304,15 @@ dir:privacy
 ```<a-img>
 name:similan-3.jpg
 dir:privacy
+```
+
+```<a-img>
+name:mantaqueen1.jpg
+dir:privacy
+```
+
+```<a-img>
+name:manta-queen-1
 ```
 
 ```<a-img>

@@ -10,20 +10,13 @@ I nearly missed my international flight.
 
 I had planned to take a domestic flight to Kunming first, and I thought I would have plenty of time to catch the airline to Kula Lumpur. When I arrived at the boarding gate, it was too early, but to my surprise, the plane was already there. It was scheduled to fly from Kunming to Chongqing and then to another destination. After completing those routes, it would turn and went directly to Chongqing and take me to Kunming. The plane was there due a delay of previous schedule. I had to wait for it to leave and come back.
 
- 
-
 Two hours later, around the same time I had  reserved, I finally arrived at Kunming. When I rushed out of cabin, the next flight was already boarding. I realized that I had to wait for my package and recheck in, even though there was no international transfer channel.  I was the last persih checked in at the counter, and I boarded at the last minute just before gate close.
-
-
-
-
 
 ```<a-map>
 driving:2.739671959819654,101.72049967310232,LCCT|3.1314496300435706,101.69091652316015,KL Sentral
 ```
 
 Taking airport bus from LCCT, I reached KL Sentral at midnight. I was going to took the Monorail, but the station was already shutdown. Thus, I had to took a taxi.
-
 
 ```<a-map>
 driving:3.1314496300435706,101.69091652316015,KL Sentral|3.142778222755097,101.70906525342374,Berjaya Times Square
@@ -38,6 +31,10 @@ Everyone was obviously asleep because they were snoring loudly. I walked quietly
 When I woke up, anyone else had already left. There was self-service breakfast available, which included bread and butter. There was a reminder on the wall that said to clean any dishes or utensils after use. 
 
 After breakfast, I went for a walk and realized that the community was extremely busy, and everyone led a fast-paced life without taking any breaks. The city felt like a black hole, and it absorbed the people around it. People walked fast and hurriedly through the crowded streets. I limited myself to just walking, eating and sleeping for two days; however, I realized that this wasn't the place for me, so I had to leave.
+
+```<a-img>
+name:klcc
+```
 
 ## KOTA KINABALU ¹
 
@@ -114,11 +111,21 @@ dir:animation
 ```
 
 ```<a-img>
+name:mn-2.jpg
+dir:privacy
+```
+
+```<a-img>
 name:fly-1.jpg
 dir:privacy
 ```
 
 <a-gallery :img="[{name:'fly-2.jpg',dir:'privacy'},{name:'fly-3.jpg',dir:'privacy'},{name:'fly-4.jpg',dir:'privacy'}]"></a-gallery>
+
+```<a-img>
+name:fly-5.jpg
+dir:privacy
+```
 
 <a-flight flight="AK6262" departure="BKI" destination="TWU" departure-time="2014-01-08 16:05" arrive-time="2014-01-08 17:00"></a-flight>
 
@@ -303,6 +310,11 @@ walking:5.4125915,100.3405987,Chew Jetty;5.4194291,100.3445641,Langkawi Ferry Se
 
 ```<a-img>
 name:jetty-1
+```
+
+```<a-img>
+name:gt-2
+dir:privacy
 ```
 
 ```<a-img>

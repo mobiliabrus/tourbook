@@ -29,6 +29,10 @@ name:tree-house-me
 ```
 
 ```<a-img>
+name:treehouse-1
+```
+
+```<a-img>
 name:she-1
 ```
 
@@ -81,6 +85,21 @@ name:treehouse-16
 
 ```<a-img>
 name:treehouse-yuner
+```
+
+```<a-img>
+name:treehouse-8.jpg
+dir:privacy
+```
+
+```<a-img>
+name:treehouse-9.jpg
+dir:privacy
+```
+
+```<a-img>
+name:treehouse-10.jpg
+dir:privacy
 ```
 
 1 pax @ So Hotel, 2 pax @ A Little Bird 2 Guest House, 1 pax @ 9 Hostel, 2 pax @ baan thai (36 nimmanhaeminda Road)
