@@ -1,6 +1,136 @@
+## CHECKLIST
+
+Have you seen my checklist? In fact, I made a checklist before any trip to ensure that everything is taken care of.
+
+_EQUIPMENT CHECKLIST_
+
+| Item                                                                                                      | Qty. | Wt(g) |
+| --------------------------------------------------------------------------------------------------------- | ---- | ----- |
+| <a-bg bg="#000" color="#fff">BAG</a-bg> Backpack                                                          | 1    | 1280  |
+| <a-bg bg="#000" color="#fff">BAG</a-bg> 30L bag <a-bg bg="#5b8c00">Mt KK</a-bg>                           | 1    | 310   |
+| <a-bg bg="#ad8b00">GoPro</a-bg> 3 black                                                                   | 1    | 74    |
+| <a-bg bg="#ad8b00">GoPro</a-bg> 4 silver <a-bg bg="#13c2c2">Scuba</a-bg>                                  | 1    | 83    |
+| <a-bg bg="#ad8b00">GoPro</a-bg> dome <a-bg bg="#13c2c2">Scuba</a-bg>                                      | 1    | 500   |
+| <a-bg bg="#ad8b00">GoPro</a-bg> <a-bg bg="#13c2c2">Scuba</a-bg> housing                                   | 3    | 64    |
+| <a-bg bg="#ad8b00">GoPro</a-bg> <a-bg bg="#13c2c2">Scuba</a-bg> handle                                    | 1    | 503   |
+| <a-bg bg="#ad8b00">GoPro</a-bg> <a-bg bg="#13c2c2">Scuba</a-bg> float arm                                 | 1    | 283   |
+| <a-bg bg="#ad8b00">GoPro</a-bg> <a-bg bg="#13c2c2">Scuba</a-bg> ball locker                               | 4    | 80    |
+| <a-bg bg="#ad8b00">GoPro</a-bg> 3 <a-bg bg="#999">Battery</a-bg>                                          | 4    | 26    |
+| <a-bg bg="#ad8b00">GoPro</a-bg> 4 <a-bg bg="#999">Battery</a-bg> <a-bg bg="#13c2c2">Scuba</a-bg>          | 4    | 30    |
+| <a-bg bg="#ad8b00">GoPro</a-bg> TF <a-bg bg="#389e0d">Data</a-bg> Card 320GB 15H                          | 8    |       |
+| <a-bg bg="#ad8b00">GoPro</a-bg> pole & X stand <a-bg bg="#5b8c00">Mt KK</a-bg>                            | 1    | 150   |
+| SD <a-bg bg="#389e0d">Data</a-bg> Card 192GB 9H                                                           | 5    |       |
+| Portable <a-bg bg="#999">Battery</a-bg>                                                                   | 1    | 205   |
+| <a-bg bg="#999">Charger</a-bg> Switch for THAILAND                                                        | 1    | 300   |
+| <a-bg bg="#999">Charger</a-bg> Switch for MALAYSIA                                                        | 1    | 300   |
+| Torch D34vr <a-bg bg="#13c2c2">Scuba</a-bg>                                                               | 2    | 345   |
+| 32650 <a-bg bg="#999">Battery</a-bg> for D34vr <a-bg bg="#13c2c2">Scuba</a-bg>                            | 4    | 150   |
+| 32650 <a-bg bg="#999">Charger </a-bg>                                                                     | 1    | 150   |
+| Type-c line & <a-bg bg="#999">Charger</a-bg> <a-bg bg="#389e0d">Data Line</a-bg>                          | 1    | 130   |
+| Otg adapter <a-bg bg="#389e0d">Data Line</a-bg>                                                           | 2    | 4.4   |
+| Micro usb <a-bg bg="#389e0d">Data Line</a-bg>                                                             | 1    |       |
+| Mini usb <a-bg bg="#389e0d">Data Line</a-bg>                                                              | 2    |       |
+| Card reader <a-bg bg="#389e0d">Data Line</a-bg>                                                           | 1    |       |
+| <a-bg bg="#ad8b00">GoPro</a-bg> chest band <a-bg bg="red">Songkran</a-bg> <a-bg bg="#5b8c00">Mt KK</a-bg> | 1    | 200   |
+| <a-bg bg="#13c2c2">Scuba</a-bg> Mask                                                                      | 1    | 300   |
+| <a-bg bg="#13c2c2">Scuba</a-bg> Snorkel                                                                   | 1    | 80    |
+| <a-bg bg="#13c2c2">Scuba</a-bg> Computer                                                                  | 1    | 68    |
+| Weekly Contact Lenses                                                                                     |      |       |
+| Daily Contact Lenses                                                                                      |      |       |
+| Sims card Malaysia & Thailand                                                                             | 2    | 1     |
+| Aigo <a-bg bg="#999">Charger </a-bg>                                                                      | 1    | 300   |
+| Swim trunk                                                                                                | 1    | 140   |
+| Swim goggle                                                                                               | 1    | 50    |
+| Tower                                                                                                     | 1    | 300   |
+| Beach shoes                                                                                               | 1    | 300   |
+| Lens pen <a-bg bg="#ad8b00">GoPro</a-bg>                                                                  | 1    |       |
+| Sun glass <a-bg bg="#5b8c00">Mt KK</a-bg>                                                                 | 1    | 200   |
+| Glove <a-bg bg="#5b8c00">Mt KK</a-bg>                                                                     | 1    |       |
+| Scarf <a-bg bg="#5b8c00">Mt KK</a-bg>                                                                     | 3    | 400   |
+| Hardshell <a-bg bg="#5b8c00">Mt KK</a-bg>                                                                 | 1    |       |
+| Softshell <a-bg bg="#5b8c00">Mt KK</a-bg>                                                                 | 1    | 300   |
+| Pill <a-bg bg="#5b8c00">Mt KK</a-bg>                                                                      | 2    | 1     |
+| <div style="text-align:center"><i>TOTAL</i></div>                                                         |      | 6000  |
+
+_BEFORE DEPARTURE CHECKLIST_
+
+| ITEM            | CHECK                           |
+| --------------- | ------------------------------- |
+| Visa            | <a-bg bg="green">CHECKED</a-bg> |
+| Air tickets     | <a-bg bg="green">CHECKED</a-bg> |
+| Hotel Booking   | <a-bg bg="green">CHECKED</a-bg> |
+| 5000 ￥ Deposit | <a-bg bg="green">CHECKED</a-bg> |
+| Cash            | <a-bg bg="green">CHECKED</a-bg> |
+| Weather         | <a-bg bg="green">CHECKED</a-bg> |
+
+_BEFORE TAXI CHECKLIST_
+
+| ITEM      | CHECK                           |
+| --------- | ------------------------------- |
+| Wallet    | <a-bg bg="green">CHECKED</a-bg> |
+| Cellphone | <a-bg bg="green">CHECKED</a-bg> |
+| Pen\*     | <a-bg bg="green">CHECKED</a-bg> |
+| Passport  | <a-bg bg="green">CHECKED</a-bg> |
+
+\* To fill the immigration form (AirAsia doesn't provide pen)
+
+_TECH CHECKLIST_
+
+<a-bg bg="#ffffb8" color="#000" style="padding:3px 6px"><b><i>30Min Battery Time per Dives</i></b></a-bg>
+
+<a-bg bg="#333" style="font-size:15px;padding:3px 6px"><b><i>2x D34VR 2600LM 120° (White/Red/Purple/UV)</i></b></a-bg>
+
+<a-bg bg="#ffffb8" color="#000">DAY</a-bg> Red (200LM 620nm) + White high (2600LM 5000-5500K)<br/>
+Max: 72Min / 1 Battery 2 Dives (32650 Battery)<br/>
+<a-bg bg="#ffffb8" color="#000">NIGHT</a-bg> Purple (410nm) / UV Light (365nm)<br/>
+Max: 300Min<br/>
+Weight: 465g / 240g(underwater)
+
+<a-bg bg="#333" style="font-size:15px;padding:3px 6px"><b><i>Gopro3 1080 50fps Medium 90°FPV Only</i></b></a-bg>
+
+Wide 15mm 170°C  (20mm)<br/>
+Medium 22mm 90°C  (29mm)<br/>
+Narrow 30mm 70°C  (40mm)
+
+<a-bg bg="#333" style="font-size:15px;padding:3px 6px"><b><i>Gopro4 1080 50fps Medium 90</i></b></a-bg>
+
+PT ISO400 / 1 Card 3 Dives (1H30M) / 1 Battery 2 Dives
+
+<a-bg bg="#333" style="font-size:15px;padding:3px 6px"><b><i>LIVEABOARD TOTAL</i></b></a-bg>
+
+2x A7r Battery (PS 2x)<br/>
+4x SD Card (SONY 1x 32gb 1x 64gb)<br/>
+4x D34VR Battery<br/>
+3x Gopro3 Battery<br/>
+2x Gopro4 Battery<br/>
+6x Gopro TF Card(Dive:5 fpv:1)
+
+<a-bg bg="#333" style="font-size:15px;padding:3px 6px"><b><i>2\*SD Card + 2\*SF-32UX2 + 1\*SF-64UX2</i></b></a-bg>
+
+3 SD Card Similan boat dive
+
+<a-bg bg="#333" style="font-size:15px;padding:3px 6px"><b><i>6\*SDSQUNC-032G-ZN6MA + 2\*SDSQUNC-064G-ZN6MA</i></b></a-bg>
+
+5 TF Card Similan boat dive<br/>
+1 TF Card Similan FPV<br/>
+3 TF Card Fullmoon
+
+PT I similan dive total: 4 sd-card / 9 tf-card ( 1 for FPV )<br/>
+<del>phangan dive total: 2 sd-card / 4 tf-card (abt 4 night dives, 2 day dives)</del>
+
+<div style="font-size:20px;text-align:center;color:#aaa;font-weight:800;padding:25vh 0">Confidence, Strong and Handsome.</div>
+
 ## KOTA KINABALU ²
 
 <a-times :times="2" location="KOTA KINABALU"></a-times>
+
+- _21:30_ Taxi
+- _21:30_ Railway Line 3
+- _23:00_ Airpot
+- _01:50 - 06:40_ D7809 CKG-KUL _9A seat_
+- eNTRI & withdraw <span style="text-decoration:underline">RM 1400</span>
+- _09:30 - 12:05_ AK5106 KUL-KK
+- Airport Bus (<span style="text-decoration:underline">RM 5</span>) to Bandaran Berjaya
 
 At 2 a.m., I boarded the flight to Kuala Lumpur. I had underestimated red-eye flights; the noise and uncomfortable seats made me nod off continuously without truly sleeping. The four-hour journey felt much more agonizing than the three-hour flight to Bangkok.
 
@@ -8,23 +138,32 @@ Finally, as the sun rose, I arrived in Kuala Lumpur. With little food available 
 
 At 9 a.m., I took another flight to Kota Kinabalu, arriving just past noon. After deplaning, I quickly rushed to catch an airport shuttle bus.
 
-According to online information, Bandaran Berjaya, the terminal station for the airport bus, offered minibus connections to Mount Kinabalu. However, the minibusses only departed when full, so I ended up waiting for quite some time.
-
-After a grueling eighteen-hour journey, by the time I reached my accommodation, settled in, and watched the sunset, I finally managed to enjoy a proper dinner at Balsam Café within the Mount Kinabalu Park.
-
 <a-flight flight="D7809" departure="CKG" destination="KUL" departure-time="2017-04-02 01:50" arrive-time="2017-04-02 06:40"></a-flight>
 
 <a-flight flight="AK5106" departure="KUL" destination="BKI" departure-time="2017-04-02 09:30" arrive-time="2017-04-02 12:05"></a-flight>
+
+<div style="color:#999">• Ranau Bus - Public Bus: earliest bus is 6.30am till <b><i>last bus 4pm</i></b>. Bus will only depart when full of passenger. Bus fare is <span style="text-decoration:underline">RM 25 – RM 30</span> per person per way. 2 hours.</div>
+
+According to online information, Bandaran Berjaya, the terminal station for the airport bus, offered minibus connections to Mount Kinabalu. However, the minibusses only departed when full, so I ended up waiting for quite some time.
 
 ```<a-map>
 driving:5.9436606,116.0487216,KKIA Terminal 2|5.9809019,116.0763801,Airport Bus Station|6.0076652,116.565853,Mount Kinabalu National Park
 ```
 
-Dormitory (Grace Hostel) at Kinabalu Park
+Dormitory (Grace Hostel) at Kinabalu Park (1585M)
 
 ```<a-map>
 points:6.0053195,116.5421188,Kinabalu National Park;6.01042297268944,116.5393427365916,Grace hostel
 ```
+
+After a grueling eighteen-hour journey, by the time I reached my accommodation, settled in, and watched the sunset, I finally managed to enjoy a proper dinner at Balsam Café within the Mount Kinabalu Park.
+
+<div style="color:#999">
+• Mt KK Entrance fee <span style="text-decoration:underline">RM 15</span></br>
+• Climbing permit <span style="text-decoration:underline">RM 200</span></br>
+• Insurance <span style="text-decoration:underline">RM 7</span></br>
+• GUIDE FEE <span style="text-decoration:underline">RM 230</span> (1-5 Climbers)
+</div>
 
 However, I still faced a problem. According to the rules, it was mandatory to hire a guide for climbing the sacred mountain, and the guide fee was quite expensive. A guide could only take up to six people, but I was traveling alone. Therefore, I had to find companions to form a group and share the expenses. So, I made a sign for teaming up.
 
@@ -50,7 +189,7 @@ name:mtkk-3
 name:mtkk-1
 ```
 
-The journey to Laban Rata was long, requiring six hours to climb from Timpohon Gate at an altitude of 1866 meters to 3273 meters.
+The journey to Laban Rata was 6km(1685m) long, requiring six hours to climb from Timpohon Gate at an altitude of 1866 meters to 3273 meters.
 
 I also overlooked a major issue – my ten-kilogram backpack. Carrying it up the mountain would not be an easy task. Completely forgetting about it, I didn't hire a porter when passing through Timpohon Gate. Eventually, I had to pay the guide to carry it up for me.
 
@@ -85,8 +224,13 @@ name:mtkk-4
 
 ### LABAN RATA
 
+At 15:00, we arrive at the Laban rata (3270M).
 
-On the 3,272.7m, Laban Rata
+Dinner at Laban Rata Restaurant – Panalaban.
+
+Non-Heated Dormitory-Laban Rata Resthouse
+
+22:30 lights off
 
 ```<a-img>
 name:raban-rata
@@ -96,8 +240,6 @@ name:raban-rata
 name:rabanrata
 dir:animation
 ```
-
-Non-Heated Dormitory-Laban Rata Resthouse
 
 In front of a rest station, I met the previous six Malaysians again, and we even took a group photo together. The journey was arduous, not as pleasant as I had imagined, with no special sights other than squirrels at the first stop. We encountered other climbers along the way, offering each other encouragement.
 
@@ -110,6 +252,14 @@ It was also at the restaurant where I discovered my passport in the backpack had
 ### LOW'S PEAK
 
 _So close, yet so far._
+
+- 00:29 Moon Set
+- 02:00 Early Supper - Panalaban
+- 2.5KM(825M) to Low's Peak (4095.2M)
+- early than 06:13 Sunrise
+- Breakfast at Laban Rata Restaurant – Panalaban
+- descent
+- Lunch at Balsam Café – Kinabalu Park
 
 To reach Low's Peak at 4,095.2 meters, one had to wake up at 3 am, eat a snack, and set off. A long line of people snaked its way up the mountain, illuminated only by faint headlamps, stretching far into the distance.
 
