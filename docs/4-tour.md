@@ -161,6 +161,10 @@ name:she-12.jpg
 dir:privacy
 ```
 
+As I walked along the beach with her, there were beauties sunbathing au naturel on the sand, but my attention remained steadfastly on her silhouette; the lens of my gaze never wandered. We strolled until we reached a spot with loungers where we decided to rest. We also ventured to the row of houses behind and discovered that one of them housed a Chinese couple—a man and a woman—who hailed from Chengdu and had come to learn scuba diving. After exploring around, we both agreed that the accommodations in the area were quite satisfactory.
+
+The following day, when we arrived at the diving school, they arranged for a vehicle to take us to our lodging. The car meandered through the area and eventually pulled up at the very same row of houses we had visited yesterday. I was assigned the room closest to the beach, while she got the one right next door.
+
 ```<a-img>
 name:she-10.jpg
 dir:privacy
@@ -169,6 +173,8 @@ dir:privacy
 <a-hotel name="Crystal Dive Resort" date="2015-04-05" nights="4"></a-hotel>
 
 <a-gallery :img="[{name:'moment1'},{name:'moment2'}]"></a-gallery>
+
+<a-carousel :img="[{name:'tao1',dir:'privacy'},{name:'tao2',dir:'privacy'},{name:'tao3',dir:'privacy'}]"></a-carousel>
 
 ```<a-map>
 points:10.085696,99.825093,Crystal Dive Resort
