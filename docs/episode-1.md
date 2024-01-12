@@ -87,14 +87,6 @@ name:gb1.jpg
 dir:privacy
 ```
 
-```<a-img>
-name:gb2.jpg
-dir:privacy
-```
-
-```<a-img>
-name:gb3.jpg
-dir:privacy
-```
+<a-carousel :img="[{name:'gb2.jpg',dir:'privacy'},{name:'gb3.jpg',dir:'privacy'}]"></a-carousel>
 
 <a-secret name="zwd" autoload></a-secret>
