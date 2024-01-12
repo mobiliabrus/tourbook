@@ -175,6 +175,18 @@ Girls, drinkers and boxers..
 Her sisters and she stood on my way and asking me wanna a drink when I am trying to get out.
 She caught my eyes, a pure cute young face.
 
+```<a-img>
+name:lk1
+```
+
+```<a-img>
+name:lk2
+```
+
+```<a-img>
+name:lk3
+```
+
 ```secret
 363aeb
 ```

@@ -52,6 +52,10 @@ They came from Wuhan. Both of them loved motorbike, and that's why they met and 
 By getting off, we found 
 our guesthouses were located on the same street. We became friends, and I visited him and talked a lot. He is a interior designer with cool style long hair and long beard.
 
+```<a-img>
+name:riders
+```
+
 I stayed in a mixed 6-beds dormitory where two girls and three guys slept. Marilyn is from Paris. She said she have been China for several months.
 
 Carl is another girl who comes from Germany. A night, in the dormitory, I asked a stupid question to her. "Do you have s child?" "I'm only 19" She said. I was so awkward. After that day, since her packages is still in the room, she missed. We all didn't know where she went. I leaved a message on her bag. Days later I received her texts, she went to Sandakan.
