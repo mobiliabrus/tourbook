@@ -1,3 +1,19 @@
+## IMAGINED TOUR
+
+### KOH LANTA
+
+```<a-map>
+driving:7.533830747093447,99.0953657306661,Koh Lanta Yai|7.5540883194404245,99.04069098221403,Baan|7.470410218667524,99.09929031355453,Lanta National Park
+```
+
+### KURDISTAN
+
+```<a-map>
+driving:37.11735302032662,37.40592598977678,Gaziantep|37.333557347802675,40.721859874379845,Mardin|37.143386389628446,42.68219186019897,Zakho|38.50646866472731,43.4068485734499,Van
+```
+
+## CHECKLIST
+
 Have you seen my checklist? In fact, I made a checklist before any trip to ensure that everything is taken care of. Here is my checklist of tour 7.
 
 

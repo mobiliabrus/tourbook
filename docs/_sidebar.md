@@ -8,4 +8,4 @@
 - [V. Null](5-tour.md)
 - [VI. Echoes](6-tour.md)
 - [VII. Last Journey](7-tour.md)
-- [Appendix I. Checklist](checklist.md)
+- [Appendix](appendix.md)
