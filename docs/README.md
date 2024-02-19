@@ -14,6 +14,7 @@ I was a dilettante, womanizer, theatrical, egotistical, neurotic person.
 
 ```<a-img>
 name:tourbook
+dir:privacy
 ```
 
 <a-secret name="timeline" autoload></a-secret>

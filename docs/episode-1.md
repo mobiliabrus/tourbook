@@ -94,4 +94,6 @@ dir:privacy
 
 <a-carousel :img="[{name:'gb2.jpg',dir:'privacy'},{name:'gb3.jpg',dir:'privacy'}]"></a-carousel>
 
+After this trip, I made up my mind to purchase my first DSLR camera.
+
 <a-secret name="zwd" autoload></a-secret>
