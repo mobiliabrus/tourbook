@@ -54,6 +54,7 @@ our guesthouses were located on the same street. We became friends, and I visite
 
 ```<a-img>
 name:riders
+dir:privacy
 ```
 
 I stayed in a mixed 6-beds dormitory where two girls and three guys slept. Marilyn is from Paris. She said she have been China for several months.
@@ -166,13 +167,13 @@ Afterward, I boarded Uncle Chang's boat.
 
 ### PULAU MABUL
 
-There's only a Chinese guy and I at first when checking in. Three beautiful girls came who said Cantonese who I believed they're from Hong Kong When aboard. And we also know another girl who was traveling with her mother. 
+The first person I met was a boy from Chengdu, whom Uncle Chang even drove to the bank to withdraw money.
 
 <a-hotel name="Uncle Chang Bungalow" date="2014-01-09" nights="2" points="4.2477133,118.6271726"></a-hotel>
 
-The first person I met was a boy from Chengdu, whom Uncle Chang even drove to the bank to withdraw money. On the boat, we saw three girls speaking Cantonese. Assuming they were from Hong Kong, upon inquiry, I learned that they were actually from Guangzhou. One of them was named Butterfly, and because another girl's clothing had a tomato pattern on it, I called her Tomato Soup. They stayed in the room next to ours, but only for half a day before heading off to Mabul Island. There was also another girl from Chongqing on the island, who came diving with her mother. We all admired her courage.
+The boat that took us to the island had to pass by an offshore oil platform that had been converted into a diving shop. Our boat had stopped under the platform for a while because there was a girl on board who was heading to the Seaventure Dive Rig.
 
-The boat that took us to the island had to pass by an oil platform that had been converted into a diving shop. Our boat had stopped under the platform for a while because there was a girl on board who was heading to the diving shop.
+On the boat, we saw three girls speaking Cantonese. Assuming they were from Hong Kong, upon inquiry, I learned that they were actually from Guangzhou. One of them was named Butterfly, and because another girl's clothing had a tomato pattern on it, I called her Tomato Soup.
 
 ```<a-map>
 points:4.253798859528792,118.63344342417173,Seaventures Dive Rig|4.233858799351027,118.68229942787646,Kapalai|4.249016266128097,118.62713486883527,Uncle Chang's Dive Lounge
@@ -189,21 +190,6 @@ dir:privacy
 
 ```<a-img>
 name:mabul-2.jpg
-dir:privacy
-```
-
-```<a-img>
-name:mabulx.jpg
-dir:privacy
-```
-
-```<a-img>
-name:mabul-3.jpg
-dir:privacy
-```
-
-```<a-img>
-name:mabul-8.jpg
 dir:privacy
 ```
 
@@ -227,27 +213,15 @@ name:mabul-7.jpg
 dir:privacy
 ```
 
-A popular game here involves a small iron ring suspended from a long string in mid-air, with a small iron hook mounted on a post opposite. The objective is to swing the ring over and hook it onto the hook. It's an addictive game that most people initially struggle with, as the ring repeatedly swings back and forth without success.
-
-I spent a whole hour playing before I discovered the trick. First, one needs to make the ring follow an elliptical trajectory as it swings across. Secondly, applying a spinning force to the ring can help; a proper spin makes it easier for the ring to latch onto the hook.
-
-I didn't know the names of these two girls, nor did I have their contact information; all I remembered was that they seemed to be from Shanghai. After others had gradually left the island, I got to know them and spent quite some time together.
-
-I played more with the tall girl with long hair. Once, she and I found a hermit crab on a platform. Another time, we went to the island itself where we saw indigenous people and stationed troops. When we returned, we were told that everyone had been looking for us as the snorkeling boat had already departed without us. We had no choice but to wait for the next one.
-
-The short-haired girl made two impressions on me: one was when she wore a white bikini while snorkeling, and the other was that several staff members at the dive shop seemed to fancy her and asked me about her.
-
-Later, by chance, we left the island together. We took the same vehicle provided by the dive shop; they headed to Tawau Airport while I went to downtown Tawau.
+There was also another girl from Chongqing on the platform, who came diving with her mother. We all admired her courage.
 
 Sharing our room was a man from Taiwan who had come for diving. He was always sharing his diving experiences with us and told me that just a few days earlier he had seen several turtles under this very platform, assuring me that if I paid attention, I would surely see them too. So, in the following days, I enjoyed spending time on the platform, hoping to catch sight of these creatures. However, not a single turtle appeared.
 
 One time, their diving boat failed to return on schedule, causing concern among the platform staff. Eventually, it did return, and the Taiwanese man informed me that they had encountered a "washing machine current" at Sipadan, which nearly prevented them from returning safely. It was incidents like these that influenced me and eventually led me down the path of diving as well.
 
-The weather here in January is indeed quite unpleasant. One day, the sky was completely overcast and a strong wind blew across the platform. It was said that there was a typhoon coming from the Philippines.
-
-People on the island were all sea gypsies, with several young men among them who had dark skin and were especially friendly. One of them could even play the guitar and sing. On another occasion, a group of Malay tourists appeared out of nowhere to ask for a photo with me. I didn't even know them, but they told me they were from Penang, though not the George Town that I was headed to.
-
 ### KAPALAI
+
+Three Guangdong girls were only staying for half a day, and they merely planned to go snorkeling at Kapalai before heading off to Mataking Island. The boat ferried us over to Kapalai, and I joined them as we ventured around the vicinity of the water bungalows for some fun.
 
 ```<a-img>
 name:mabul-2
@@ -256,6 +230,45 @@ name:mabul-2
 <a-gallery :img="[{name:'kapalai-1'},{name:'kapalai-2'},{name:'kapalai-3'}]"></a-gallery>
 
 The crew had begun to shout to all the snorkelers to return to the boat. She was furthest away from the boat, and the current was strong, so I quickly swam over, took her hand, and tried to swim towards the boat.
+
+It was a wondrous sensation, holding hands with her as I swam upward strenuously, while she gazed downward like a timid little one, her gaze fixed on the ocean floor.
+
+It was quite evident that there existed an undercurrent of ambiguous feelings between us. Several months later, this was indeed confirmed during one of our conversations.
+
+### PULAU MABUL
+
+A popular game here involves a small iron ring suspended from a long string in mid-air, with a small iron hook mounted on a post opposite. The objective is to swing the ring over and hook it onto the hook. It's an addictive game that most people initially struggle with, as the ring repeatedly swings back and forth without success.
+
+I spent a whole hour playing before I discovered the trick. First, one needs to make the ring follow an elliptical trajectory as it swings across. Secondly, applying a spinning force to the ring can help; a proper spin makes it easier for the ring to latch onto the hook.
+
+The weather here in January is indeed quite unpleasant. One day, the sky was completely overcast and a strong wind blew across the platform. It was said that there was a typhoon coming from the Philippines.
+
+People on the island were all sea gypsies, with several young men among them who had dark skin and were especially friendly. One of them could even play the guitar and sing. On another occasion, a group of Malay tourists appeared out of nowhere to ask for a photo with me. I didn't even know them, but they told me they were from Penang, though not the George Town that I was headed to.
+
+After the friends had all departed, I got to know two more girls.
+
+I didn't know the names of they, nor did I have their contact information; all I remembered was that they seemed to be from Shanghai. After others had gradually left the island, I got to know them and spent quite some time together.
+
+```<a-img>
+name:mabul-8.jpg
+dir:privacy
+```
+
+I played more with the tall girl with long hair. Once, she and I found a hermit crab on a platform. Another time, we went to the island itself where we saw indigenous people and stationed troops. When we returned, we were told that everyone had been looking for us as the snorkeling boat had already departed without us. We had no choice but to wait for the next one.
+
+```<a-img>
+name:mabulx.jpg
+dir:privacy
+```
+
+```<a-img>
+name:mabul-3.jpg
+dir:privacy
+```
+
+The short-haired girl made two impressions on me: one was when she wore a white bikini while snorkeling, and the other was that several staff members at the dive shop seemed to fancy her and asked me about her.
+
+Later, by chance, we left the island together. We took the same vehicle provided by the dive shop; they headed to Tawau Airport while I went to downtown Tawau.
 
 ## KOTA KINABALU ¹
 
