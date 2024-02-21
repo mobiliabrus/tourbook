@@ -173,7 +173,16 @@ The first person I met was a boy from Chengdu, whom Uncle Chang even drove to th
 
 The boat that took us to the island had to pass by an offshore oil platform that had been converted into a diving shop. Our boat had stopped under the platform for a while because there was a girl on board who was heading to the Seaventure Dive Rig.
 
+```<a-img>
+name:girl2rig
+```
+
 On the boat, we saw three girls speaking Cantonese. Assuming they were from Hong Kong, upon inquiry, I learned that they were actually from Guangzhou. One of them was named Butterfly, and because another girl's clothing had a tomato pattern on it, I called her Tomato Soup.
+
+```<a-img>
+name:3girls.jpg
+dir:privacy
+```
 
 ```<a-map>
 points:4.253798859528792,118.63344342417173,Seaventures Dive Rig|4.233858799351027,118.68229942787646,Kapalai|4.249016266128097,118.62713486883527,Uncle Chang's Dive Lounge
