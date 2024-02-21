@@ -171,12 +171,6 @@ The first person I met was a boy from Chengdu, whom Uncle Chang even drove to th
 
 <a-hotel name="Uncle Chang Bungalow" date="2014-01-09" nights="2" points="4.2477133,118.6271726"></a-hotel>
 
-The boat that took us to the island had to pass by an offshore oil platform that had been converted into a diving shop. Our boat had stopped under the platform for a while because there was a girl on board who was heading to the Seaventure Dive Rig.
-
-```<a-img>
-name:girl2rig
-```
-
 On the boat, we saw three girls speaking Cantonese. Assuming they were from Hong Kong, upon inquiry, I learned that they were actually from Guangzhou. One of them was named Butterfly, and because another girl's clothing had a tomato pattern on it, I called her Tomato Soup.
 
 ```<a-img>
@@ -230,7 +224,15 @@ One time, their diving boat failed to return on schedule, causing concern among 
 
 ### KAPALAI
 
-Three Guangdong girls were only staying for half a day, and they merely planned to go snorkeling at Kapalai before heading off to Mataking Island. The boat ferried us over to Kapalai, and I joined them as we ventured around the vicinity of the water bungalows for some fun.
+Three Guangdong girls were only staying for half a day, and they merely planned to go snorkeling at Kapalai before heading off to Mataking Island.
+
+The boat ferried us over to Kapalai. It had to pass by the Seaventure Dive Rig, an offshore oil platform that had been repurposed into a diving shop. Our boat had stopped under the platform for a while because there was a girl on board who was heading to there.
+
+```<a-img>
+name:girl2rig
+```
+
+I was thinking how intriguing this diving platform must be.
 
 ```<a-img>
 name:mabul-2
