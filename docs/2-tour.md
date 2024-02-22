@@ -26,9 +26,9 @@ I get off at the Times Square where my hostel located.
 
 <a-hotel name="Irsia BnB Guesthouse" date="2014-1-4" nights="2" points="3.1413875,101.7100106"></a-hotel>
 
-Everyone was obviously asleep because they were snoring loudly. I walked quietly and tried to not wake anyone up. My bed is situated to a pipe that made constant noise throughout the night. However, I was so exhausted that I fell asleep despite the noise. 
+Everyone was obviously asleep because they were snoring loudly. I walked quietly and tried to not wake anyone up. My bed was situated to a pipe that made constant noise throughout the night. However, I was so exhausted that I fell asleep despite the noise. 
 
-When I woke up, anyone else had already left. There was self-service breakfast available, which included bread and butter. There was a reminder on the wall that said to clean any dishes or utensils after use. 
+When I woke up, anyone else had already left. There was self-service breakfast available, which included toast ,butter and coffee. There was a reminder on the wall that said to clean any dishes or cups after use. 
 
 After breakfast, I went for a walk and realized that the community was extremely busy, and everyone led a fast-paced life without taking any breaks. The city felt like a black hole, and it absorbed the people around it. People walked fast and hurriedly through the crowded streets. I limited myself to just walking, eating and sleeping for two days; however, I realized that this wasn't the place for me, so I had to leave.
 
