@@ -30,7 +30,11 @@ Everyone was obviously asleep because they were snoring loudly. I walked quietly
 
 When I woke up, anyone else had already left. There was self-service breakfast available, which included toast ,butter and coffee. There was a reminder on the wall that said to clean any dishes or cups after use. 
 
-After breakfast, I went for a walk and realized that the community was extremely busy, and everyone led a fast-paced life without taking any breaks. The city felt like a black hole, and it absorbed the people around it. People walked fast and hurriedly through the crowded streets. I limited myself to just walking, eating and sleeping for two days; however, I realized that this wasn't the place for me, so I had to leave.
+After breakfast, I went for a walk and realized that the community was extremely busy, and everyone led a fast-paced life without taking any breaks. 
+
+In the context of dining, I've steered clear of high-end restaurants and avoided crowded venues. Instead, I always frequent Indian eateries because they tend to be less busy and affordable. The first Indian restaurant I visited didn't provide spoons. Had been asked, he showed me how to eat with my hands. Only after my persistent request did they manage to find a spoon for me. I even shared this experience with Jing, given that she had studied abroad here and might appreciate the cultural nuance.
+
+The city felt like a black hole, and it absorbed the people around it. People walked fast and hurriedly through the crowded streets. I limited myself to just walking, eating and sleeping for two days; however, I realized that this wasn't the place for me, so I had to leave.
 
 ```<a-img>
 name:klcc
