@@ -63,7 +63,7 @@ dir:privacy
 
 I stayed in a mixed 6-beds dormitory where two girls and three guys slept. 
 
-Carl is one girl who comes from Germany. A night, in the dormitory, I asked a stupid question to her. "Do you have s child?" "I'm only 19" She said. I was so awkward. After that day, since her packages is still in the room, she missed. We all didn't know where she went. I leaved a message on her bag. Days later I received her texts, she went to Sandakan.
+Carl is one girl who comes from Germany. A night, in the dormitory, I asked a stupid question to her. "Do you have a child?" "I'm only 19" She said. I was so awkward. After that day, since her packages is still in the room, she missed. We all didn't know where she went. I leaved a message on her bag. Days later I received her texts, she went to Sandakan.
 
 Marilyn from Paris is another. She said she have been China for several months. There're another two Chinese boys who are quite funny. One of them called "spinach". As there of us didn't know what is it in English, we had to hold Marilyn that his name is "vegetable".
 
@@ -94,17 +94,7 @@ name:marilyn-3
 name:marilyn-4
 ```
 
-```<a-img>
-name:sapi-1
-```
-
-```<a-img>
-name:sapi-2
-```
-
-```<a-img>
-name:sapi-3
-```
+We were snorkeling in the shallow waters where plenty of dead corals could be found. And there, I actually saw what appeared to be a "mermaid".
 
 ```<a-img>
 name:ng1
@@ -114,6 +104,20 @@ dir:animation
 ```<a-img>
 name:ng2
 dir:animation
+```
+
+```<a-img>
+name:sapi-1
+```
+
+```<a-img>
+name:sapi-2
+```
+
+After lunch, Marilyn wanted to go parasailing. Vegetable thought it was too expensive and didn't want to. However, I saw this as an opportunity for a close encounter with the mermaid, so I agreed to it.
+
+```<a-img>
+name:sapi-3
 ```
 
 ```<a-img>
@@ -138,21 +142,25 @@ name:fly-5.jpg
 dir:privacy
 ```
 
-<a-flight flight="AK6262" departure="BKI" destination="TWU" departure-time="2014-01-08 16:05" arrive-time="2014-01-08 17:00"></a-flight>
+After returning from the island, I discovered that my back had been severely sunburned; and several days later, large patches of skin peeled off.
 
 ### THE BLACK GUY
 
-Airport Waiting room, black who claim he have been guangdong
-boast that chinese virgin will came on to him
-he sounds a lot.
+In the original plan, I intended to stay in Kota Kinabalu for several days, even purchasing a return flight ticket. However, I later became attracted to Semporna and decided to insert this trip into my itinerary. Thus, the next day, I had to reluctantly leave behind the mermaid encounter and embark on a new journey.
 
-when aborad, he ask me where my seat is, would I change my seat to continue our conversation.
-He told me his seat no is 28.
-and mine is 6A.
+<a-flight flight="AK6262" departure="BKI" destination="TWU" departure-time="2014-01-08 16:05" arrive-time="2014-01-08 17:00"></a-flight>
+
+At the airport lounge, I encountered a black man who claimed to have an affinity for Chinese people and had even been to Guangdong. In earnest, he told me how much the girls there adored him, and how he even had virgins throwing themselves at him.
+
+He seemed to take pleasure in recounting his stories to me, but I found him a bit annoying.
+
+As we were boarding, he mentioned that he was seated in Row 28 and asked which row I was in, hoping to continue our conversation on the plane. With a hint of smugness, I told him Row 6 - the paid seats section. Consequently, while he headed for the rear entrance, I boarded through the front entrance. And thus, I never saw him again after that.
 
 ## SEMPORNA ¹
 
 <a-times :times="1" location="SEMPORNA"></a-times>
+
+Before boarding the plane, I had found a carpool partner online with whom I arranged to share a ride from the airport.
 
 After landing, I found my phone was out of power. I found a store selling phone cards to charge. A local driver found me and asked me am I the passager they are looking for. I didn't know what name the girl is and I am not sure weather this was the bus she was at, so I declined.
 
@@ -173,7 +181,7 @@ Afterward, I boarded Uncle Chang's boat.
 
 ### PULAU MABUL
 
-The first person I met was a boy from Chengdu, whom Uncle Chang even drove to the bank to withdraw money.
+Before boarding, I met a guy from Chengdu while Uncle Chang was driving him to the bank.
 
 <a-hotel name="Uncle Chang Bungalow" date="2014-01-09" nights="2" points="4.2477133,118.6271726"></a-hotel>
 
@@ -291,9 +299,11 @@ Later, by chance, we left the island together. We took the same vehicle provided
 
 <a-flight flight="AK6269" departure="TWU" destination="BKI" departure-time="2014-01-12 10:15" arrive-time="2014-01-12 11:05"></a-flight>
 
+Upon my return to Kota Kinabalu, the room was empty. As evening approached, I ran into Marilyn coming back, and we made plans to have dinner together. After our meal, she suggested going to a nearby spot for a couple of drinks.
+
 ### SALT DOG
 
-I went to dinner with her, and then followed her to an open-air bar. We talked about some things, such as her experience in China and why she wanted to go back to France. She recommended a wine that was soaked in salt, and she was surprised that I finished it so quickly and ordered another one. Afterwards, we walked back to the hostel along the road. When I entered the room, she was video chatting with her boyfriend on the bed, and I said hello.
+I followed her to an open-air bar. We talked about some things, such as her experience in China and why she wanted to go back to France. She recommended a wine that was soaked in salt, and she was surprised that I finished it so quickly and ordered another one. Afterwards, we walked back to the hostel along the road. When I entered the room, she was video chatting with her boyfriend on the bed, and I said hello.
 
 ```<a-map>
 walking:5.982953, 116.076504,Bar|5.9833774,116.0776038,Borneo Backpackers
@@ -301,6 +311,8 @@ points:5.983082,116.076264
 ```
 
 The next morning, I was bored flipping through my book when he came over and squatted at my feet, telling me that she was going to KK Mountain with another tourist here. So, we parted ways. It was a strange feeling. I also wanted to go up the mountain with her, but my itinerary was already set.
+
+Thus, in the hostel, I was once again left with only a cat for company. This cat enjoyed gazing out from the balcony much like the idle me.
 
 ```<a-img>
 name:cat
@@ -322,13 +334,13 @@ name:gt-1
 
 <a-hotel name="Ryokan @ Muntri Street" date="2014-01-13" nights="4"></a-hotel>
 
-The room is at the end of the corridor. It's on the second floor, connected with black iron spiral stairs. It has bunk beds and its own bathroom. I am the only one guest in this room. 
+The room was at the end of the corridor. It was on the second floor, connected with black iron spiral stairs. It had bunk beds and its own bathroom. I was the only one guest in this room. Later, Fengchehe came to me. We chatted for a while at the small round table outside our hostel.
 
-Fengchehe come and meet me. We talked at the table in front of the hostel. 
-
-When I get back to the room, a young girl is sitting on the upper bed and waves to me. She's Isis from Hongkong. 
+When I got back to the room, a young girl was sitting on the upper bed and waving to me. She was named Isis, from Hongkong. 
 
 ### LITTLE INDIA
+
+I introduced her to the Cheche, and together we headed off to Little India.
 
 ```<a-img>
 name:little-india-1
@@ -337,6 +349,8 @@ name:little-india-1
 2014-01-14
 
 ### JETTY
+
+We then went to the jetty together, and later accompanied Isis to book her ferry ticket to Langkawi. Following that, we took a rest in a nearby park.
  
 ```<a-map>
 walking:5.4125915,100.3405987,Chew Jetty;5.4194291,100.3445641,Langkawi Ferry Services Sdn Bhd;5.420885,100.343897,FORT Cornwallis
@@ -366,11 +380,6 @@ name:jetty-5.jpg
 dir:privacy
 ```
 
-Isis booked boat ticket at the ferry. 
-
-
-### FORT CORNWALLIS
-
 ```<a-img>
 name:kc-1.jpg
 dir:privacy
@@ -392,9 +401,11 @@ name:george-town-fengcheche
 
 ### DANNI
 
+We strolled leisurely along the coastline.
 Fengcheche have been astonished, "What a cute self photography girl. Let me help you."
-Then we talked, we found out she booked our hostel.
-One hour later, after check out, it turns out we are roommate. 
+It turned out that there was a girl taking selfies nearby. After striking up a conversation, we discovered that she hailed from Chongqing.
+
+When we asked her which hostel she was staying at, she couldn't quite remember the name but knew it was on Love Lane. As it happened, we were heading in the same direction and decided to walk together. There was a chance that, quite coincidentally, we might even be staying at the same hostel.
 
 ```<a-map>
 walking:5.420885,100.343897,FORT Cornwallis|5.421882,100.342654,DANNI|5.423263358177238,100.34083223610918|5.420896,100.337566,Love Ln|5.420208,100.335220,Ryokan Muntri Boutique Hostel
@@ -439,13 +450,19 @@ name:loveln.jpg
 dir:privacy
 ```
 
+Upon arrival, wouldn't you know it, this turned out to be the exact hostel where Isis and I were staying! It was an amusing thought – what if we were actually in the same room? Such serendipitous occurrences do happen in the world.
+
 ### NIGHT MARKET
+
+In the evening, we made plans to explore the night market together in search of a delicious meal.
 
 ```<a-map>
 walking:5.420208,100.335220,Ryokan Muntri Boutique Hostel|5.418612,100.336421,Love Ln|5.416457,100.332673,Kimberley Street Food Night Market
 ```
 
-To get to the night market, we had to walk a few streets, but it was completely worth it. We first tried Four-Fruit Soup, and the soy sauce chicken feet were amazing; we had them several times. Danni and I also shared a durian that was so delicious that I haven't been able to find one as good since. Later on, Dannii and I came back and got takeout fried rice noodles.
+To reach the bustling night market, we meandered through a few lively streets, and every step proved worthwhile. Our first gastronomic adventure involved sampling the Four-Fruit Soup, which was simply delightful; its unique flavor was so captivating that we couldn't resist having it multiple times throughout the evening. The soy sauce chicken feet were equally remarkable, leaving us in awe of their succulent texture and rich taste.
+
+Danni and I also shared an incredibly luscious durian, one whose unparalleled sweetness and creamy goodness has been etched in my memory, making it a benchmark that I've yet to encounter again elsewhere. As the night progressed, Danni and I returned to the market for some scrumptious takeout – a serving of fried rice noodles that perfectly capped off our unforgettable culinary escapade at the night market.
 
 ```<a-img>
 name:night-food
@@ -456,6 +473,8 @@ name:night-food-2
 ```
 
 ### BAR
+
+Afterwards, we excitedly suggested visiting a local bar for some more fun.
 
 ```<a-map>
 walking:5.418435,100.335625,Halab Penang|5.418612,100.336421,Love Ln|5.420208,100.335220,Ryokan Muntri Boutique Hostel
@@ -468,15 +487,15 @@ name:bar
 > _Finally, I've been to a bar... Never in the early 20 years..._
 > <br/><div style="text-align:right">_Danni - 2014-01-14_</div>
 
-On road back, just passed 7-Eleven corner, at the beginning of Love Ln I walk outside and girls walked inside.
-A motorcycle with two guys race beside me, I saw the guy in the back strangely stared us.
-Few seconds later motor with two policemen pass by, one of policeman look at us, seems like to checking if we are okay.
+Before arriving, I had heard about Penang's safety situation. Although the girls were not carrying backpacks, on our way back, I deliberately made sure they stayed closer to the inside of the sidewalk. It was at this moment that a motorcycle zoomed past me, with two people aboard; the passenger in the backseat gave me a peculiar look. "Could this be one of those snatch-and-grab incidents?" I thought to myself.
 
-Night bar, riding danger
+Right after my concern, a police motorcycle cruised by my side, also manned by two officers. The rear rider, a policeman, was eyeing me as well, seemingly assessing if I was in any kind of danger or had just encountered one. This juxtaposition underscored the city's vigilance against potential threats while also highlighting my own awareness and caution in navigating the streets of Penang.
+
+We all agreed that the previous incident was a potentially dangerous encounter.
 
 ### BEACH
 
-Isis went Langkawi.
+The next day, Isis went Langkawi.
 
 The rest of us took buses along the coast, heading to a public beach. The coastline was truly beautiful, but I don't remember anything particularly special about it. In fact, I've even doubted whether this event really happened or if we simply walked around and left.
 
@@ -510,9 +529,9 @@ name:danni-2.jpg
 dir:privacy
 ```
 
-Fengcheche left.
-
 <a-carousel :img="[{name:'danni-8.jpg',dir:'privacy'},{name:'danni-9.jpg',dir:'privacy'},{name:'danni-10.jpg',dir:'privacy'},{name:'danni-11.jpg',dir:'privacy'},{name:'danni-12.jpg',dir:'privacy'},{name:'danni-13.jpg',dir:'privacy'},{name:'danni-14.jpg',dir:'privacy'},{name:'danni-15.jpg',dir:'privacy'},{name:'danni-17.jpg',dir:'privacy'}]"></a-carousel>
+
+Later, Feng Cheche left.
 
 ### PENANG HILL
 
@@ -571,10 +590,14 @@ walking:5.423528,100.269514,Penang Hill Upper Station|5.418529,100.263881,Ice cr
 
 As it got dark quickly, we descended the mountain. At the foot of the mountain, at a junction, we ate at a street stall. Around six o'clock, the owner suddenly started packing up. In China, six o'clock is when night markets are just starting to open. We all said that maybe Malaysians value life more than making money.
 
+The next day, she departed for Kota Kinabalu.
+
 > _The last day in Penang. Kota Kinabalu the next morning!_
 > <br/><div style="text-align:right">_Danni - 2014-01-16_</div>
 
 ### GERGORE TOWN
+
+I had intended to extend my stay at the hostel for another two days, but the owner informed me that the upcoming weekend was a holiday and all rooms were fully booked. Consequently, I had no choice but to find alternative accommodations. Later on, Isis returned from Langkawi, but unfortunately, we didn't get a chance to meet up.
 
 <a-hotel name="Day & Night Guesthouse" date="2014-01-17" nights="2"></a-hotel>
 
@@ -587,7 +610,11 @@ name:drsun
 
 ## KULA LUMPUR ¹
 
+I traveled back to Kuala Lumpur from Penang by bus and checked into a hostel on Jalan Alor. To my surprise, there were only two other foreign travelers at the hostel who were discussing where they could find accommodations that were five dollars cheaper. The following day, true to their word, they actually moved out to another place. Consequently, I found myself as the sole guest in the hostel.
+
 <a-hotel name="Hotel Budget Inn Jalan Alor" date="2014-01-19" nights="2"></a-hotel>
+
+Subsequently, I spent my time wandering around Kuala Lumpur and engaging in some mundane activities.
 
 <a-flight flight="AK1008" departure="KUL" destination="KMG" departure-time="2014-01-21 13:05" arrive-time="2014-01-21 16:55"></a-flight>
 
