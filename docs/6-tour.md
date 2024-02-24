@@ -1,10 +1,14 @@
-Why you visit a place twice, people asked. First,  I have memories there. And then, it provides me chance to compensate.
+Why you visit a place twice, people asked. First, I have memories there. And then, it provides me chance to compensate.
+
+I made a serious blunder when I mistakenly booked the wrong dates for my hotel stay, and it wasn't until I received a notification that "check-in is tomorrow" that I realized my error. After some negotiations, I ended up having to pay more money and settle for a less desirable room.
 
 ## BANGKOK ⁵
 
 <a-times :times="5" location="BANGKOK"></a-times>
 
 <a-flight flight="FD553" departure="CKG" destination="DMK" departure-time="2017-01-05 19:55" arrive-time="2017-01-05 22:05"></a-flight>
+
+Once again, I had a brief stay before taking a direct flight to Surat Thani.
 
 <a-hotel name="Don Muang Hotel" date="2017-01-05" nights="1"></a-hotel>
 
@@ -16,9 +20,11 @@ Why you visit a place twice, people asked. First,  I have memories there. And th
 
 People visit Suratthani because it's the gateway to the Gulf of Thailand. From the international airport, you'll be able to visit Koh Phangan, Koh Samui and the Ang Thong National Marine.
 
+In Surat Thani town, it was particularly quiet with a limited number of tourists, and the prices were especially affordable.
+
 <a-hotel name="Papangkorn House" date="2017-01-06" nights="1"></a-hotel>
 
-Surat Thani Transport Station - Khao Lak
+The following day, I boarded a long-distance bus. Although I rarely make mistakes with my travel itineraries, even when issues arise during the journey, I always manage to navigate through them successfully.
 
 ```<a-map>
 driving:9.1438932,99.3283169,Surat Thani Transport Station|8.9006588,98.5198817,Khao Sok Bus Stop|8.64327383935287,98.25130909519658,Khao Lak
@@ -31,6 +37,16 @@ points:9.14651073017441,99.333013684943,Papangkorn House|8.644991293002645,98.25
 
 > In January 2017, Southern Thailand was hit by a devastating flood disaster. Thunderstorms and strong winds caused extreme waves in the sea.
 
+Due to poor weather conditions at sea, we were compelled to stay at the same diving spot for an extended period of time.
+
+At our favorite diving spot, The Dome, due to the adverse weather, we had to make a swift descent. As soon as we plunged into the sea, the waves quickly dispersed us, leaving us adrift and disoriented. A fellow Chinese diver from our boat was swept away by the currents, and despite our repeated calls, there was no response. Behind him, another dive boat's bow was being lifted and lowered by the waves like a hammerhead.
+
+Our dive instructor had no choice but to swim out to rescue him, while I and an elderly German diver clung tightly to the Mooring line, enduring excruciating pain in our hands with every wave that hit. Suddenly, a female diver who had been carried over by the waves managed to grab onto us, allowing her to secure herself to the Mooring line too. Eventually, we were rescued by our dive boat, which then went on to retrieve our instructor and the other diver. It turned out that the female diver belonged to another boat from the same company.
+
+After everyone was accounted for and safety measures were adjusted, we ventured back into the water. However, conditions underwater remained treacherous, with a particularly strong current making it arduous for me to dive. I frequently experienced headaches, and my oxygen consumption rate was unusually high due to the strenuous effort required to navigate through the challenging conditions.
+
+I had to forgo two diving sessions because my headache was unbearable. I suspected that the intensity of my nervousness, which led to rapid breathing, might have caused a state of hypoxia due to insufficient oxygen intake.
+
 ```<a-img>
 name:similan3-1
 ```
@@ -39,9 +55,12 @@ name:similan3-1
 name:similan3-2
 ```
 
-### THE GREAT ROUTE
+For several consecutive days, the weather remained tumultuous. On one occasion, a massive wave hit our boat so hard that it nearly capsized. I witnessed unsecured items flying into the ocean as we all desperately clung to the handrails for safety.
+
+## THE GREAT ROUTE
 
 It was the hardest route plan I've ever made.
+
 “No flights after diving.” I have to travel by land, crossing 541 kilometers in 18 hours. 
 
 Khao Lak, Phuket Bus Terminal 2, Krabi, Lomprayah's Bus Terminal, Donsak Pier, Koh Phangan Thong Sala Pier, Rin Nai Beach. Of course, no sleep. What do you want?
@@ -72,20 +91,20 @@ I saw flood on this island. The minibus driver had to took detour from the jungl
 
 <a-hotel name="Sarikantang Resort & Spa, Koh Phangan" date="2017-1-12" nights="5"></a-hotel>
 
-It is full moon party night.
+Before the sun had even set, I arrived at the beach with my camera in hand. Despite enduring the wait until nightfall, there weren't many people around. By about 10 o'clock, feeling overwhelmingly exhausted, I decided to call it a night and head back to sleep. I traveled 500 kilometers for this? It seemed like a questionable outcome considering the effort put into the journey.
 
-At midnight, I was so sleepy. I didn't get enough sleep last night, and there's nothing motivates me.
+In the following days, I discovered that when there wasn't a Full Moon Party taking place, the area was virtually deserted. Left with no other choice, I ventured out to explore other places. Eventually, however, I grew too lethargic to continue wandering and spent several days watching episodes of Friends in my room instead.
+
+```<a-map>
+walking:9.6712821,100.0663727,Sarikantang|9.6756004,100.068082,Haad Rin Beach
+points:9.7108346,99.9854419,Market Ko Phangan
+```
 
 Koh Phangan. Shit. I'm still alone. Every time I woke up, I think I'm going to have passion. When I was home after my first tour, it was worse. I regretted my decisions util I was getting back into the tour.
 
 I'm here a weeknow. Wasting time on binge-watching... Getting softer. Every minute I stay in this room, I get weaker. And every minute I am lonely.
 
 When I was home, I wannted be here. When I was here, all I could think was getting depressed
-
-```<a-map>
-walking:9.6712821,100.0663727,Sarikantang|9.6756004,100.068082,Haad Rin Beach
-points:9.7108346,99.9854419,Market Ko Phangan
-```
 
 What am I coming all the way to do? 
 
