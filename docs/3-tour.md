@@ -6,11 +6,13 @@
 > _So you think something might happen; it's easy to believe, it's exciting._
 > _But she has a boyfriend so you are jealous._
 
+On the forum, I posted a thread detailing my trip to Chiang Mai, and unexpectedly, this led to connecting with fellow travelers. Some of these newfound acquaintances even ended up crossing paths with me during my journey. Some of them were important.
+
 ## BANGKOK ²
 
-<a-times :times="2" location="BANGKOK"></a-times>
-
 <a-flight flight="FD553" departure="CKG" destination="DMK" departure-time="2014-11-02 19:55" arrive-time="2014-11-02 22:05"></a-flight>
+
+I only stayed for one night near Don Mueang Airport, and the following day, I flew directly to Chiang Mai.
 
 ## CHIANG MAI ²
 
@@ -22,15 +24,13 @@
 
 ### TREE HOUSES
 
+Since we were staying at different hostels, the driver had to pick us up one by one.
+
+1 pax @ So Hotel, 2 pax @ A Little Bird 2 Guest House, 1 pax @ 9 Hostel, 2 pax @ baan thai (36 nimmanhaeminda Road)
+
 <a-hotel name="Rabeang Pasak Treehouse Resort" date="2014-11-04" nights="1"></a-hotel>
 
-```<a-img>
-name:tree-house-me
-```
-
-```<a-img>
-name:treehouse-1
-```
+<a-carousel :img="[{name:'tree-house-me'},{name:'treehouse-1'}]"></a-carousel>
 
 ```<a-img>
 name:she-1
@@ -79,13 +79,7 @@ dir:privacy
 name:treehouse-15
 ```
 
-```<a-img>
-name:treehouse-16
-```
-
-```<a-img>
-name:treehouse-yuner
-```
+<a-carousel :img="[{name:'treehouse-yuner'},{name:'treehouse-16'}]"></a-carousel>
 
 ```<a-img>
 name:treehouse-8.jpg
@@ -101,8 +95,6 @@ dir:privacy
 name:treehouse-10.jpg
 dir:privacy
 ```
-
-1 pax @ So Hotel, 2 pax @ A Little Bird 2 Guest House, 1 pax @ 9 Hostel, 2 pax @ baan thai (36 nimmanhaeminda Road)
 
 ```<a-map>
 driving:18.7979829,98.9660400,Baan Thai Apartment|18.7842285,98.9970986,So Hostel|18.7963096,98.9838874,A Little Bird 2 Guest House|18.795304760190298,98.98652265355459,Chang Phuak Gate|18.983908,99.124138,Rabeang Pasak Treehouse Resort
@@ -122,7 +114,6 @@ dir:privacy
 ```
 
 ```<a-map>
-aerial
 walking:18.983908,99.124138,Rabeang Pasak Treehouse Resort|18.9869287,99.1186256,จุดชมวิวแผ่นดินหวิด
 ```
 
@@ -156,11 +147,6 @@ dir:privacy
 ```<a-img>
 name:treehouse-5.jpg
 dir:privacy
-```
-
-```<a-map>
-aerial
-walking:18.983908,99.124138,Rabeang Pasak Treehouse Resort|18.981513,99.116642,.
 ```
 
 ```<a-img>
@@ -242,6 +228,8 @@ I saw she off at the airport.
 Accident
 
 ## BANGKOK ²
+
+<a-times :times="2" location="BANGKOK"></a-times>
 
 <a-flight flight="FD3446" departure="CNX" destination="DMK" departure-time="2014-11-08 09:30" arrive-time="2014-11-08 10:50"></a-flight>
 
