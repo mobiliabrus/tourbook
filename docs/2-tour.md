@@ -61,15 +61,17 @@ name:riders
 dir:privacy
 ```
 
-I stayed in a mixed 6-beds dormitory where two girls and three guys slept. Marilyn is from Paris. She said she have been China for several months.
+I stayed in a mixed 6-beds dormitory where two girls and three guys slept. 
 
-Carl is another girl who comes from Germany. A night, in the dormitory, I asked a stupid question to her. "Do you have s child?" "I'm only 19" She said. I was so awkward. After that day, since her packages is still in the room, she missed. We all didn't know where she went. I leaved a message on her bag. Days later I received her texts, she went to Sandakan.
+Carl is one girl who comes from Germany. A night, in the dormitory, I asked a stupid question to her. "Do you have s child?" "I'm only 19" She said. I was so awkward. After that day, since her packages is still in the room, she missed. We all didn't know where she went. I leaved a message on her bag. Days later I received her texts, she went to Sandakan.
 
-There're another two Chinese boys who are quite funny. The next morning, they invited me to join their tour to a island. I was so glad to join, for Marilyn was invited too.
+Marilyn from Paris is another. She said she have been China for several months. There're another two Chinese boys who are quite funny. One of them called "spinach". As there of us didn't know what is it in English, we had to hold Marilyn that his name is "vegetable".
+
+The next morning, when I was enjoying breakfast, vegetable came and invited me to join their tour to an island. I was so glad to join, for Marilyn was invited too.
 
 ### PULAU SAPI
 
-This island named 'sapi' which word sounds like 'stupid' in Chinese.
+This island named "sapi" which word sounds like 'stupid' in Chinese. We perfered "mermaid island", because Marilyn was one.
 
 ```<a-img>
 name:marilyn-2
