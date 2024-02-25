@@ -4,6 +4,7 @@
   "private": true,
   "scripts": {
     "start": "node ../scripts/lib/watch",
-    "build": "node ../scripts/lib/encodeAll"
+    "build": "node ../scripts/lib/encodeAll",
+    "revert": "node ../scripts/lib/decodeAll"
   }
 }
