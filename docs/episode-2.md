@@ -13,6 +13,8 @@
 
 <a-secret name="zx" autoload></a-secret>
 
+<a-secret name="dd" autoload></a-secret>
+
 <a-secret name="lu" autoload></a-secret>
 
 <a-carousel :img="[{name:'xlj-1.jpg',dir:'privacy'},{name:'xlj-2.jpg',dir:'privacy'},{name:'xlj-3.jpg',dir:'privacy'}]"></a-gallery>
