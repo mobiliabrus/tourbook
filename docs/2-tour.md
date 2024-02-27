@@ -102,8 +102,16 @@ dir:animation
 ```
 
 ```<a-img>
+name:maryn
+```
+
+```<a-img>
 name:ng2
 dir:animation
+```
+
+```<a-img>
+name:maryn2
 ```
 
 ```<a-img>
@@ -121,8 +129,7 @@ name:sapi-3
 ```
 
 ```<a-img>
-name:ng3
-dir:animation
+name:maryn3
 ```
 
 ```<a-img>
@@ -243,6 +250,10 @@ Three Guangdong girls were only staying for half a day, and they merely planned 
 The boat ferried us over to Kapalai. It had to pass by the Seaventure Dive Rig, an offshore oil platform that had been repurposed into a diving shop. Our boat had stopped under the platform for a while because there was a girl on board who was heading to there.
 
 ```<a-img>
+name:seaventure
+```
+
+```<a-img>
 name:girl2rig
 ```
 
@@ -269,6 +280,14 @@ I spent a whole hour playing before I discovered the trick. First, one needs to 
 The weather here in January is indeed quite unpleasant. One day, the sky was completely overcast and a strong wind blew across the platform. It was said that there was a typhoon coming from the Philippines.
 
 People on the island were all sea gypsies, with several young men among them who had dark skin and were especially friendly. One of them could even play the guitar and sing. On another occasion, a group of Malay tourists appeared out of nowhere to ask for a photo with me. I didn't even know them, but they told me they were from Penang, though not the George Town that I was headed to.
+
+```<a-img>
+name:mabul-4
+```
+
+```<a-img>
+name:mabul-5
+```
 
 After the friends had all departed, I got to know two more girls.
 
@@ -378,6 +397,10 @@ dir:privacy
 ```<a-img>
 name:jetty-5.jpg
 dir:privacy
+```
+
+```<a-img>
+name:isisjetty
 ```
 
 ```<a-img>
