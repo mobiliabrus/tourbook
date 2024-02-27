@@ -20,6 +20,16 @@ I only stayed for one night near Don Mueang Airport, and the following day, I fl
 
 <a-flight flight="FD3435" departure="DMK" destination="CNX" departure-time="2014-11-03 10:30" arrive-time="2014-11-03 11:40"></a-flight>
 
+```<a-img>
+name:balake.jpg
+dir:privacy
+```
+
+```<a-img>
+name:balake2.jpg
+dir:privacy
+```
+
 <a-hotel name="So Hostel" date="2014-11-03" nights="5" points="18.7842285,98.9970986"></a-hotel>
 
 ### TREE HOUSES
@@ -54,6 +64,24 @@ dir:privacy
 ```<a-img>
 name:treehouse-7.jpg
 dir:privacy
+```
+
+```<a-img>
+name:yunt1.jpg
+dir:privacy
+```
+
+```<a-img>
+name:yunt2.jpg
+dir:privacy
+```
+
+```<a-img>
+name:yunt3
+```
+
+```<a-img>
+name:yunt4
 ```
 
 ```<a-img>
@@ -139,18 +167,15 @@ name:treehouse-18
 name:treehouse-19
 ```
 
+<a-carousel :img="[{name:'treehouse-23.jpg',dir:'privacy'},{name:'treehouse-4',dir:'privacy'},{name:'treehouse-5',dir:'privacy'}]"></a-carousel>
+
 ```<a-img>
-name:treehouse-4.jpg
+name:treehouse-24.jpg
 dir:privacy
 ```
 
 ```<a-img>
-name:treehouse-5.jpg
-dir:privacy
-```
-
-```<a-img>
-name:treehouse-3.jpg
+name:treehouse-25.jpg
 dir:privacy
 ```
 
@@ -161,6 +186,21 @@ dir:privacy
 
 ```<a-img>
 name:treehouseme
+```
+
+```<a-img>
+name:treehouse-26.jpg
+dir:privacy
+```
+
+```<a-img>
+name:treehouse-3.jpg
+dir:privacy
+```
+
+```<a-img>
+name:treehouse-27.jpg
+dir:privacy
 ```
 
 ### Swimming
@@ -179,6 +219,10 @@ name:chiangmai-1
 
 ```<a-img>
 name:qin-3
+```
+
+```<a-img>
+name:deng
 ```
 
 ### OLD CITY
@@ -205,10 +249,16 @@ dir:privacy
 ```
 
 ```<a-img>
+name:dinger2.jpg
+dir:privacy
+```
+
+```<a-img>
 name:oldcity-4
 ```
 
 11-7
+
 
 ```<a-img>
 name:chiang-1.jpg
