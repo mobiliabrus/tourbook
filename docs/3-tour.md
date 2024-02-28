@@ -213,6 +213,13 @@ Baan Thai Apartment
 
 ### LOI KRATHONG
 
+First, we went for a spa treatment, and by the time it concluded, the popular Water Lantern Festival had already begun, so we joined in the festivities.
+
+```<a-img>
+name:spa.jpg
+dir:privacy
+```
+
 ```<a-img>
 name:chiangmai-1
 ```
