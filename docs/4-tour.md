@@ -363,3 +363,5 @@ name:hk
 - MTR West Rail Line: Mei Foo - Tin Shui Wai
 - HK NLB Route B2P: Tin Shui Wai - Shenzhen Bay Port
 - Shenzhen Bay Port
+
+<a-flight flight="CA4348" departure="SZX" destination="CKG" departure-time="2015-04-23 17:27" arrive-time="2015-04-23 19:18"></a-flight>
