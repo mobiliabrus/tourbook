@@ -1,3 +1,19 @@
+## CRUSH
+
+On Tour 1, my GoPro's TF card has failed, and all the videos from the flight simulator cockpit and Sukhothai Historical Park are lost.
+
+On Tour 3, my GoPro Hero 3 Black got waterlogged next to the seaside at the Moondance Hotel.
+
+On Tour 4, my GoPro Hero 3 Black experienced overheating, resulting in the loss of all the videos recorded during the Songkran Festival.
+
+On Tour 4, in Patong, my GoPro Hero 3 Black experienced overheating, resulting in the loss of all the videos recorded during the Songkran Festival; In Similan, The back cover of my Gopro waterproof housing cracked and my Gopro Hero 3 Black got waterlogged again, so I had to complete the filming using someone else's camera.
+
+After that, my hard drive has failed, and all the GoPro videos from Tour 1 to 4, which were not backed up, have been lost.
+
+On Tour 6, due to a strand of wire caught on the waterproof gasket, the waterproof housing malfunctioned, causing the A7R camera to be exposed to water.
+
+After all the trips had concluded, my brand new hard drive failed, resulting in the loss of all the video footage; although most of it was later recovered through technical means, several critical videos couldn't be salvaged.
+
 ## IMAGINED TOUR
 
 ### KOH LANTA
