@@ -19,7 +19,7 @@ After all the trips had concluded, my brand new hard drive failed, resulting in 
 - Flexible Schedules
 - Hostel
 - Compact Camera for Photography.
-- Sports Camera for videos.
+- Sports Camera for Videos.
 
 ### KOH LANTA
 
