@@ -57,6 +57,16 @@ name:similan3-2
 
 For several consecutive days, the weather remained tumultuous. On one occasion, a massive wave hit our boat so hard that it nearly capsized. I witnessed unsecured items flying into the ocean as we all desperately clung to the handrails for safety.
 
+The A7 camera delivers exceptional image quality underwater, particularly when paired with a photographic light that renders beautiful colors. The lighting system also features a UV capability, yet regrettably, I was unable to capture any instances of corals fluorescing. The major hiccup during one particular dive session was that the waterproof housing suffered water ingress. In an ill-fated attempt to prevent the lamp from detaching, I unwisely added a securing line which, unfortunately, ended up lodged between the O-ring seals, thereby causing the leakage.
+
+```<a-img>
+name:a7-1
+```
+
+```<a-img>
+name:a7-2
+```
+
 ## THE GREAT ROUTE
 
 It was the hardest route plan I've ever made.
