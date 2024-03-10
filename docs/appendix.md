@@ -18,8 +18,9 @@ After all the trips had concluded, my brand new hard drive failed, resulting in 
 
 - Flexible Schedules
 - Hostel
-- Compact Camera for Photography.
-- Sports Camera for Videos.
+- IPhone for Film.
+- Compact Camera (`GR3X`, 40mm F2.8) for Photography.
+- Sports Camera (`Pocket 3`) for Vlog.
 
 ### KOH LANTA
 
