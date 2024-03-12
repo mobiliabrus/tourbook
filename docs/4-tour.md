@@ -278,6 +278,20 @@ name:similan-dive-6
 ```
 
 ```<a-img>
+name:ksh
+```
+
+```<a-img>
+name:ksh2.jpg
+dir:privacy
+```
+
+```<a-img>
+name:ksh3.jpg
+dir:privacy
+```
+
+```<a-img>
 name:similan-turtle
 ```
 
