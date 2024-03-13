@@ -308,6 +308,11 @@ name:crystal
 name:crystal-students
 ```
 
+```<a-img>
+name:crystalqin.jpg
+dir:privacy
+```
+
 Crystal Dive Koh Tao with Nick Button, James Tomlinson, Vincent Teschel, Brittany Kalenderian, Tina Major and others
 
 ```<a-img>
