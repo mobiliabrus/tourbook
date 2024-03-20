@@ -296,6 +296,11 @@ driving:13.759380,100.498725,Lomprayah Bangkok|10.358415,99.267069,Chumphon (Lom
 
 ## KOH TAO ¹
 
+```<a-img>
+name:qinx1.jpg
+dir:privacy
+```
+
 <a-times :times="1" location="KOH TAO"></a-times>
 
 <a-gallery :img="[{name:'kohtaorainny'},{name:'kohtaosunny'}]"></a-gallery>
@@ -310,6 +315,11 @@ name:crystal-students
 
 ```<a-img>
 name:crystalqin.jpg
+dir:privacy
+```
+
+```<a-img>
+name:qinx2.jpg
 dir:privacy
 ```
 
