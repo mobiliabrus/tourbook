@@ -110,13 +110,7 @@ walking:9.6712821,100.0663727,Sarikantang|9.6756004,100.068082,Haad Rin Beach
 points:9.7108346,99.9854419,Market Ko Phangan
 ```
 
-Koh Phangan. Shit. I'm still alone. Every time I woke up, I think I'm going to have passion. When I was home after my first tour, it was worse. I regretted my decisions util I was getting back into the tour.
-
-I'm here a weeknow. Wasting time on binge-watching... Getting softer. Every minute I stay in this room, I get weaker. And every minute I am lonely.
-
-When I was home, I wannted be here. When I was here, all I could think was getting depressed
-
-What am I coming all the way to do? 
+Shit. I'm still single. When I was home after my first tour, it was worse. I'd wake up, and there'd be nothing. When I was here, I wanted to be there. When I was there, all I could think of was getting back to the beach. I'm here a week now. Waiting for a passion. Getting softer. Every minute I stay in this room, I get weaker.
 
 ## BANGKOK ⁵
 
