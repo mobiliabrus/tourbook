@@ -314,6 +314,10 @@ The short-haired girl made two impressions on me: one was when she wore a white 
 
 Later, by chance, we left the island together. We took the same vehicle provided by the dive shop; they headed to Tawau Airport while I went to downtown Tawau.
 
+## TAWAU
+
+<a-hotel name="VS Hotel" date="2014-01-11" nights="1" points="4.244709464515594,117.8818416595459"></a-hotel>
+
 ## KOTA KINABALU ¹
 
 <a-flight flight="AK6269" departure="TWU" destination="BKI" departure-time="2014-01-12 10:15" arrive-time="2014-01-12 11:05"></a-flight>
