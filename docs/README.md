@@ -8,7 +8,13 @@ Tourbook
 Confidence, Strong and Handsome.
 </h6>
 
-I've been asked for several times, "Why do you travel alone?" More often than not, I found myself at a loss for a definitive answer. Perhaps being alone allows you more opportunity to absorb your experiences on a personal level, or perhaps, there was no one who wanted to go with me.
+People wondered why I traveled alone. I believed I was looking for new experiences. Perhaps being alone allows you more opportunity to absorb your experiences on a personal level, or perhaps, there was no one who wanted to go with me.
+
+At first, I got bored with taking pictures of people, so I started doing landscape photography and went on trips aboard. But nice scenery was hard to find, and the trip lasted almost a whole month. I took photos of the scenes I saw, without any people in them. Also, I found out it was really lonely staying in hotels all by myself.
+
+So, I started trying backpacking and found ways to meet other travelers. I wanted to do something challenging during my trips, and I also hoped for some romantic relationships. I even dreamed of finding a foreign girlfriend along the way.
+
+Years after the travels ended, those pretty landscape pictures didn't seem so important anymore. It was the random moments I caught on camera——the ones I didn't plan——that really took me back. They made me realize that photos aren't just about showing what something looks like; they can tell stories.
 
 ```<a-img>
 name:tourbook
