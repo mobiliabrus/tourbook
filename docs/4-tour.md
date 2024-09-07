@@ -247,6 +247,8 @@ driving:7.844075,98.294148,Woraburi Phuket Resort & Spa|8.644964,98.251020,Khao 
 divesites:8.573707,97.645576,Anita's Reef|8.599783,97.635619,Deep Six|8.554926,97.616323,West of Eden|8.619628,97.633515,Elephant Head Rock|8.684123,97.636178,Christmas Point|8.68071,97.65184,Three Trees|8.82785,97.79508,West Ridge|9.05802,97.81172,The Dome|9.36186,98.020175,Richelieu Rock|8.74631,98.18138,Boon Sung Wreck
 ```
 
+<a-carousel :img="[{name:'deep-six'},{name:'the-dome'},{name:'koh-bon2'}]"></a-carousel>
+
 <a-carousel :img="[...Array.from(new Array(21)).map((_,i) =>({name:'fishbook-'+(i+1)}))]"></a-carousel>
 
 ```<a-img>
