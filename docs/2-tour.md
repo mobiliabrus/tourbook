@@ -57,7 +57,7 @@ By getting off, we found
 our guesthouses were located on the same street. We became friends, and I visited him and talked a lot. He is a interior designer with cool style long hair and long beard.
 
 ```<a-img>
-name:riders
+name:riders.jpg
 dir:privacy
 ```
 
@@ -384,7 +384,7 @@ name:jetty-1
 ```
 
 ```<a-img>
-name:gt-2
+name:gt-2.jpg
 dir:privacy
 ```
 

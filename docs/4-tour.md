@@ -182,7 +182,7 @@ dir:privacy
 
 <a-gallery :img="[{name:'moment1'},{name:'moment2'}]"></a-gallery>
 
-<a-carousel :img="[{name:'tao1',dir:'privacy'},{name:'tao2',dir:'privacy'},{name:'tao3',dir:'privacy'}]"></a-carousel>
+<a-carousel :img="[{name:'tao1.jpg',dir:'privacy'},{name:'tao2.jpg',dir:'privacy'},{name:'tao3.jpg',dir:'privacy'}]"></a-carousel>
 
 ```<a-map>
 points:10.085696,99.825093,Crystal Dive Resort
@@ -249,7 +249,7 @@ divesites:8.573707,97.645576,Anita's Reef|8.599783,97.635619,Deep Six|8.554926,9
 
 <a-carousel :img="[{name:'deep-six'},{name:'the-dome'},{name:'koh-bon2'}]"></a-carousel>
 
-<a-carousel :img="[...Array.from(new Array(21)).map((_,i) =>({name:'fishbook-'+(i+1)}))]"></a-carousel>
+<a-carousel :img="[{name:'fishbook-1'},{name:'fishbook-2'},{name:'fishbook-3'},{name:'fishbook-4'},{name:'fishbook-5'},{name:'fishbook-6'},{name:'fishbook-7'},{name:'fishbook-8'},{name:'fishbook-9'},{name:'fishbook-10'},{name:'fishbook-11'},{name:'fishbook-12'},{name:'fishbook-13'},{name:'fishbook-14'},{name:'fishbook-15'},{name:'fishbook-16'},{name:'fishbook-17'},{name:'fishbook-18'},{name:'fishbook-19'},{name:'fishbook-20'},{name:'fishbook-21'}]"></a-carousel>
 
 ```<a-img>
 name:similan

@@ -167,7 +167,7 @@ name:treehouse-18
 name:treehouse-19
 ```
 
-<a-carousel :img="[{name:'treehouse-23.jpg',dir:'privacy'},{name:'treehouse-4',dir:'privacy'},{name:'treehouse-5',dir:'privacy'}]"></a-carousel>
+<a-carousel :img="[{name:'treehouse-23.jpg',dir:'privacy'},{name:'treehouse-4.jpg',dir:'privacy'},{name:'treehouse-5.jpg',dir:'privacy'}]"></a-carousel>
 
 ```<a-img>
 name:treehouse-24.jpg

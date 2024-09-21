@@ -17,7 +17,7 @@ So, I started trying backpacking and found ways to meet other travelers. I wante
 Years after the travels ended, those pretty landscape pictures didn't seem so important anymore. It was the random moments I caught on camera——the ones I didn't plan——that really took me back. They made me realize that photos aren't just about showing what something looks like; they can tell stories.
 
 ```<a-img>
-name:tourbook
+name:tourbook.jpg
 dir:privacy
 ```
 
