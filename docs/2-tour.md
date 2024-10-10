@@ -94,6 +94,18 @@ name:marilyn-3
 name:marilyn-4
 ```
 
+```<a-img>
+name:marilyn-5
+```
+
+```<a-img>
+name:marilyn-6
+```
+
+```<a-img>
+name:marilyn-7
+```
+
 We were snorkeling in the shallow waters where plenty of dead corals could be found. And there, I actually saw what appeared to be a "mermaid".
 
 ```<a-img>
