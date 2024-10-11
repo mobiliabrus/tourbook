@@ -73,7 +73,7 @@ name:fullmoon-4
 
 Her glasses, which was on my shirt lost. I didn't notice that. My attention was diverted.
 
-<a-secret name="fullmoon"></a-secret>
+<a-secret name="fullmoon" autoload></a-secret>
 
 ```<a-img>
 name:fullmoon-8.jpg

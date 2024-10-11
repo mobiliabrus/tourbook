@@ -42,6 +42,8 @@ Since we were staying at different hostels, the driver had to pick us up one by 
 
 <a-carousel :img="[{name:'tree-house-me'},{name:'treehouse-1'}]"></a-carousel>
 
+We booked three treehouses — Tamarind House, Moon House, and Rimtarn House. We mainly gathered in the largest treehouse, Moon House. Sheyao stayed in Rimtarn House.
+
 ```<a-img>
 name:she-1
 ```
@@ -127,10 +129,6 @@ dir:privacy
 ```<a-map>
 driving:18.7979829,98.9660400,Baan Thai Apartment|18.7842285,98.9970986,So Hostel|18.7963096,98.9838874,A Little Bird 2 Guest House|18.795304760190298,98.98652265355459,Chang Phuak Gate|18.983908,99.124138,Rabeang Pasak Treehouse Resort
 ```
-
-- Tamarind House
-- Moon House
-- Rimtarn House
 
 ```secret
 2920eedff78d53ae0b4d6058bc9d877879aef23b5fdd440f4d80968dcb9e8eb868516f3ae045c663963c2a8b900798c25ae142fae5

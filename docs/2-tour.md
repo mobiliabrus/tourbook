@@ -145,11 +145,6 @@ name:maryn3
 ```
 
 ```<a-img>
-name:mn-2.jpg
-dir:privacy
-```
-
-```<a-img>
 name:fly-1.jpg
 dir:privacy
 ```
@@ -219,35 +214,9 @@ points:4.253798859528792,118.63344342417173,Seaventures Dive Rig|4.2338587993510
 name:mabul-1
 ```
 
-```<a-img>
-name:mabul-1.jpg
-dir:privacy
-```
+<a-carousel :img="[{name:'mabul-4.jpg',dir:'privacy'},{name:'mabul-5.jpg',dir:'privacy'}]"></a-carousel>
 
-```<a-img>
-name:mabul-2.jpg
-dir:privacy
-```
-
-```<a-img>
-name:mabul-4.jpg
-dir:privacy
-```
-
-```<a-img>
-name:mabul-5.jpg
-dir:privacy
-```
-
-```<a-img>
-name:mabul-6.jpg
-dir:privacy
-```
-
-```<a-img>
-name:mabul-7.jpg
-dir:privacy
-```
+<a-carousel :img="[{name:'mabul-1.jpg',dir:'privacy'},{name:'mabul-2.jpg',dir:'privacy'},{name:'mabul-6.jpg',dir:'privacy'},{name:'mabul-7.jpg',dir:'privacy'}]"></a-carousel>
 
 There was also another girl from Chongqing on the platform, who came diving with her mother. We all admired her courage.
 
@@ -260,10 +229,6 @@ One time, their diving boat failed to return on schedule, causing concern among 
 Three Guangdong girls were only staying for half a day, and they merely planned to go snorkeling at Kapalai before heading off to Mataking Island.
 
 The boat ferried us over to Kapalai. It had to pass by the Seaventure Dive Rig, an offshore oil platform that had been repurposed into a diving shop. Our boat had stopped under the platform for a while because there was a girl on board who was heading to there.
-
-```<a-img>
-name:seaventure
-```
 
 ```<a-img>
 name:girl2rig
@@ -496,7 +461,7 @@ Upon arrival, wouldn't you know it, this turned out to be the exact hostel where
 In the evening, we made plans to explore the night market together in search of a delicious meal.
 
 ```<a-map>
-walking:5.420208,100.335220,Ryokan Muntri Boutique Hostel|5.418612,100.336421,Love Ln|5.416457,100.332673,Kimberley Street Food Night Market
+walking:5.420208,100.335220,Ryokan Muntri Boutique Hostel|5.419300364528894,100.33675341989601,Love Ln|5.416457,100.332673,Kimberley Street Food Night Market
 ```
 
 To reach the bustling night market, we meandered through a few lively streets, and every step proved worthwhile. Our first gastronomic adventure involved sampling the Four-Fruit Soup, which was simply delightful; its unique flavor was so captivating that we couldn't resist having it multiple times throughout the evening. The soy sauce chicken feet were equally remarkable, leaving us in awe of their succulent texture and rich taste.
@@ -516,7 +481,7 @@ name:night-food-2
 Afterwards, we excitedly suggested visiting a local bar for some more fun.
 
 ```<a-map>
-walking:5.418435,100.335625,Halab Penang|5.418612,100.336421,Love Ln|5.420208,100.335220,Ryokan Muntri Boutique Hostel
+walking:5.418435,100.335625,Halab Penang|5.419300364528894,100.33675341989601,Love Ln|5.420208,100.335220,Ryokan Muntri Boutique Hostel
 ```
 
 ```<a-img>
