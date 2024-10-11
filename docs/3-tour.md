@@ -8,13 +8,13 @@
 
 On the forum, I posted a thread detailing my trip to Chiang Mai, and unexpectedly, this led to connecting with fellow travelers. Some of these newfound acquaintances even ended up crossing paths with me during my journey. Some of them were important.
 
-## BANGKOK ²
+## BANGKOK
 
 <a-flight flight="FD553" departure="CKG" destination="DMK" departure-time="2014-11-02 19:55" arrive-time="2014-11-02 22:05"></a-flight>
 
 I only stayed for one night near Don Mueang Airport, and the following day, I flew directly to Chiang Mai.
 
-## CHIANG MAI ²
+## CHIANG MAI
 
 <a-times :times="2" location="CHIANG MAI"></a-times>
 
@@ -284,66 +284,77 @@ I saw she off at the airport.
 
 Accident
 
-## BANGKOK ²
+## BANGKOK
 
 <a-times :times="2" location="BANGKOK"></a-times>
 
-<a-flight flight="FD3446" departure="CNX" destination="DMK" departure-time="2014-11-08 09:30" arrive-time="2014-11-08 10:50"></a-flight>
+Sheyao had originally planned to come with us to Koh Tao to learn diving, but had to change her itinerary due to a friend visiting Chiang Mai.
 
-```<a-map>
-driving:13.759380,100.498725,Lomprayah Bangkok|10.358415,99.267069,Chumphon (Lomprayah Pier)|10.084742,99.824118,Koh Tao (Mae Haad Pier)
+```<a-img>
+name:she-mountain.jpg
+dir:privacy
 ```
 
-## KOH TAO ¹
+<a-flight flight="FD3446" departure="CNX" destination="DMK" departure-time="2014-11-08 09:30" arrive-time="2014-11-08 10:50"></a-flight>
+
+Qin and me met up on Khao San Road and went for a massage. After that, we were waiting for the bus.
+
+```<a-map>
+driving:13.759380,100.498725,Lomprayah Bangkok|10.358415,99.267069,Lomprayah Pier
+```
+
+We sat in the first row on the second floor, and I even brought beer onto the bus; they don't usually allow eating or drinking on the bus. Later, when I was sleeping, the beer spilled, leaving the bus smelling of alcohol.
+
+The vehicle stopped at a midway station, and after an agonizing night, we finally arrived in Chumphon just before dawn.
+
+It's still the rainy season. As we were boarding the boat under the steel canopy at the pier, a large dark cloud drifted over. I only heard the sound of thunder rolling from a distance, approaching quickly and then fading away swiftly. This is typical of the coastal climate.
+
+## KOH TAO
+
+<a-times :times="1" location="KOH TAO"></a-times>
 
 ```<a-img>
 name:qinx1.jpg
 dir:privacy
 ```
 
-<a-times :times="1" location="KOH TAO"></a-times>
+We eventually got on the boat, and the sea was very rough; it felt like we were surfing as the boat rose and fell with the waves, dropping suddenly each time. Half of the passengers on board ended up seasick and vomiting. I couldn’t vomit though, which left me feeling miserable with nausea. Qin, however, was fine. I only felt better after forcing myself to sleep for a while; when I woke up, we could already see Koh Tao.
+
+### Crystal Dive
+
+When we first arrived on the island, it would often rain, and the ground was crawling with millipedes as thick as thumbs. The diving shop provided free accommodation, but Qin wasn’t satisfied with it and rented another room elsewhere. I, on the other hand, made do with what was provided.
 
 <a-gallery :img="[{name:'kohtaorainny'},{name:'kohtaosunny'}]"></a-gallery>
+
+Once the classes started, the weather gradually cleared up, and it didn’t rain after that.
 
 ```<a-img>
 name:crystal
 ```
 
 ```<a-img>
+name:crystal-girl.jpg
+dir:privacy
+```
+
+There was a girl among the trainees who I found very agreeable, so I asked her out for dinner. However, she already had plans with another guy, so the three of us went together. We went to an Italian restaurant where I ordered pizza and an additional dish to share with everyone. But this turned out to be unnecessary; in their culture, they don’t share food and didn’t partake in it. Their conversation mostly revolved around European landmarks they had visited, which left me unable to contribute much to the discussion.
+
+Later, when Qin finished her course, I took the opportunity to leave as well.
+
+```<a-img>
 name:crystal-students
 ```
+
+Crystal Dive Koh Tao with Nick Button, James Tomlinson, Vincent Teschel, Brittany Kalenderian, Tina Major and others
 
 ```<a-img>
 name:crystalqin.jpg
 dir:privacy
 ```
 
-```<a-img>
-name:qinx2.jpg
-dir:privacy
-```
+Qin and her dive instructor
 
-Crystal Dive Koh Tao with Nick Button, James Tomlinson, Vincent Teschel, Brittany Kalenderian, Tina Major and others
-
-```<a-img>
-name:kt5
-```
-
-```<a-img>
-name:kt4
-```
-
-```<a-img>
-name:kt3
-```
-
-```<a-img>
-name:kt2
-```
-
-```<a-img>
-name:kt1
-```
+### Dive Log
 
 ```<a-divelog
 no:1
@@ -426,6 +437,15 @@ name:crystal-4
 name:crystal-5
 ```
 
+### Qin
+
+```<a-img>
+name:qinx2.jpg
+dir:privacy
+```
+
+After class, Qin and I often ate at the restaurant attached to the dive shop or at Praness's Kitchen, especially since Praness's Kitchen had a nicer atmosphere.
+
 ```<a-img>
 name:kohtao1.jpg
 dir:privacy
@@ -445,17 +465,15 @@ name:qin-4.jpg
 dir:privacy
 ```
 
-<a-secret name="qinkohtao"></a-secret>
+<a-secret name="qinkohtao" autoload></a-secret>
 
 ```<a-img>
 name:kohtaosunset
 ```
 
-### Praness's kitchen
-
-Traditional Thai restaurant at great value price.
-
 ### Moondance
+
+I had originally planned to go to this cliff house with her, but now I have to muster the courage to go alone. Qin was also left behind.
 
 <a-hotel name="Moondance Magicview Bungalow" date="2014-11-12" nights="1"></a-hotel>
 
@@ -483,7 +501,7 @@ In the dead of night, I was awakened by sounds emanating from the courtyard. Swi
 
 In retrospect, I wonder what compelled me to traverse half of Koh Tao, from one beach on one side of the mountain to another shore on the opposite side. Even with the risk of getting lost in the dark, I had to seek assistance from a local shopkeeper. They sent a motorcycle to fetch me, yet the steep downhill descent filled me with such trepidation that I chose to walk instead. Upon reaching my destination, I discovered that the hotel provided transportation services. So, what was the purpose of this arduous journey? Was it for the sake of a breathtaking vista or the hope that some goddess might suddenly appear amidst these surroundings?
 
-## BANGKOK ²
+## BANGKOK
 
 <a-hotel name="48 ville" date="2014-11-2" nights="1"></a-hotel>
 

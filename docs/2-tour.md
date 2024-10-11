@@ -1,4 +1,4 @@
-## KULA LUMPUR ¹
+## KULA LUMPUR
 
 <a-times :times="1" location="KULA LUMPUR"></a-times>
 
@@ -40,7 +40,7 @@ The city felt like a black hole, and it absorbed the people around it. People wa
 name:klcc
 ```
 
-## KOTA KINABALU ¹
+## KOTA KINABALU
 
 <a-times :times="1" location="KOTA KINABALU"></a-times>
 
@@ -175,7 +175,7 @@ He seemed to take pleasure in recounting his stories to me, but I found him a bi
 
 As we were boarding, he mentioned that he was seated in Row 28 and asked which row I was in, hoping to continue our conversation on the plane. With a hint of smugness, I told him Row 6 - the paid seats section. Consequently, while he headed for the rear entrance, I boarded through the front entrance. And thus, I never saw him again after that.
 
-## SEMPORNA ¹
+## SEMPORNA
 
 <a-times :times="1" location="SEMPORNA"></a-times>
 
@@ -330,7 +330,7 @@ Later, by chance, we left the island together. We took the same vehicle provided
 
 <a-hotel name="VS Hotel" date="2014-01-11" nights="1" points="4.244709464515594,117.8818416595459"></a-hotel>
 
-## KOTA KINABALU ¹
+## KOTA KINABALU
 
 <a-flight flight="AK6269" departure="TWU" destination="BKI" departure-time="2014-01-12 10:15" arrive-time="2014-01-12 11:05"></a-flight>
 
@@ -353,7 +353,7 @@ Thus, in the hostel, I was once again left with only a cat for company. This cat
 name:cat
 ```
 
-## PENANG ¹
+## PENANG
 
 <a-times :times="1" location="PENANG"></a-times>
 
@@ -544,6 +544,11 @@ dir:privacy
 ```
 
 ```<a-img>
+name:danni-moji.jpg
+dir:privacy
+```
+
+```<a-img>
 name:pbeach-1.jpg
 dir:privacy
 ```
@@ -647,7 +652,7 @@ name:drsun
 > _I feel bad. Isis came back and left again. I didn't go to airport to see her off. It like a huge whirling current. Finally everyone left. Just left me to follow Dr. Sun's step?_
 > <br/><div style="text-align:right">_- 2014-01-18_</div>
 
-## KULA LUMPUR ¹
+## KULA LUMPUR
 
 I traveled back to Kuala Lumpur from Penang by bus and checked into a hostel on Jalan Alor. To my surprise, there were only two other foreign travelers at the hostel who were discussing where they could find accommodations that were five dollars cheaper. The following day, true to their word, they actually moved out to another place. Consequently, I found myself as the sole guest in the hostel.
 

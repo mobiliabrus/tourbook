@@ -1,4 +1,4 @@
-## BANGKOK ¹
+## BANGKOK
 
 <a-times :times="1" location="BANGKOK"></a-times>
 
@@ -65,7 +65,7 @@ In the evening, I went to Cowboy Street, a short red-light district. I found a s
 
 <a-secret name="body2body"></a-secret>
 
-## SUKHOTHAI ¹
+## SUKHOTHAI
 
 <a-times :times="1" location="SUKHOTHAI"></a-times>
 
@@ -142,7 +142,7 @@ I was sitting a few rows behind the bus, and there were several foreigners at th
 
 The bus stopped at Lampang bus terminal for a short while, and I thought it was Chiang Mai, so I got off. After a while, I realized that it wasn't right, so I got back on the bus.
 
-## CHIANG MAI ¹
+## CHIANG MAI
 
 <a-times :times="1" location="CHIANG MAI"></a-times>
 
@@ -238,7 +238,7 @@ name:tj3
 
 <a-flight flight="FD3162" departure="CNX" departure-time="2013-10-19 13:10" destination="HKT" arrive-time="2013-10-19 15:15"></a-flight>
 
-## PHUKET ¹
+## PHUKET
 
 <a-times :times="1" location="PHUKET"></a-times>
 
@@ -365,7 +365,7 @@ Later, the rain stopped, the wind direction changed, and even the sun came out.
 
 <a-flight flight="FD3020" departure="HKT" departure-time="2013-10-29 08:00" destination="DMK" arrive-time="2013-10-29 09:25"></a-flight>
 
-## BANGKOK ¹
+## BANGKOK
 
 ### PRATUNAM
 

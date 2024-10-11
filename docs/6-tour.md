@@ -14,7 +14,7 @@ Once again, I had a brief stay before taking a direct flight to Surat Thani.
 
 <a-flight flight="FD3239" departure="DMK" destination="URT" departure-time="2017-01-06 11:40" arrive-time="2017-01-06 12:50"></a-flight>
 
-## SURATTHANI ¹
+## SURATTHANI
 
 <a-times :times="1" location="SURATTHANI"></a-times>
 
@@ -31,7 +31,7 @@ driving:9.1438932,99.3283169,Surat Thani Transport Station|8.9006588,98.5198817,
 points:9.14651073017441,99.333013684943,Papangkorn House|8.644991293002645,98.25099184322282,Khao Lak Scuba Adventures
 ```
 
-## KOH SIMILAN ²
+## KOH SIMILAN
 
 <a-times :times="2" location="KOH SIMILAN"></a-times>
 
@@ -93,7 +93,7 @@ points:8.077127,98.904208,Lomprayah
 
 After sleeping for two hours and then a six-hour journey of combined transportation by train and ship, I was there.
 
-## KOH PHANGAN ²
+## KOH PHANGAN
 
 <a-times :times="2" location="KOH PHANGAN"></a-times>
 

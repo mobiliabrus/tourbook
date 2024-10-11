@@ -1,4 +1,4 @@
-## KOTA KINABALU ²
+## KOTA KINABALU
 
 <a-times :times="2" location="KOTA KINABALU"></a-times>
 
@@ -161,7 +161,7 @@ By the time I went diving, I had regained my mobility, although I still felt a f
 
 When I returned to Borneo Backpackers, it felt completely different. Although the room layout remained the same, it seemed as though the owner had changed. The shop downstairs had also been converted into a restaurant. This time, I did not stay in a mixed dormitory but opted for a single room instead. Due to my knee and limited mobility, I rarely ventured out, resulting in minimal interaction with others. The stark contrast from my previous experience made me feel like this place was now entirely different.
 
-## SEMPORNA ²
+## SEMPORNA
 
 ### SEA VENTURES
 
@@ -280,7 +280,7 @@ Eventually, I made my way back to the station, waiting for the next airport expr
 
 <a-flight flight="AK838" departure="KUL" destination="URT" departure-time="2017-04-10 12:00" arrive-time="2017-04-10 12:30"></a-flight>
 
-## KOH SAMUI ¹
+## KOH SAMUI
 
 <a-times :times="1" location="KOH SAMUI"></a-times>
 
@@ -342,7 +342,7 @@ After that I took speed boat back to KOH SAMUI.
 points:9.6742334,100.0639134,Haad Rin Pier|9.5713503,100.0610741,Bangrak Seatran Pier
 ```
 
-## KOH SAMUI ¹
+## KOH SAMUI
 
 ### SONGKRAN 2561
 
