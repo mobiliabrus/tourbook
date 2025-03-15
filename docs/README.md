@@ -8,13 +8,13 @@ Tourbook
 Confidence, Strong and Handsome.
 </h6>
 
-People wondered why I traveled alone. I believed I was looking for new experiences. Perhaps being alone allows you more opportunity to absorb your experiences on a personal level, or perhaps, there was no one who wanted to go with me.
+People often questioned my choice to travel solo. For me, it was about seeking new experiences. Traveling alone offered a deeper, more personal connection with the places I visited—or perhaps, truthfully, it was simply because no one wanted to go with me.
 
-At first, I got bored with taking pictures of people, so I started doing landscape photography and went on trips aboard. But nice scenery was hard to find, and the trip lasted almost a whole month. I took photos of the scenes I saw, without any people in them. Also, I found out it was really lonely staying in hotels all by myself.
+Initially, I grew tired of photographing people and shifted my focus to landscapes, embarking on journeys abroad. However, finding picturesque scenes proved challenging, and these trips would stretch over weeks. My photos captured the beauty around me, void of human presence, but I soon realized the loneliness of returning each night to an empty hotel room.
 
-So, I started trying backpacking and found ways to meet other travelers. I wanted to do something challenging during my trips, and I also hoped for some romantic relationships. I even dreamed of finding a foreign girlfriend along the way.
+In search of companionship and adventure, I turned to backpacking, which opened doors to meeting fellow travelers. I craved excitement during my travels and hoped for romantic encounters, even dreaming of finding a girlfriend from another country along the way.
 
-Years after the travels ended, those pretty landscape pictures didn't seem so important anymore. It was the random moments I caught on camera——the ones I didn't plan——that really took me back. They made me realize that photos aren't just about showing what something looks like; they can tell stories.
+Looking back after my travels, I found that those stunning landscape shots no longer held as much significance. Instead, it was the unplanned, candid moments captured on camera that truly resonated with me. These snapshots taught me that photographs are not merely visual records; they carry stories and evoke memories in ways I never anticipated.
 
 ```<a-img>
 name:tourbook.jpg

@@ -17,10 +17,6 @@
 
 <a-secret name="lu" autoload></a-secret>
 
-<a-carousel :img="[{name:'xlj-1.jpg',dir:'privacy'},{name:'xlj-2.jpg',dir:'privacy'},{name:'xlj-3.jpg',dir:'privacy'}]"></a-gallery>
-
-<a-carousel :img="[{name:'xlj-4.jpg',dir:'privacy'},{name:'xlj-5.jpg',dir:'privacy'},{name:'xlj-6.jpg',dir:'privacy'}]"></a-gallery>
-
 ### Weizhou Island
 
 The second time I went to Weizhou Island, I went alone.
@@ -122,8 +118,6 @@ departure-time:2013-07-03 08:40
 arrive-time:2013-07-03 09:40
 ```
 
-<a-secret name="hq" autoload></a-secret>
-
 ```<a-map>
 driving:27.7932316,99.6831596,Shangri-La Airport|27.811842,99.7053845,Dukezong|29.0366082,100.297561,Daocheng|30.021596,101.527224,Xinduqiao|30.0011057,101.9543686,Kangding|29.643981581567523,102.12298657466907,Moxi Town|29.599233,102.171681,Minya Kongka|30.0011057,101.9543686,Kangding|30.129862,101.751812,Kangding Airport
 ```
@@ -135,3 +129,5 @@ destination:CKG
 departure-time:2013-06-24 15:25
 arrive-time:2013-06-24 17:05
 ```
+
+<a-secret name="hq" autoload></a-secret>
