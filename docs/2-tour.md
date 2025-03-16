@@ -628,3 +628,5 @@ Subsequently, I spent my time wandering around Kuala Lumpur and engaging in some
 <a-flight flight="AK1008" departure="KUL" destination="KMG" departure-time="2014-01-21 13:05" arrive-time="2014-01-21 16:55"></a-flight>
 
 <a-flight flight="MU2244" departure="KMG" destination="CKG" departure-time="2014-01-21 21:10" arrive-time="2014-01-21 22:20"></a-flight>
+
+<a-secret name="sxm" autoload></a-secret>
