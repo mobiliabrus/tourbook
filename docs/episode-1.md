@@ -23,7 +23,7 @@ arrive-time:2010-04-16
 Traveling as part of a tour group, we encountered an option to pay extra for a visit to sites along the 38th parallel. Both Wenwen, another traveler in our group, and I decided not to participate. Consequently, we were left at a rest stop while the others continued their excursion. Feeling somewhat desolate, we discovered a nearby convenience store where we bought coffee. Inside, we met the owner's child, who was incredibly charming and eager to play with us. Despite the language barrier, it turned into a delightful encounter. It was a reminder that human connection transcends spoken words.
 
 ```<a-map>
-points:37.51402948996639,127.03588586216844,Imperial Palace Seoul|37.56382942746806,126.98449333522179,Myeong-dong|37.55370946055917,126.98115396433205,Namsan|37.5690015,127.0855585,Siloam|37.778494623724804,126.68362613171828,Pilseung-ro|37.5219876,127.0244706,Hotel Sunshine
+points:127.03588586216844,37.51402948996639,Imperial Palace Seoul|126.98449333522179,37.56382942746806,Myeong-dong|126.98115396433205,37.55370946055917,Namsan|127.0855585,37.5690015,Siloam|126.68362613171828,37.778494623724804,Pilseung-ro|127.0244706,37.5219876,Hotel Sunshine
 ```
 
 ```<a-img>

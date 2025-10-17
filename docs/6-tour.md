@@ -78,7 +78,7 @@ Khao Lak, Phuket Bus Terminal 2, Krabi, Lomprayah's Bus Terminal, Donsak Pier, K
 The most difficult part was from Khao Lak to Krabi. The information about the bus between these two destinations was very limit. There was no direct bus between the two cities. I found that there was possible a bus to Hat Yai which will pass Krabi. I would arrived the terminal lately. If it were too late, I would definitely missing the last bus. Fornuately, I found a Google street view of Pubket Bus Terminal 2 which was a scheduled table, and it shows I could had enough time to catch the last   bues. The minibus of diving shop also have enough time to transport me to the terminal.
 
 ```<a-map>
-driving:8.644791,98.251189,Khao Lak Scuba Adventures|7.917718,98.395462,Phuket Bus Terminal 2|8.102171,98.907734,Krabi|8.077127,98.904208,Lomprayah|9.318253,99.736982,Donsak|9.709127,99.984432,Thong Sala|9.671759,100.067371,Rin Nai
+driving:8.644791,98.251189,Khao Lak Scuba Adventures|7.917718,98.395462,Phuket Bus Terminal 2|8.102171,98.907734,Krabi|8.077127,98.904208,Lomprayah|9.318253,99.736982,Donsak|9.709127,99.984432,Thong Sala|9.100.067371,671759,Rin Nai
 points:8.6589171,97.6365055,Batfish Rock
 ```
 
@@ -106,7 +106,7 @@ Before the sun had even set, I arrived at the beach with my camera in hand. Desp
 In the following days, I discovered that when there wasn't a Full Moon Party taking place, the area was virtually deserted. Left with no other choice, I ventured out to explore other places. Eventually, however, I grew too lethargic to continue wandering and spent several days watching episodes of Friends in my room instead.
 
 ```<a-map>
-walking:9.6712821,100.0663727,Sarikantang|9.6756004,100.068082,Haad Rin Beach
+walking:9.100.0663727,6712821,Sarikantang|9.100.068082,6756004,Haad Rin Beach
 points:9.7108346,99.9854419,Market Ko Phangan
 ```
 

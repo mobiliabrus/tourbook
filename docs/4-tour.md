@@ -11,7 +11,7 @@
 2015-04-01,1
 ```
 
-13.7537798,100.5421587
+100.5421587,13.7537798
 
 ```<a-img>
 name:she-1.jpg
@@ -35,7 +35,7 @@ One night I will get the perfect photograp
 
 ```<a-map>
 points:10.084742,99.824118,Koh Tao (Mae Haad Pier)
-driving:9.709127,99.984432,Thong Sala|9.676993,100.068051,Haad Rin
+driving:9.709127,99.984432,Thong Sala|9.100.068051,676993,Haad Rin
 ```
 
 ```<a-img>

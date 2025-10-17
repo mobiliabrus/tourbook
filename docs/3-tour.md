@@ -298,7 +298,7 @@ dir:privacy
 Qin and me met up on Khao San Road and went for a massage. After that, we were waiting for the bus.
 
 ```<a-map>
-driving:13.759380,100.498725,Lomprayah Bangkok|10.358415,99.267069,Lomprayah Pier
+driving:100.498725,13.759380,Lomprayah Bangkok|10.358415,99.267069,Lomprayah Pier
 ```
 
 We sat in the first row on the second floor, and I even brought beer onto the bus; they don't usually allow eating or drinking on the bus. Later, when I was sleeping, the beer spilled, leaving the bus smelling of alcohol.

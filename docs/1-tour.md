@@ -6,7 +6,7 @@
 
 <a-flight flight="FD2557" departure="CKG" departure-time="2013-10-08 11:10" destination="DMK" arrive-time="2013-10-08 13:20"></a-flight>
 
-<a-map driving="13.9181208,100.6009837,A1 Bus|13.802285,100.5545711,Mo Chit"></a-map>
+<a-map driving="100.6009837,13.9181208,A1 Bus|100.5545711,13.802285,Mo Chit"></a-map>
 
 As the airport doors slide open, a wall of heat engulfs me. The bus veers right, so I step on from the left. A1 to Mo Chit, BTS to my destination.
 
@@ -32,7 +32,7 @@ name:bk2
 
 Early the next morning, I moved to a hotel near Pratunam. The hotel was located on a busy street with a market below. There were crowds of people constantly walking by, and the road was filled with vendors selling their wares. You had to navigate through the crowds and gaps in between to get around.
 
-<a-hotel name="Baiyoke Suite Hotel" date="2013-10-09" nights="3" points="13.7530194,100.5373002"></a-hotel>
+<a-hotel name="Baiyoke Suite Hotel" date="2013-10-09" nights="3" points="100.5373002,13.7530194"></a-hotel>
 
 ```<a-img>
 name:bkdelay1
@@ -59,7 +59,7 @@ In the evening, I went to Cowboy Street, a short red-light district. I found a s
 
 ### NANA
 
-<a-map walking="13.7377986,100.5171146,Hua Lamphong|13.7408755,100.5175149,.|13.7423625,100.5064562,Chinatown"></a-map>
+<a-map walking="100.5171146,13.7377986,Hua Lamphong|100.5175149,13.7408755,.|100.5064562,13.7423625,Chinatown"></a-map>
 
 <a-secret name="unnie" autoload></a-secret>
 
@@ -69,7 +69,7 @@ In the evening, I went to Cowboy Street, a short red-light district. I found a s
 
 <a-times :times="1" location="SUKHOTHAI"></a-times>
 
-<a-map driving="13.813143,100.548074,Mo Chit Bus Station|17.014624,99.812901,Sukhothai Bus Terminal"></a-map>
+<a-map driving="100.548074,13.813143,Mo Chit Bus Station|17.014624,99.812901,Sukhothai Bus Terminal"></a-map>
 
 The bus only stopped in the new town, so I walked directly to the songthaew after getting off. I asked the driver how much it would cost to go to the ancient city and haggled with him. He just said "okay". The driver took me to a convenience store in the ancient city, where I insisted on going to a hotel nearby. When we arrived, the driver said the place was far and there was no discount, and this made the whole trip unpleasant.
 
@@ -373,7 +373,7 @@ Later, the rain stopped, the wind direction changed, and even the sun came out.
 
 I went back to the hotel where I had stayed.
 
-<a-hotel name="Baiyoke Suite Hotel" date="2013-10-29" nights="2" points="13.7530194,100.5373002"></a-hotel>
+<a-hotel name="Baiyoke Suite Hotel" date="2013-10-29" nights="2" points="100.5373002,13.7530194"></a-hotel>
 
 From the ceiling above the bathtub in the bathroom, I heard a guy and a Thai girl engaging in noisy sex.
 They were reaching the climax of their activity.
@@ -381,7 +381,7 @@ They were reaching the climax of their activity.
 That's OK, they are on holiday.
 Instead of recording it, I turned on the air conditioning and television. I really enjoyed a moment of "silence".
 
-<a-map walking="13.7530194,100.5394889,Baiyoke Suite Hotel|13.7519761,100.531616,Ratchathewi"></a-map>
+<a-map walking="100.5394889,13.7530194,Baiyoke Suite Hotel|100.531616,13.7519761,Ratchathewi"></a-map>
 
 ```<a-img>
 name:a1
