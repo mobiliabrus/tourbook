@@ -59,7 +59,7 @@ In the evening, I went to Cowboy Street, a short red-light district. I found a s
 
 ### NANA
 
-<a-map walking="100.5171146,13.7377986,Hua Lamphong|100.5175149,13.7408755,.|100.5064562,13.7423625,Chinatown"></a-map>
+<a-map walking="100.5171146,13.7377986,Hua Lamphong|100.5175149,13.7408755|100.5064562,13.7423625,Chinatown"></a-map>
 
 <a-secret name="unnie" autoload></a-secret>
 
@@ -69,7 +69,7 @@ In the evening, I went to Cowboy Street, a short red-light district. I found a s
 
 <a-times :times="1" location="SUKHOTHAI"></a-times>
 
-<a-map driving="100.548074,13.813143,Mo Chit Bus Station|17.014624,99.812901,Sukhothai Bus Terminal"></a-map>
+<a-map driving="100.548074,13.813143,Mo Chit Bus Station|99.812901,17.014624,Sukhothai Bus Terminal"></a-map>
 
 The bus only stopped in the new town, so I walked directly to the songthaew after getting off. I asked the driver how much it would cost to go to the ancient city and haggled with him. He just said "okay". The driver took me to a convenience store in the ancient city, where I insisted on going to a hotel nearby. When we arrived, the driver said the place was far and there was no discount, and this made the whole trip unpleasant.
 
@@ -79,7 +79,7 @@ As I prepared to depart, the officer insisted on personally driving me to the ho
 
 We drove a mere hundred meters forward before turning right for another hundred, and soon enough, we arrived at the hotel. To my surprise, he did not demand any payment, simply revealing that he was a teacher in the area. It was then that I recalled seeing a group of boy scouts traveling in a vehicle earlier - perhaps they were his students.
 
-<a-map driving="17.030496,99.702936,Tourist Information Center|17.032004,99.702915|17.031670,99.706329,Baan Rim Klong Resort"></a-map>
+<a-map driving="99.702936,17.030496,Tourist Information Center|99.702915,17.032004|99.706329,17.031670,Baan Rim Klong Resort"></a-map>
 
 ### Baan Rim Klong Resort
 
@@ -92,7 +92,7 @@ We drove a mere hundred meters forward before turning right for another hundred,
 > _I still remember the golden doggy Latu and the pussy Momo._
 > <div style="text-align: right"><em>- I reviewed</em></div>
 
-<a-hotel name="Baan Rim Klong Resort" date="2013-10-12" nights="2" points="17.031670,99.706329"></a-hotel>
+<a-hotel name="Baan Rim Klong Resort" date="2013-10-12" nights="2" points="99.706329,17.031670"></a-hotel>
 
 The proprietors of the guesthouse were an amiable Thai couple, and their captivating daughter greeted me at the reception desk. She was a vision of beauty, and she even introduced me to their golden retriever, Latu.
 
@@ -124,19 +124,19 @@ Halfway through my journey, a glimmer of hope appeared as the headlight of a mot
 
 Upon my return to the guesthouse, the hosts were astonished by my account of the journey. They invited me to their room. The couple, their daughter, and their cat Momo was there. We laughed and played poker together, and they even taught me how to count in Thai.
 
-<a-map walking="17.022397,99.687335,Restaurant|17.031913,99.702393,Fireflies|17.031670,99.706329,Baan Rim Klong Resort"></a-map>
+<a-map walking="99.687335,17.022397,Restaurant|99.702393,17.031913,Fireflies|99.706329,17.031670,Baan Rim Klong Resort"></a-map>
 
 ### MORNING
 
 In the morning, I intended to cycle on a small road to the bus stop next to the 7-11 convenience store to book a ticket to Chiangmai. As I passed through a residential area, the residents along the road greeted me, and I smiled as I cycled through the whole road. Even a male resident came out of his yard, stopped me, shook my hand, and asked where I was from and where I was going.
 
-<a-map walking="17.031670,99.706329,Baan Rim Klong Resort|17.032004,99.702915|17.0247242,99.7038567,North Gate|17.018468,99.710928,7-Eleven"></a-map>
+<a-map walking="99.706329,17.031670,Baan Rim Klong Resort|99.702915,17.032004|99.7038567,17.0247242,North Gate|99.710928,17.018468,7-Eleven"></a-map>
 
 On the night, the daughter knocked on my door and said there was a festival activity tonight, asking if I wanted to join them. I said I was too tired and didn't want to go. Now I regret.
 
 ### ON THE ROAD
 
-<a-map driving="17.018732,99.712043,Wintour Bus Station|18.2772803,99.4807422,Lampang bus terminal|18.799716,99.017627,Chiang Mai Bus Terminal 3"></a-map>
+<a-map driving="99.712043,17.018732,Wintour Bus Station|99.4807422,18.2772803,Lampang bus terminal|99.017627,18.799716,Chiang Mai Bus Terminal 3"></a-map>
 
 I was sitting a few rows behind the bus, and there were several foreigners at the back. We briefly chatted. Sitting next to me was a Chinese man who claimed to be in the Burmese gem business. He actively asked me for my contact information, saying that I could reach out to him in Chiang Mai. However, I didn't want to do that.
 
@@ -148,7 +148,7 @@ The bus stopped at Lampang bus terminal for a short while, and I thought it was 
 
 On my first evening in Chiang Mai, I decided to go for a walk. With a little memory of the map, I walked along the Chiang Mai River past the embassy, flower and fruit markets, had a snack in a alley, and walked back to the hotel along the moat according to my sense of direction.
 
-<a-map walking="18.7964248,98.9940416,Royal Panerai Hotel|18.799951020249672,98.99499109404816|18.799282633655636,98.99798262641798|18.796672396049598,98.99682391219142|18.794726140240503,98.99898564451506|18.794685513174347,98.9964965546485|18.792156459649465,98.9976552688751|18.791294906412276,99.00110060396615|18.789749252874948,98.99644291037642|18.789984231751554,98.99322927281824,Baan klang vieng Tour|18.7964248,98.9940416,Royal Panerai Hotel"></a-map>
+<a-map walking="98.9940416,18.7964248,Royal Panerai Hotel|98.99499109404816,18.799951020249672|98.99798262641798,18.799282633655636|98.99682391219142,18.796672396049598|98.99898564451506,18.794726140240503|98.9964965546485,18.794685513174347|98.9976552688751,18.792156459649465|99.00110060396615,18.791294906412276|98.99644291037642,18.789749252874948|98.99322927281824,18.789984231751554,Baan klang vieng Tour|98.9940416,18.7964248,Royal Panerai Hotel"></a-map>
 
 ```<a-img>
 name:cmn
@@ -156,9 +156,9 @@ name:cmn
 
 ### MOB
 
-<a-hotel name="Tapae Place Hotel" date="2013-10-17" points="18.7878819,98.9973679"></a-hotel>
+<a-hotel name="Tapae Place Hotel" date="2013-10-17" points="98.9973679,18.7878819"></a-hotel>
 
-<a-hotel name="Star Hotel Chiang Mai" date="2013-10-18" points="18.7828211,98.999133"></a-hotel>
+<a-hotel name="Star Hotel Chiang Mai" date="2013-10-18" points="98.999133,18.7828211"></a-hotel>
 
 > _I'm told that most single girls here are looking for Farangs,
 thai girls learn about "Farangs" when they are small.
@@ -167,7 +167,7 @@ She can build a big house back home. A "Farangs" is a simply a "sugar daddy" to 
 
 > _ - SARA, 2015_
 
-<a-map points="18.7840584,98.9978128,16"></a-map>
+<a-map points="98.9978128,18.7840584,16"></a-map>
 
 Loi Kroh Boxing Stadium
 
@@ -220,7 +220,7 @@ Say goodbye to my "first love" in the music of `Every Breath You Take`.
 
 <a-secret name="lucky" autoload></a-secret>
 
-<a-map points="18.7879872,98.9983752,16"></a-map>
+<a-map points="98.9983752,18.7879872,16"></a-map>
 
 I changed hotels twice, including staying in the one next to the Wat Buppharam where "Old Zhou" lived in the movie "Lost in Thailand".
 
@@ -246,9 +246,9 @@ name:tj3
 
 ### PATONG
 
-<a-hotel name="Royal Crown Hotel & Palm Spa resort" date="2013-10-19" nights="1" points="7.893803,98.305505"></a-hotel>
+<a-hotel name="Royal Crown Hotel & Palm Spa resort" date="2013-10-19" nights="1" points="98.305505,7.893803"></a-hotel>
 
-<a-hotel name="I Dee Hotel" points="7.8818396,98.2929051"></a-hotel>
+<a-hotel name="I Dee Hotel" points="98.2929051,7.8818396"></a-hotel>
 
 ```<a-img>
 name:patong-1
@@ -290,7 +290,7 @@ name:pktbus
 name:pktbus2
 ```
 
-<a-map driving="7.8877042,98.2913469, Patong Bus Station|7.8832076,98.3852828, Phuket Town Bus Terminal"></a-map>
+<a-map driving="98.2913469,7.8877042, Patong Bus Station|98.3852828,7.8832076, Phuket Town Bus Terminal"></a-map>
 
 ```<a-img>
 name:pkt
@@ -303,13 +303,13 @@ name:phukettown-1
 
 Mueang Phuket Exercise Park
 
-<a-map walking="7.8874035,98.3829377,Pattra Mansion by AKSARA Collection|7.892255,98.3807599,Tunk-ka Cafe"></a-map>
+<a-map walking="98.3829377,7.8874035,Pattra Mansion by AKSARA Collection|98.3807599,7.892255,Tunk-ka Cafe"></a-map>
 
-<a-map walking="7.8874035,98.3829377,Pattra Mansion by AKSARA Collection|7.87568737416754,98.38951519014194|7.876813902286469,98.39347413041617|7.8677293941849165,98.39725386383,Saphan Hin"></a-map>
+<a-map walking="98.3829377,7.8874035,Pattra Mansion by AKSARA Collection|98.38951519014194,7.87568737416754|98.39347413041617,7.876813902286469|98.39725386383,7.8677293941849165,Saphan Hin"></a-map>
 
 ### SIRI
 
-<a-hotel name="Chill House Nai Yang" date="2013-10-27" nights="2" points="8.0920261,98.3019226"></a-hotel>
+<a-hotel name="Chill House Nai Yang" date="2013-10-27" nights="2" points="98.3019226,8.0920261"></a-hotel>
 
 ```<a-img>
 name:siri-1
@@ -331,7 +331,7 @@ On my last day in Phuket, the winds picked up and it started raining heavily, ac
 
 However, I didn't have time. I had to brave the wind and rain and struggle towards the beach. I passed through the Sirinat National Park and arrived at the end of the road. From here, there was only sand to walk on. Soon, I encountered a "river" where the rainwater on the land converged into a stream, carving out a "road" on the sand. The current was strong, so I put away my camera and carefully waded across it. After walking for a while, I finally arrived at the end of the runway. As soon as I got there, an A380 took off from above my head.
 
-<a-map walking="8.0920261,98.3019226,Chill House Nai Yang|8.092496,98.299101|8.101805,98.299957,↑walking alone beach" points="8.111834,98.302161"></a-map>
+<a-map walking="98.3019226,8.0920261,Chill House Nai Yang|98.299101,8.092496|98.299957,8.101805,↑walking alone beach" points="98.302161,8.111834"></a-map>
 
 ```<a-img>
 name:flight0

@@ -34,8 +34,8 @@ One night I will get the perfect photograp
 ### FULLMOON PARTY
 
 ```<a-map>
-points:10.084742,99.824118,Koh Tao (Mae Haad Pier)
-driving:9.709127,99.984432,Thong Sala|9.100.068051,676993,Haad Rin
+points:99.824118,10.084742,Koh Tao (Mae Haad Pier)
+driving:99.984432,9.709127,Thong Sala|100.068051,9.676993,Haad Rin
 ```
 
 ```<a-img>
@@ -185,8 +185,8 @@ dir:privacy
 <a-carousel :img="[{name:'tao1.jpg',dir:'privacy'},{name:'tao2.jpg',dir:'privacy'},{name:'tao3.jpg',dir:'privacy'}]"></a-carousel>
 
 ```<a-map>
-points:10.085696,99.825093,Crystal Dive Resort
-divesites:10.10535,99.81525,White Rock|10.11741,99.81301,Twins Rocks|10.16120,99.78779,Chumphon Pinnacle|10.10169,99.81537,HTMS Sattakut
+points:99.825093,10.085696,Crystal Dive Resort
+divesites:99.81525,10.10535,White Rock|99.81301,10.11741,Twins Rocks|99.78779,10.16120,Chumphon Pinnacle|99.81537,10.10169,HTMS Sattakut
 ```
 
 In the evening, at the bar, I chatted with my diving instructor, who was strict in class but friendly in private. He told me about his adorable kitten that once climbed onto his shoulder to play. He also shared a piece of advice with me: "If you wear this massive dive computer, it won't help you attract any girls."
@@ -196,7 +196,7 @@ In the evening, at the bar, I chatted with my diving instructor, who was strict 
 <a-times :times="1" location="KRABI"></a-times>
 
 ```<a-map>
-driving:8.042807,98.810486,Ao Nang Landmark Bus Station|7.884028,98.395726,Phuket Bus Terminal 1|7.844075,98.294148,Woraburi Phuket Resort & Spa
+driving:98.810486,8.042807,Ao Nang Landmark Bus Station|98.395726,7.884028,Phuket Bus Terminal 1|98.294148,7.844075,Woraburi Phuket Resort & Spa
 ```
 
 ```<a-img>
@@ -232,7 +232,7 @@ name:songkran1-2
 #### A Free Riding
 
 ```<a-map>
-driving:7.881441,98.294236,Corner|7.844075,98.294148,Woraburi Phuket Resort & Spa
+driving:98.294236,7.881441,Corner|98.294148,7.844075,Woraburi Phuket Resort & Spa
 ```
 
 ## KOH SIMILAN
@@ -240,11 +240,11 @@ driving:7.881441,98.294236,Corner|7.844075,98.294148,Woraburi Phuket Resort & Sp
 <a-times :times="1" location="KOH SIMILAN"></a-times>
 
 ```<a-map>
-driving:7.844075,98.294148,Woraburi Phuket Resort & Spa|8.644964,98.251020,Khao Lak Scuba Adventures
+driving:98.294148,7.844075,Woraburi Phuket Resort & Spa|98.251020,8.644964,Khao Lak Scuba Adventures
 ```
 
 ```<a-map>
-divesites:8.573707,97.645576,Anita's Reef|8.599783,97.635619,Deep Six|8.554926,97.616323,West of Eden|8.619628,97.633515,Elephant Head Rock|8.684123,97.636178,Christmas Point|8.68071,97.65184,Three Trees|8.82785,97.79508,West Ridge|9.05802,97.81172,The Dome|9.36186,98.020175,Richelieu Rock|8.74631,98.18138,Boon Sung Wreck
+divesites:97.645576,8.573707,Anita's Reef|97.635619,8.599783,Deep Six|97.616323,8.554926,West of Eden|97.633515,8.619628,Elephant Head Rock|97.636178,8.684123,Christmas Point|97.65184,8.68071,Three Trees|97.79508,8.82785,West Ridge|97.81172,9.05802,The Dome|98.020175,9.36186,Richelieu Rock|98.18138,8.74631,Boon Sung Wreck
 ```
 
 <a-carousel :img="[{name:'deep-six'},{name:'the-dome'},{name:'koh-bon2'}]"></a-carousel>

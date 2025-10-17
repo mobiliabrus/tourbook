@@ -30,7 +30,7 @@ name:balake2.jpg
 dir:privacy
 ```
 
-<a-hotel name="So Hostel" date="2014-11-03" nights="5" points="18.7842285,98.9970986"></a-hotel>
+<a-hotel name="So Hostel" date="2014-11-03" nights="5" points="98.9970986,18.7842285"></a-hotel>
 
 ### TREE HOUSES
 
@@ -127,7 +127,7 @@ dir:privacy
 ```
 
 ```<a-map>
-driving:18.7979829,98.9660400,Baan Thai Apartment|18.7842285,98.9970986,So Hostel|18.7963096,98.9838874,A Little Bird 2 Guest House|18.795304760190298,98.98652265355459,Chang Phuak Gate|18.983908,99.124138,Rabeang Pasak Treehouse Resort
+driving:98.9660400,18.7979829,Baan Thai Apartment|98.9970986,18.7842285,So Hostel|98.9838874,18.7963096,A Little Bird 2 Guest House|98.98652265355459,18.795304760190298,Chang Phuak Gate|99.124138,18.983908,Rabeang Pasak Treehouse Resort
 ```
 
 ```secret
@@ -140,7 +140,7 @@ dir:privacy
 ```
 
 ```<a-map>
-walking:18.983908,99.124138,Rabeang Pasak Treehouse Resort|18.9869287,99.1186256,จุดชมวิวแผ่นดินหวิด
+walking:99.124138,18.983908,Rabeang Pasak Treehouse Resort|99.1186256,18.9869287,จุดชมวิวแผ่นดินหวิด
 ```
 
 ```<a-img>
@@ -204,7 +204,7 @@ dir:privacy
 ### Swimming
 
 ```<a-map>
-points:18.7979829,98.9660400
+points:98.9660400,18.7979829
 ```
 
 Baan Thai Apartment
@@ -273,7 +273,7 @@ dir:privacy
 <a-gallery :img="[{name:'chiang-2.jpg',dir:'privacy'},{name:'chiang-3.jpg',dir:'privacy'}]"></a-gallery>
 
 ```<a-map>
-driving:18.7979829,98.9660400,Baan Thai Apartment|18.8083025,98.9547589,Chiang Mai University
+driving:98.9660400,18.7979829,Baan Thai Apartment|98.9547589,18.8083025,Chiang Mai University
 ```
 
 ### CHIANG MAI AIRPORT
@@ -298,7 +298,7 @@ dir:privacy
 Qin and me met up on Khao San Road and went for a massage. After that, we were waiting for the bus.
 
 ```<a-map>
-driving:100.498725,13.759380,Lomprayah Bangkok|10.358415,99.267069,Lomprayah Pier
+driving:100.498725,13.759380,Lomprayah Bangkok|99.267069,10.358415,Lomprayah Pier
 ```
 
 We sat in the first row on the second floor, and I even brought beer onto the bus; they don't usually allow eating or drinking on the bus. Later, when I was sleeping, the beer spilled, leaving the bus smelling of alcohol.
@@ -411,8 +411,8 @@ buddy:280960
 ```
 
 ```<a-map>
-points:10.085696,99.825093,Crystal Dive Resort
-divesites:10.11937,99.81422,Japanese Gardens|10.10535,99.81525,White Rock|10.057116,99.8256,Taa Toh Rock
+points:99.825093,10.085696,Crystal Dive Resort
+divesites:99.81422,10.11937,Japanese Gardens|99.81525,10.10535,White Rock|99.8256,10.057116,Taa Toh Rock
 ```
 
 ```<a-img>
@@ -476,7 +476,7 @@ I had originally planned to go to this cliff house with her, but now I have to m
 <a-hotel name="Moondance Magicview Bungalow" date="2014-11-12" nights="1"></a-hotel>
 
 ```<a-map>
-walking:10.085781,99.825095,Crystal Dive|10.0780687,99.8458561,Moondance Magic View Bungalow
+walking:99.825095,10.085781,Crystal Dive|99.8458561,10.0780687,Moondance Magic View Bungalow
 ```
 
 ```<a-img>

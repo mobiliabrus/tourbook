@@ -13,18 +13,18 @@ I had planned to take a domestic flight to Kunming first, and I thought I would 
 Two hours later, around the same time I had  reserved, I finally arrived at Kunming. When I rushed out of cabin, the next flight was already boarding. I realized that I had to wait for my package and recheck in, even though there was no international transfer channel.  I was the last persih checked in at the counter, and I boarded at the last minute just before gate close.
 
 ```<a-map>
-driving:2.101.72049967310232,739671959819654,LCCT|3.101.69091652316015,1314496300435706,KL Sentral
+driving:101.72049967310232,2.739671959819654,LCCT|101.69091652316015,3.1314496300435706,KL Sentral
 ```
 
 Taking airport bus from LCCT, I reached KL Sentral at midnight. I was going to took the Monorail, but the station was already shutdown. Thus, I had to took a taxi.
 
 ```<a-map>
-driving:3.101.69091652316015,1314496300435706,KL Sentral|3.101.70906525342374,142778222755097,Berjaya Times Square
+driving:101.69091652316015,3.1314496300435706,KL Sentral|101.70906525342374,3.142778222755097,Berjaya Times Square
 ```
 
 I get off at the Times Square where my hostel located.
 
-<a-hotel name="Irsia BnB Guesthouse" date="2014-1-4" nights="2" points="3.101.7100106,1413875"></a-hotel>
+<a-hotel name="Irsia BnB Guesthouse" date="2014-1-4" nights="2" points="101.7100106,3.1413875"></a-hotel>
 
 Everyone was obviously asleep because they were snoring loudly. I walked quietly and tried to not wake anyone up. My bed was situated to a pipe that made constant noise throughout the night. However, I was so exhausted that I fell asleep despite the noise. 
 
@@ -47,7 +47,7 @@ name:klcc
 <a-flight flight="AK5104" departure="KUL" destination="BKI" departure-time="2014-01-06 11:05" arrive-time="2014-01-06 13:40"></a-flight>
 
 ```<a-map>
-driving:5.116.050642,943993,KKIA Terminal 2|5.116.06991075377479,978026752086478|5.116.0776038,9833774,Borneo Backpackers
+driving:116.050642,5.943993,KKIA Terminal 2|116.06991075377479,5.978026752086478|116.0776038,5.9833774,Borneo Backpackers
 ```
 
 I believed there's only one airport bus in this city. No wandering why a pair of Chinese lovers, who got on at the first stop, doubted whether this bus went to downtown. They sitted behind me, and talked about it.
@@ -82,7 +82,7 @@ name:sapi
 ```
 
 ```<a-map>
-walking:5.116.0776038,9833774,Borneo Backpackers|5.116.07749719991713,990737806640723,Jesselton Point Ferry
+walking:116.0776038,5.9833774,Borneo Backpackers|116.07749719991713,5.990737806640723,Jesselton Point Ferry
 points:6.009259608220351, 116.00801785807634
 ```
 
@@ -182,7 +182,7 @@ Then a rude Brazil guy came and bought a phone card. I asked if I take a ride. H
 
 
 ```<a-map>
-driving:4.118.113794,313783,Tawau Airport|4.118.617147,479184,Borneo Global Sipadan Backpackers
+driving:118.113794,4.313783,Tawau Airport|118.617147,4.479184,Borneo Global Sipadan Backpackers
 ```
 
 When we checked in, we discovered we were assigned to the same room. Feng Cheche and another girl, who learned scuba diving at the store, were also staying in our room. Since we talked, Feng Cheche and I realized that we shared the same destination, Penang, a few days later.
@@ -197,7 +197,7 @@ Afterward, I boarded Uncle Chang's boat.
 
 Before boarding, I met a guy from Chengdu while Uncle Chang was driving him to the bank.
 
-<a-hotel name="Uncle Chang Bungalow" date="2014-01-09" nights="2" points="4.118.6271726,2477133"></a-hotel>
+<a-hotel name="Uncle Chang Bungalow" date="2014-01-09" nights="2" points="118.6271726,4.2477133"></a-hotel>
 
 On the boat, we saw three girls speaking Cantonese. Assuming they were from Hong Kong, upon inquiry, I learned that they were actually from Guangzhou. One of them was named Butterfly, and because another girl's clothing had a tomato pattern on it, I called her Tomato Soup.
 
@@ -207,7 +207,7 @@ dir:privacy
 ```
 
 ```<a-map>
-points:4.118.63344342417173,253798859528792,Seaventures Dive Rig|4.118.68229942787646,233858799351027,Kapalai|4.118.62713486883527,249016266128097,Uncle Chang's Dive Lounge
+points:118.63344342417173,4.253798859528792,Seaventures Dive Rig|118.68229942787646,4.233858799351027,Kapalai|118.62713486883527,4.249016266128097,Uncle Chang's Dive Lounge
 ```
 
 ```<a-img>
@@ -293,7 +293,7 @@ Later, by chance, we left the island together. We took the same vehicle provided
 
 ## TAWAU
 
-<a-hotel name="VS Hotel" date="2014-01-11" nights="1" points="4.117.8818416595459,244709464515594"></a-hotel>
+<a-hotel name="VS Hotel" date="2014-01-11" nights="1" points="117.8818416595459,4.244709464515594"></a-hotel>
 
 ## KOTA KINABALU
 
@@ -306,8 +306,8 @@ Upon my return to Kota Kinabalu, the room was empty. As evening approached, I ra
 I followed her to an open-air bar. We talked about some things, such as her experience in China and why she wanted to go back to France. She recommended a wine that was soaked in salt, and she was surprised that I finished it so quickly and ordered another one. Afterwards, we walked back to the hostel along the road. When I entered the room, she was video chatting with her boyfriend on the bed, and I said hello.
 
 ```<a-map>
-walking:5.982953, 116.076504,Bar|5.116.0776038,9833774,Borneo Backpackers
-points:5.116.076264,983082
+walking:5.982953, 116.076504,Bar|116.0776038,5.9833774,Borneo Backpackers
+points:116.076264,5.983082
 ```
 
 The next morning, I was bored flipping through my book when he came over and squatted at my feet, telling me that she was going to KK Mountain with another tourist here. So, we parted ways. It was a strange feeling. I also wanted to go up the mountain with her, but my itinerary was already set.
@@ -353,7 +353,7 @@ name:little-india-1
 We then went to the jetty together, and later accompanied Isis to book her ferry ticket to Langkawi. Following that, we took a rest in a nearby park.
  
 ```<a-map>
-walking:5.100.3405987,4125915,Chew Jetty;5.100.3445641,4194291,Langkawi Ferry Services Sdn Bhd;5.100.343897,420885,FORT Cornwallis
+walking:100.3405987,5.4125915,Chew Jetty;100.3445641,5.4194291,Langkawi Ferry Services Sdn Bhd;100.343897,5.420885,FORT Cornwallis
 ```
 
 ```<a-img>
@@ -412,7 +412,7 @@ It turned out that there was a girl taking selfies nearby. After striking up a c
 When we asked her which hostel she was staying at, she couldn't quite remember the name but knew it was on Love Lane. As it happened, we were heading in the same direction and decided to walk together. There was a chance that, quite coincidentally, we might even be staying at the same hostel.
 
 ```<a-map>
-walking:5.100.343897,420885,FORT Cornwallis|5.100.342654,421882,DANNI|5.100.34083223610918,423263358177238|5.100.337566,420896,Love Ln|5.100.335220,420208,Ryokan Muntri Boutique Hostel
+walking:100.343897,5.420885,FORT Cornwallis|100.342654,5.421882,DANNI|100.34083223610918,5.423263358177238|100.337566,5.420896,Love Ln|100.335220,5.420208,Ryokan Muntri Boutique Hostel
 ```
 
 ```<a-img>
@@ -461,7 +461,7 @@ Upon arrival, wouldn't you know it, this turned out to be the exact hostel where
 In the evening, we made plans to explore the night market together in search of a delicious meal.
 
 ```<a-map>
-walking:5.100.335220,420208,Ryokan Muntri Boutique Hostel|5.100.33675341989601,419300364528894,Love Ln|5.100.332673,416457,Kimberley Street Food Night Market
+walking:100.335220,5.420208,Ryokan Muntri Boutique Hostel|100.33675341989601,5.419300364528894,Love Ln|100.332673,5.416457,Kimberley Street Food Night Market
 ```
 
 To reach the bustling night market, we meandered through a few lively streets, and every step proved worthwhile. Our first gastronomic adventure involved sampling the Four-Fruit Soup, which was simply delightful; its unique flavor was so captivating that we couldn't resist having it multiple times throughout the evening. The soy sauce chicken feet were equally remarkable, leaving us in awe of their succulent texture and rich taste.
@@ -481,7 +481,7 @@ name:night-food-2
 Afterwards, we excitedly suggested visiting a local bar for some more fun.
 
 ```<a-map>
-walking:5.100.335625,418435,Halab Penang|5.100.33675341989601,419300364528894,Love Ln|5.100.335220,420208,Ryokan Muntri Boutique Hostel
+walking:100.335625,5.418435,Halab Penang|100.33675341989601,5.419300364528894,Love Ln|100.335220,5.420208,Ryokan Muntri Boutique Hostel
 ```
 
 ```<a-img>
@@ -523,7 +523,7 @@ dir:privacy
 2014-01-15
 
 Tanjung Bungah Public Beach
-5.100.274633,4678962,14z
+100.274633,5.4678962,14z
 
 ```<a-img>
 name:danni-jump.jpg
@@ -594,7 +594,7 @@ name:penang-hill
 ```
 
 ```<a-map>
-walking:5.100.269514,423528,Penang Hill Upper Station|5.100.263881,418529,Ice cream store|5.100.2628177,4181686,Monkey Family
+walking:100.269514,5.423528,Penang Hill Upper Station|100.263881,5.418529,Ice cream store|100.2628177,5.4181686,Monkey Family
 ```
 
 As it got dark quickly, we descended the mountain. At the foot of the mountain, at a junction, we ate at a street stall. Around six o'clock, the owner suddenly started packing up. In China, six o'clock is when night markets are just starting to open. We all said that maybe Malaysians value life more than making money.

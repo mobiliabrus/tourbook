@@ -25,13 +25,13 @@ At 9 a.m., I took another flight to Kota Kinabalu, arriving just past noon. Afte
 According to online information, Bandaran Berjaya, the terminal station for the airport bus, offered minibus connections to Mount Kinabalu. However, the minibusses only departed when full, so I ended up waiting for quite some time.
 
 ```<a-map>
-driving:5.116.0487216,9436606,KKIA Terminal 2|5.116.0763801,9809019,Airport Bus Station|6.116.565853,0076652,Mount Kinabalu National Park
+driving:116.0487216,5.9436606,KKIA Terminal 2|116.0763801,5.9809019,Airport Bus Station|116.565853,6.0076652,Mount Kinabalu National Park
 ```
 
 Dormitory (Grace Hostel) at Kinabalu Park (1585M)
 
 ```<a-map>
-points:6.116.5421188,0053195,Kinabalu National Park;6.116.5393427365916,01042297268944,Grace hostel
+points:116.5421188,6.0053195,Kinabalu National Park;116.5393427365916,6.01042297268944,Grace hostel
 ```
 
 After a grueling eighteen-hour journey, by the time I reached my accommodation, settled in, and watched the sunset, I finally managed to enjoy a proper dinner at Balsam Café within the Mount Kinabalu Park.
@@ -76,8 +76,8 @@ name:mtkk-2
 ```
 
 ```<a-map>
-walking:6.116.5421188,0053195,Kinabalu National Park|6.116.5462398,0291003,Timpohon Gate
-points:6.116.5651771,058994,Laban Rata Resthouse;6.116.558832,075277,Low's Peak
+walking:116.5421188,6.0053195,Kinabalu National Park|116.5462398,6.0291003,Timpohon Gate
+points:116.5651771,6.058994,Laban Rata Resthouse;116.558832,6.075277,Low's Peak
 ```
 
 ```<a-img>
@@ -180,8 +180,8 @@ Paradise but not Sipadan, located just off shore Mabul Island. Minutes away from
 It named "Paradise 2".
 
 ```<a-map>
-points:4.118.63344342417173,253798859528792,Seaventures Dive Rig|4.118.68229942787646,233858799351027,Kapalai|4.118.6276134545917,124777700091974,Sipadan
-divesites:4.118.630882,250431,Paradise 2
+points:118.63344342417173,4.253798859528792,Seaventures Dive Rig|118.68229942787646,4.233858799351027,Kapalai|118.6276134545917,4.124777700091974,Sipadan
+divesites:118.630882,4.250431,Paradise 2
 ```
 
 <iframe src="https://player.xinpianchang.com/?aid=10216905&amp;mid=9POpZQXqRxV7Er5a" allowfullscreen="" allow="fullscreen" frameborder="0" style="border: none;"></iframe>
@@ -263,15 +263,15 @@ Scheduled land transfer from Semporna to Tawau Airport at 1200hrs
 As I walked down the street from the station, the crowds gradually thinned out. When I reached an intersection, I hesitated – should I take the dimly lit path in the distance or stick to the main road, even if it meant a longer detour? I chose the latter. However, this route proved to be much farther than I had anticipated, and it took me quite some time to reach the hotel.
 
 ```<a-map>
-transit:2.101.68628171948798,745129256594095,KLIA Transit Station @ KLIA2|2.101.71326935291293,827310480585382,Salak Tinggi Station
-walking:2.101.71326935291293,827310480585382,Salak Tinggi Station|2.101.69583472862865,823730611756417|2.101.6941487,8210419,Hotel Zamburger Kota Warisan|2.101.71326935291293,827310480585382,Salak Tinggi Station
+transit:101.68628171948798,2.745129256594095,KLIA Transit Station @ KLIA2|101.71326935291293,2.827310480585382,Salak Tinggi Station
+walking:101.71326935291293,2.827310480585382,Salak Tinggi Station|101.69583472862865,2.823730611756417|101.6941487,2.8210419,Hotel Zamburger Kota Warisan|101.71326935291293,2.827310480585382,Salak Tinggi Station
 ```
 
 ```<a-hotel>
 name:Hotel Zamburger Kota Warisan
 date:2017-04-09
 nights:1
-point:2.101.6941487,8210419
+point:101.6941487,2.8210419
 ```
 
 After waking up from my slumber, it was time to set off once again. With daylight on my side, I decided to take the shorter path this time. The newly constructed houses lined both sides of the narrow lane, creating a pleasant environment.
@@ -339,7 +339,7 @@ Middle night, where the music from the beach party is audible, a couple that we 
 After that I took speed boat back to KOH SAMUI.
 
 ```<a-map>
-points:9.100.0639134,6742334,Haad Rin Pier|9.100.0610741,5713503,Bangrak Seatran Pier
+points:100.0639134,9.6742334,Haad Rin Pier|100.0610741,9.5713503,Bangrak Seatran Pier
 ```
 
 ## KOH SAMUI
@@ -385,7 +385,7 @@ name:songkran-2
 ```
 
 ```<a-map>
-walking:9.100.055656,5179429,Samui Hostel;9.100.05679321289062,520712852478027,Hot Nails;9.100.058837890625,52495288848877,Stacked;9.100.06055450439453,532194137573242,Central Festival Samui;9.100.0648453,5323031,.
+walking:100.055656,9.5179429,Samui Hostel;100.05679321289062,9.520712852478027,Hot Nails;100.058837890625,9.52495288848877,Stacked;100.06055450439453,9.532194137573242,Central Festival Samui;100.0648453,9.5323031,.
 ```
 
 stacked
@@ -449,7 +449,7 @@ green dreadlocks in dark
 <br />
 
 ```<a-map>
-walking:9.100.055656,5179429,Samui Hostel|9.100.0567723,5256037,Irish Pub
+walking:100.055656,9.5179429,Samui Hostel|100.0567723,9.5256037,Irish Pub
 ```
 
 ```secret

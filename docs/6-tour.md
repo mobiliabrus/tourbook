@@ -27,8 +27,8 @@ In Surat Thani town, it was particularly quiet with a limited number of tourists
 The following day, I boarded a long-distance bus. Although I rarely make mistakes with my travel itineraries, even when issues arise during the journey, I always manage to navigate through them successfully.
 
 ```<a-map>
-driving:9.1438932,99.3283169,Surat Thani Transport Station|8.9006588,98.5198817,Khao Sok Bus Stop|8.64327383935287,98.25130909519658,Khao Lak
-points:9.14651073017441,99.333013684943,Papangkorn House|8.644991293002645,98.25099184322282,Khao Lak Scuba Adventures
+driving:99.3283169,9.1438932,Surat Thani Transport Station|98.5198817,8.9006588,Khao Sok Bus Stop|98.25130909519658,8.64327383935287,Khao Lak
+points:99.333013684943,9.14651073017441,Papangkorn House|98.25099184322282,8.644991293002645,Khao Lak Scuba Adventures
 ```
 
 ## KOH SIMILAN
@@ -78,15 +78,15 @@ Khao Lak, Phuket Bus Terminal 2, Krabi, Lomprayah's Bus Terminal, Donsak Pier, K
 The most difficult part was from Khao Lak to Krabi. The information about the bus between these two destinations was very limit. There was no direct bus between the two cities. I found that there was possible a bus to Hat Yai which will pass Krabi. I would arrived the terminal lately. If it were too late, I would definitely missing the last bus. Fornuately, I found a Google street view of Pubket Bus Terminal 2 which was a scheduled table, and it shows I could had enough time to catch the last   bues. The minibus of diving shop also have enough time to transport me to the terminal.
 
 ```<a-map>
-driving:8.644791,98.251189,Khao Lak Scuba Adventures|7.917718,98.395462,Phuket Bus Terminal 2|8.102171,98.907734,Krabi|8.077127,98.904208,Lomprayah|9.318253,99.736982,Donsak|9.709127,99.984432,Thong Sala|9.100.067371,671759,Rin Nai
-points:8.6589171,97.6365055,Batfish Rock
+driving:98.251189,8.644791,Khao Lak Scuba Adventures|98.395462,7.917718,Phuket Bus Terminal 2|98.907734,8.102171,Krabi|98.904208,8.077127,Lomprayah|99.736982,9.318253,Donsak|99.984432,9.709127,Thong Sala|100.067371,9.671759,Rin Nai
+points:97.6365055,8.6589171,Batfish Rock
 ```
 
 The bus stopped at a cross which was 4km far from downtown. I had to walked to the guesthouse which was just across the road from Lomprayah. It was 2am when I arrived, and I must woke up at 5am.
 
 ```<a-map>
-walking:8.102171,98.907734,Krabi|8.081144765640692,98.90655441718606|8.077798727763875,98.90439255672624,B.B.mansion
-points:8.077127,98.904208,Lomprayah
+walking:98.907734,8.102171,Krabi|98.90655441718606,8.081144765640692|98.90439255672624,8.077798727763875,B.B.mansion
+points:98.904208,8.077127,Lomprayah
 ```
 
 <a-hotel name="B.B.mansion" date="2017-01-11" nights="1"></a-hotel>
@@ -106,8 +106,8 @@ Before the sun had even set, I arrived at the beach with my camera in hand. Desp
 In the following days, I discovered that when there wasn't a Full Moon Party taking place, the area was virtually deserted. Left with no other choice, I ventured out to explore other places. Eventually, however, I grew too lethargic to continue wandering and spent several days watching episodes of Friends in my room instead.
 
 ```<a-map>
-walking:9.100.0663727,6712821,Sarikantang|9.100.068082,6756004,Haad Rin Beach
-points:9.7108346,99.9854419,Market Ko Phangan
+walking:100.0663727,9.6712821,Sarikantang|100.068082,9.6756004,Haad Rin Beach
+points:99.9854419,9.7108346,Market Ko Phangan
 ```
 
 Shit. I'm still single. When I was home after my first tour, it was worse. I'd wake up, and there'd be nothing. When I was here, I wanted to be there. When I was there, all I could think of was getting back to the beach. I'm here a week now. Waiting for a passion. Getting softer. Every minute I stay in this room, I get weaker.

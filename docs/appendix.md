@@ -25,7 +25,7 @@ After all the trips had concluded, my brand new hard drive failed, resulting in 
 ### KOH LANTA
 
 ```<a-map>
-driving:7.533830747093447,99.0953657306661,Koh Lanta Yai|7.5540883194404245,99.04069098221403,Baan|7.470410218667524,99.09929031355453,Lanta National Park
+driving:99.0953657306661,7.533830747093447,Koh Lanta Yai|99.04069098221403,7.5540883194404245,Baan|99.09929031355453,7.470410218667524,Lanta National Park
 ```
 
 ## CHECKLIST
