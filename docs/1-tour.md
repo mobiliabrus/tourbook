@@ -59,8 +59,6 @@ In the evening, I went to Cowboy Street, a short red-light district. I found a s
 
 ### NANA
 
-<a-map walking="100.5171146,13.7377986,Hua Lamphong|100.5175149,13.7408755|100.5064562,13.7423625,Chinatown"></a-map>
-
 <a-secret name="unnie" autoload></a-secret>
 
 <a-secret name="body2body"></a-secret>
