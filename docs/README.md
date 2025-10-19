@@ -8,13 +8,13 @@ Tourbook
 Confidence, Strong and Handsome.
 </h6>
 
-People often questioned my decision to travel alone. For me, it was about seeking new experiences. Traveling alone offered a deeper, more personal connection with the places I visited—or perhaps, truthfully, it was simply because no one wanted to go with me.
+Friends often ask me why I travel alone. For me, it was about seeking new experiences. Traveling alone offered a deeper, more personal connection with the places I visited. So never refuse an invitation. Never resist the unfamiliar. Never fail to be polite. And never outstay your welcome. Just keep your mind open and suck in the experience. And as for travelling alone,...fuck it! If that's the way it has to be, then that's the way it is.
 
-Initially, weary of photographing people, I turned my lens towards landscapes, venturing abroad in search of scenic beauty. However, capturing these picturesque scenes proved challenging, and my trips would stretch over weeks. My photographs showcased the serene beauty around me, devoid of human presence, but soon, the loneliness of returning each night to an empty hotel room began to weigh on me.
+Initially, I grew tired of photographing people and shifted my focus to landscapes, embarking on journeys abroad. However, finding picturesque scenes proved challenging, and these trips would stretch over weeks. My photos captured the beauty around me, void of human presence, but I soon realized the loneliness of returning each night to an empty hotel room.
 
-In pursuit of companionship and adventure, I embraced backpacking, which opened up opportunities to meet fellow travelers. I yearned for excitement during my travels and hoped for romantic encounters, even dreaming of finding a partner from another country along the way.
+In search of companionship and adventure, I turned to backpacking, which opened doors to meeting fellow travelers. I craved excitement during my travels and hoped for romantic encounters, even dreaming of finding a girlfriend from another country along the way.
 
-Reflecting on my journeys now, I've come to realize that those breathtaking landscape shots hold less significance to me. Instead, it is the spontaneous, candid moments captured on camera that truly resonate. These snapshots taught me that photographs are not just visual records; they carry stories and evoke memories in ways I never anticipated. Through them, I discovered the true essence of travel: it's not merely about the places you visit, but the connections and moments that shape your journey.
+Looking back after my travels, I found that those stunning landscape shots no longer held as much significance. Instead, it was the unplanned, candid moments captured on camera that truly resonated with me. These snapshots taught me that photographs are not merely visual records; they carry stories and evoke memories in ways I never anticipated.
 
 ```<a-img>
 name:tourbook.jpg
