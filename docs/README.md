@@ -8,7 +8,7 @@ Tourbook
 Confidence, Strong and Handsome.
 </h6>
 
-Friends often ask me why I travel alone. For me, it was about seeking new experiences. Traveling alone offered a deeper, more personal connection with the places I visited. So never refuse an invitation. Never resist the unfamiliar. Never fail to be polite. And never outstay your welcome. Just keep your mind open and suck in the experience. And as for travelling alone,...fuck it! If that's the way it has to be, then that's the way it is.
+Friends often ask me why I travel alone. For me, it was about seeking new experiences. Traveling alone offered a deeper, more personal connection with the places I visited. So never refuse an invitation. Never resist the unfamiliar. Never fail to be polite. And never outstay your welcome. Just keep your mind open and suck in the experience. And as no girl wants to go with me,... If that's the way it has to be, then that's the way it is.
 
 Initially, I grew tired of photographing people and shifted my focus to landscapes, embarking on journeys abroad. However, finding picturesque scenes proved challenging, and these trips would stretch over weeks. My photos captured the beauty around me, void of human presence, but I soon realized the loneliness of returning each night to an empty hotel room.
 
