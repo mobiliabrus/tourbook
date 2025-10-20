@@ -128,13 +128,13 @@ Upon my return to the guesthouse, the hosts were astonished by my account of the
 
 In the morning, I intended to cycle on a small road to the bus stop next to the 7-11 convenience store to book a ticket to Chiangmai. As I passed through a residential area, the residents along the road greeted me, and I smiled as I cycled through the whole road. Even a male resident came out of his yard, stopped me, shook my hand, and asked where I was from and where I was going.
 
-<a-map walking="99.706329,17.031670,Baan Rim Klong Resort|99.702915,17.032004|99.7038567,17.0247242,North Gate|99.710928,17.018468,7-Eleven"></a-map>
+<a-map walking="99.706329,17.031670,Baan Rim Klong Resort|99.702915,17.032004|99.7038567,17.0247242,North Gate|99.709757,17.018625,Bus Stop"></a-map>
 
 On the night, the daughter knocked on my door and said there was a festival activity tonight, asking if I wanted to join them. I said I was too tired and didn't want to go. Now I regret.
 
 ### ON THE ROAD
 
-<a-map driving="99.712043,17.018732,Wintour Bus Station|99.4807422,18.2772803,Lampang bus terminal|99.017627,18.799716,Chiang Mai Bus Terminal 3"></a-map>
+<a-map driving="99.709757,17.018625,Bus Stop|99.4807422,18.2772803,Lampang bus terminal|99.017627,18.799716,Chiang Mai Bus Terminal 3"></a-map>
 
 I was sitting a few rows behind the bus, and there were several foreigners at the back. We briefly chatted. Sitting next to me was a Chinese man who claimed to be in the Burmese gem business. He actively asked me for my contact information, saying that I could reach out to him in Chiang Mai. However, I didn't want to do that.
 
@@ -165,7 +165,7 @@ She can build a big house back home. A "Farangs" is a simply a "sugar daddy" to 
 
 > _ - SARA, 2015_
 
-<a-map points="98.9978128,18.7840584,16"></a-map>
+<a-map points="98.9978128,18.7840584,Loi Kroh Boxing Stadium"></a-map>
 
 Loi Kroh Boxing Stadium
 
@@ -218,7 +218,7 @@ Say goodbye to my "first love" in the music of `Every Breath You Take`.
 
 <a-secret name="lucky" autoload></a-secret>
 
-<a-map points="98.9983752,18.7879872,16"></a-map>
+<a-map points="98.9983752,18.7879872,Hotel"></a-map>
 
 I changed hotels twice, including staying in the one next to the Wat Buppharam where "Old Zhou" lived in the movie "Lost in Thailand".
 
