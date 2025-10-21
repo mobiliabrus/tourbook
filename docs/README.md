@@ -10,11 +10,9 @@ Confidence, Strong and Handsome.
 
 Friends often ask me why I travel alone. For me, it was about seeking new experiences. Traveling alone offered a deeper, more personal connection with the places I visited. So never refuse an invitation. Never resist the unfamiliar. Never fail to be polite. And never outstay your welcome. Just keep your mind open and suck in the experience. And as no girl wants to go with me,... that's the way it is.
 
-Initially, I grew tired of photographing people and shifted my focus to landscapes, embarking on journeys abroad. However, finding picturesque scenes proved challenging, and these trips would stretch over weeks. My photos captured the beauty around me, void of human presence, but I soon realized the loneliness of returning each night to an empty hotel room.
+An event in a travel forum discussing budget airlines reignited my desire to explore Thailand. My first trip was marked by loneliness, as I heard many voices that made me retreat into my hotel room for days. Deciding to embrace backpacking and staying in hostels, I met fellow travelers. However, what do I truly seek? Is it to capture stunning footage? To embark on new adventures? To find a partner? Or to experience cross-cultural romance?
 
-In search of companionship and adventure, I turned to backpacking, which opened doors to meeting fellow travelers. I craved excitement during my travels and hoped for romantic encounters, even dreaming of finding a girlfriend from another country along the way.
-
-Looking back after my travels, I found that those stunning landscape shots no longer held as much significance. Instead, it was the unplanned, candid moments captured on camera that truly resonated with me. These snapshots taught me that photographs are not merely visual records; they carry stories and evoke memories in ways I never anticipated.
+It was only after years of sorting through my photos that I gradually came to realize—those landscapes devoid of people had lost their meaning. Instead, it was those casually captured moments, the expressions on people's faces, that became the memories truly worth cherishing.
 
 ```<a-img>
 name:tourbook.jpg
