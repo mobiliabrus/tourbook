@@ -10,7 +10,7 @@ Confidence, Strong and Handsome.
 
 Friends often ask me why I travel alone. For me, it was about seeking new experiences. Traveling alone offered a deeper, more personal connection with the places I visited. So never refuse an invitation. Never resist the unfamiliar. Never fail to be polite. And never outstay your welcome. Just keep your mind open and suck in the experience. And as no girl wants to go with me,... that's the way it is.
 
-An event in a travel forum discussing budget airlines reignited my desire to explore Thailand. My first trip was marked by loneliness, as I heard many voices that made me retreat into my hotel room for days. Deciding to embrace backpacking and staying in hostels, I met fellow travelers. However, what do I truly seek? Is it to capture stunning footage? To embark on new adventures? To find a partner? Or to experience cross-cultural romance?
+An event in a travel forum discussing budget airlines reignited my desire to explore Thailand. My first trip was marked by loneliness, as I heard many voices that kept me locked in my room for days. Deciding to embrace backpacking and staying in hostels, I met fellow travelers. However, what do I truly seek? Is it to capture stunning footage? To embark on new adventures? To find a partner? Or to experience cross-cultural romance?
 
 It was only after years of sorting through my photos that I gradually came to realize—those landscapes devoid of people had lost their meaning. Instead, it was those casually captured moments, the expressions on people's faces, that became the memories truly worth cherishing.
 
