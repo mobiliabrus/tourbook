@@ -478,6 +478,7 @@ I had originally planned to go to this cliff house with her, but now I have to m
 
 ```<a-map>
 walking:99.825095,10.085781,Crystal Dive|99.8458561,10.0780687,Moondance Magic View Bungalow
+theme:topo-v2
 ```
 
 ```<a-img>
