@@ -141,12 +141,12 @@ dir:privacy
 
 ```<a-map>
 walking:99.124138,18.983908,Rabeang Pasak Treehouse Resort|99.1186256,18.9869287,จุดชมวิวแผ่นดินหวิด
+theme:landscape-v4
 ```
 
 ```<a-img>
 name:treehouse-6.jpg
 dir:privacy
-theme:landscape-v4
 ```
 
 ```<a-img>
