@@ -25,7 +25,7 @@ At 9 a.m., I took another flight to Kota Kinabalu, arriving just past noon. Afte
 According to online information, Bandaran Berjaya, the terminal station for the airport bus, offered minibus connections to Mount Kinabalu. However, the minibusses only departed when full, so I ended up waiting for quite some time.
 
 ```<a-map>
-driving:116.0487216,5.9436606,KKIA Terminal 2|116.0763801,5.9809019,Airport Bus Station|116.565853,6.0076652,Mount Kinabalu National Park
+points:116.0487216,5.9436606,KKIA Terminal 2|116.0763801,5.9809019,Airport Bus Station|116.565853,6.0076652,Mount Kinabalu National Park
 ```
 
 Dormitory (Grace Hostel) at Kinabalu Park (1585M)
@@ -76,7 +76,7 @@ name:mtkk-2
 ```
 
 ```<a-map>
-walking:116.5421188,6.0053195,Kinabalu National Park|116.5462398,6.0291003,Timpohon Gate
+points:116.5421188,6.0053195,Kinabalu National Park|116.5462398,6.0291003,Timpohon Gate
 points:116.5651771,6.058994,Laban Rata Resthouse;116.558832,6.075277,Low's Peak
 ```
 
@@ -263,8 +263,8 @@ Scheduled land transfer from Semporna to Tawau Airport at 1200hrs
 As I walked down the street from the station, the crowds gradually thinned out. When I reached an intersection, I hesitated – should I take the dimly lit path in the distance or stick to the main road, even if it meant a longer detour? I chose the latter. However, this route proved to be much farther than I had anticipated, and it took me quite some time to reach the hotel.
 
 ```<a-map>
-transit:101.68628171948798,2.745129256594095,KLIA Transit Station @ KLIA2|101.71326935291293,2.827310480585382,Salak Tinggi Station
-walking:101.71326935291293,2.827310480585382,Salak Tinggi Station|101.69583472862865,2.823730611756417|101.6941487,2.8210419,Hotel Zamburger Kota Warisan|101.71326935291293,2.827310480585382,Salak Tinggi Station
+points:101.68628171948798,2.745129256594095,KLIA Transit Station @ KLIA2|101.71326935291293,2.827310480585382,Salak Tinggi Station
+points:101.71326935291293,2.827310480585382,Salak Tinggi Station|101.69583472862865,2.823730611756417|101.6941487,2.8210419,Hotel Zamburger Kota Warisan|101.71326935291293,2.827310480585382,Salak Tinggi Station
 ```
 
 ```<a-hotel>
@@ -385,7 +385,7 @@ name:songkran-2
 ```
 
 ```<a-map>
-walking:100.055656,9.5179429,Samui Hostel;100.05679321289062,9.520712852478027,Hot Nails;100.058837890625,9.52495288848877,Stacked;100.06055450439453,9.532194137573242,Central Festival Samui;100.0648453,9.5323031,.
+points:100.055656,9.5179429,Samui Hostel;100.05679321289062,9.520712852478027,Hot Nails;100.058837890625,9.52495288848877,Stacked;100.06055450439453,9.532194137573242,Central Festival Samui;100.0648453,9.5323031,.
 ```
 
 stacked
@@ -449,7 +449,7 @@ green dreadlocks in dark
 <br />
 
 ```<a-map>
-walking:100.055656,9.5179429,Samui Hostel|100.0567723,9.5256037,Irish Pub
+points:100.055656,9.5179429,Samui Hostel|100.0567723,9.5256037,Irish Pub
 ```
 
 ```secret

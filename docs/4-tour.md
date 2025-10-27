@@ -35,7 +35,7 @@ One night I will get the perfect photograp
 
 ```<a-map>
 points:99.824118,10.084742,Koh Tao (Mae Haad Pier)
-driving:99.984432,9.709127,Thong Sala|100.068051,9.676993,Haad Rin
+points:99.984432,9.709127,Thong Sala|100.068051,9.676993,Haad Rin
 ```
 
 ```<a-img>
@@ -196,7 +196,7 @@ In the evening, at the bar, I chatted with my diving instructor, who was strict 
 <a-times :times="1" location="KRABI"></a-times>
 
 ```<a-map>
-driving:98.810486,8.042807,Ao Nang Landmark Bus Station|98.395726,7.884028,Phuket Bus Terminal 1|98.294148,7.844075,Woraburi Phuket Resort & Spa
+points:98.810486,8.042807,Ao Nang Landmark Bus Station|98.395726,7.884028,Phuket Bus Terminal 1|98.294148,7.844075,Woraburi Phuket Resort & Spa
 ```
 
 ```<a-img>
@@ -232,7 +232,7 @@ name:songkran1-2
 #### A Free Riding
 
 ```<a-map>
-driving:98.294236,7.881441,Corner|98.294148,7.844075,Woraburi Phuket Resort & Spa
+points:98.294236,7.881441,Corner|98.294148,7.844075,Woraburi Phuket Resort & Spa
 ```
 
 ## KOH SIMILAN
@@ -240,7 +240,7 @@ driving:98.294236,7.881441,Corner|98.294148,7.844075,Woraburi Phuket Resort & Sp
 <a-times :times="1" location="KOH SIMILAN"></a-times>
 
 ```<a-map>
-driving:98.294148,7.844075,Woraburi Phuket Resort & Spa|98.251020,8.644964,Khao Lak Scuba Adventures
+points:98.294148,7.844075,Woraburi Phuket Resort & Spa|98.251020,8.644964,Khao Lak Scuba Adventures
 ```
 
 ```<a-map>

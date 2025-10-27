@@ -13,13 +13,13 @@ I had planned to take a domestic flight to Kunming first, and I thought I would 
 Two hours later, around the same time I had  reserved, I finally arrived at Kunming. When I rushed out of cabin, the next flight was already boarding. I realized that I had to wait for my package and recheck in, even though there was no international transfer channel.  I was the last persih checked in at the counter, and I boarded at the last minute just before gate close.
 
 ```<a-map>
-driving:101.72049967310232,2.739671959819654,LCCT|101.69091652316015,3.1314496300435706,KL Sentral
+points:101.72049967310232,2.739671959819654,LCCT|101.69091652316015,3.1314496300435706,KL Sentral
 ```
 
 Taking airport bus from LCCT, I reached KL Sentral at midnight. I was going to took the Monorail, but the station was already shutdown. Thus, I had to took a taxi.
 
 ```<a-map>
-driving:101.69091652316015,3.1314496300435706,KL Sentral|101.70906525342374,3.142778222755097,Berjaya Times Square
+points:101.69091652316015,3.1314496300435706,KL Sentral|101.70906525342374,3.142778222755097,Berjaya Times Square
 ```
 
 I get off at the Times Square where my hostel located.
@@ -47,7 +47,7 @@ name:klcc
 <a-flight flight="AK5104" departure="KUL" destination="BKI" departure-time="2014-01-06 11:05" arrive-time="2014-01-06 13:40"></a-flight>
 
 ```<a-map>
-driving:116.050642,5.943993,KKIA Terminal 2|116.0776038,5.9833774,Borneo Backpackers
+points:116.050642,5.943993,KKIA Terminal 2|116.0776038,5.9833774,Borneo Backpackers
 route:{"legs":[{"steps":[],"weight":214.4,"summary":"","duration":214.4,"distance":3013.2},{"steps":[],"weight":101.7,"summary":"","duration":101.7,"distance":1181.9},{"steps":[],"weight":113.6,"summary":"","duration":113.6,"distance":1955.7}],"weight_name":"routability","geometry":{"coordinates":[[116.050641,5.943994],[116.050289,5.943159],[116.050277,5.94298],[116.050277,5.942871],[116.05025,5.942816],[116.050213,5.942782],[116.050148,5.942768],[116.050078,5.942792],[116.05003,5.942846],[116.050022,5.942913],[116.050038,5.942971],[116.050069,5.94302],[116.050112,5.943089],[116.050191,5.943197],[116.050564,5.944053],[116.050731,5.944445],[116.050822,5.944668],[116.050896,5.94487],[116.050926,5.945038],[116.050921,5.945229],[116.050866,5.945443],[116.050642,5.946058],[116.050462,5.946534],[116.050254,5.94714],[116.049699,5.948665],[116.049541,5.949135],[116.049505,5.949227],[116.049588,5.949268],[116.052082,5.950526],[116.052906,5.950941],[116.052992,5.950983],[116.053955,5.951467],[116.054477,5.95173],[116.054824,5.951909],[116.05488,5.951958],[116.05493,5.952006],[116.054968,5.952051],[116.054969,5.952078],[116.054991,5.952133],[116.055029,5.952177],[116.05508,5.952206],[116.055138,5.952216],[116.055193,5.952207],[116.055227,5.952232],[116.055281,5.952241],[116.055344,5.952246],[116.055441,5.952258],[116.055593,5.952295],[116.056002,5.952475],[116.056592,5.952791],[116.056761,5.952887],[116.056904,5.952968],[116.057209,5.95313],[116.057527,5.953293],[116.057604,5.953331],[116.057663,5.953363],[116.057909,5.953495],[116.058401,5.953734],[116.058735,5.953898],[116.059299,5.954165],[116.059343,5.954207],[116.059381,5.954253],[116.059442,5.954334],[116.059478,5.954411],[116.059487,5.954501],[116.059444,5.954602],[116.059379,5.954746],[116.05939,5.95483],[116.059284,5.955054],[116.059213,5.955201],[116.059076,5.955466],[116.059035,5.955548],[116.058672,5.956276],[116.058606,5.956408],[116.058536,5.956588],[116.058285,5.957123],[116.058116,5.957509],[116.058082,5.957653],[116.057909,5.958074],[116.05783,5.958349],[116.057778,5.958703],[116.057763,5.959018],[116.057777,5.959362],[116.057834,5.959717],[116.058023,5.96028],[116.058117,5.960469],[116.058244,5.960665],[116.058363,5.96084],[116.058584,5.961116],[116.058769,5.961302],[116.059364,5.961901],[116.059722,5.962252],[116.060431,5.96301],[116.061639,5.964172],[116.061944,5.964474],[116.062009,5.964545],[116.062087,5.964628],[116.062156,5.964697],[116.062453,5.964997],[116.06328,5.965813],[116.063668,5.966228],[116.063827,5.96646],[116.064033,5.966696],[116.064221,5.966877],[116.06425,5.966931],[116.064272,5.966997],[116.064277,5.967043],[116.064275,5.967077],[116.064251,5.967164],[116.064187,5.967274],[116.06411,5.96738],[116.06405,5.967434],[116.063832,5.967645],[116.063703,5.967761],[116.063592,5.967854],[116.063495,5.96795],[116.063431,5.968037],[116.063384,5.968115],[116.063345,5.968195],[116.063283,5.968336],[116.063241,5.968473],[116.063209,5.968585],[116.063186,5.968706],[116.063172,5.968863],[116.0632,5.969054],[116.063219,5.969137],[116.063254,5.969246],[116.063289,5.969344],[116.063315,5.969416],[116.063419,5.96958],[116.063556,5.969735],[116.063719,5.969923],[116.063882,5.970112],[116.064056,5.970346],[116.064671,5.971081],[116.06477,5.9712],[116.065227,5.971702],[116.065399,5.971882],[116.065464,5.971965],[116.065712,5.972257],[116.066046,5.972651],[116.066427,5.973084],[116.066622,5.973307],[116.066693,5.973424],[116.066719,5.973517],[116.066712,5.973559],[116.066713,5.973601],[116.066724,5.973642],[116.066742,5.973679],[116.066757,5.973698],[116.066769,5.973713],[116.066801,5.973739],[116.066839,5.973759],[116.066879,5.97377],[116.066922,5.973773],[116.066963,5.973767],[116.067003,5.973753],[116.067039,5.97373],[116.067054,5.973716],[116.067069,5.973701],[116.067093,5.973666],[116.067104,5.973637],[116.067108,5.973627],[116.067111,5.973609],[116.067207,5.973538],[116.067254,5.973503],[116.067344,5.973449],[116.06783,5.973198],[116.068031,5.973095],[116.068394,5.972907],[116.068897,5.97269],[116.069016,5.972663],[116.069076,5.972663],[116.069124,5.972665],[116.069175,5.972674],[116.069278,5.972707],[116.069338,5.972737],[116.06939,5.972762],[116.070562,5.974877],[116.071021,5.975714],[116.071522,5.976644],[116.071615,5.976815],[116.071692,5.97694],[116.071833,5.977186],[116.072467,5.978287],[116.072743,5.978761],[116.072796,5.978847],[116.072838,5.978924],[116.072986,5.979207],[116.073562,5.980201],[116.073666,5.980345],[116.073687,5.980378],[116.073725,5.980429],[116.073786,5.980516],[116.073808,5.980534],[116.073841,5.980542],[116.073867,5.980545],[116.073899,5.980544],[116.07394,5.980539]],"type":"LineString"},"weight":429.7,"duration":429.7,"distance":6150.8}
 ```
 
@@ -83,7 +83,7 @@ name:sapi
 ```
 
 ```<a-map>
-walking:116.0776038,5.9833774,Borneo Backpackers|116.07749719991713,5.990737806640723,Jesselton Point Ferry
+points:116.0776038,5.9833774,Borneo Backpackers|116.07749719991713,5.990737806640723,Jesselton Point Ferry
 points:116.00801785807634,6.009259608220351,Pulau Sapi
 :padding:[88,80,80,80]
 ```
@@ -184,7 +184,8 @@ Then a rude Brazil guy came and bought a phone card. I asked if I take a ride. H
 
 
 ```<a-map>
-driving:118.113794,4.313783,Tawau Airport|118.617147,4.479184,Borneo Global Sipadan Backpackers
+points:118.113794,4.313783,Tawau Airport|118.617147,4.479184,Borneo Global Sipadan Backpackers
+route:{"legs":[{"steps":[],"weight":4411.4,"summary":"","duration":4411.4,"distance":82214.4}],"weight_name":"routability","geometry":{"coordinates":[[118.113806,4.313764],[118.090717,4.308937],[118.093659,4.330109],[118.090303,4.347051],[118.093468,4.355825],[118.114803,4.377182],[118.14169,4.378061],[118.153945,4.385919],[118.160318,4.399907],[118.179844,4.404335],[118.182527,4.408994],[118.183199,4.423189],[118.189796,4.435782],[118.22424,4.452287],[118.231138,4.450491],[118.242852,4.452904],[118.25087,4.44665],[118.256799,4.436212],[118.264459,4.437035],[118.288007,4.42741],[118.298172,4.426354],[118.302634,4.422611],[118.311601,4.421011],[118.316875,4.414632],[118.323575,4.414161],[118.330033,4.419081],[118.33474,4.418603],[118.341414,4.410102],[118.341263,4.393567],[118.351254,4.38249],[118.381902,4.372781],[118.406955,4.371039],[118.42165,4.384944],[118.425362,4.391847],[118.437183,4.395929],[118.468819,4.423259],[118.50564,4.418924],[118.514857,4.42159],[118.526763,4.437101],[118.547492,4.441149],[118.56007,4.453333],[118.575193,4.455802],[118.591998,4.463193],[118.611291,4.478854],[118.617141,4.479186]],"type":"LineString"},"weight":4411.4,"duration":4411.4,"distance":82214.4}
 ```
 
 When we checked in, we discovered we were assigned to the same room. Feng Cheche and another girl, who learned scuba diving at the store, were also staying in our room. Since we talked, Feng Cheche and I realized that we shared the same destination, Penang, a few days later.
@@ -308,8 +309,7 @@ Upon my return to Kota Kinabalu, the room was empty. As evening approached, I ra
 I followed her to an open-air bar. We talked about some things, such as her experience in China and why she wanted to go back to France. She recommended a wine that was soaked in salt, and she was surprised that I finished it so quickly and ordered another one. Afterwards, we walked back to the hostel along the road. When I entered the room, she was video chatting with her boyfriend on the bed, and I said hello.
 
 ```<a-map>
-walking:5.982953, 116.076504,Bar|116.0776038,5.9833774,Borneo Backpackers
-points:116.076264,5.983082
+points:116.076504,5.982953,Bar|116.0776038,5.9833774,Borneo Backpackers
 ```
 
 The next morning, I was bored flipping through my book when he came over and squatted at my feet, telling me that she was going to KK Mountain with another tourist here. So, we parted ways. It was a strange feeling. I also wanted to go up the mountain with her, but my itinerary was already set.
@@ -355,7 +355,7 @@ name:little-india-1
 We then went to the jetty together, and later accompanied Isis to book her ferry ticket to Langkawi. Following that, we took a rest in a nearby park.
  
 ```<a-map>
-walking:100.3405987,5.4125915,Chew Jetty;100.3445641,5.4194291,Langkawi Ferry Services Sdn Bhd;100.343897,5.420885,FORT Cornwallis
+points:100.3405987,5.4125915,Chew Jetty;100.3445641,5.4194291,Langkawi Ferry Services Sdn Bhd;100.343897,5.420885,FORT Cornwallis
 ```
 
 ```<a-img>
@@ -414,7 +414,7 @@ It turned out that there was a girl taking selfies nearby. After striking up a c
 When we asked her which hostel she was staying at, she couldn't quite remember the name but knew it was on Love Lane. As it happened, we were heading in the same direction and decided to walk together. There was a chance that, quite coincidentally, we might even be staying at the same hostel.
 
 ```<a-map>
-walking:100.343897,5.420885,FORT Cornwallis|100.342654,5.421882,DANNI|100.34083223610918,5.423263358177238|100.337566,5.420896,Love Ln|100.335220,5.420208,Ryokan Muntri Boutique Hostel
+points:100.343897,5.420885,FORT Cornwallis|100.342654,5.421882,DANNI|100.34083223610918,5.423263358177238|100.337566,5.420896,Love Ln|100.335220,5.420208,Ryokan Muntri Boutique Hostel
 ```
 
 ```<a-img>
@@ -463,7 +463,7 @@ Upon arrival, wouldn't you know it, this turned out to be the exact hostel where
 In the evening, we made plans to explore the night market together in search of a delicious meal.
 
 ```<a-map>
-walking:100.335220,5.420208,Ryokan Muntri Boutique Hostel|100.33675341989601,5.419300364528894,Love Ln|100.332673,5.416457,Kimberley Street Food Night Market
+points:100.335220,5.420208,Ryokan Muntri Boutique Hostel|100.33675341989601,5.419300364528894,Love Ln|100.332673,5.416457,Kimberley Street Food Night Market
 ```
 
 To reach the bustling night market, we meandered through a few lively streets, and every step proved worthwhile. Our first gastronomic adventure involved sampling the Four-Fruit Soup, which was simply delightful; its unique flavor was so captivating that we couldn't resist having it multiple times throughout the evening. The soy sauce chicken feet were equally remarkable, leaving us in awe of their succulent texture and rich taste.
@@ -483,7 +483,7 @@ name:night-food-2
 Afterwards, we excitedly suggested visiting a local bar for some more fun.
 
 ```<a-map>
-walking:100.335625,5.418435,Halab Penang|100.33675341989601,5.419300364528894,Love Ln|100.335220,5.420208,Ryokan Muntri Boutique Hostel
+points:100.335625,5.418435,Halab Penang|100.33675341989601,5.419300364528894,Love Ln|100.335220,5.420208,Ryokan Muntri Boutique Hostel
 ```
 
 ```<a-img>
@@ -596,7 +596,7 @@ name:penang-hill
 ```
 
 ```<a-map>
-walking:100.269514,5.423528,Penang Hill Upper Station|100.263881,5.418529,Ice cream store|100.2628177,5.4181686,Monkey Family
+points:100.269514,5.423528,Penang Hill Upper Station|100.263881,5.418529,Ice cream store|100.2628177,5.4181686,Monkey Family
 ```
 
 As it got dark quickly, we descended the mountain. At the foot of the mountain, at a junction, we ate at a street stall. Around six o'clock, the owner suddenly started packing up. In China, six o'clock is when night markets are just starting to open. We all said that maybe Malaysians value life more than making money.

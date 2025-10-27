@@ -127,7 +127,7 @@ dir:privacy
 ```
 
 ```<a-map>
-driving:98.9660400,18.7979829,Baan Thai Apartment|98.9970986,18.7842285,So Hostel|98.9838874,18.7963096,A Little Bird 2 Guest House|98.98652265355459,18.795304760190298,Chang Phuak Gate|99.124138,18.983908,Rabeang Pasak Treehouse Resort
+points:98.9660400,18.7979829,Baan Thai Apartment|98.9970986,18.7842285,So Hostel|98.9838874,18.7963096,A Little Bird 2 Guest House|98.98652265355459,18.795304760190298,Chang Phuak Gate|99.124138,18.983908,Rabeang Pasak Treehouse Resort
 ```
 
 ```secret
@@ -140,7 +140,7 @@ dir:privacy
 ```
 
 ```<a-map>
-walking:99.124138,18.983908,Rabeang Pasak Treehouse Resort|99.1186256,18.9869287,จุดชมวิวแผ่นดินหวิด
+points:99.124138,18.983908,Rabeang Pasak Treehouse Resort|99.1186256,18.9869287,จุดชมวิวแผ่นดินหวิด
 theme:topo-v2
 ```
 
@@ -274,7 +274,7 @@ dir:privacy
 <a-gallery :img="[{name:'chiang-2.jpg',dir:'privacy'},{name:'chiang-3.jpg',dir:'privacy'}]"></a-gallery>
 
 ```<a-map>
-driving:98.9660400,18.7979829,Baan Thai Apartment|98.9547589,18.8083025,Chiang Mai University
+points:98.9660400,18.7979829,Baan Thai Apartment|98.9547589,18.8083025,Chiang Mai University
 ```
 
 ### CHIANG MAI AIRPORT
@@ -299,7 +299,7 @@ dir:privacy
 Qin and me met up on Khao San Road and went for a massage. After that, we were waiting for the bus.
 
 ```<a-map>
-driving:100.498725,13.759380,Lomprayah Bangkok|99.267069,10.358415,Lomprayah Pier
+points:100.498725,13.759380,Lomprayah Bangkok|99.267069,10.358415,Lomprayah Pier
 ```
 
 We sat in the first row on the second floor, and I even brought beer onto the bus; they don't usually allow eating or drinking on the bus. Later, when I was sleeping, the beer spilled, leaving the bus smelling of alcohol.
@@ -477,7 +477,7 @@ I had originally planned to go to this cliff house with her, but now I have to m
 <a-hotel name="Moondance Magicview Bungalow" date="2014-11-12" nights="1"></a-hotel>
 
 ```<a-map>
-walking:99.825095,10.085781,Crystal Dive|99.8458561,10.0780687,Moondance Magic View Bungalow
+points:99.825095,10.085781,Crystal Dive|99.8458561,10.0780687,Moondance Magic View Bungalow
 theme:topo-v2
 ```
 
