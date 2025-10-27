@@ -155,6 +155,11 @@ dir:privacy
 ```
 
 ```<a-img>
+name:treehouse-20-2.jpg
+dir:privacy
+```
+
+```<a-img>
 name:treehouse-21
 ```
 
@@ -225,6 +230,11 @@ name:chiangmai-1
 
 ```<a-img>
 name:qin-3
+```
+
+```<a-img>
+name:qin-3-2
+dir:privacy
 ```
 
 ```<a-img>
@@ -324,6 +334,10 @@ We eventually got on the boat, and the sea was very rough; it felt like we were 
 ### Crystal Dive
 
 When we first arrived on the island, it would often rain, and the ground was crawling with millipedes as thick as thumbs. The diving shop provided free accommodation, but Qin wasn’t satisfied with it and rented another room elsewhere. I, on the other hand, made do with what was provided.
+
+```<a-img>
+name:crystal-desk
+```
 
 <a-gallery :img="[{name:'kohtaorainny'},{name:'kohtaosunny'}]"></a-gallery>
 
@@ -458,6 +472,11 @@ name:seadog
 
 ```<a-img>
 name:qin-3.jpg
+dir:privacy
+```
+
+```<a-img>
+name:qin-3-3.jpg
 dir:privacy
 ```
 

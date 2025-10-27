@@ -316,10 +316,6 @@ name:similan-me-4
 ```
 
 ```<a-img>
-name:similan-me-6
-```
-
-```<a-img>
 name:similan-me-5
 ```
 
