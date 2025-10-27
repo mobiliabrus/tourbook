@@ -275,6 +275,7 @@ dir:privacy
 
 ```<a-map>
 points:98.9660400,18.7979829,Baan Thai Apartment|98.9547589,18.8083025,Chiang Mai University
+route:{"legs":[{"steps":[],"weight":143.1,"summary":"","duration":143.1,"distance":2047}],"weight_name":"routability","geometry":{"coordinates":[[98.966012,18.797801],[98.966534,18.797729],[98.967612,18.80062],[98.967771,18.801202],[98.967685,18.801386],[98.954757,18.808299]],"type":"LineString"},"weight":143.1,"duration":143.1,"distance":2047}
 ```
 
 ### CHIANG MAI AIRPORT
@@ -300,6 +301,7 @@ Qin and me met up on Khao San Road and went for a massage. After that, we were w
 
 ```<a-map>
 points:100.498725,13.759380,Lomprayah Bangkok|99.267069,10.358415,Lomprayah Pier
+route:{"legs":[{"steps":[],"weight":22123.1,"summary":"","duration":22123.1,"distance":481528.5}],"weight_name":"routability","geometry":{"coordinates":[[100.498617,13.759461],[100.487862,13.684725],[100.361243,13.593678],[100.130263,13.507274],[100.11504,13.473115],[99.941983,13.358641],[99.831313,13.339399],[99.819603,13.274457],[99.841792,13.166457],[99.863584,13.132102],[99.930618,13.112938],[99.948257,13.075885],[99.897982,12.979891],[99.94361,12.808336],[99.926572,12.727936],[99.857689,12.631341],[99.925688,12.418388],[99.887379,12.374685],[99.844234,12.172034],[99.859228,12.061367],[99.790436,11.892021],[99.767075,11.756887],[99.684046,11.66572],[99.601224,11.482558],[99.559003,11.432049],[99.523346,11.421782],[99.437162,11.272675],[99.367168,11.109555],[99.365144,10.995082],[99.298152,10.945622],[99.190434,10.786345],[99.201829,10.664999],[99.166267,10.603222],[99.162541,10.498677],[99.212528,10.474308],[99.22288,10.426606],[99.254499,10.436978],[99.273853,10.420323],[99.26709,10.358422]],"type":"LineString"},"weight":22123.1,"duration":22123.1,"distance":481528.5}
 ```
 
 We sat in the first row on the second floor, and I even brought beer onto the bus; they don't usually allow eating or drinking on the bus. Later, when I was sleeping, the beer spilled, leaving the bus smelling of alcohol.
