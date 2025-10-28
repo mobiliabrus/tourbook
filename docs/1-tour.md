@@ -151,7 +151,10 @@ On the night, the daughter knocked on my door and said there was a festival acti
 
 ### ON THE ROAD
 
-<a-map driving="99.709757,17.018625,Bus Stop|99.4807422,18.2772803,Lampang bus terminal|99.017627,18.799716,Chiang Mai Bus Terminal 3"></a-map>
+```<a-map>
+points:99.709757,17.018625,Bus Stop|99.4807422,18.2772803,Lampang bus terminal|99.017627,18.799716,Chiang Mai Bus Terminal 3
+route:{"legs":[{"steps":[],"weight":10134.3,"summary":"","duration":10134.3,"distance":200802.7},{"steps":[],"weight":5170.7,"summary":"","duration":5170.7,"distance":96253.4}],"weight_name":"routability","geometry":{"coordinates":[[99.70976,17.018493],[99.696045,17.20267],[99.732636,17.308899],[99.643119,17.316523],[99.597921,17.343875],[99.507839,17.327281],[99.416724,17.349962],[99.352889,17.475054],[99.310317,17.637108],[99.238395,17.629967],[99.250977,17.655196],[99.23061,17.745856],[99.293294,17.852044],[99.336719,17.868505],[99.407514,18.198991],[99.480815,18.277324],[99.465519,18.266761],[99.381268,18.314105],[99.254705,18.329264],[99.202091,18.452457],[99.129069,18.464193],[99.128221,18.509805],[99.098903,18.509001],[99.048074,18.552945],[99.048894,18.69761],[99.017523,18.799644]],"type":"LineString"},"weight":15305,"duration":15305,"distance":297056.1}
+```
 
 I was sitting a few rows behind the bus, and there were several foreigners at the back. We briefly chatted. Sitting next to me was a Chinese man who claimed to be in the Burmese gem business. He actively asked me for my contact information, saying that I could reach out to him in Chiang Mai. However, I didn't want to do that.
 
@@ -163,7 +166,7 @@ The bus stopped at Lampang bus terminal for a short while, and I thought it was 
 
 On my first evening in Chiang Mai, I decided to go for a walk. With a little memory of the map, I walked along the Chiang Mai River past the embassy, flower and fruit markets, had a snack in a alley, and walked back to the hotel along the moat according to my sense of direction.
 
-<a-map walking="98.9940416,18.7964248,Royal Panerai Hotel|98.99499109404816,18.799951020249672|98.99798262641798,18.799282633655636|98.99682391219142,18.796672396049598|98.99898564451506,18.794726140240503|98.9964965546485,18.794685513174347|98.9976552688751,18.792156459649465|99.00110060396615,18.791294906412276|98.99644291037642,18.789749252874948|98.99322927281824,18.789984231751554,Baan klang vieng Tour|98.9940416,18.7964248,Royal Panerai Hotel"></a-map>
+<a-map points="98.9940416,18.7964248,Royal Panerai Hotel|98.99499109404816,18.799951020249672|98.99798262641798,18.799282633655636|98.99682391219142,18.796672396049598|98.99898564451506,18.794726140240503|98.9964965546485,18.794685513174347|98.9976552688751,18.792156459649465|99.00110060396615,18.791294906412276|98.99644291037642,18.789749252874948|98.99322927281824,18.789984231751554,Baan klang vieng Tour|98.9940416,18.7964248,Royal Panerai Hotel"></a-map>
 
 ```<a-img>
 name:cmn

@@ -40,6 +40,11 @@ Since we were staying at different hostels, the driver had to pick us up one by 
 
 <a-hotel name="Rabeang Pasak Treehouse Resort" date="2014-11-04" nights="1"></a-hotel>
 
+```<a-map>
+points:98.9660400,18.7979829,Baan Thai Apartment|98.9970986,18.7842285,So Hostel|98.9838874,18.7963096,A Little Bird 2 Guest House|98.98652265355459,18.795304760190298,Chang Phuak Gate|99.124138,18.983908,Rabeang Pasak Treehouse Resort
+route:{"legs":[{"steps":[],"weight":2866.4,"summary":"","duration":2865.9,"distance":36398.2}],"weight_name":"routability","geometry":{"coordinates":[[98.986496,18.795306],[98.984153,18.795517],[98.986435,18.795956],[98.983956,18.812096],[99.011399,18.809712],[99.015372,18.807919],[99.018776,18.804256],[99.05463,18.831812],[99.078506,18.846471],[99.130574,18.870544],[99.137705,18.876339],[99.155283,18.884453],[99.148592,18.897476],[99.148981,18.913627],[99.143805,18.922162],[99.142326,18.934809],[99.140659,18.937073],[99.142085,18.938558],[99.139761,18.942216],[99.140833,18.944304],[99.139181,18.946814],[99.140074,18.94843],[99.137669,18.95264],[99.137811,18.951555],[99.134667,18.951823],[99.128271,18.962772],[99.126912,18.968169],[99.125057,18.968826],[99.125109,18.972248],[99.122886,18.974846],[99.12528,18.977995],[99.123797,18.983925]],"type":"LineString"},"weight":2866.4,"duration":2865.9,"distance":36398.2}
+```
+
 <a-carousel :img="[{name:'tree-house-me'},{name:'treehouse-1'}]"></a-carousel>
 
 We booked three treehouses — Tamarind House, Moon House, and Rimtarn House. We mainly gathered in the largest treehouse, Moon House. Sheyao stayed in Rimtarn House.
@@ -126,10 +131,6 @@ name:treehouse-10.jpg
 dir:privacy
 ```
 
-```<a-map>
-points:98.9660400,18.7979829,Baan Thai Apartment|98.9970986,18.7842285,So Hostel|98.9838874,18.7963096,A Little Bird 2 Guest House|98.98652265355459,18.795304760190298,Chang Phuak Gate|99.124138,18.983908,Rabeang Pasak Treehouse Resort
-```
-
 ```secret
 2920eedff78d53ae0b4d6058bc9d877879aef23b5fdd440f4d80968dcb9e8eb868516f3ae045c663963c2a8b900798c25ae142fae5
 ```
@@ -140,7 +141,8 @@ dir:privacy
 ```
 
 ```<a-map>
-points:99.124138,18.983908,Rabeang Pasak Treehouse Resort|99.1186256,18.9869287,จุดชมวิวแผ่นดินหวิด
+points:99.124138,18.983908,Rabeang Pasak Treehouse Resort|99.1186256,18.9869287,จุดชมวิวแผ่นดินหวิด|99.11609819407542,18.982546545449992,-
+route:{"legs":[{"steps":[],"weight":85.23,"summary":"","duration":652.6,"distance":737.2}],"weight_name":"routability","geometry":{"coordinates":[[99.123797,18.983925],[99.1238,18.983976],[99.123418,18.984009],[99.122036,18.983758],[99.12175,18.983772],[99.121512,18.983863],[99.121306,18.984016],[99.121098,18.984043],[99.120873,18.984139],[99.120617,18.984378],[99.119701,18.984969],[99.119178,18.98538],[99.118965,18.985663],[99.118866,18.985885],[99.118818,18.986189],[99.118652,18.986661],[99.118639,18.986927]],"type":"LineString"},"weight":85.23,"duration":652.6,"distance":737.2}
 theme:topo-v2
 ```
 
@@ -207,10 +209,12 @@ name:treehouse-27.jpg
 dir:privacy
 ```
 
-### Swimming
+### SWIMMING
 
 ```<a-map>
 points:98.9660400,18.7979829
+zoom: 18
+theme:satellite
 ```
 
 Baan Thai Apartment

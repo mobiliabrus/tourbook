@@ -14,12 +14,14 @@ Two hours later, around the same time I had  reserved, I finally arrived at Kunm
 
 ```<a-map>
 points:101.72049967310232,2.739671959819654,LCCT|101.69091652316015,3.1314496300435706,KL Sentral
+route:{"legs":[{"steps":[],"weight":3554.1,"summary":"","duration":3554.1,"distance":60534.6}],"weight_name":"routability","geometry":{"coordinates":[[101.720476,2.739656],[101.729729,2.728926],[101.732211,2.730826],[101.724442,2.760299],[101.711191,2.779985],[101.695699,2.789492],[101.681033,2.78566],[101.676701,2.791614],[101.687575,2.804491],[101.695347,2.805578],[101.692989,2.830334],[101.694642,2.856773],[101.68803,2.863132],[101.686247,2.869283],[101.679787,2.870302],[101.674555,2.87548],[101.667047,2.876235],[101.660757,2.884698],[101.658071,2.90374],[101.664988,2.916826],[101.664871,2.925236],[101.653864,2.941135],[101.650269,2.94244],[101.656068,2.963799],[101.67899,2.977193],[101.682929,2.983011],[101.685349,3.046373],[101.688426,3.052723],[101.688138,3.059079],[101.683843,3.064916],[101.695904,3.089831],[101.696387,3.100343],[101.708338,3.119033],[101.696819,3.134625],[101.690438,3.136216],[101.68877,3.133879],[101.69092,3.131449]],"type":"LineString"},"weight":3554.1,"duration":3554.1,"distance":60534.6}
 ```
 
 Taking airport bus from LCCT, I reached KL Sentral at midnight. I was going to took the Monorail, but the station was already shutdown. Thus, I had to took a taxi.
 
 ```<a-map>
 points:101.69091652316015,3.1314496300435706,KL Sentral|101.70906525342374,3.142778222755097,Berjaya Times Square
+route:{"legs":[{"steps":[],"weight":254.9,"summary":"","duration":254.9,"distance":3320.6}],"weight_name":"routability","geometry":{"coordinates":[[101.69092,3.131449],[101.691004,3.13169],[101.691468,3.131558],[101.691824,3.131963],[101.692329,3.13229],[101.693301,3.132496],[101.693798,3.132713],[101.694223,3.133045],[101.694644,3.133645],[101.694884,3.134409],[101.695303,3.138099],[101.695282,3.138597],[101.695102,3.139427],[101.695119,3.140112],[101.694981,3.140333],[101.695094,3.14059],[101.695351,3.140637],[101.69572,3.140388],[101.696897,3.14009],[101.69727,3.14021],[101.698049,3.140193],[101.698238,3.140013],[101.698498,3.139458],[101.700391,3.137844],[101.701843,3.13729],[101.702889,3.136958],[101.70324,3.136922],[101.703693,3.137045],[101.703854,3.137348],[101.704361,3.137848],[101.704952,3.138708],[101.705127,3.139062],[101.705312,3.139911],[101.705606,3.140381],[101.707591,3.141966],[101.708459,3.142534],[101.709072,3.142754]],"type":"LineString"},"weight":254.9,"duration":254.9,"distance":3320.6}
 ```
 
 I get off at the Times Square where my hostel located.
@@ -309,6 +311,7 @@ I followed her to an open-air bar. We talked about some things, such as her expe
 
 ```<a-map>
 points:116.076504,5.982953,Bar|116.0776038,5.9833774,Borneo Backpackers
+route:{"legs":[{"steps":[],"weight":5.55,"summary":"","duration":46.2,"distance":57.7},{"steps":[],"weight":18.12,"summary":"","duration":103,"distance":128.7}],"weight_name":"routability","geometry":{"coordinates":[[116.076509,5.982962],[116.076967,5.982714],[116.077018,5.982686],[116.077273,5.983151],[116.077344,5.983366],[116.077358,5.983305],[116.077438,5.983263],[116.077511,5.983302],[116.077552,5.983399]],"type":"LineString"},"weight":23.67,"duration":149.2,"distance":186.4}
 ```
 
 The next morning, I was bored flipping through my book when he came over and squatted at my feet, telling me that she was going to KK Mountain with another tourist here. So, we parted ways. It was a strange feeling. I also wanted to go up the mountain with her, but my itinerary was already set.
@@ -322,6 +325,9 @@ name:cat
 ## PENANG
 
 <a-times :times="1" location="PENANG"></a-times>
+
+### GERGORE TOWN
+
 
 <a-flight flight="AK5323" departure="BKI" destination="PEN" departure-time="2014-01-13 13:20" arrive-time="2014-01-13 16:05"></a-flight>
 
@@ -355,6 +361,7 @@ We then went to the jetty together, and later accompanied Isis to book her ferry
  
 ```<a-map>
 points:100.3405987,5.4125915,Chew Jetty;100.3445641,5.4194291,Langkawi Ferry Services Sdn Bhd;100.343897,5.420885,FORT Cornwallis
+route:{"legs":[{"steps":[],"weight":118.39,"summary":"","duration":973.1,"distance":1216.4},{"steps":[],"weight":32.04,"summary":"","duration":297,"distance":371.1}],"weight_name":"routability","geometry":{"coordinates":[[100.340439,5.412456],[100.339862,5.413149],[100.341342,5.414055],[100.343608,5.415965],[100.344344,5.417313],[100.34417,5.417648],[100.344227,5.417705],[100.344432,5.417547],[100.344891,5.418392],[100.344702,5.418596],[100.34487,5.418832],[100.345092,5.418668],[100.34515,5.4188],[100.345099,5.419077],[100.344902,5.419054],[100.344768,5.419159],[100.344694,5.419447],[100.344585,5.420019],[100.344404,5.419476],[100.344305,5.419508],[100.344547,5.42022],[100.343976,5.420448],[100.343902,5.420549],[100.343753,5.420525],[100.343673,5.420902]],"type":"LineString"},"weight":150.43,"duration":1270.1,"distance":1587.5}
 ```
 
 ```<a-img>
@@ -412,10 +419,6 @@ It turned out that there was a girl taking selfies nearby. After striking up a c
 
 When we asked her which hostel she was staying at, she couldn't quite remember the name but knew it was on Love Lane. As it happened, we were heading in the same direction and decided to walk together. There was a chance that, quite coincidentally, we might even be staying at the same hostel.
 
-```<a-map>
-points:100.343897,5.420885,FORT Cornwallis|100.342654,5.421882,DANNI|100.34083223610918,5.423263358177238|100.337566,5.420896,Love Ln|100.335220,5.420208,Ryokan Muntri Boutique Hostel
-```
-
 ```<a-img>
 name:danni-0.jpg
 dir:privacy
@@ -455,6 +458,11 @@ name:loveln.jpg
 dir:privacy
 ```
 
+```<a-map>
+points:100.343897,5.420885,FORT Cornwallis|100.342654,5.421882,DANNI|100.337566,5.420896,Love Ln|100.335220,5.420208,Ryokan Muntri Boutique Hostel
+route: {"legs":[{"steps":[],"weight":33.44,"summary":"","duration":319.9,"distance":399.6},{"steps":[],"weight":51.53,"summary":"","duration":440.6,"distance":550.4},{"steps":[],"weight":40.32,"summary":"","duration":334.1,"distance":417.1},{"steps":[],"weight":36.92,"summary":"","duration":295.3,"distance":369.2}],"weight_name":"routability","geometry":{"coordinates":[[100.343673,5.420902],[100.343688,5.420689],[100.343548,5.42075],[100.343507,5.420647],[100.343229,5.420755],[100.343311,5.421261],[100.343145,5.421361],[100.3432,5.421513],[100.343158,5.42153],[100.343493,5.421532],[100.343752,5.421415],[100.343723,5.421512],[100.343504,5.421618],[100.343219,5.421653],[100.342664,5.421904],[100.342149,5.422148],[100.342031,5.422448],[100.341915,5.422557],[100.340669,5.423119],[100.340455,5.423166],[100.34046,5.42324],[100.340044,5.423375],[100.339596,5.421683],[100.339446,5.421176],[100.338772,5.421479],[100.338423,5.42108],[100.338186,5.420999],[100.337692,5.421163],[100.337481,5.421291],[100.337504,5.421347],[100.337401,5.421389],[100.337289,5.421129],[100.337501,5.421088],[100.337518,5.420991],[100.337571,5.420972],[100.337542,5.420906],[100.336944,5.41954],[100.336037,5.419886],[100.3352,5.420133]],"type":"LineString"},"weight":162.21,"duration":1389.9,"distance":1736.3}
+```
+
 Upon arrival, wouldn't you know it, this turned out to be the exact hostel where Isis and I were staying! It was an amusing thought – what if we were actually in the same room? Such serendipitous occurrences do happen in the world.
 
 ### NIGHT MARKET
@@ -463,6 +471,7 @@ In the evening, we made plans to explore the night market together in search of 
 
 ```<a-map>
 points:100.335220,5.420208,Ryokan Muntri Boutique Hostel|100.33675341989601,5.419300364528894,Love Ln|100.332673,5.416457,Kimberley Street Food Night Market
+route:{"legs":[{"steps":[],"weight":23.75,"summary":"","duration":189.9,"distance":237.5},{"steps":[],"weight":65.17,"summary":"","duration":557,"distance":695.7}],"weight_name":"routability","geometry":{"coordinates":[[100.3352,5.420133],[100.336037,5.419886],[100.336944,5.41954],[100.336807,5.419273],[100.336601,5.418911],[100.336214,5.418376],[100.33577,5.418589],[100.33535,5.417619],[100.335183,5.417706],[100.335141,5.417582],[100.334905,5.417723],[100.334741,5.417449],[100.334382,5.417618],[100.333604,5.416911],[100.333236,5.416676],[100.333086,5.416452],[100.332773,5.416649],[100.332658,5.416467]],"type":"LineString"},"weight":88.92,"duration":746.9,"distance":933.2}
 ```
 
 To reach the bustling night market, we meandered through a few lively streets, and every step proved worthwhile. Our first gastronomic adventure involved sampling the Four-Fruit Soup, which was simply delightful; its unique flavor was so captivating that we couldn't resist having it multiple times throughout the evening. The soy sauce chicken feet were equally remarkable, leaving us in awe of their succulent texture and rich taste.
@@ -483,6 +492,7 @@ Afterwards, we excitedly suggested visiting a local bar for some more fun.
 
 ```<a-map>
 points:100.335625,5.418435,Halab Penang|100.33675341989601,5.419300364528894,Love Ln|100.335220,5.420208,Ryokan Muntri Boutique Hostel
+route:{"legs":[{"steps":[],"weight":20.94,"summary":"","duration":156.6,"distance":195.7},{"steps":[],"weight":23.75,"summary":"","duration":189.9,"distance":237.5}],"weight_name":"routability","geometry":{"coordinates":[[100.335691,5.418407],[100.33577,5.418589],[100.336214,5.418376],[100.336601,5.418911],[100.336807,5.419273],[100.336944,5.41954],[100.336037,5.419886],[100.3352,5.420133]],"type":"LineString"},"weight":44.69,"duration":346.5,"distance":433.2}
 ```
 
 ```<a-img>
@@ -595,7 +605,8 @@ name:penang-hill
 ```
 
 ```<a-map>
-points:100.269514,5.423528,Penang Hill Upper Station|100.263881,5.418529,Ice cream store|100.2628177,5.4181686,Monkey Family
+points:100.269514,5.423528,Penang Hill Upper Station|100.27707235988625,5.408692557230182,Penang Hill Lower Station|100.263881,5.418529,Ice cream store|100.2628177,5.4181686,Monkey Family
+route:{"legs":[{"steps":[],"weight":125.34,"summary":"","duration":1030.5,"distance":1288.1},{"steps":[],"weight":15.17,"summary":"","duration":121.3,"distance":151.6}],"weight_name":"routability","geometry":{"coordinates":[[100.26947,5.423597],[100.269408,5.423648],[100.269378,5.42363],[100.269285,5.423778],[100.269203,5.423814],[100.269005,5.42416],[100.269039,5.424264],[100.269101,5.424272],[100.269142,5.424643],[100.269006,5.424648],[100.268957,5.424591],[100.268818,5.424594],[100.268756,5.424553],[100.268637,5.424591],[100.268417,5.424282],[100.268004,5.424135],[100.267914,5.424041],[100.267892,5.423959],[100.267952,5.423386],[100.267683,5.423064],[100.267576,5.422627],[100.267563,5.422413],[100.26748,5.422305],[100.267073,5.422072],[100.266928,5.42206],[100.266816,5.422139],[100.266606,5.422425],[100.266423,5.422555],[100.26612,5.422587],[100.265765,5.42251],[100.265704,5.422409],[100.265684,5.422247],[100.265535,5.422071],[100.265511,5.421983],[100.265547,5.421878],[100.265755,5.421673],[100.265728,5.421115],[100.265559,5.420922],[100.265185,5.420681],[100.264964,5.420484],[100.264567,5.419784],[100.26446,5.419275],[100.264091,5.418909],[100.264001,5.418689],[100.263882,5.418528],[100.263612,5.418296],[100.263406,5.417989],[100.263289,5.417985],[100.263096,5.418121],[100.262823,5.418193]],"type":"LineString"},"weight":140.51,"duration":1151.8,"distance":1439.7}
 ```
 
 As it got dark quickly, we descended the mountain. At the foot of the mountain, at a junction, we ate at a street stall. Around six o'clock, the owner suddenly started packing up. In China, six o'clock is when night markets are just starting to open. We all said that maybe Malaysians value life more than making money.
@@ -617,6 +628,11 @@ name:drsun
 
 > _I feel bad. Isis came back and left again. I didn't go to airport to see her off. It like a huge whirling current. Finally everyone left. Just left me to follow Dr. Sun's step?_
 > <br/><div style="text-align:right">_- 2014-01-18_</div>
+
+```<a-map>
+points:100.3362171932171,5.418353144233365,Love Ln|100.3292899687321,5.414502158156836,Kompleks Tun Abdul Razak
+route:{"legs":[{"steps":[],"weight":31.3,"summary":"","duration":31.3,"distance":473.2},{"steps":[],"weight":84.6,"summary":"","duration":84.6,"distance":1019.6}],"weight_name":"routability","geometry":{"coordinates":[[100.336226,5.41837],[100.332908,5.419838],[100.332709,5.419885],[100.33249,5.419865],[100.332325,5.419732],[100.330663,5.417365],[100.330408,5.417068],[100.330359,5.416919],[100.330381,5.416767],[100.330818,5.416304],[100.331398,5.41558],[100.331403,5.415411],[100.331287,5.415247],[100.330482,5.414534],[100.330389,5.414521],[100.329394,5.41372],[100.328983,5.413921],[100.328877,5.414085],[100.328868,5.414501],[100.328918,5.414638]],"type":"LineString"},"weight":115.9,"duration":115.9,"distance":1492.8}
+```
 
 ## KULA LUMPUR
 
