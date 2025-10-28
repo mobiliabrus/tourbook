@@ -85,7 +85,8 @@ route:{"legs":[{"steps":[],"weight":5341.2,"summary":"","duration":5341.2,"dista
 The bus stopped at a cross which was 4km far from downtown. I had to walked to the guesthouse which was just across the road from Lomprayah. It was 2am when I arrived, and I must woke up at 5am.
 
 ```<a-map>
-points:98.907734,8.102171,Krabi|98.90655441718606,8.081144765640692|98.90439255672624,8.077798727763875,B.B.mansion|98.904208,8.077127,Lomprayah
+points:98.907734,8.102171,Bus Stop|98.90439255672624,8.077798727763875,B.B.mansion|98.904208,8.077127,Lomprayah
+route:{"legs":[{"steps":[],"weight":60.21,"summary":"","duration":385.1,"distance":481.5},{"steps":[],"weight":256.15,"summary":"","duration":1739,"distance":2171.5},{"steps":[],"weight":149.23,"summary":"","duration":1088.8,"distance":1358.3}],"weight_name":"routability","geometry":{"coordinates":[[98.907763,8.102181],[98.908279,8.10105],[98.910201,8.1002],[98.910835,8.099454],[98.909901,8.098249],[98.907422,8.094009],[98.906131,8.090764],[98.906041,8.088043],[98.906378,8.081887],[98.906572,8.081152],[98.901141,8.080788],[98.900582,8.080506],[98.900024,8.079862],[98.902852,8.0785],[98.904091,8.077354],[98.904279,8.077842]],"type":"LineString"},"weight":465.59,"duration":3212.9,"distance":4011.3}
 ```
 
 <a-hotel name="B.B.mansion" date="2017-01-11" nights="1"></a-hotel>
