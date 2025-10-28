@@ -335,7 +335,7 @@ dir:privacy
 
 We eventually got on the boat, and the sea was very rough; it felt like we were surfing as the boat rose and fell with the waves, dropping suddenly each time. Half of the passengers on board ended up seasick and vomiting. I couldn’t vomit though, which left me feeling miserable with nausea. Qin, however, was fine. I only felt better after forcing myself to sleep for a while; when I woke up, we could already see Koh Tao.
 
-### Crystal Dive
+### CRYSTAL DIVE
 
 When we first arrived on the island, it would often rain, and the ground was crawling with millipedes as thick as thumbs. The diving shop provided free accommodation, but Qin wasn’t satisfied with it and rented another room elsewhere. I, on the other hand, made do with what was provided.
 
@@ -372,8 +372,6 @@ dir:privacy
 ```
 
 Qin and her dive instructor
-
-### Dive Log
 
 ```<a-divelog
 no:1
@@ -456,7 +454,7 @@ name:crystal-4
 name:crystal-5
 ```
 
-### Qin
+### QIN
 
 ```<a-img>
 name:qinx2.jpg
@@ -495,7 +493,7 @@ dir:privacy
 name:kohtaosunset
 ```
 
-### Moondance
+### MOONDANCE
 
 I had originally planned to go to this cliff house with her, but now I have to muster the courage to go alone. Qin was also left behind.
 
