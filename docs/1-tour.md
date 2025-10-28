@@ -2,37 +2,47 @@
 
 <a-times :times="1" location="BANGKOK"></a-times>
 
+<a-flight flight="FD2557" departure="CKG" departure-time="2013-10-08 11:10" destination="DMK" arrive-time="2013-10-08 13:20"></a-flight>
+
+I had my visa and did not include a tip in my passport as suggested online; such practices should not be encouraged. The first customs check went smoothly, and I finally arrived in Bangkok. As the guide suggested, I found an ATM on the second floor and withdrew some Thai Baht. With that, I was all set to embark on my journey.
+
 ### DON MEANG
 
-<a-flight flight="FD2557" departure="CKG" departure-time="2013-10-08 11:10" destination="DMK" arrive-time="2013-10-08 13:20"></a-flight>
+As the doors to the terminal slide open, a wall of heat envelops me. Navigating through the humid air, I make my way to the bus stop. The bus pulls up, turning to the right, and I board from the left side. Taking the A1 bus to Mo Chit, I then plan to take the BTS to reach my final destination.
 
 <a-map driving="100.60039043426515,13.917301445032487,A1 Bus|100.5545711,13.802285,Mo Chit" route='{"legs":[{"steps":[],"weight":863,"summary":"","duration":775,"distance":14117.8}],"weight_name":"routability","geometry":{"coordinates":[[100.600384,13.917308],[100.55846,13.841454],[100.557303,13.834878],[100.559839,13.811459],[100.554462,13.802345]],"type":"LineString"},"weight":863,"duration":775,"distance":14117.8}'></a-map>
 
-As the airport doors slide open, a wall of heat engulfs me. The bus veers right, so I step on from the left. A1 to Mo Chit, BTS to my destination.
+### FIRST DAY
 
-My hostel room is a cramped cell, and outside its window, Bangkok comes alive at night. Tuk-tuks blast music, drunk laughter and arguments fill the air. Sleep comes in fits and starts, interrupted by the chaos beyond.
+On my first day, I was overwhelmed by Foreign Language Anxiety and completely avoided speaking with anyone. It wasn't until the second day that this anxiety began to subside. The city had a somewhat dilapidated appearance, with many street vendors selling their goods from carts along the roadside. White-collar workers commuted to and from their jobs using 'motos', a type of local taxi service here where drivers in uniform operate motorcycles, allowing passengers to ride pillion.
 
-I check my watch: midnight. But this city never sleeps. Its energy pulsates like a living organism.
+My hostel room feels like a cramped cell, and beyond its window, Bangkok erupts into life at night. Tuk-tuks blare music, and the air buzzes with the sounds of drunk laughter and heated arguments. Sleep comes in fragmented bursts, constantly interrupted by the pandemonium outside.
 
-This is it. Bangkok, good-time city. Gateway to Southeast Asia. Where dollars and Duetsmarks get turned into counterfeit watches and genuine scars.
+I glance at my watch; it reads midnight. Yet, this city never rests. Its energy pulses as if it were a living organism.
 
-```<a-img>
-name:bkk
-```
+This is it—Bangkok, good-time city. Gateway to Southeast Asia. Where dollars and Deutsche Mark get turned into counterfeit watches and genuine scars.
 
-```<a-img>
-name:bk1
-```
+### PRATUNAM
+
+The following morning, I relocated to a hotel situated near Pratunam. Nestled on a bustling street, the hotel overlooked a lively market teeming with activity. A steady stream of people flowed through the narrow lanes, weaving between vendors peddling their diverse goods. Maneuvering through this vibrant maze required patience and agility, as one had to navigate the crowds and find paths amidst the stalls. The dynamic atmosphere was both captivating and a bit overwhelming, encapsulating the energetic spirit of the area.
+
+<a-hotel name="Baiyoke Suite Hotel" date="2013-10-09" nights="3" points="100.53985634597014,13.752907383951737"></a-hotel>
 
 ```<a-img>
 name:bk2
 ```
 
-### PRATUNAM
+During the day, I find myself confined to the hotel, unsure of where to go.
 
-Early the next morning, I moved to a hotel near Pratunam. The hotel was located on a busy street with a market below. There were crowds of people constantly walking by, and the road was filled with vendors selling their wares. You had to navigate through the crowds and gaps in between to get around.
+The honking of car horns, the whistles directing traffic, the cooing of doves, the hum of air conditioners and refrigerators, doors slamming in other rooms, and the elevator's beep all contributed to filling the room with a cacophony of sounds.
 
-<a-hotel name="Baiyoke Suite Hotel" date="2013-10-09" nights="3" points="100.5373002,13.7530194"></a-hotel>
+Certain noises transport me back to similar sounds I once heard on Gulangyu Island, stirring up feelings of confusion and unease within me.
+
+"What do you want? Take a ride? Spots? You want silk? I'll take you to the best silk place? Diamonds? Come with me, get presents for girlfriend. Maybe no girlfriend. You want a girl, no problem. Good time. Boy girl fucking no problem..." When walking down the street, it is common to encounter people from various backgrounds trying to engage with you.
+
+```<a-img>
+name:bkk
+```
 
 ```<a-img>
 name:bkdelay1
@@ -44,22 +54,19 @@ name:bkdelay2
 dir:animation
 ```
 
-The horn honking of cars, the whistles sounding for traffic direction, the chirping of doves, the humming of air conditioning and refrigerators, the shutting doors in other rooms, and the elevator's beep all filled the silence in the room with noise.
-
-"What do you want? Take a ride? Spots? You want silk? I'll take you to the best silk place? Diamonds? Come with me, get presents for girlfriend. Maybe no girlfriend. You want a girl, no problem. Good time. Boy girl fucking no problem..." When you walk on the street, there are always people of different colors trying to talk to you.
-
-
-```<a-img>
-name:cola
-```
-
 ### COWBOY
 
-In the evening, I went to Cowboy Street, a short red-light district. I found a seat and ordered a bottle of beer. Across from me, a Caucasian man sat and greeted me. We started chatting, and to my surprise, he worked in Chongqing. He departed as soon as his 'Thai wife' showed up.
+In the evening, I visited Cowboy Street, a small red-light district. Finding a seat, I ordered a bottle of beer. Across from me, a Caucasian man sat down and greeted me. We began chatting, and to my surprise, he worked in Chongqing. As soon as his 'Thai wife' arrived, he excused himself and left.
 
-### NANA
+### CHINA TOWN
+
+The next day, the journey to China Town wasn't without its challenges. Initially, I took the subway heading to Hua Lamphong but mistakenly ended up at the train station. In the end, with no better option, I opted for a motorcycle taxi. Being not particularly comfortable on motorcycles, I instinctively placed my hand on the driver’s shoulder when we turned corners. This seemed to bother the driver somewhat. Fortunately, the destination was not too far away, and we arrived swiftly.
+
+<a-map points="100.5171146,13.7377986,Hua Lamphong|100.5175149,13.7408755,Wrong Way|100.5064562,13.7423625,Chinatown" route='{"legs":[{"steps":[],"weight":42.77,"summary":"","duration":331.3,"distance":414.1},{"steps":[],"weight":186.29,"summary":"","duration":1460.3,"distance":1825.5}],"weight_name":"routability","geometry":{"coordinates":[[100.517163,13.737799],[100.517044,13.737918],[100.516681,13.738043],[100.516959,13.738238],[100.516892,13.73833],[100.517092,13.738483],[100.51752,13.740866],[100.517092,13.738483],[100.516892,13.73833],[100.516959,13.738238],[100.516607,13.738001],[100.516565,13.737839],[100.516365,13.737807],[100.516284,13.737658],[100.515838,13.737699],[100.515449,13.737894],[100.515427,13.73798],[100.515157,13.73806],[100.513404,13.739512],[100.511958,13.739068],[100.511464,13.739425],[100.511182,13.739009],[100.509739,13.739634],[100.509085,13.740122],[100.508858,13.739849],[100.506579,13.741784],[100.506623,13.741854],[100.506213,13.742233],[100.50639,13.742421]],"type":"LineString"},"weight":229.06,"duration":1791.6,"distance":2239.6}'></a-map>
 
 <a-secret name="unnie" autoload></a-secret>
+
+It's clear that Chinatown didn't leave a good impression on me.
 
 <a-secret name="body2body"></a-secret>
 
@@ -67,7 +74,17 @@ In the evening, I went to Cowboy Street, a short red-light district. I found a s
 
 <a-times :times="1" location="SUKHOTHAI"></a-times>
 
-<a-map driving="100.548074,13.813143,Mo Chit Bus Station|99.812901,17.014624,Sukhothai Bus Terminal"></a-map>
+```<a-map>
+points:100.53985634597014,13.752907383951737,Baiyoke Suite Hotel|100.548074,13.813143,Mo Chit Bus Station
+route:{"legs":[{"steps":[],"weight":638.3,"summary":"","duration":638.3,"distance":7879.5}],"weight_name":"routability","geometry":{"coordinates":[[100.539859,13.752906],[100.541631,13.752726],[100.542415,13.756085],[100.542421,13.762933],[100.539054,13.764538],[100.538061,13.764346],[100.537788,13.764958],[100.541181,13.770386],[100.550782,13.797426],[100.548354,13.797784],[100.547949,13.80846],[100.549516,13.811912],[100.548859,13.812817]],"type":"LineString"},"weight":638.3,"duration":638.3,"distance":7879.5}
+```
+
+Every day at the hotel, there would be a taxi driver waiting downstairs. Each time he saw me, he would smile and politely inquire where I was going, offering his services. Despite staying at the hotel for two days, I had never taken up his offer—until today. This morning, It was time for him to receive some reward for his persistent kindness. I took his tuk-tuk to Mo Chit Bus Station, from where I would continue my journey to the next destination: Sukhothai.
+
+```<a-map>
+points:100.548074,13.813143,Mo Chit Bus Station|99.812901,17.014624,Sukhothai Bus Terminal
+route:{"legs":[{"steps":[],"weight":2602.1,"summary":"","duration":2602.1,"distance":47485.2},{"steps":[],"weight":17430.1,"summary":"","duration":17430.1,"distance":395604.5}],"weight_name":"routability","geometry":{"coordinates":[[100.548859,13.812817],[100.580997,13.884553],[100.447577,13.92907],[100.411058,13.918051],[100.415926,13.942552],[100.33468,14.051879],[100.289431,14.116125],[100.291266,14.202002],[100.131432,14.445869],[100.130157,14.541477],[100.155995,14.608122],[100.102156,14.699785],[100.087993,14.785107],[100.118985,14.812377],[100.087606,14.866619],[100.073661,14.996839],[100.152993,15.057775],[100.136111,15.103228],[100.145365,15.171652],[100.092145,15.262597],[100.147288,15.394803],[100.125058,15.506035],[100.114437,16.022489],[100.149705,16.643549],[100.21097,16.79471],[100.213907,16.86351],[100.185618,16.914412],[100.115525,16.957262],[100.014496,16.971676],[99.967319,16.950232],[99.929786,17.007562],[99.888228,17.025795],[99.812949,17.014858]],"type":"LineString"},"weight":20032.2,"duration":20032.2,"distance":443089.7}
+```
 
 The bus only stopped in the new town, so I walked directly to the songthaew after getting off. I asked the driver how much it would cost to go to the ancient city and haggled with him. He just said "okay". The driver took me to a convenience store in the ancient city, where I insisted on going to a hotel nearby. When we arrived, the driver said the place was far and there was no discount, and this made the whole trip unpleasant.
 
@@ -77,9 +94,9 @@ As I prepared to depart, the officer insisted on personally driving me to the ho
 
 We drove a mere hundred meters forward before turning right for another hundred, and soon enough, we arrived at the hotel. To my surprise, he did not demand any payment, simply revealing that he was a teacher in the area. It was then that I recalled seeing a group of boy scouts traveling in a vehicle earlier - perhaps they were his students.
 
-<a-map driving="99.702936,17.030496,Tourist Information Center|99.706329,17.031670,Baan Rim Klong Resort" route='{"legs":[{"steps":[],"weight":65,"summary":"","duration":65,"distance":536.5}],"weight_name":"routability","geometry":{"coordinates":[[99.702871,17.030497],[99.702891,17.032022],[99.704591,17.031841],[99.706311,17.031568]],"type":"LineString"},"weight":65,"duration":65,"distance":536.5}'></a-map>
+<a-map :zoom="15" points="99.702936,17.030496,Tourist Information Center|99.706329,17.031670,Baan Rim Klong Resort" route='{"legs":[{"steps":[],"weight":65,"summary":"","duration":65,"distance":536.5}],"weight_name":"routability","geometry":{"coordinates":[[99.702871,17.030497],[99.702891,17.032022],[99.704591,17.031841],[99.706311,17.031568]],"type":"LineString"},"weight":65,"duration":65,"distance":536.5}'></a-map>
 
-### Baan Rim Klong Resort
+### BAAN ROM KLONG RESORT
 
 > _It belongs to a very kind family._
 > _Good place, just behind The Tourist Center._
@@ -371,7 +388,7 @@ Later, the rain stopped, the wind direction changed, and even the sun came out.
 
 I went back to the hotel where I had stayed.
 
-<a-hotel name="Baiyoke Suite Hotel" date="2013-10-29" nights="2" points="100.5373002,13.7530194"></a-hotel>
+<a-hotel name="Baiyoke Suite Hotel" date="2013-10-29" nights="2" points="100.53985634597014,13.752907383951737"></a-hotel>
 
 From the ceiling above the bathtub in the bathroom, I heard a guy and a Thai girl engaging in noisy sex.
 They were reaching the climax of their activity.
