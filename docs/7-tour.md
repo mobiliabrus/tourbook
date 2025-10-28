@@ -25,13 +25,15 @@ At 9 a.m., I took another flight to Kota Kinabalu, arriving just past noon. Afte
 According to online information, Bandaran Berjaya, the terminal station for the airport bus, offered minibus connections to Mount Kinabalu. However, the minibusses only departed when full, so I ended up waiting for quite some time.
 
 ```<a-map>
-points:116.0487216,5.9436606,KKIA Terminal 2|116.0763801,5.9809019,Airport Bus Station|116.565853,6.0076652,Mount Kinabalu National Park
+points:116.0487216,5.9436606,KKIA Terminal 2|116.0763801,5.9809019,Airport Bus Station|116.5421188,6.0053195,Kinabalu National Park
+route:{"legs":[{"steps":[],"weight":434.7,"summary":"","duration":434.7,"distance":5915.7},{"steps":[],"weight":103.2,"summary":"","duration":103.2,"distance":757.3},{"steps":[],"weight":252.2,"summary":"","duration":252.2,"distance":2393.8},{"steps":[],"weight":4133.8,"summary":"","duration":4133.8,"distance":83481.1}],"weight_name":"routability","geometry":{"coordinates":[[116.048664,5.943653],[116.047424,5.948178],[116.06908,5.960142],[116.076408,5.980893],[116.078181,5.977649],[116.081515,5.973589],[116.081122,5.96801],[116.083912,5.969122],[116.084881,5.973828],[116.097233,5.977149],[116.110104,5.99217],[116.11799,5.9913],[116.122578,5.99871],[116.130385,6.002361],[116.151256,6.039517],[116.163372,6.046712],[116.181196,6.064106],[116.192067,6.085864],[116.201111,6.096951],[116.205571,6.115481],[116.213569,6.125842],[116.221809,6.146946],[116.236735,6.150241],[116.24439,6.14527],[116.269496,6.139995],[116.291816,6.144316],[116.295994,6.150382],[116.301981,6.148417],[116.309296,6.150317],[116.319389,6.142401],[116.330078,6.127365],[116.334786,6.125739],[116.345077,6.12886],[116.348309,6.125799],[116.34034,6.118168],[116.343818,6.109231],[116.348694,6.110424],[116.354704,6.107402],[116.36173,6.110807],[116.367149,6.10714],[116.375245,6.118385],[116.387228,6.120544],[116.403365,6.114586],[116.402426,6.10521],[116.408874,6.11147],[116.419512,6.110611],[116.423781,6.10438],[116.422795,6.097665],[116.437037,6.090765],[116.442113,6.075549],[116.441895,6.067778],[116.448571,6.052712],[116.452658,6.049748],[116.455557,6.051625],[116.452936,6.042021],[116.457969,6.037155],[116.457215,6.030186],[116.468999,6.02202],[116.471693,6.017031],[116.480378,6.013468],[116.494692,6.020092],[116.500244,6.017628],[116.497064,6.022864],[116.51338,6.017425],[116.514098,6.010832],[116.525863,6.004608],[116.542172,6.005282]],"type":"LineString"},"weight":4923.9,"duration":4923.9,"distance":92547.9}
 ```
 
 Dormitory (Grace Hostel) at Kinabalu Park (1585M)
 
 ```<a-map>
 points:116.5421188,6.0053195,Kinabalu National Park;116.5393427365916,6.01042297268944,Grace hostel
+route:{"legs":[{"steps":[],"weight":70.37,"summary":"","duration":578.1,"distance":722.8}],"weight_name":"routability","geometry":{"coordinates":[[116.542422,6.005841],[116.542243,6.006101],[116.542259,6.006649],[116.542187,6.006838],[116.542093,6.006883],[116.541805,6.006874],[116.541693,6.006964],[116.541677,6.007045],[116.541816,6.007345],[116.54182,6.007521],[116.541477,6.008092],[116.541507,6.008461],[116.541397,6.008803],[116.540851,6.00945],[116.540549,6.009588],[116.540305,6.009781],[116.540264,6.009924],[116.540317,6.010171],[116.540066,6.010147],[116.539919,6.010203],[116.539773,6.010195],[116.539334,6.01035]],"type":"LineString"},"weight":70.37,"duration":578.1,"distance":722.8}
 ```
 
 After a grueling eighteen-hour journey, by the time I reached my accommodation, settled in, and watched the sunset, I finally managed to enjoy a proper dinner at Balsam Café within the Mount Kinabalu Park.
@@ -76,8 +78,7 @@ name:mtkk-2
 ```
 
 ```<a-map>
-points:116.5421188,6.0053195,Kinabalu National Park|116.5462398,6.0291003,Timpohon Gate
-points:116.5651771,6.058994,Laban Rata Resthouse;116.558832,6.075277,Low's Peak
+points:116.5421188,6.0053195,Kinabalu National Park|116.5462398,6.0291003,Timpohon Gate|116.5651771,6.058994,Laban Rata Resthouse;116.558832,6.075277,Low's Peak
 ```
 
 ```<a-img>
@@ -263,8 +264,8 @@ Scheduled land transfer from Semporna to Tawau Airport at 1200hrs
 As I walked down the street from the station, the crowds gradually thinned out. When I reached an intersection, I hesitated – should I take the dimly lit path in the distance or stick to the main road, even if it meant a longer detour? I chose the latter. However, this route proved to be much farther than I had anticipated, and it took me quite some time to reach the hotel.
 
 ```<a-map>
-points:101.68628171948798,2.745129256594095,KLIA Transit Station @ KLIA2|101.71326935291293,2.827310480585382,Salak Tinggi Station
-points:101.71326935291293,2.827310480585382,Salak Tinggi Station|101.69583472862865,2.823730611756417|101.6941487,2.8210419,Hotel Zamburger Kota Warisan|101.71326935291293,2.827310480585382,Salak Tinggi Station
+points:101.68628171948798,2.745129256594095,KLIA Transit Station @ KLIA2|101.71326935291293,2.827310480585382,Salak Tinggi Station|101.71326935291293,2.827310480585382,Salak Tinggi Station|101.6941487,2.8210419,Hotel Zamburger Kota Warisan
+route:{"legs":[{"steps":[],"weight":281.37,"summary":"","duration":2201.7,"distance":2747}],"weight_name":"routability","geometry":{"coordinates":[[101.694024,2.821042],[101.694023,2.820907],[101.695904,2.82093],[101.696102,2.821444],[101.696486,2.821942],[101.697106,2.822455],[101.697983,2.822781],[101.698566,2.822827],[101.701144,2.822581],[101.701887,2.822679],[101.702492,2.822866],[101.703928,2.823456],[101.704184,2.823653],[101.704323,2.823895],[101.704396,2.824931],[101.704557,2.824923],[101.704613,2.824605],[101.708092,2.824503],[101.708091,2.824635],[101.708263,2.824567],[101.712907,2.824473],[101.712752,2.826124],[101.713048,2.826172],[101.712967,2.827287]],"type":"LineString"},"weight":281.37,"duration":2201.7,"distance":2747}
 ```
 
 ```<a-hotel>
@@ -450,6 +451,7 @@ green dreadlocks in dark
 
 ```<a-map>
 points:100.055656,9.5179429,Samui Hostel|100.0567723,9.5256037,Irish Pub
+route:{"legs":[{"steps":[],"weight":98.69,"summary":"","duration":778.4,"distance":973.4}],"weight_name":"routability","geometry":{"coordinates":[[100.055661,9.517959],[100.054827,9.51815],[100.055069,9.519628],[100.055085,9.520691],[100.055384,9.52179],[100.056192,9.522507],[100.05663,9.524131],[100.05685,9.525594]],"type":"LineString"},"weight":98.69,"duration":778.4,"distance":973.4}
 ```
 
 ```secret
