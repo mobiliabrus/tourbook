@@ -1,33 +1,3 @@
-## CRUSH
-
-On Tour 1, my GoPro's TF card has failed, and all the videos from the flight simulator cockpit and Sukhothai Historical Park are lost.
-
-On Tour 3, my GoPro Hero 3 Black got waterlogged next to the seaside at the Moondance Hotel.
-
-On Tour 4, my GoPro Hero 3 Black experienced overheating, resulting in the loss of all the videos recorded during the Songkran Festival.
-
-On Tour 4, in Patong, my GoPro Hero 3 Black experienced overheating, resulting in the loss of all the videos recorded during the Songkran Festival; In Similan, The back cover of my Gopro waterproof housing cracked and my Gopro Hero 3 Black got waterlogged again, so I had to complete the filming using someone else's camera.
-
-After that, my hard drive has failed, and all the GoPro videos from Tour 1 to 4, which were not backed up, have been lost.
-
-On Tour 6, due to a strand of wire caught on the waterproof gasket, the waterproof housing malfunctioned, causing the A7R camera to be exposed to water.
-
-After all the trips had concluded, my brand new hard drive failed, resulting in the loss of all the video footage; although most of it was later recovered through technical means, several critical videos couldn't be salvaged.
-
-## IMAGINED TOUR
-
-- Flexible Schedules
-- Hostel
-- IPhone for Film.
-- Compact Camera (`GR3X`, 40mm F2.8) for Photography.
-- Sports Camera (`Pocket 3`) for Vlog.
-
-### KOH LANTA
-
-```<a-map>
-points:99.0953657306661,7.533830747093447,Koh Lanta Yai|99.04069098221403,7.5540883194404245,Baan|99.09929031355453,7.470410218667524,Lanta National Park
-```
-
 ## CHECKLIST
 
 Have you seen my checklist? In fact, I made a checklist before any trip to ensure that everything is taken care of. Here is my checklist of tour 7.
@@ -90,7 +60,7 @@ _BEFORE DEPARTURE CHECKLIST_
 | Visa            | <a-bg bg="green">CHECKED</a-bg> |
 | Air tickets     | <a-bg bg="green">CHECKED</a-bg> |
 | Hotel Booking   | <a-bg bg="green">CHECKED</a-bg> |
-| 5000 ￥ Deposit | <a-bg bg="green">CHECKED</a-bg> |
+| ￥5000 Deposit | <a-bg bg="green">CHECKED</a-bg> |
 | Cash            | <a-bg bg="green">CHECKED</a-bg> |
 | Weather         | <a-bg bg="green">CHECKED</a-bg> |
 
@@ -148,3 +118,45 @@ PT ISO400 / 1 Card 3 Dives (1H30M) / 1 Battery 2 Dives
 
 PT I similan dive total: 4 sd-card / 9 tf-card ( 1 for FPV )<br/>
 <del>phangan dive total: 2 sd-card / 4 tf-card (abt 4 night dives, 2 day dives)</del>
+
+## FOLLIES RECORD
+
+### TOUR I
+
+My GoPro's TF card failed, resulting in the loss of all videos from the flight simulator cockpit and Sukhothai Historical Park.
+
+### TOUR III
+
+My GoPro Hero 3 Black got waterlogged by the seaside at the Moondance Hotel.
+
+### TOUR IV
+
+In Patong, my GoPro Hero 3 Black overheated, causing the loss of all videos recorded during the Songkran Festival.
+
+Additionally, in Similan, the back cover of my GoPro waterproof housing cracked, leading to water damage. I had to complete filming using someone else's camera.
+
+### POST TOURS I-IV
+
+After these trips, my hard drive failed, resulting in the loss of all GoPro videos that were not backed up.
+
+### TOUR VI
+
+Due to a wire snagging on the waterproof gasket, the housing unit malfunctioned, exposing my A7R camera to water.
+
+### FINAL INCIDENT
+
+After concluding all trips, another new hard drive failure led to the loss of all video footage. Although most videos were later recovered through technical means, several critical clips couldn't be salvaged.
+
+## IMAGINED TOUR
+
+KOH LANTA:
+- Flexible Schedules
+- Hostel
+- IPhone for Film.
+- Compact Camera (`GR3X`, 40mm F2.8) for Photography.
+- Sports Camera (`Pocket 3`) for Vlog.
+
+```<a-map>
+points:99.0953657306661,7.533830747093447,Koh Lanta Yai|99.04069098221403,7.5540883194404245,Baan|99.09929031355453,7.470410218667524,Lanta National Park
+route:{"legs":[{"steps":[],"weight":1234,"summary":"","duration":1234,"distance":10945.7},{"steps":[],"weight":1919.7,"summary":"","duration":1919.7,"distance":13895.4}],"weight_name":"routability","geometry":{"coordinates":[[99.096332,7.531978],[99.091338,7.530315],[99.086833,7.538223],[99.083801,7.537285],[99.08247,7.5382],[99.082444,7.541739],[99.080511,7.542468],[99.079196,7.544254],[99.077253,7.544909],[99.076507,7.547569],[99.07379,7.551337],[99.071205,7.557099],[99.068377,7.55679],[99.068402,7.5583],[99.062352,7.560078],[99.061407,7.562084],[99.061365,7.564764],[99.05736,7.571031],[99.055422,7.572189],[99.052957,7.572331],[99.049708,7.57145],[99.048016,7.569671],[99.042843,7.567035],[99.039161,7.563985],[99.038409,7.560322],[99.03875,7.557935],[99.040726,7.554119],[99.045182,7.553517],[99.045216,7.549522],[99.046461,7.546116],[99.047718,7.545048],[99.046597,7.544306],[99.051544,7.530852],[99.052392,7.529908],[99.052655,7.527614],[99.053543,7.525785],[99.055387,7.524396],[99.058414,7.520339],[99.061953,7.509622],[99.064163,7.506248],[99.067065,7.504124],[99.068527,7.500297],[99.070761,7.499098],[99.0747,7.499529],[99.076059,7.498655],[99.077044,7.490109],[99.079444,7.49027],[99.080448,7.488165],[99.085421,7.487844],[99.086548,7.48394],[99.089957,7.48626],[99.092097,7.484335],[99.091136,7.47731],[99.08994,7.47487],[99.091855,7.474849],[99.093311,7.473672],[99.0958,7.473113],[99.097201,7.471993],[99.097621,7.470464]],"type":"LineString"},"weight":3153.7,"duration":3153.7,"distance":24841.1}
+```
