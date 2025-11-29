@@ -470,8 +470,8 @@ Upon arrival, wouldn't you know it, this turned out to be the exact hostel where
 In the evening, we made plans to explore the night market together in search of a delicious meal.
 
 ```<a-map>
-points:100.335220,5.420208,Ryokan Muntri Boutique Hostel|100.33675341989601,5.419300364528894,Love Ln|100.332673,5.416457,Kimberley Street Food Night Market
-route:{"legs":[{"steps":[],"weight":23.75,"summary":"","duration":189.9,"distance":237.5},{"steps":[],"weight":65.17,"summary":"","duration":557,"distance":695.7}],"weight_name":"routability","geometry":{"coordinates":[[100.3352,5.420133],[100.336037,5.419886],[100.336944,5.41954],[100.336807,5.419273],[100.336601,5.418911],[100.336214,5.418376],[100.33577,5.418589],[100.33535,5.417619],[100.335183,5.417706],[100.335141,5.417582],[100.334905,5.417723],[100.334741,5.417449],[100.334382,5.417618],[100.333604,5.416911],[100.333236,5.416676],[100.333086,5.416452],[100.332773,5.416649],[100.332658,5.416467]],"type":"LineString"},"weight":88.92,"duration":746.9,"distance":933.2}
+points:100.335220,5.420208,Ryokan Muntri Boutique Hostel|100.33675341989601,5.419300364528894,Love Ln|100.33269105803137,5.416389950919353,Kimberley Street Food Night Market
+route:{"legs":[{"steps":[],"weight":83.7,"summary":"","duration":83.7,"distance":237.5},{"steps":[],"weight":76.1,"summary":"","duration":76.1,"distance":84.6},{"steps":[],"weight":176.3,"summary":"","duration":176.3,"distance":581.7}],"weight_name":"duration","geometry":{"coordinates":[[100.3352,5.420133],[100.336037,5.419886],[100.336944,5.41954],[100.336807,5.419273],[100.336396,5.41863],[100.336214,5.418376],[100.335424,5.418737],[100.334768,5.417473],[100.334223,5.417002],[100.333121,5.416115],[100.332689,5.416386]],"type":"LineString"},"weight":336.1,"duration":336.1,"distance":903.8}
 ```
 
 To reach the bustling night market, we meandered through a few lively streets, and every step proved worthwhile. Our first gastronomic adventure involved sampling the Four-Fruit Soup, which was simply delightful; its unique flavor was so captivating that we couldn't resist having it multiple times throughout the evening. The soy sauce chicken feet were equally remarkable, leaving us in awe of their succulent texture and rich taste.
@@ -533,8 +533,10 @@ dir:privacy
 
 2014-01-15
 
-Tanjung Bungah Public Beach
-100.274633,5.4678962,14z
+```<a-map>
+points:100.28612098208959,5.467435524785444,Tanjung Bungah Public Beach
+zoom:14
+```
 
 ```<a-img>
 name:danni-jump.jpg
