@@ -64,8 +64,15 @@ name:riders.jpg
 dir:privacy
 ```
 
-I stayed in a mixed 6-beds dormitory where two girls and three guys slept. 
+<a-hotel name="Borneo Backpackers" date="2014-01-06" nights="2"></a-hotel>
 
+The hostel I stayed at was located above a restaurant, accessible only through a discreet door that led to a stairway up to the second floor where the reception desk was situated. The owner, a kind-hearted, slightly plump middle-aged local woman, managed the place with warmth.
+
+One day, as I passed by the front desk, she urgently beckoned me over, leading me upstairs to the third floor despite our language barrier. We arrived at a room occupied by a Chinese girl. It turned out there was a cockroach inside, which both the owner and the student were terrified of. Although I'm not particularly fond of cockroaches myself, I reluctantly agreed to help. Summoning my courage, I managed to dispatch the insect with my slipper.
+
+Upon returning to the reception area, the owner, in her gracious manner, offered me a drink from the fridge as a token of gratitude. I gladly accepted her offer, appreciating the gesture.
+
+My sleeping arrangement was in a mixed 6-bed dormitory on the second floor, shared with two girls and three guys.
 Carl is one girl who comes from Germany. A night, in the dormitory, I asked a stupid question to her. "Do you have a child?" "I'm only 19" She said. I was so awkward. After that day, since her packages is still in the room, she missed. We all didn't know where she went. I leaved a message on her bag. Days later I received her texts, she went to Sandakan.
 
 Marilyn from Paris is another. She said she have been China for several months. There're another two Chinese boys who are quite funny. One of them called "spinach". As there of us didn't know what is it in English, we had to hold Marilyn that his name is "vegetable".
