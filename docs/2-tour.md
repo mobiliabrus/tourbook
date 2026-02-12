@@ -1,6 +1,6 @@
-## KULA LUMPUR
+## KUALA LUMPUR
 
-<a-times :times="1" location="KULA LUMPUR"></a-times>
+<a-times :times="1" location="KUALA LUMPUR"></a-times>
 
 <a-flight flight="3U8722" departure="CKG" destination="KMG" departure-time="2014-01-04 12:50" arrive-time="2014-01-04 14:05"></a-flight>
 
@@ -8,7 +8,7 @@
 
 I nearly missed my international flight.
 
-I had planned to take a domestic flight to Kunming first, and I thought I would have plenty of time to catch the airline to Kula Lumpur. When I arrived at the boarding gate, it was too early, but to my surprise, the plane was already there. It was scheduled to fly from Kunming to Chongqing and then to another destination. After completing those routes, it would turn and went directly to Chongqing and take me to Kunming. The plane was there due a delay of previous schedule. I had to wait for it to leave and come back.
+I had planned to take a domestic flight to Kunming first, and I thought I would have plenty of time to catch the airline to Kuala Lumpur. When I arrived at the boarding gate, it was too early, but to my surprise, the plane was already there. It was scheduled to fly from Kunming to Chongqing and then to another destination. After completing those routes, it would turn and went directly to Chongqing and take me to Kunming. The plane was there due a delay of previous schedule. I had to wait for it to leave and come back.
 
 Two hours later, around the same time I had  reserved, I finally arrived at Kunming. When I rushed out of cabin, the next flight was already boarding. I realized that I had to wait for my package and recheck in, even though there was no international transfer channel.  I was the last persih checked in at the counter, and I boarded at the last minute just before gate close.
 
@@ -643,7 +643,7 @@ points:100.3362171932171,5.418353144233365,Love Ln|100.3292899687321,5.414502158
 route:{"legs":[{"steps":[],"weight":31.3,"summary":"","duration":31.3,"distance":473.2},{"steps":[],"weight":84.6,"summary":"","duration":84.6,"distance":1019.6}],"weight_name":"routability","geometry":{"coordinates":[[100.336226,5.41837],[100.332908,5.419838],[100.332709,5.419885],[100.33249,5.419865],[100.332325,5.419732],[100.330663,5.417365],[100.330408,5.417068],[100.330359,5.416919],[100.330381,5.416767],[100.330818,5.416304],[100.331398,5.41558],[100.331403,5.415411],[100.331287,5.415247],[100.330482,5.414534],[100.330389,5.414521],[100.329394,5.41372],[100.328983,5.413921],[100.328877,5.414085],[100.328868,5.414501],[100.328918,5.414638]],"type":"LineString"},"weight":115.9,"duration":115.9,"distance":1492.8}
 ```
 
-## KULA LUMPUR
+## KUALA LUMPUR
 
 I traveled back to Kuala Lumpur from Penang by bus and checked into a hostel on Jalan Alor. To my surprise, there were only two other foreign travelers at the hostel who were discussing where they could find accommodations that were five dollars cheaper. The following day, true to their word, they actually moved out to another place. Consequently, I found myself as the sole guest in the hostel.
 
