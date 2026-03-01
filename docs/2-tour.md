@@ -216,16 +216,21 @@ My itinerary allowed for only a single night in Semporna. The following morning,
 
 ### PULAU MABUL
 
-Before boarding, I met a guy from Chengdu while Uncle Chang was driving him to the bank.
-
-<a-hotel name="Uncle Chang Bungalow" date="2014-01-09" nights="2" points="118.6271726,4.2477133"></a-hotel>
-
-On the boat, we saw three girls speaking Cantonese. Assuming they were from Hong Kong, upon inquiry, I learned that they were actually from Guangzhou. One of them was named Butterfly, and because another girl's clothing had a tomato pattern on it, I called her Tomato Soup.
 
 ```<a-img>
 name:3girls.jpg
 dir:privacy
 ```
+
+Before boarding the boat, I coincidentally met a fellow traveler from Chengdu while Uncle Chang, the proprietor of the local dive shop, was driving him to the bank. Once on board, I noticed three girls speaking Cantonese. Initially assuming they were from Hong Kong, I politely inquired and learned they were actually from Guangzhou. One introduced herself as Butterfly; another wore a distinctive outfit adorned with a tomato pattern, which prompted me to affectionately nickname her "Tomato Soup."
+
+
+<a-hotel name="Uncle Chang Bungalow" date="2014-01-09" nights="2" points="118.6271726,4.2477133"></a-hotel>
+
+At our accommodation, we shared a room with a diver from Taiwan. He enthusiastically recounted his underwater experiences, telling me that just days prior, he had spotted several sea turtles right beneath this very platform. He confidently assured me that with a keen eye, I would surely encounter them as well. Motivated by his words, I spent considerable time on the platform over the following days, eagerly scanning the waters. Regrettably, not a single turtle appeared.
+
+On one occasion, anxiety spread among the platform staff when a diving boat failed to return on schedule. When it finally docked safely, the Taiwanese diver revealed that the team had encountered a perilous "washing machine current" near Sipadan, which had nearly jeopardized their safe return. Witnessing such dramatic incidents—where danger and wonder coexisted—profoundly impacted me. It was these very experiences that ultimately inspired me to embark on my own journey into the world of diving.
+
 
 ```<a-map>
 points:118.63344342417173,4.253798859528792,Seaventures Dive Rig|118.68229942787646,4.233858799351027,Kapalai|118.62713486883527,4.249016266128097,Uncle Chang's Dive Lounge
@@ -239,45 +244,38 @@ name:mabul-1
 
 <a-carousel :img="[{name:'mabul-1.jpg',dir:'privacy'},{name:'mabul-2.jpg',dir:'privacy'},{name:'mabul-6.jpg',dir:'privacy'},{name:'mabul-7.jpg',dir:'privacy'}]"></a-carousel>
 
-There was also another girl from Chongqing on the platform, who came diving with her mother. We all admired her courage.
-
-Sharing our room was a man from Taiwan who had come for diving. He was always sharing his diving experiences with us and told me that just a few days earlier he had seen several turtles under this very platform, assuring me that if I paid attention, I would surely see them too. So, in the following days, I enjoyed spending time on the platform, hoping to catch sight of these creatures. However, not a single turtle appeared.
-
-One time, their diving boat failed to return on schedule, causing concern among the platform staff. Eventually, it did return, and the Taiwanese man informed me that they had encountered a "washing machine current" at Sipadan, which nearly prevented them from returning safely. It was incidents like these that influenced me and eventually led me down the path of diving as well.
+Additionally, we encountered a girl from Chongqing diving alongside her mother on the platform, a sight that filled us all with admiration for her courage.
 
 ### KAPALAI
 
-Three Guangdong girls were only staying for half a day, and they merely planned to go snorkeling at Kapalai before heading off to Mataking Island.
-
-The boat ferried us over to Kapalai. It had to pass by the Seaventure Dive Rig, an offshore oil platform that had been repurposed into a diving shop. Our boat had stopped under the platform for a while because there was a girl on board who was heading to there.
+The three girls from Guangdong had planned only a brief half-day stopover; their itinerary involved snorkeling at Kapalai before proceeding to Mataking Island. Our boat ferried them towards Kapalai, taking a route that passed the Seaventure Dive Rig—a distinctive offshore oil platform repurposed into a diving resort. We paused beneath the towering structure to drop off a fellow passenger, a girl who was scheduled to stay there.
 
 ```<a-img>
 name:girl2rig
 ```
 
-I was thinking how intriguing this diving platform must be.
+As I gazed up at the rig, I couldn't help but wonder how intriguing it must be to live and dive from such a unique platform.
 
 ```<a-img>
 name:mabul-2
 ```
 
+Upon arriving at Kapalai, a resort renowned for its crystalline waters and stilted villas, we immediately donned our snorkeling gear. The three girls from Guangdong and I ventured further out than the rest, swimming until we reached the most distant water villa on the edge of the reef. The scenery was breathtaking, but our isolation soon became a concern.
+
 <a-gallery :img="[{name:'kapalai-1'},{name:'kapalai-2'},{name:'kapalai-3'}]"></a-gallery>
 
-The crew had begun to shout to all the snorkelers to return to the boat. She was furthest away from the boat, and the current was strong, so I quickly swam over, took her hand, and tried to swim towards the boat.
+Suddenly, urgent shouts from the crew pierced the air, signaling all snorkelers to return to the boat immediately. I scanned the surface and realized Butterfly was the furthest away, struggling against a strengthening current. Without hesitation, I swam to her side, grasped her hand firmly, and rolled onto my back. Adopting a steady backstroke, I began to pull us both towards the boat.
 
-It was a wondrous sensation, holding hands with her as I swam upward strenuously, while she gazed downward like a timid little one, her gaze fixed on the ocean floor.
+It was a wondrous and intimate sensation. As I stroked upward with rhythmic effort, keeping us afloat, Butterfly clung to my hand, her gaze fixed downward like a timid child mesmerized by the ocean floor below. In that moment, with the vast sea surrounding us and our hands tightly linked, a subtle, unspoken current of affection flowed between us. Although we parted ways shortly after, the existence of this ambiguous connection was indeed confirmed during our conversations several months later.
 
-It was quite evident that there existed an undercurrent of ambiguous feelings between us. Several months later, this was indeed confirmed during one of our conversations.
 
 ### PULAU MABUL
 
-A popular game here involves a small iron ring suspended from a long string in mid-air, with a small iron hook mounted on a post opposite. The objective is to swing the ring over and hook it onto the hook. It's an addictive game that most people initially struggle with, as the ring repeatedly swings back and forth without success.
+A favorite pastime on the platform involved a simple yet challenging game: swinging a small iron ring suspended from a string to hook it onto a stationary metal peg positioned opposite. It was an addictive diversion that initially frustrated most players, as the ring would stubbornly swing back and forth, eluding capture time and again. I spent a solid hour mastering it before finally discerning the trick: one must guide the ring in an elliptical trajectory and apply a subtle spinning force, which stabilizes its path and allows it to latch onto the hook with satisfying precision.
 
-I spent a whole hour playing before I discovered the trick. First, one needs to make the ring follow an elliptical trajectory as it swings across. Secondly, applying a spinning force to the ring can help; a proper spin makes it easier for the ring to latch onto the hook.
+The weather in January, however, was notoriously inclement. One day, the sky turned a bruised purple under heavy overcast clouds, and fierce winds whipped across the deck. Rumors spread that a typhoon was brewing in the Philippines, sending shivers of anticipation through the resort.
 
-The weather here in January is indeed quite unpleasant. One day, the sky was completely overcast and a strong wind blew across the platform. It was said that there was a typhoon coming from the Philippines.
-
-People on the island were all sea gypsies, with several young men among them who had dark skin and were especially friendly. One of them could even play the guitar and sing. On another occasion, a group of Malay tourists appeared out of nowhere to ask for a photo with me. I didn't even know them, but they told me they were from Penang, though not the George Town that I was headed to.
+Seeking shelter from the gale, a group of local Bajau Laut, often referred to as "sea nomads," gathered on the platform. Among them were several young men with sun-bronzed skin and radiant smiles. One of them strummed a guitar, filling the windy afternoon with melodious songs that warmed our hearts. In a spontaneous moment of camaraderie, a group of Malay tourists, who had appeared as if out of nowhere, approached me to request a photo. Though they were complete strangers, they explained warmly that they were from Penang—just not the George Town district I was destined to visit soon. Their unexpected friendliness served as a bright spot amidst the gloomy weather, reminding me of the genuine hospitality found in these remote corners of the world.
 
 ```<a-img>
 name:mabul-4
@@ -287,16 +285,14 @@ name:mabul-4
 name:mabul-5
 ```
 
-After the friends had all departed, I got to know two more girls.
-
-I didn't know the names of they, nor did I have their contact information; all I remembered was that they seemed to be from Shanghai. After others had gradually left the island, I got to know them and spent quite some time together.
+After my initial group of friends had dispersed, I found myself in the company of two new companions. Although I never learned their names nor exchanged contact details, I distinctly remember them being from Shanghai. As the island gradually emptied out, we bonded and spent a considerable amount of time together.
 
 ```<a-img>
 name:mabul-8.jpg
 dir:privacy
 ```
 
-I played more with the tall girl with long hair. Once, she and I found a hermit crab on a platform. Another time, we went to the island itself where we saw indigenous people and stationed troops. When we returned, we were told that everyone had been looking for us as the snorkeling boat had already departed without us. We had no choice but to wait for the next one.
+I spent most of my time with the taller girl, who had long flowing hair. Our days were filled with simple discoveries; once, we delighted in observing a hermit crab scuttling across the platform. On another occasion, we ventured onto the nearby inhabited island, where we encountered indigenous locals and observed stationed military personnel. However, our exploration made us lose track of time. Upon returning, we were greeted with panic: the snorkeling boat had already set sail without us. With no other option, we resigned ourselves to waiting for the next scheduled trip, sharing a laugh over our carelessness.
 
 ```<a-img>
 name:mabulx.jpg
@@ -308,9 +304,9 @@ name:mabul-3.jpg
 dir:privacy
 ```
 
-The short-haired girl made two impressions on me: one was when she wore a white bikini while snorkeling, and the other was that several staff members at the dive shop seemed to fancy her and asked me about her.
+The girl with short hair left two vivid impressions on me. The first was the striking image of her in a white bikini while snorkeling, exuding confidence amidst the blue waters. The second was the noticeable attention she received from the dive shop staff; several of them were clearly taken with her and frequently inquired about her identity.
 
-Later, by chance, we left the island together. We took the same vehicle provided by the dive shop; they headed to Tawau Airport while I went to downtown Tawau.
+Coincidentally, our journeys off the island aligned. We shared the same transfer vehicle provided by the dive shop, though our paths diverged upon arrival in Tawau. They headed to the airport for their flights, while I proceeded to the town center. It was a typical transient travel friendship—intense while it lasted, yet ending as quietly as it began.
 
 ## TAWAU
 
