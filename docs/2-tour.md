@@ -310,26 +310,32 @@ Coincidentally, our journeys off the island aligned. We shared the same transfer
 
 ## TAWAU
 
+Upon reaching Tawau, our paths finally diverged. The two girls disembarked at the airport terminal, ready to catch their flights, while I continued my journey further into the city center, as my own flight was not scheduled until the following morning.
+
 <a-hotel name="VS Hotel" date="2014-01-11" nights="1" points="117.8818416595459,4.244709464515594"></a-hotel>
+
+After checking into my accommodation, I decided to take a leisurely stroll through the streets to soak in the local atmosphere. The evening air was lively, and I soon found a modest local eatery to settle down for dinner. To my delight, the warmth I had experienced on the islands followed me here; the locals were equally friendly and welcoming. A simple exchange with the restaurant owner or a smile from a passerby was enough to make me feel at home, bringing a gentle close to this chapter of my solo adventure.
 
 ## KOTA KINABALU
 
 <a-flight flight="AK6269" departure="TWU" destination="BKI" departure-time="2014-01-12 10:15" arrive-time="2014-01-12 11:05"></a-flight>
 
-Upon my return to Kota Kinabalu, the room was empty. As evening approached, I ran into Marilyn coming back, and we made plans to have dinner together. After our meal, she suggested going to a nearby spot for a couple of drinks.
+Upon my return to Kota Kinabalu, the hostel room was deserted. As evening fell, I reunited with Marilyn, and we promptly made plans for dinner. Afterward, she suggested visiting a nearby spot for a nightcap.
 
 ### SALT DOG
 
 I followed her to an open-air bar. We talked about some things, such as her experience in China and why she wanted to go back to France. She recommended a wine that was soaked in salt, and she was surprised that I finished it so quickly and ordered another one. Afterwards, we walked back to the hostel along the road. When I entered the room, she was video chatting with her boyfriend on the bed, and I said hello.
+
+I followed her to a lively open-air bar. Our conversation drifted across various topics, ranging from her experiences in China to her reasons for returning to France. She recommended a local wine infused with a distinct salty note. To her surprise, I finished the glass swiftly and ordered another. Later, we strolled back to the hostel along the quiet streets. Upon entering the room, I found her lying on the bed, video-chatting with her boyfriend; I offered a polite greeting before settling in.
 
 ```<a-map>
 points:116.076504,5.982953,Bar|116.0776038,5.9833774,Borneo Backpackers
 route:{"legs":[{"steps":[],"weight":5.55,"summary":"","duration":46.2,"distance":57.7},{"steps":[],"weight":18.12,"summary":"","duration":103,"distance":128.7}],"weight_name":"routability","geometry":{"coordinates":[[116.076509,5.982962],[116.076967,5.982714],[116.077018,5.982686],[116.077273,5.983151],[116.077344,5.983366],[116.077358,5.983305],[116.077438,5.983263],[116.077511,5.983302],[116.077552,5.983399]],"type":"LineString"},"weight":23.67,"duration":149.2,"distance":186.4}
 ```
 
-The next morning, I was bored flipping through my book when he came over and squatted at my feet, telling me that she was going to KK Mountain with another tourist here. So, we parted ways. It was a strange feeling. I also wanted to go up the mountain with her, but my itinerary was already set.
+The next morning, I was listlessly browsing through my book when Marilyn approached me. She crouched down by my feet and gently broke the news: she would be heading to Mount Kinabalu with another tourist she had met here. Thus, our paths diverged. A strange sense of melancholy washed over me. I had secretly hoped to climb the mountain with her, but my itinerary was predetermined and unchangeable.
 
-Thus, in the hostel, I was once again left with only a cat for company. This cat enjoyed gazing out from the balcony much like the idle me.
+Once again, I found myself left in the sole company of the hostel cat. Much like my own idle state, the creature spent its hours gazing out from the balcony, lost in contemplation of the world beyond. In that shared silence, the cat and I seemed to understand each other perfectly.
 
 ```<a-img>
 name:cat
@@ -340,7 +346,6 @@ name:cat
 <a-times :times="1" location="PENANG"></a-times>
 
 ### GERGORE TOWN
-
 
 <a-flight flight="AK5323" departure="BKI" destination="PEN" departure-time="2014-01-13 13:20" arrive-time="2014-01-13 16:05"></a-flight>
 
@@ -354,13 +359,14 @@ name:gt-1
 
 <a-hotel name="Ryokan @ Muntri Street" date="2014-01-13" nights="4"></a-hotel>
 
-The room was at the end of the corridor. It was on the second floor, connected with black iron spiral stairs. It had bunk beds and its own bathroom. I was the only one guest in this room. Later, Fengchehe came to me. We chatted for a while at the small round table outside our hostel.
+My room was situated at the very end of the corridor on the second floor, accessible via a winding black iron spiral staircase. It was equipped with bunk beds and a private ensuite bathroom.
+Initially, I was the solitary occupant of this space. Later, Feng Cheche joined me, and we spent some time conversing at a small round table just outside the hostel entrance.
 
-When I got back to the room, a young girl was sitting on the upper bed and waving to me. She was named Isis, from Hongkong. 
+Upon returning to the room after our chat, I was greeted by an unexpected sight: a young girl was perched on the top bunk, waving enthusiastically at me. She introduced herself as Isis Yu, a traveler from Hong Kong.
 
 ### LITTLE INDIA
 
-I introduced her to the Cheche, and together we headed off to Little India.
+I promptly introduced Isis to Feng Cheche. The three of us hit it off immediately and made plans to explore the city together the following day. True to our word, the next morning we set out for Little India. 
 
 ```<a-img>
 name:little-india-1
@@ -370,7 +376,7 @@ name:little-india-1
 
 ### JETTY
 
-We then went to the jetty together, and later accompanied Isis to book her ferry ticket to Langkawi. Following that, we took a rest in a nearby park.
+A fresh day commenced with a new itinerary. Our first stop was the jetty, where we soaked in the harbor views before detouring to a separate ticketing office to secure Isis’s ferry passage to Langkawi. With that errand completed, we headed to Fort Cornwallis, a historic seaside citadel, to rest and explore.
  
 ```<a-map>
 points:100.3405987,5.4125915,Chew Jetty;100.3445641,5.4194291,Langkawi Ferry Services Sdn Bhd;100.343897,5.420885,FORT Cornwallis
@@ -405,6 +411,8 @@ dir:privacy
 name:isisjetty
 ```
 
+We spent a leisurely while within the fortress grounds. I took the opportunity to capture photographs of the ancient ramparts and my companions against the backdrop of the sea.
+
 ```<a-img>
 name:kc-1.jpg
 dir:privacy
@@ -426,11 +434,9 @@ name:george-town-fengcheche
 
 ### DANNI
 
-We strolled leisurely along the coastline.
-Fengcheche have been astonished, "What a cute self photography girl. Let me help you."
-It turned out that there was a girl taking selfies nearby. After striking up a conversation, we discovered that she hailed from Chongqing.
+As we concluded our visit and began to depart, walking along the coastal path near the entrance, we spotted a young girl standing alone by the water, focused on taking selfies.
 
-When we asked her which hostel she was staying at, she couldn't quite remember the name but knew it was on Love Lane. As it happened, we were heading in the same direction and decided to walk together. There was a chance that, quite coincidentally, we might even be staying at the same hostel.
+Observing her solitary efforts, Feng Cheche exclaimed, "What a cute girl taking selfies! Let me help her with that." Encouraged by her enthusiasm, we approached the stranger with friendly intentions and offered to take some photos for her. She accepted gratefully, and this simple act of kindness instantly broke the ice.
 
 ```<a-img>
 name:danni-0.jpg
@@ -456,6 +462,8 @@ name:gt3.jpg
 dir:privacy
 ```
 
+As we reviewed the photos together, conversation flowed naturally. She revealed that she was traveling solo and hailed from Chongqing. Sensing a kindred spirit in a fellow lone traveler, we asked about her accommodation. She couldn’t recall the specific name of her hostel but remembered it was located on Love Lane—the very same street where Isis and I were staying. As fate would have it, we were all heading in the same direction, so we invited her to walk with us, musing on the possibility that we might even be under the same roof.
+
 ```<a-img>
 name:loveln-2.jpg
 dir:privacy
@@ -476,20 +484,16 @@ points:100.343897,5.420885,FORT Cornwallis|100.342654,5.421882,DANNI|100.337566,
 route: {"legs":[{"steps":[],"weight":33.44,"summary":"","duration":319.9,"distance":399.6},{"steps":[],"weight":51.53,"summary":"","duration":440.6,"distance":550.4},{"steps":[],"weight":40.32,"summary":"","duration":334.1,"distance":417.1},{"steps":[],"weight":36.92,"summary":"","duration":295.3,"distance":369.2}],"weight_name":"routability","geometry":{"coordinates":[[100.343673,5.420902],[100.343688,5.420689],[100.343548,5.42075],[100.343507,5.420647],[100.343229,5.420755],[100.343311,5.421261],[100.343145,5.421361],[100.3432,5.421513],[100.343158,5.42153],[100.343493,5.421532],[100.343752,5.421415],[100.343723,5.421512],[100.343504,5.421618],[100.343219,5.421653],[100.342664,5.421904],[100.342149,5.422148],[100.342031,5.422448],[100.341915,5.422557],[100.340669,5.423119],[100.340455,5.423166],[100.34046,5.42324],[100.340044,5.423375],[100.339596,5.421683],[100.339446,5.421176],[100.338772,5.421479],[100.338423,5.42108],[100.338186,5.420999],[100.337692,5.421163],[100.337481,5.421291],[100.337504,5.421347],[100.337401,5.421389],[100.337289,5.421129],[100.337501,5.421088],[100.337518,5.420991],[100.337571,5.420972],[100.337542,5.420906],[100.336944,5.41954],[100.336037,5.419886],[100.3352,5.420133]],"type":"LineString"},"weight":162.21,"duration":1389.9,"distance":1736.3}
 ```
 
-Upon arrival, wouldn't you know it, this turned out to be the exact hostel where Isis and I were staying! It was an amusing thought – what if we were actually in the same room? Such serendipitous occurrences do happen in the world.
+Upon arrival, wouldn’t you know it, she led us straight to the exact hostel where Isis and I were lodged! The coincidence was astonishing. For a moment, we entertained the delightful speculation: Could we possibly be roommates? It was a perfect example of the serendipitous occurrences that make traveling so magical, turning a simple offer to capture a moment into an instant friendship.
 
 ### NIGHT MARKET
 
-In the evening, we made plans to explore the night market together in search of a delicious meal.
+That evening, we embarked on a culinary expedition to the night market, the furthest point on our itinerary. We meandered through lively streets to reach the bustling hub, where every step proved worthwhile. Our gastronomic adventure began with the famous "Four-Fruit Soup." Its unique blend of flavors was so captivating that we returned to the stall multiple times. Equally remarkable were the braised chicken feet in soy sauce; their succulent texture and rich taste left us in awe. Later, Danni—the solo traveler from Chongqing we had met earlier—and I shared an exquisitely creamy durian. Its unparalleled sweetness set a benchmark in my memory that I have yet to encounter elsewhere. We capped off our feast with some scrumptious fried rice noodles before heading to a local bar, which was conveniently located closer to our hostel.
 
 ```<a-map>
 points:100.335220,5.420208,Ryokan Muntri Boutique Hostel|100.33675341989601,5.419300364528894,Love Ln|100.33269105803137,5.416389950919353,Kimberley Street Food Night Market
 route:{"legs":[{"steps":[],"weight":83.7,"summary":"","duration":83.7,"distance":237.5},{"steps":[],"weight":76.1,"summary":"","duration":76.1,"distance":84.6},{"steps":[],"weight":176.3,"summary":"","duration":176.3,"distance":581.7}],"weight_name":"duration","geometry":{"coordinates":[[100.3352,5.420133],[100.336037,5.419886],[100.336944,5.41954],[100.336807,5.419273],[100.336396,5.41863],[100.336214,5.418376],[100.335424,5.418737],[100.334768,5.417473],[100.334223,5.417002],[100.333121,5.416115],[100.332689,5.416386]],"type":"LineString"},"weight":336.1,"duration":336.1,"distance":903.8}
 ```
-
-To reach the bustling night market, we meandered through a few lively streets, and every step proved worthwhile. Our first gastronomic adventure involved sampling the Four-Fruit Soup, which was simply delightful; its unique flavor was so captivating that we couldn't resist having it multiple times throughout the evening. The soy sauce chicken feet were equally remarkable, leaving us in awe of their succulent texture and rich taste.
-
-Danni and I also shared an incredibly luscious durian, one whose unparalleled sweetness and creamy goodness has been etched in my memory, making it a benchmark that I've yet to encounter again elsewhere. As the night progressed, Danni and I returned to the market for some scrumptious takeout – a serving of fried rice noodles that perfectly capped off our unforgettable culinary escapade at the night market.
 
 ```<a-img>
 name:night-food
@@ -501,7 +505,7 @@ name:night-food-2
 
 ### BAR
 
-Afterwards, we excitedly suggested visiting a local bar for some more fun.
+For Danni, this was her first-ever visit to a bar, and her excitement was palpable. Her eyes sparkled with curiosity as she took in the dim lights and the clinking of glasses. We found a cozy corner and spent hours immersed in lively conversation, sharing stories of our travels, dreams, and quirks. Time seemed to fly as we laughed and talked late into the night, thoroughly enjoying the camaraderie.
 
 ```<a-map>
 points:100.335625,5.418435,Halab Penang|100.33675341989601,5.419300364528894,Love Ln|100.335220,5.420208,Ryokan Muntri Boutique Hostel
@@ -515,17 +519,17 @@ name:bar
 > _Finally, I've been to a bar... Never in the early 20 years..._
 > <br/><div style="text-align:right">_Danni - 2014-01-14_</div>
 
-Before arriving, I had heard about Penang's safety situation. Although the girls were not carrying backpacks, on our way back, I deliberately made sure they stayed closer to the inside of the sidewalk. It was at this moment that a motorcycle zoomed past me, with two people aboard; the passenger in the backseat gave me a peculiar look. "Could this be one of those snatch-and-grab incidents?" I thought to myself.
+It was only after we finally left the bar, buoyed by good spirits but mindful of the late hour, that a shadow of caution fell over me as we began our final walk back to the accommodation. During my trip preparations, I had read warnings about Penang’s safety, specifically regarding fly-by bag snatchers on motorcycles. Although the girls were not carrying backpacks, I instinctively positioned them on the inner side of the sidewalk, away from the road, as we navigated the quieter, dimly lit streets.
 
-Right after my concern, a police motorcycle cruised by my side, also manned by two officers. The rear rider, a policeman, was eyeing me as well, seemingly assessing if I was in any kind of danger or had just encountered one. This juxtaposition underscored the city's vigilance against potential threats while also highlighting my own awareness and caution in navigating the streets of Penang.
+Suddenly, a motorcycle zoomed past us, carrying two riders. The passenger in the backseat cast a peculiar, lingering glance in my direction. "Could this be one of those snatch-and-grab attempts?" I wondered, my heart skipping a beat.
 
-We all agreed that the previous incident was a potentially dangerous encounter.
+Almost immediately after this tense moment, a police motorcycle cruised up alongside us, also manned by two officers. The officer seated at the rear eyed me intently, seemingly assessing whether I was in danger or had just witnessed a crime. This striking juxtaposition—a suspicious glance from a potential threat followed instantly by a vigilant stare from the law—underscored the city's complex reality. It highlighted both the ever-present need for caution and the reassuring presence of authority ready to intervene. We all agreed in hindsight that it had been a potentially dangerous encounter, narrowly averted by awareness and a bit of luck, serving as a sobering end to an otherwise joyful night.
 
 ### BEACH
 
-The next day, Isis went Langkawi.
+The following day marked a farewell; Isis departed for Langkawi to continue her solo journey.
 
-The rest of us took buses along the coast, heading to a public beach. The coastline was truly beautiful, but I don't remember anything particularly special about it. In fact, I've even doubted whether this event really happened or if we simply walked around and left.
+With our group now smaller, the rest of us embarked on a bus ride along the scenic coastline, bound for a public beach. The views were undeniably picturesque, with the azure sea stretching endlessly against the horizon. However, despite confirming that this excursion truly took place, my recollection of it remains surprisingly vague. No specific event or unique moment stands out to distinguish that afternoon from any other. It was a scene of generic beauty—pleasant yet unremarkable. In hindsight, those hours feel like a soft-focus backdrop to our trip: real and experienced, but so devoid of dramatic peaks that they have faded into a gentle blur, leaving me with only the impression of sunlight and sea breeze, nothing more.
 
 ```<a-img>
 name:gt4.jpg
@@ -566,11 +570,13 @@ dir:privacy
 
 <a-carousel :img="[{name:'danni-8.jpg',dir:'privacy'},{name:'danni-9.jpg',dir:'privacy'},{name:'danni-10.jpg',dir:'privacy'},{name:'danni-11.jpg',dir:'privacy'},{name:'danni-12.jpg',dir:'privacy'},{name:'danni-13.jpg',dir:'privacy'},{name:'danni-14.jpg',dir:'privacy'},{name:'danni-15.jpg',dir:'privacy'},{name:'danni-17.jpg',dir:'privacy'}]"></a-carousel>
 
-Later, Feng Cheche left.
+Later, Feng Cheche departed as her itinerary required.
 
 ### PENANG HILL
 
 2014-01-16
+
+With Feng Cheche’s departure, it was just Danni and I left. She suggested a visit to Penang Hill. On the morning of our trip, she spent considerable time meticulously applying her makeup. While waiting for her to get ready, I passed the time by taking numerous photos of her with my camera.
 
 ```<a-img>
 name:danni-16.jpg
@@ -612,8 +618,7 @@ name:danni-7.jpg
 dir:privacy
 ```
 
-When we first arrived at the mountain, it seemed as though we could hear monkeys calling. However, after walking deep into the mountains without seeing a single one, we thought that the monkeys wouldn't show themselves. After walking for a while longer, a small shop appeared by the roadside, and I bought an ice cream cone to eat as I walked. Suddenly, I noticed a monkey on the path ahead, staring at me with angry eyes, as if wanting to snatch my cone. Soon, I spotted two smaller monkeys by the side of the road as well. In the end, I shared some of my ice cream with them.
- 
+Upon arriving at the mountain foothills, the air was filled with the distant calls of monkeys, creating an expectation of wildlife encounters. However, as we ventured deeper into the trails without spotting a single primate, we began to assume they were merely elusive ghosts of the forest. After walking for some time, we stumbled upon a small roadside shop where I purchased an ice cream cone. As I walked along savoring the treat, I suddenly noticed a monkey on the path ahead, glaring at me with intense eyes as if plotting to seize my cone. Soon after, I spotted two smaller monkeys lurking by the roadside as well. In a moment of shared curiosity, I ended up sharing portions of my ice cream with them.
 
 ```<a-img>
 name:penang-hill
@@ -624,16 +629,16 @@ points:100.269514,5.423528,Penang Hill Upper Station|100.27707235988625,5.408692
 route:{"legs":[{"steps":[],"weight":125.34,"summary":"","duration":1030.5,"distance":1288.1},{"steps":[],"weight":15.17,"summary":"","duration":121.3,"distance":151.6}],"weight_name":"routability","geometry":{"coordinates":[[100.26947,5.423597],[100.269408,5.423648],[100.269378,5.42363],[100.269285,5.423778],[100.269203,5.423814],[100.269005,5.42416],[100.269039,5.424264],[100.269101,5.424272],[100.269142,5.424643],[100.269006,5.424648],[100.268957,5.424591],[100.268818,5.424594],[100.268756,5.424553],[100.268637,5.424591],[100.268417,5.424282],[100.268004,5.424135],[100.267914,5.424041],[100.267892,5.423959],[100.267952,5.423386],[100.267683,5.423064],[100.267576,5.422627],[100.267563,5.422413],[100.26748,5.422305],[100.267073,5.422072],[100.266928,5.42206],[100.266816,5.422139],[100.266606,5.422425],[100.266423,5.422555],[100.26612,5.422587],[100.265765,5.42251],[100.265704,5.422409],[100.265684,5.422247],[100.265535,5.422071],[100.265511,5.421983],[100.265547,5.421878],[100.265755,5.421673],[100.265728,5.421115],[100.265559,5.420922],[100.265185,5.420681],[100.264964,5.420484],[100.264567,5.419784],[100.26446,5.419275],[100.264091,5.418909],[100.264001,5.418689],[100.263882,5.418528],[100.263612,5.418296],[100.263406,5.417989],[100.263289,5.417985],[100.263096,5.418121],[100.262823,5.418193]],"type":"LineString"},"weight":140.51,"duration":1151.8,"distance":1439.7}
 ```
 
-As it got dark quickly, we descended the mountain. At the foot of the mountain, at a junction, we ate at a street stall. Around six o'clock, the owner suddenly started packing up. In China, six o'clock is when night markets are just starting to open. We all said that maybe Malaysians value life more than making money.
+As dusk fell rapidly, we descended the mountain. At the foot of the hill, near a junction, we stopped at a street stall for dinner. Around six o’clock, the owner unexpectedly began packing up his stall. In China, this hour marks the bustling opening of night markets. We remarked on the contrast, musing that perhaps Malaysians prioritize enjoying life over maximizing profits.
 
-The next day, she departed for Kota Kinabalu.
+The next day, Danni departed for Kota Kinabalu.
 
 > _The last day in Penang. Kota Kinabalu the next morning!_
 > <br/><div style="text-align:right">_Danni - 2014-01-16_</div>
 
 ### GERGORE TOWN
 
-I had intended to extend my stay at the hostel for another two days, but the owner informed me that the upcoming weekend was a holiday and all rooms were fully booked. Consequently, I had no choice but to find alternative accommodations. Later on, Isis returned from Langkawi, but unfortunately, we didn't get a chance to meet up.
+Having spent several days in Penang, logic dictated that I should have moved on to explore new destinations. However, lacking a pre-planned itinerary and feeling too lethargic to formulate new strategies, I decided to extend my stay at my current hostel, hoping to wait for Isis’s return from Langkawi. Fate, however, had other plans. The owner informed me that the upcoming weekend coincided with a Malaysian national holiday, and every room was fully booked. Consequently, I was forced to vacate. Shortly after my departure, Isis returned, but we missed the chance to reunite.
 
 <a-hotel name="Day & Night Guesthouse" date="2014-01-17" nights="2"></a-hotel>
 
@@ -651,11 +656,13 @@ route:{"legs":[{"steps":[],"weight":31.3,"summary":"","duration":31.3,"distance"
 
 ## KUALA LUMPUR
 
-I traveled back to Kuala Lumpur from Penang by bus and checked into a hostel on Jalan Alor. To my surprise, there were only two other foreign travelers at the hostel who were discussing where they could find accommodations that were five dollars cheaper. The following day, true to their word, they actually moved out to another place. Consequently, I found myself as the sole guest in the hostel.
+I traveled back to Kuala Lumpur by bus and checked into a hostel on the famous Jalan Alor. To my surprise, the atmosphere was desolate. There were only two other foreign travelers in the entire building, deeply engrossed in a discussion about how to find accommodations that were merely five dollars cheaper. True to their frugal words, they moved out the following day, leaving me as the sole guest in the vast, empty hostel.
 
 <a-hotel name="Hotel Budget Inn Jalan Alor" date="2014-01-19" nights="2"></a-hotel>
 
 Subsequently, I spent my time wandering around Kuala Lumpur and engaging in some mundane activities.
+
+Subsequently, I spent my days wandering aimlessly around Kuala Lumpur, engaging in mundane activities that offered little joy. A profound sense of listlessness washed over me, mirroring the intense discomfort and alienation I had felt upon my initial arrival in the city.
 
 <a-flight flight="AK1008" departure="KUL" destination="KMG" departure-time="2014-01-21 13:05" arrive-time="2014-01-21 16:55"></a-flight>
 
