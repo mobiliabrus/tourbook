@@ -6,37 +6,51 @@
 
 <a-flight flight="AK1009" departure="KMG" destination="KUL" departure-time="2014-01-04 17:40" arrive-time="2014-01-04 21:50"></a-flight>
 
-I nearly missed my international flight.
+My second journey began with a heart-stopping race against time,
+a series of coincidences that nearly caused me to miss my international flight.
 
-I had planned to take a domestic flight to Kunming first, and I thought I would have plenty of time to catch the airline to Kuala Lumpur. When I arrived at the boarding gate, it was too early, but to my surprise, the plane was already there. It was scheduled to fly from Kunming to Chongqing and then to another destination. After completing those routes, it would turn and went directly to Chongqing and take me to Kunming. The plane was there due a delay of previous schedule. I had to wait for it to leave and come back.
+My original plan was straightforward: take a domestic flight to Kunming,
+then transfer to an AirAsia flight to Kuala Lumpur.
+I had calculated plenty of buffer time, but fate had other plans.
+When I arrived at the boarding gate in Chongqing far earlier than necessary, I was shocked to see the aircraft already parked there.
+To my bewilderment, the plane was physically present yet completely inaccessible.
+Due to a delay in its previous leg, the plane’s itinerary for the day was a complex loop: it had just arrived from another city and was scheduled to fly to a third destination before finally returning to Chongqing to pick me up for the Kunming leg.In a twist of dramatic irony, I had to watch my plane take off empty, wait two hours for it to complete its round trip, and only then could I board.
 
-Two hours later, around the same time I had  reserved, I finally arrived at Kunming. When I rushed out of cabin, the next flight was already boarding. I realized that I had to wait for my package and recheck in, even though there was no international transfer channel.  I was the last persih checked in at the counter, and I boarded at the last minute just before gate close.
+Two hours later, I finally touched down in Kunming. The delay had completely consumed my carefully reserved buffer time; in fact, the international flight was now scheduled to depart in less than thirty minutes. Panic set in immediately. To make matters worse, I had checked in my backpack—a completely unnecessary decision since it could have been carry-on luggage. Now, I was forced to stand helplessly at the baggage carousel, watching the minutes tick away while waiting for my bag. Since I had booked separate tickets rather than a connected itinerary, I could not use the seamless international transfer channel. I had to collect my luggage, exit the domestic arrivals hall, and sprint to the international departure counter to check in all over again.
+
+The situation was frantic. On the plane to Kunming, I had desperately sought help from a flight attendant, only to receive a brisk reply: “You’ll make it if you run fast.” That advice proved both terrifying and true. At the check-in counter, the agent was just about to close the system when she spotted me. “One last passenger for seat 1A!” she announced loudly. The immigration process was equally surreal; I nervously asked the passengers ahead if I could cut in line. To my surprise, the immigration officer smiled and said, “Go ahead, they are on the same flight as you.”
+
+When I finally sprinted to the boarding gate, there were only five minutes left before closure. Yet, in a moment of strange calm amidst the chaos, I even managed to slip into the restroom. As I washed my hands, the adrenaline slowly faded, and my suspended heart finally settled. I was the last person to board, stepping onto the plane just as the gate was closing.
 
 ```<a-map>
 points:101.72049967310232,2.739671959819654,LCCT|101.69091652316015,3.1314496300435706,KL Sentral
 route:{"legs":[{"steps":[],"weight":3554.1,"summary":"","duration":3554.1,"distance":60534.6}],"weight_name":"routability","geometry":{"coordinates":[[101.720476,2.739656],[101.729729,2.728926],[101.732211,2.730826],[101.724442,2.760299],[101.711191,2.779985],[101.695699,2.789492],[101.681033,2.78566],[101.676701,2.791614],[101.687575,2.804491],[101.695347,2.805578],[101.692989,2.830334],[101.694642,2.856773],[101.68803,2.863132],[101.686247,2.869283],[101.679787,2.870302],[101.674555,2.87548],[101.667047,2.876235],[101.660757,2.884698],[101.658071,2.90374],[101.664988,2.916826],[101.664871,2.925236],[101.653864,2.941135],[101.650269,2.94244],[101.656068,2.963799],[101.67899,2.977193],[101.682929,2.983011],[101.685349,3.046373],[101.688426,3.052723],[101.688138,3.059079],[101.683843,3.064916],[101.695904,3.089831],[101.696387,3.100343],[101.708338,3.119033],[101.696819,3.134625],[101.690438,3.136216],[101.68877,3.133879],[101.69092,3.131449]],"type":"LineString"},"weight":3554.1,"duration":3554.1,"distance":60534.6}
 ```
 
-Taking airport bus from LCCT, I reached KL Sentral at midnight. I was going to took the Monorail, but the station was already shutdown. Thus, I had to took a taxi.
+Upon landing at LCCT in Kuala Lumpur past midnight, I took the airport bus to KL Sentral. My plan was to transfer to the Monorail to reach my hostel, but the station had already shut down for the night. Left with no choice, I hailed a taxi. As I waited, I noticed the surrounding area looked somewhat sinister, with men frequently entering and exiting nearby buildings. “Is this a red-light district? Is it dangerous?” I asked the driver as I got into the cab. He glanced at me, gave a short, grim nod, and simply replied, “Danger.”
 
 ```<a-map>
 points:101.69091652316015,3.1314496300435706,KL Sentral|101.70906525342374,3.142778222755097,Berjaya Times Square
 route:{"legs":[{"steps":[],"weight":254.9,"summary":"","duration":254.9,"distance":3320.6}],"weight_name":"routability","geometry":{"coordinates":[[101.69092,3.131449],[101.691004,3.13169],[101.691468,3.131558],[101.691824,3.131963],[101.692329,3.13229],[101.693301,3.132496],[101.693798,3.132713],[101.694223,3.133045],[101.694644,3.133645],[101.694884,3.134409],[101.695303,3.138099],[101.695282,3.138597],[101.695102,3.139427],[101.695119,3.140112],[101.694981,3.140333],[101.695094,3.14059],[101.695351,3.140637],[101.69572,3.140388],[101.696897,3.14009],[101.69727,3.14021],[101.698049,3.140193],[101.698238,3.140013],[101.698498,3.139458],[101.700391,3.137844],[101.701843,3.13729],[101.702889,3.136958],[101.70324,3.136922],[101.703693,3.137045],[101.703854,3.137348],[101.704361,3.137848],[101.704952,3.138708],[101.705127,3.139062],[101.705312,3.139911],[101.705606,3.140381],[101.707591,3.141966],[101.708459,3.142534],[101.709072,3.142754]],"type":"LineString"},"weight":254.9,"duration":254.9,"distance":3320.6}
 ```
 
-I get off at the Times Square where my hostel located.
-
 <a-hotel name="Irsia BnB Guesthouse" date="2014-1-4" nights="2" points="101.7100106,3.1413875"></a-hotel>
 
-Everyone was obviously asleep because they were snoring loudly. I walked quietly and tried to not wake anyone up. My bed was situated to a pipe that made constant noise throughout the night. However, I was so exhausted that I fell asleep despite the noise. 
+That night, I finally arrived at Times Square, where my hostel was nestled.
+The dormitory was steeped in silence, broken only by a chorus of loud snoring from the other guests.
 
-When I woke up, anyone else had already left. There was self-service breakfast available, which included toast ,butter and coffee. There was a reminder on the wall that said to clean any dishes or cups after use. 
+Everyone was obviously asleep because they were snoring loudly. I walked quietly and tried not to wake anyone up. My bed was beside a pipe that made constant noise throughout the night. However, I was so exhausted that I fell asleep despite the noise.
+I tiptoed across the creaky floorboards, desperate not to disturb their slumber. My bed was positioned right next to an exposed pipe that hummed with a constant, irritating vibration throughout the night. Yet, sheer exhaustion overpowered the noise; I collapsed onto the mattress and drifted into a dreamless sleep almost instantly.
 
-After breakfast, I went for a walk and realized that the community was extremely busy, and everyone led a fast-paced life without taking any breaks. 
+When I woke the next morning, the room was empty; everyone else had already vanished into the city. A self-service breakfast awaited me—toast, butter, and instant coffee. A note pinned to the wall sternly reminded guests to wash their own dishes, adding a touch of impersonal efficiency to the quiet morning.
 
-In the context of dining, I've steered clear of high-end restaurants and avoided crowded venues. Instead, I always frequent Indian eateries because they tend to be less busy and affordable. The first Indian restaurant I visited didn't provide spoons. Had been asked, he showed me how to eat with my hands. Only after my persistent request did they manage to find a spoon for me. I even shared this experience with Jing, given that she had studied abroad here and might appreciate the cultural nuance.
+Stepping outside, I was immediately engulfed by the city’s frenetic energy. The community was a hive of activity; people rushed past with heads down, living at a breakneck pace that allowed for no pauses, no breaths, and no moments of stillness. It felt as though an invisible force was driving them forward.
 
-The city felt like a black hole, and it absorbed the people around it. People walked fast and hurriedly through the crowded streets. I limited myself to just walking, eating and sleeping for two days; however, I realized that this wasn't the place for me, so I had to leave.
+This sense of relentless momentum followed me into my dining experiences. Determined to avoid high-end restaurants and crowded tourist traps, I sought out small Indian eateries, hoping for a slower, more affordable meal. However, even here, the rhythm was different. At the first restaurant I visited, no spoons were provided. When I hesitantly asked for one, the owner simply demonstrated how to eat with my hands, treating my request as a cultural misunderstanding rather than a preference. It was only after my persistent pleading that he reluctantly found a spoon for me. I later shared this anecdote with Jing Yuman, knowing that having studied in Malaysia, she would appreciate such a raw slice of local cultural nuance. But in that moment, sitting alone with my food, I felt less like a traveler and more like an outsider struggling to adapt to a rigid system.
+
+It was then that the metaphor struck me: this city felt like a black hole. Just as a black hole’s gravity traps light, the city’s intense, unyielding pace seemed to absorb the individuality and energy of everyone within it. The hurried strangers on the street, the impersonal rules at the hostel, and even the resistance to a simple request for a spoon—all were symptoms of a place that consumed time and spirit without giving anything back.
+
+For two days, I limited my existence to the bare essentials: walking, eating, and sleeping. But with each passing hour, the realization grew stronger: this environment was suffocating me. The city demanded a speed and intensity that I could not sustain, nor did I wish to. It wasn’t just busy; it was overwhelming. Recognizing that this was not the place for me, I made the decisive choice to leave.
 
 ```<a-img>
 name:klcc
@@ -53,11 +67,11 @@ points:116.050642,5.943993,KKIA Terminal 2|116.0776038,5.9833774,Borneo Backpack
 route:{"legs":[{"steps":[],"weight":214.4,"summary":"","duration":214.4,"distance":3013.2},{"steps":[],"weight":101.7,"summary":"","duration":101.7,"distance":1181.9},{"steps":[],"weight":113.6,"summary":"","duration":113.6,"distance":1955.7}],"weight_name":"routability","geometry":{"coordinates":[[116.050641,5.943994],[116.050289,5.943159],[116.050277,5.94298],[116.050277,5.942871],[116.05025,5.942816],[116.050213,5.942782],[116.050148,5.942768],[116.050078,5.942792],[116.05003,5.942846],[116.050022,5.942913],[116.050038,5.942971],[116.050069,5.94302],[116.050112,5.943089],[116.050191,5.943197],[116.050564,5.944053],[116.050731,5.944445],[116.050822,5.944668],[116.050896,5.94487],[116.050926,5.945038],[116.050921,5.945229],[116.050866,5.945443],[116.050642,5.946058],[116.050462,5.946534],[116.050254,5.94714],[116.049699,5.948665],[116.049541,5.949135],[116.049505,5.949227],[116.049588,5.949268],[116.052082,5.950526],[116.052906,5.950941],[116.052992,5.950983],[116.053955,5.951467],[116.054477,5.95173],[116.054824,5.951909],[116.05488,5.951958],[116.05493,5.952006],[116.054968,5.952051],[116.054969,5.952078],[116.054991,5.952133],[116.055029,5.952177],[116.05508,5.952206],[116.055138,5.952216],[116.055193,5.952207],[116.055227,5.952232],[116.055281,5.952241],[116.055344,5.952246],[116.055441,5.952258],[116.055593,5.952295],[116.056002,5.952475],[116.056592,5.952791],[116.056761,5.952887],[116.056904,5.952968],[116.057209,5.95313],[116.057527,5.953293],[116.057604,5.953331],[116.057663,5.953363],[116.057909,5.953495],[116.058401,5.953734],[116.058735,5.953898],[116.059299,5.954165],[116.059343,5.954207],[116.059381,5.954253],[116.059442,5.954334],[116.059478,5.954411],[116.059487,5.954501],[116.059444,5.954602],[116.059379,5.954746],[116.05939,5.95483],[116.059284,5.955054],[116.059213,5.955201],[116.059076,5.955466],[116.059035,5.955548],[116.058672,5.956276],[116.058606,5.956408],[116.058536,5.956588],[116.058285,5.957123],[116.058116,5.957509],[116.058082,5.957653],[116.057909,5.958074],[116.05783,5.958349],[116.057778,5.958703],[116.057763,5.959018],[116.057777,5.959362],[116.057834,5.959717],[116.058023,5.96028],[116.058117,5.960469],[116.058244,5.960665],[116.058363,5.96084],[116.058584,5.961116],[116.058769,5.961302],[116.059364,5.961901],[116.059722,5.962252],[116.060431,5.96301],[116.061639,5.964172],[116.061944,5.964474],[116.062009,5.964545],[116.062087,5.964628],[116.062156,5.964697],[116.062453,5.964997],[116.06328,5.965813],[116.063668,5.966228],[116.063827,5.96646],[116.064033,5.966696],[116.064221,5.966877],[116.06425,5.966931],[116.064272,5.966997],[116.064277,5.967043],[116.064275,5.967077],[116.064251,5.967164],[116.064187,5.967274],[116.06411,5.96738],[116.06405,5.967434],[116.063832,5.967645],[116.063703,5.967761],[116.063592,5.967854],[116.063495,5.96795],[116.063431,5.968037],[116.063384,5.968115],[116.063345,5.968195],[116.063283,5.968336],[116.063241,5.968473],[116.063209,5.968585],[116.063186,5.968706],[116.063172,5.968863],[116.0632,5.969054],[116.063219,5.969137],[116.063254,5.969246],[116.063289,5.969344],[116.063315,5.969416],[116.063419,5.96958],[116.063556,5.969735],[116.063719,5.969923],[116.063882,5.970112],[116.064056,5.970346],[116.064671,5.971081],[116.06477,5.9712],[116.065227,5.971702],[116.065399,5.971882],[116.065464,5.971965],[116.065712,5.972257],[116.066046,5.972651],[116.066427,5.973084],[116.066622,5.973307],[116.066693,5.973424],[116.066719,5.973517],[116.066712,5.973559],[116.066713,5.973601],[116.066724,5.973642],[116.066742,5.973679],[116.066757,5.973698],[116.066769,5.973713],[116.066801,5.973739],[116.066839,5.973759],[116.066879,5.97377],[116.066922,5.973773],[116.066963,5.973767],[116.067003,5.973753],[116.067039,5.97373],[116.067054,5.973716],[116.067069,5.973701],[116.067093,5.973666],[116.067104,5.973637],[116.067108,5.973627],[116.067111,5.973609],[116.067207,5.973538],[116.067254,5.973503],[116.067344,5.973449],[116.06783,5.973198],[116.068031,5.973095],[116.068394,5.972907],[116.068897,5.97269],[116.069016,5.972663],[116.069076,5.972663],[116.069124,5.972665],[116.069175,5.972674],[116.069278,5.972707],[116.069338,5.972737],[116.06939,5.972762],[116.070562,5.974877],[116.071021,5.975714],[116.071522,5.976644],[116.071615,5.976815],[116.071692,5.97694],[116.071833,5.977186],[116.072467,5.978287],[116.072743,5.978761],[116.072796,5.978847],[116.072838,5.978924],[116.072986,5.979207],[116.073562,5.980201],[116.073666,5.980345],[116.073687,5.980378],[116.073725,5.980429],[116.073786,5.980516],[116.073808,5.980534],[116.073841,5.980542],[116.073867,5.980545],[116.073899,5.980544],[116.07394,5.980539]],"type":"LineString"},"weight":429.7,"duration":429.7,"distance":6150.8}
 ```
 
-I believed there's only one airport bus in this city. No wandering why a pair of Chinese lovers, who got on at the first stop, doubted whether this bus went to downtown. They sitted behind me, and talked about it.
-So I turned my head and join them. I told what I knew about this bus line, I also told how I arrived and how I got transfer information before departure. They were surprised that I was traveling alone.
-They came from Wuhan. Both of them loved motorbike, and that's why they met and fall in love.
-By getting off, we found 
-our guesthouses were located on the same street. We became friends, and I visited him and talked a lot. He is a interior designer with cool style long hair and long beard.
+I had operated under the assumption that there was only one airport bus line serving the city. Perhaps this explained the uncertainty I overheard behind me. A young Chinese couple, who had boarded at the first stop, were whispering anxiously to each other, doubting whether this bus actually headed to the downtown area.
+
+Curiosity prompted me to turn around and join their discussion. I shared what I knew about the route, recounting how I had verified the transfer information before my departure and detailing my own chaotic arrival. They listened with relief, and as our conversation deepened, they expressed surprise that I was traveling entirely alone. It was only then that I learned they were from Wuhan. They shared a charming story: both were passionate motorbike enthusiasts, and it was this shared love for riding that had brought them together and sparked their romance.
+
+As fate would have it, after we disembarked and began walking, we discovered that our accommodations were located on adjacent streets, just a stone’s throw away from each other. This coincidence marked the beginning of a genuine friendship. Over the next few days, we stayed in close contact. I even visited their guesthouse, where we spent hours sipping tea and chatting. Their lodging was nestled right against a lush mountain backdrop. They excitedly told me that they had spotted monkeys roaming in the hills behind their house—a wild touch to their urban stay that I had completely missed in my solitary rush.
 
 ```<a-img>
 name:riders.jpg
@@ -66,22 +80,21 @@ dir:privacy
 
 <a-hotel name="Borneo Backpackers" date="2014-01-06" nights="2"></a-hotel>
 
-The hostel I stayed at was located above a restaurant, accessible only through a discreet door that led to a stairway up to the second floor where the reception desk was situated. The owner, a kind-hearted, slightly plump middle-aged local woman, managed the place with warmth.
+The hostel I stayed at was a hidden gem, accessible only through a discreet door that opened onto a narrow stairway leading up to the second-floor reception. The place was managed by a kind-hearted, slightly plump middle-aged local woman who ran the business with genuine warmth.
 
-One day, as I passed by the front desk, she urgently beckoned me over, leading me upstairs to the third floor despite our language barrier. We arrived at a room occupied by a Chinese girl. It turned out there was a cockroach inside, which both the owner and the student were terrified of. Although I'm not particularly fond of cockroaches myself, I reluctantly agreed to help. Summoning my courage, I managed to dispatch the insect with my slipper.
+One day, as I passed the front desk, she urgently beckoned me over. Despite our language barrier, she gestured for me to follow her upstairs to the third floor. We arrived at a room occupied by a young Chinese girl who was visibly distressed. It turned out there was a large cockroach in the room, terrifying both the guest and the owner. Although I am no fan of insects myself, I reluctantly agreed to help. Summoning my courage, I armed myself with a slipper and successfully dispatched the intruder. Upon returning to the reception, the owner, in her gracious manner, offered me a cold drink from the fridge as a token of gratitude. I gladly accepted, deeply appreciating her thoughtful gesture.
 
-Upon returning to the reception area, the owner, in her gracious manner, offered me a drink from the fridge as a token of gratitude. I gladly accepted her offer, appreciating the gesture.
+My sleeping quarters were in a mixed six-bed dormitory on the second floor, shared with two other girls and three guys. The mix of nationalities made for some memorable interactions.
 
-My sleeping arrangement was in a mixed 6-bed dormitory on the second floor, shared with two girls and three guys.
-Carl is one girl who comes from Germany. A night, in the dormitory, I asked a stupid question to her. "Do you have a child?" "I'm only 19" She said. I was so awkward. After that day, since her packages is still in the room, she missed. We all didn't know where she went. I leaved a message on her bag. Days later I received her texts, she went to Sandakan.
+There was Carl, a girl from Germany. One night, in an attempt to make conversation, I asked her a rather tactless question: “Do you have a child?” She looked at me, bewildered, and replied, “I’m only nineteen!” I was mortified by my own awkwardness. Shortly after that incident, Carl disappeared. Her luggage remained in the room, but she was nowhere to be found. None of us knew where she had gone. Worried, I left a note on her bag. Days later, I received a text from her; she had spontaneously decided to travel to Sandakan.
 
-Marilyn from Paris is another. She said she have been China for several months. There're another two Chinese boys who are quite funny. One of them called "spinach". As there of us didn't know what is it in English, we had to hold Marilyn that his name is "vegetable".
+Then there was Marilyn from Paris, who mentioned she had been traveling in China for several months. We also had two Chinese boys in the room who were quite humorous. One of them had a nickname back home: “Spinach” (Bo Cai). Since neither Marilyn nor I knew the word for this specific vegetable in English, we struggled to explain it. Finally, in a moment of linguistic improvisation, we told Marilyn his name was simply “Vegetable.” To our amusement, the nickname stuck.
 
-The next morning, when I was enjoying breakfast, vegetable came and invited me to join their tour to an island. I was so glad to join, for Marilyn was invited too.
+The next morning, while I was enjoying breakfast, “Vegetable” approached me and invited me to join their group tour to a nearby island. I was thrilled to accept, especially when I learned that Marilyn had been invited as well. It seemed my lonely journey was about to become a shared adventure.
 
 ### PULAU SAPI
 
-This island named "sapi" which word sounds like 'stupid' in Chinese. We perfered "mermaid island", because Marilyn was one.
+The destination was an island named Sapi. To our Chinese ears, the name sounded suspiciously like "shǎ bī" (stupid), so we jokingly refused to call it by its real name. Instead, we rechristened it "Mermaid Island," a title that proved to be far more than just a joke.
 
 ```<a-img>
 name:marilyn-2
@@ -116,7 +129,7 @@ name:marilyn-6
 name:marilyn-7
 ```
 
-We were snorkeling in the shallow waters where plenty of dead corals could be found. And there, I actually saw what appeared to be a "mermaid".
+We spent the afternoon snorkeling in the shallow waters. Although the seabed was littered with patches of dead coral, the crystal-clear water created a mesmerizing stage. It was there that I witnessed the origin of Marilyn’s nickname. As she dove beneath the surface, her movements were incredibly fluid and graceful. Through my camera lens, I captured a stunning shot of her gliding silently among the fish, her silhouette framed by the shimmering sunlight filtering from above. She looked exactly like a real-life mermaid. It wasn’t a trick of the light or an overactive imagination; the resemblance was uncanny. From that moment on, "Mermaid" wasn’t just a playful tease—it was her definitive title among us.
 
 ```<a-img>
 name:ng1
@@ -144,7 +157,7 @@ name:sapi-1
 name:sapi-2
 ```
 
-After lunch, Marilyn wanted to go parasailing. Vegetable thought it was too expensive and didn't want to. However, I saw this as an opportunity for a close encounter with the mermaid, so I agreed to it.
+After lunch, a divergence of opinions arose regarding our next activity. Marilyn was eager to try parasailing, dreaming of soaring high above the turquoise sea. However, "Vegetable" hesitated, deeming the activity too expensive and opting out. Seeing this as a unique opportunity to share the sky with our "Mermaid"—and perhaps to capture another magical moment—I immediately agreed to join her, leaving Vegetable to enjoy the beach below.
 
 ```<a-img>
 name:sapi-3
@@ -166,43 +179,40 @@ name:fly-5.jpg
 dir:privacy
 ```
 
-After returning from the island, I discovered that my back had been severely sunburned; and several days later, large patches of skin peeled off.
+The adventure, however, came with a steep price. Upon returning from the island, I discovered that my back had been severely sunburned. The pain was immediate and intense. Over the next few days, large patches of skin began to peel off, a painful but vivid reminder of my day under the tropical sun.
 
 ### THE BLACK GUY
 
-In the original plan, I intended to stay in Kota Kinabalu for several days, even purchasing a return flight ticket. However, I later became attracted to Semporna and decided to insert this trip into my itinerary. Thus, the next day, I had to reluctantly leave behind the mermaid encounter and embark on a new journey.
+Originally, my itinerary was fixed well in advance; I had purchased all flight tickets early, allocating only a few days for a stopover in Kota Kinabalu. However, upon discovering the pristine diving spots in Semporna, I felt compelled to incorporate this destination into my tight schedule. This adjustment inevitably fragmented my time in Kota Kinabalu, forcing me to cut my stay short. Consequently, the following day, I had to reluctantly forgo further underwater exploration and embark on the next leg of my journey.
 
 <a-flight flight="AK6262" departure="BKI" destination="TWU" departure-time="2014-01-08 16:05" arrive-time="2014-01-08 17:00"></a-flight>
 
-At the airport lounge, I encountered a black man who claimed to have an affinity for Chinese people and had even been to Guangdong. In earnest, he told me how much the girls there adored him, and how he even had virgins throwing themselves at him.
+While waiting in the airport lounge, I encountered a Black man who claimed to have a special affinity for Chinese people, citing a previous visit to Guangdong. With feigned earnestness, he boasted about how adored he was by the local girls, going so far as to claim that virgins threw themselves at him.
 
-He seemed to take pleasure in recounting his stories to me, but I found him a bit annoying.
+Although he seemed to derive great pleasure from recounting these tales, I found his company increasingly tedious.
 
-As we were boarding, he mentioned that he was seated in Row 28 and asked which row I was in, hoping to continue our conversation on the plane. With a hint of smugness, I told him Row 6 - the paid seats section. Consequently, while he headed for the rear entrance, I boarded through the front entrance. And thus, I never saw him again after that.
+As boarding commenced, he mentioned his seat was in Row 28 and inquired about mine, clearly hoping to continue our conversation on the plane. With a subtle hint of smugness, I informed him that I was seated in Row 6, within the premium cabin. Thus, while he proceeded toward the rear door, I boarded through the front. In doing so, I ensured that I would never see him again.
 
 ## SEMPORNA
 
 <a-times :times="1" location="SEMPORNA"></a-times>
 
-Before boarding the plane, I had found a carpool partner online with whom I arranged to share a ride from the airport.
+Prior to the trip, aware that hailing a taxi in Semporna is notoriously difficult, I had arranged online to share a ride from the airport with a fellow traveler. However, upon landing, I encountered an immediate predicament: my phone battery had died. I stepped outside the terminal to find a shop selling phone cards so I could recharge and contact my partner.
 
-After landing, I found my phone was out of power. I found a store selling phone cards to charge. A local driver found me and asked me am I the passager they are looking for. I didn't know what name the girl is and I am not sure weather this was the bus she was at, so I declined.
+While I was there, a local driver approached me, asking if I was the passenger he had been sent to pick up. Since my phone was off, I did not know my partner's name, nor could I confirm if this was the correct vehicle. Hesitant and unsure, I declined the offer. As I would later discover, it was indeed the right car, and my partner was furious at my no-show.
 
-Then a rude Brazil guy came and bought a phone card. I asked if I take a ride. He didn't wish to at first, and then he said he didn't mind if the driver say so. I found we have the same destination after talking to the driver. I got on the minibus after agree that I will pay the translate fee.
-
+Shortly after, a rude Brazilian man arrived to buy a phone card. Seizing the opportunity, I asked if I could join his ride. Initially reluctant, he eventually agreed, provided the driver consented. After confirming with the driver that we shared the same destination, I boarded the minibus, agreeing to cover my share of the transportation fare.
 
 ```<a-map>
 points:118.113794,4.313783,Tawau Airport|118.617147,4.479184,Borneo Global Sipadan Backpackers
 route:{"legs":[{"steps":[],"weight":4411.4,"summary":"","duration":4411.4,"distance":82214.4}],"weight_name":"routability","geometry":{"coordinates":[[118.113806,4.313764],[118.090717,4.308937],[118.093659,4.330109],[118.090303,4.347051],[118.093468,4.355825],[118.114803,4.377182],[118.14169,4.378061],[118.153945,4.385919],[118.160318,4.399907],[118.179844,4.404335],[118.182527,4.408994],[118.183199,4.423189],[118.189796,4.435782],[118.22424,4.452287],[118.231138,4.450491],[118.242852,4.452904],[118.25087,4.44665],[118.256799,4.436212],[118.264459,4.437035],[118.288007,4.42741],[118.298172,4.426354],[118.302634,4.422611],[118.311601,4.421011],[118.316875,4.414632],[118.323575,4.414161],[118.330033,4.419081],[118.33474,4.418603],[118.341414,4.410102],[118.341263,4.393567],[118.351254,4.38249],[118.381902,4.372781],[118.406955,4.371039],[118.42165,4.384944],[118.425362,4.391847],[118.437183,4.395929],[118.468819,4.423259],[118.50564,4.418924],[118.514857,4.42159],[118.526763,4.437101],[118.547492,4.441149],[118.56007,4.453333],[118.575193,4.455802],[118.591998,4.463193],[118.611291,4.478854],[118.617141,4.479186]],"type":"LineString"},"weight":4411.4,"duration":4411.4,"distance":82214.4}
 ```
 
-When we checked in, we discovered we were assigned to the same room. Feng Cheche and another girl, who learned scuba diving at the store, were also staying in our room. Since we talked, Feng Cheche and I realized that we shared the same destination, Penang, a few days later.
+Upon checking into our accommodation—a modest dive lodge—we discovered to our surprise that we had been assigned to the same room. Also staying there were Feng Cheche, the very partner I had missed at the airport, and another girl who had just signed up for scuba diving lessons. Once we began talking, Feng Cheche and I realized we had both planned to travel to Penang in a few days.
 
-The Brazilian guy was extremely rude, stating that he did not like anyone sleeping on the upper bunk. As a result, I had to relocate to the neighboring room for the night.
+However, the atmosphere was tense. The Brazilian man was extremely abrasive, declaring that he refused to let anyone sleep on the top bunk of the double bed. Unwilling to argue, I relocated for the night to an empty dormitory room next door.
 
-My stay here was only for one night. The next morning, the Brazilian and I hugged and he apologized to me.
-
-Afterward, I boarded Uncle Chang's boat.
+My itinerary allowed for only a single night in Semporna. The following morning, as I prepared to depart, the Brazilian man approached me. We shared a brief hug, and he offered a sincere apology for his behavior the previous night. With that matter resolved, I boarded Uncle Chang's boat.
 
 ### PULAU MABUL
 
