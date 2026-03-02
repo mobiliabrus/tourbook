@@ -6,19 +6,14 @@
 
 <a-flight flight="AK1009" departure="KMG" destination="KUL" departure-time="2014-01-04 17:40" arrive-time="2014-01-04 21:50"></a-flight>
 
-My second journey began with a heart-stopping race against time,
-a series of coincidences that nearly caused me to miss my international flight.
+My second journey began with a heart-stopping race against time.
+It was a domestic flight delay that nearly caused me to miss my international connection.
 
-My original plan was straightforward: take a domestic flight to Kunming,
-then transfer to an AirAsia flight to Kuala Lumpur.
-I had calculated plenty of buffer time, but fate had other plans.
-When I arrived at the boarding gate in Chongqing far earlier than necessary, I was shocked to see the aircraft already parked there.
-To my bewilderment, the plane was physically present yet completely inaccessible.
-Due to a delay in its previous leg, the plane’s itinerary for the day was a complex loop: it had just arrived from another city and was scheduled to fly to a third destination before finally returning to Chongqing to pick me up for the Kunming leg.In a twist of dramatic irony, I had to watch my plane take off empty, wait two hours for it to complete its round trip, and only then could I board.
+My original plan was straightforward: take a domestic flight to Kunming, then transfer to an AirAsia flight to Kuala Lumpur. I had calculated plenty of buffer time, but fate had other plans. When I arrived at the boarding gate in Chongqing far earlier than necessary, I was shocked to see the aircraft already parked there. To my bewilderment, the plane was physically present yet completely inaccessible. The aircraft’s schedule for the day was a complex loop predetermined by the airline: it had just arrived from another city and was scheduled to fly to a third destination before finally returning to Chongqing to pick me up for the Kunming leg. In a twist of dramatic irony, I had to watch my plane take off, wait two hours for it to complete its round trip, and only then could I board. Essentially, the delay meant the plane had to “lap” me before I could get on.
 
 Two hours later, I finally touched down in Kunming. The delay had completely consumed my carefully reserved buffer time; in fact, the international flight was now scheduled to depart in less than thirty minutes. Panic set in immediately. To make matters worse, I had checked in my backpack—a completely unnecessary decision since it could have been carry-on luggage. Now, I was forced to stand helplessly at the baggage carousel, watching the minutes tick away while waiting for my bag. Since I had booked separate tickets rather than a connected itinerary, I could not use the seamless international transfer channel. I had to collect my luggage, exit the domestic arrivals hall, and sprint to the international departure counter to check in all over again.
 
-The situation was frantic. On the plane to Kunming, I had desperately sought help from a flight attendant, only to receive a brisk reply: “You’ll make it if you run fast.” That advice proved both terrifying and true. At the check-in counter, the agent was just about to close the system when she spotted me. “One last passenger for seat 1A!” she announced loudly. The immigration process was equally surreal; I nervously asked the passengers ahead if I could cut in line. To my surprise, the immigration officer smiled and said, “Go ahead, they are on the same flight as you.”
+The situation was frantic. On the plane to Kunming, I had desperately sought help from a flight attendant, only to receive a brisk reply: “You’ll make it if you run fast.” That advice proved both terrifying and true. At the check-in counter, the agent was just about to close the system when she spotted me. “One last passenger for seat 1A!” she announced loudly. The immigration process was equally surreal; I nervously asked the passengers ahead if I could cut in line. To my surprise, the officer smiled and said, “It’s fine; the passengers you jumped ahead of are on the same flight as you.”
 
 When I finally sprinted to the boarding gate, there were only five minutes left before closure. Yet, in a moment of strange calm amidst the chaos, I even managed to slip into the restroom. As I washed my hands, the adrenaline slowly faded, and my suspended heart finally settled. I was the last person to board, stepping onto the plane just as the gate was closing.
 
@@ -40,17 +35,16 @@ That night, I finally arrived at Times Square, where my hostel was nestled.
 The dormitory was steeped in silence, broken only by a chorus of loud snoring from the other guests.
 
 Everyone was obviously asleep because they were snoring loudly. I walked quietly and tried not to wake anyone up. My bed was beside a pipe that made constant noise throughout the night. However, I was so exhausted that I fell asleep despite the noise.
-I tiptoed across the creaky floorboards, desperate not to disturb their slumber. My bed was positioned right next to an exposed pipe that hummed with a constant, irritating vibration throughout the night. Yet, sheer exhaustion overpowered the noise; I collapsed onto the mattress and drifted into a dreamless sleep almost instantly.
 
-When I woke the next morning, the room was empty; everyone else had already vanished into the city. A self-service breakfast awaited me—toast, butter, and instant coffee. A note pinned to the wall sternly reminded guests to wash their own dishes, adding a touch of impersonal efficiency to the quiet morning.
+When I woke the next morning, the room was empty; everyone else had already vanished into the city. A self-service breakfast awaited me—toast, butter, and instant coffee. A note pinned to the wall gently reminded guests to wash their own dishes, adding a touch of practical efficiency to the quiet morning.
 
 Stepping outside, I was immediately engulfed by the city’s frenetic energy. The community was a hive of activity; people rushed past with heads down, living at a breakneck pace that allowed for no pauses, no breaths, and no moments of stillness. It felt as though an invisible force was driving them forward.
 
-This sense of relentless momentum followed me into my dining experiences. Determined to avoid high-end restaurants and crowded tourist traps, I sought out small Indian eateries, hoping for a slower, more affordable meal. However, even here, the rhythm was different. At the first restaurant I visited, no spoons were provided. When I hesitantly asked for one, the owner simply demonstrated how to eat with my hands, treating my request as a cultural misunderstanding rather than a preference. It was only after my persistent pleading that he reluctantly found a spoon for me. I later shared this anecdote with Jing Yuman, knowing that having studied in Malaysia, she would appreciate such a raw slice of local cultural nuance. But in that moment, sitting alone with my food, I felt less like a traveler and more like an outsider struggling to adapt to a rigid system.
+This sense of relentless momentum followed me into my dining experiences. Determined to avoid high-end restaurants and crowded tourist traps, I sought out small Indian eateries, hoping for a slower, more affordable meal. However, even here, the rhythm was different. At the first restaurant I visited, no spoons were provided. When I asked for one, the owner simply demonstrated how to eat with hands, treating my request as a cultural misunderstanding rather than a preference. It was only after I insisted several times that he found a spoon for me. I shared this anecdote with Jing Yuman, knowing that having studied in Malaysia, she would appreciate such a raw slice of local cultural nuance. Sitting alone with my food, I did not feel like an outsider struggling to adapt; rather, I felt like a traveler observing a distinct way of life.
 
 It was then that the metaphor struck me: this city felt like a black hole. Just as a black hole’s gravity traps light, the city’s intense, unyielding pace seemed to absorb the individuality and energy of everyone within it. The hurried strangers on the street, the impersonal rules at the hostel, and even the resistance to a simple request for a spoon—all were symptoms of a place that consumed time and spirit without giving anything back.
 
-For two days, I limited my existence to the bare essentials: walking, eating, and sleeping. But with each passing hour, the realization grew stronger: this environment was suffocating me. The city demanded a speed and intensity that I could not sustain, nor did I wish to. It wasn’t just busy; it was overwhelming. Recognizing that this was not the place for me, I made the decisive choice to leave.
+For two days, I limited my existence to the bare essentials: walking, eating, and sleeping. But with each passing hour, the realization grew stronger: this environment was suffocating me. The city demanded a speed and intensity that I could not sustain, nor did I wish to. It wasn’t just busy; it was overwhelming. Recognizing that this was not the place for me, I leaved.
 
 ```<a-img>
 name:klcc
@@ -69,7 +63,7 @@ route:{"legs":[{"steps":[],"weight":214.4,"summary":"","duration":214.4,"distanc
 
 I had operated under the assumption that there was only one airport bus line serving the city. Perhaps this explained the uncertainty I overheard behind me. A young Chinese couple, who had boarded at the first stop, were whispering anxiously to each other, doubting whether this bus actually headed to the downtown area.
 
-Curiosity prompted me to turn around and join their discussion. I shared what I knew about the route, recounting how I had verified the transfer information before my departure and detailing my own chaotic arrival. They listened with relief, and as our conversation deepened, they expressed surprise that I was traveling entirely alone. It was only then that I learned they were from Wuhan. They shared a charming story: both were passionate motorbike enthusiasts, and it was this shared love for riding that had brought them together and sparked their romance.
+Curiosity prompted me to turn around and join their discussion. I shared what I knew about the route, recounting how I had verified the transfer information before my departure. They listened with relief, and as our conversation deepened, they expressed surprise that I was traveling entirely alone. It was only then that I learned they were from Wuhan. They shared a charming story: both were passionate motorbike enthusiasts, and it was this shared love for riding that had brought them together and sparked their romance.
 
 As fate would have it, after we disembarked and began walking, we discovered that our accommodations were located on adjacent streets, just a stone’s throw away from each other. This coincidence marked the beginning of a genuine friendship. Over the next few days, we stayed in close contact. I even visited their guesthouse, where we spent hours sipping tea and chatting. Their lodging was nestled right against a lush mountain backdrop. They excitedly told me that they had spotted monkeys roaming in the hills behind their house—a wild touch to their urban stay that I had completely missed in my solitary rush.
 
@@ -210,9 +204,9 @@ route:{"legs":[{"steps":[],"weight":4411.4,"summary":"","duration":4411.4,"dista
 
 Upon checking into our accommodation—a modest dive lodge—we discovered to our surprise that we had been assigned to the same room. Also staying there were Feng Cheche, the very partner I had missed at the airport, and another girl who had just signed up for scuba diving lessons. Once we began talking, Feng Cheche and I realized we had both planned to travel to Penang in a few days.
 
-However, the atmosphere was tense. The Brazilian man was extremely abrasive, declaring that he refused to let anyone sleep on the top bunk of the double bed. Unwilling to argue, I relocated for the night to an empty dormitory room next door.
+However, the atmosphere was tense. The Brazilian man was extremely abrasive, declaring that he refused to let anyone sleep on the top bunk of his bunk bed. Unwilling to argue, and since my itinerary allowed for only a single night here, I simply found an empty dormitory nextdoor and settled on one of the beds. I stayed there fully clothed and without a blanket, just making do until morning.
 
-My itinerary allowed for only a single night in Semporna. The following morning, as I prepared to depart, the Brazilian man approached me. We shared a brief hug, and he offered a sincere apology for his behavior the previous night. With that matter resolved, I boarded Uncle Chang's boat.
+The following morning, as I prepared to depart, the Brazilian man approached me. We shared a brief hug, and he offered a sincere apology for his behavior the previous night. With that matter resolved, I boarded Uncle Chang's boat.
 
 ### PULAU MABUL
 
