@@ -321,7 +321,7 @@ Upon my return to Kota Kinabalu, the hostel room was deserted. As evening fell, 
 
 I followed her to an open-air bar. We talked about some things, such as her experience in China and why she wanted to go back to France. She recommended a wine that was soaked in salt, and she was surprised that I finished it so quickly and ordered another one. Afterwards, we walked back to the hostel along the road. When I entered the room, she was video chatting with her boyfriend on the bed, and I said hello.
 
-I followed her to a lively open-air bar. Our conversation drifted across various topics, ranging from her experiences in China to her reasons for returning to France. She recommended a local wine infused with a distinct salty note. To her surprise, I finished the glass swiftly and ordered another. Later, we strolled back to the hostel along the quiet streets. Upon entering the room, I found her lying on the bed, video-chatting with her boyfriend; I offered a polite greeting before settling in.
+I followed her to a lively open-air bar. Our conversation drifted across various topics, ranging from her experiences in China to her reasons for returning to France. She recommended a local wine infused with a distinct salty note. To her surprise, I finished the glass swiftly and ordered another. Later, we strolled back to the hostel along the quiet streets. Upon entering the room, I found her lying on the upper bed, video-chatting with her boyfriend; I offered a polite greeting before settling in.
 
 ```<a-map>
 points:116.076504,5.982953,Bar|116.0776038,5.9833774,Borneo Backpackers
