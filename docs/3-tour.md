@@ -12,13 +12,17 @@ The genesis of this journey lay in a thread I posted on a travel forum, where I 
 
 <a-flight flight="FD553" departure="CKG" destination="DMK" departure-time="2014-11-02 19:55" arrive-time="2014-11-02 22:05"></a-flight>
 
-My formal departure commenced with an arrival in Bangkok. However, before reuniting with my new companions, I spent a solitary night near Don Mueang Airport. That evening, drawn by the aroma from a roadside stall, I ordered a bowl of Kuay Teow Nam, a traditional Thai soup featuring wide rice noodles, fresh bean sprouts, and slices of pork. In a fleeting moment of absent-mindedness, I nearly consumed the broth with the meat, momentarily overlooking the dietary restraint I had maintained since returning from Malaysia. Although I do not subscribe to the Islamic faith, I have cultivated a deep fascination with its culture and consciously chose to abstain from pork—both as a gesture of cultural respect and a strategy to regulate my diet for weight loss. Catching myself just in time, I carefully picked out the meat and consumed only the noodles and sprouts. The following day, refreshed and disciplined, I boarded the connecting flight to Chiang Mai, ready to embark on the shared adventure we had planned.
+This journey originated from a simple thread I posted on a travel forum, detailing my proposed itinerary for Chiang Mai. To my unexpected delight, the post resonated with a group of fellow travelers whose schedules aligned perfectly with mine. Interestingly, most of them hailed from my hometown, Chongqing, and, to my secret anticipation as a single man hoping for a romantic encounter, the group was predominantly female. We quickly arranged to converge in Chiang Mai, eager to explore the region together. Little did I know that this gathering of strangers would soon mirror the very scene from the movie: excitement, attraction, and the potential for something more.
 
 ## CHIANG MAI
 
 <a-times :times="2" location="CHIANG MAI"></a-times>
 
 <a-flight flight="FD3435" departure="DMK" destination="CNX" departure-time="2014-11-03 10:30" arrive-time="2014-11-03 11:40"></a-flight>
+
+<a-hotel name="So Hostel" date="2014-11-03" nights="5" points="98.9970986,18.7842285"></a-hotel>
+
+Upon my arrival in Chiang Mai on the first day, I joined two female companions from our group for an initial exploration of the Old City. However, our dynamic was quite reserved; we remained polite but somewhat distant, without establishing any deep rapport. Our walk through the ancient streets was largely aimless—a perfunctory loop around the major sites without a clear theme or shared passion. 
 
 ```<a-img>
 name:balake.jpg
@@ -29,8 +33,6 @@ dir:privacy
 name:balake2.jpg
 dir:privacy
 ```
-
-<a-hotel name="So Hostel" date="2014-11-03" nights="5" points="98.9970986,18.7842285"></a-hotel>
 
 ### TREE HOUSES
 
