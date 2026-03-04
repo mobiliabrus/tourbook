@@ -36,9 +36,23 @@ dir:privacy
 
 ### TREE HOUSES
 
-Since we were staying at different hostels, the driver had to pick us up one by one.
+The following morning marked the true beginning of our expedition. A van from the Treehouse Lodge set off to collect us, starting with the furthest point: Baan Thai on Nimmanhaeminda Road. Here, the first two members of our group boarded the empty van.
 
-1 pax @ So Hotel, 2 pax @ A Little Bird 2 Guest House, 1 pax @ 9 Hostel, 2 pax @ baan thai (36 nimmanhaeminda Road)
+[Insert Description Here: Focus on these two. If the special girl is here, describe her initial impression. Did she sit by the window? Did she offer a greeting that felt different? Since you would be the next to join, this sets the stage for your first interaction.]
+
+The driver then navigated back towards the Old City to pick me up at So Hotel. Stepping into the van, I joined the two strangers from Nimman, turning the solitary front row into a small cluster of three.
+
+[Insert Description Here: How did you greet them? Was the atmosphere still polite and reserved, or did the new arrival shift the energy? Briefly mention your own state of mind—perhaps a mix of nervousness and hope.]
+
+Our route continued to A Little Bird Guest House, where two more travelers emerged, filling the middle row. The van was becoming a mosaic of different backgrounds and personalities.
+
+[Insert Description Here: Describe this pair briefly. Were they loud? Quiet? Did they immediately start chatting with the first two, or did everyone remain in their own bubbles?]
+
+We made a quick stop near the night market to pick up a solo traveler from 9 Hostel, squeezing them into the remaining space. Finally, the driver pulled over at a roadside spot to collect the last member of our party. With the sliding door closing, our team of seven strangers was finally complete.
+
+[Insert Description Here: A brief mention of the last two. Maybe the roadside pickup felt spontaneous or rushed. Now, emphasize the feeling of "fullness"—the van is physically full, and the social dynamic is now locked in.]
+
+With the engine humming and the cityscape fading into the rearview mirror, replaced by the winding roads leading north, a fresh sense of anticipation filled the air. The perfunctory sightseeing of the previous day was now behind us. As the van accelerated towards the mountains, the real adventure—and the unpredictable dynamics of this newly formed group of seven—was about to commence.
 
 <a-hotel name="Rabeang Pasak Treehouse Resort" date="2014-11-04" nights="1"></a-hotel>
 
