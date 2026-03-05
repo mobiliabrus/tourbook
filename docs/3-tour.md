@@ -245,11 +245,13 @@ dir:privacy
 ```
 
 ```<a-img>
-name:chiangmai-1
+name:chiangmai-qin.jpg
+dir:privacy
 ```
 
 ```<a-img>
-name:qin-3
+name:cqin-3.jpg
+dir:privacy
 ```
 
 ```<a-img>
