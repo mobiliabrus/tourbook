@@ -1,5 +1,5 @@
 
-- [**Intro**](README.md)
+- [**INTRO**](README.md)
 - **PROLOGUE**
   - [Episode I. Begins](episode-1.md)
   - [Episode II. Fastprimes](episode-2.md)
