@@ -1,9 +1,9 @@
 
 - [**Intro**](README.md)
-- PROLOGUE
+- **PROLOGUE**
   - [Episode I. Begins](episode-1.md)
   - [Episode II. Fastprimes](episode-2.md)
-- MAIN CHRONICLES
+- **MAIN CHRONICLES**
   - [I. Long, Solitary Tour](1-tour.md)
   - [II. The Backpacker](2-tour.md)
   - [III. The Three Trees](3-tour.md)
