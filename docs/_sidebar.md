@@ -1,7 +1,7 @@
 
 - [INTRO](README.md)
 - **PROLOGUE**
-  - [Episode I. Begins](episode-1.md)
+  - [Episode I. Beginnings](episode-1.md)
   - [Episode II. Fastprimes](episode-2.md)
 - **MAIN CHRONICLES**
   - [I. Long, Solitary Tour](1-tour.md)
