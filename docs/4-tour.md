@@ -1,4 +1,4 @@
-## BANGKOK ³
+## BANGKOK
 
 <a-times :times="3" location="BANGKOK"></a-times>
 

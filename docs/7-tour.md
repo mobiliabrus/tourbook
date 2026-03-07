@@ -287,7 +287,7 @@ Eventually, I made my way back to the station, waiting for the next airport expr
 
 <a-hotel name="Samui Hostel" date="2017-04-10" nights="7"></a-hotel>
 
-## KOH PHANGAN ³
+## KOH PHANGAN
 
 <a-times :times="3" location="KOH PHANGAN"></a-times>
 

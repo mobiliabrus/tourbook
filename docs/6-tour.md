@@ -2,7 +2,7 @@ Why you visit a place twice, people asked. First, I have memories there. And the
 
 I made a serious blunder when I mistakenly booked the wrong dates for my hotel stay, and it wasn't until I received a notification that "check-in is tomorrow" that I realized my error. After some negotiations, I ended up having to pay more money and settle for a less desirable room.
 
-## BANGKOK ⁵
+## BANGKOK
 
 <a-times :times="5" location="BANGKOK"></a-times>
 
@@ -112,7 +112,7 @@ route:{"legs":[{"steps":[],"weight":1149.2,"summary":"","duration":1090.4,"dista
 
 Shit. I'm still single. When I was home after my first tour, it was worse. I'd wake up, and there'd be nothing. When I was here, I wanted to be there. When I was there, all I could think of was getting back to the beach. I'm here a week now. Waiting for a passion. Getting softer. Every minute I stay in this room, I get weaker.
 
-## BANGKOK ⁵
+## BANGKOK
 
 <a-flight flight="FD3240" departure="URT" destination="DMK" departure-time="2017-01-17 13:20" arrive-time="2017-01-17 14:35"></a-flight>
 
