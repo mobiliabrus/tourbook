@@ -228,8 +228,8 @@ dir:privacy
 ### SWIMMING
 
 ```<a-map>
-points:98.9660400,18.7979829
-zoom: 18
+points:98.9660400,18.7979829,Baan Thai Apartment
+zoom: 16
 theme:satellite
 ```
 
