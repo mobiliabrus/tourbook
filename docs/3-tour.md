@@ -292,11 +292,15 @@ dir:privacy
 ```
 
 ```<a-img>
+name:ll.jpg
+dir:privacy
+```
+
+```<a-img>
 name:oldcity-4
 ```
 
 11-7
-
 
 ```<a-img>
 name:chiang-1.jpg
