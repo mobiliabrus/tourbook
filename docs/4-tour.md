@@ -135,16 +135,11 @@ dir:privacy
 
 When we arrived at the diving school later, they arranged for a vehicle to take us to our lodging. The car meandered through the area and eventually pulled up at the very same row of houses we had visited yesterday. I was assigned the room closest to the beach, while she got the one right next door.
 
-However, things changed quickly. She made new friends during her course, and we hardly saw or spoke to each other anymore.
-
-```<a-img>
-name:she-10.jpg
-dir:privacy
-```
-
 <a-hotel name="Crystal Dive Resort" date="2015-04-05" nights="4"></a-hotel>
 
-<a-gallery :img="[{name:'moment1'},{name:'moment2'}]"></a-gallery>
+However, things changed quickly. She made new friends during her course, and we hardly saw or spoke to each other anymore.
+
+Once, when I returned to my room, I heard the sounds of a couple being intimate nearby. My heart raced until I confirmed the noise was not coming from the room next door—only then did my suspended heart finally settle. Later, a girl wearing nothing but a white T-shirt emerged from a room, seemingly on a phone call, pacing back and forth in front of mine. I remembered that a couple from Chengdu was staying in this row of houses, but I couldn’t be sure if it was them.
 
 <a-carousel :img="[{name:'tao1.jpg',dir:'privacy'},{name:'tao2.jpg',dir:'privacy'},{name:'tao3.jpg',dir:'privacy'}]"></a-carousel>
 
@@ -156,6 +151,11 @@ divesites:99.81525,10.10535,White Rock|99.81301,10.11741,Twins Rocks|99.78779,10
 One evening, after I finished my AOW course, I was at a bar chatting with my diving instructor. He was strict in class but friendly in private. He told me about his adorable kitten that once climbed onto his shoulder to play. He also shared a piece of advice with me: “If you wear this massive dive computer, it won’t help you attract any girls.”
 
 The AOW course took only two days, whereas her OW course required four. Those remaining two days felt endless. I had nothing to do but sit in front of the house drinking Chang beer, or walk along the shore collecting shells. In a quiet gesture of hope, I even arranged some shells into a star shape right outside her door.
+
+```<a-img>
+name:she-10.jpg
+dir:privacy
+```
 
 I barely held on until the fourth day. Then, she told me she planned to continue with the AOW course and would not be joining me for the rest of the itinerary. And so, I had to continue the journey alone.
 
