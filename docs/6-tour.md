@@ -1,6 +1,6 @@
-Why you visit a place twice, people asked. First, I have memories there. And then, it provides me chance to compensate.
+"Why do you visit a place twice?" people often asked.
 
-I made a serious blunder when I mistakenly booked the wrong dates for my hotel stay, and it wasn't until I received a notification that "check-in is tomorrow" that I realized my error. After some negotiations, I ended up having to pay more money and settle for a less desirable room.
+My reasons were twofold. First, I held cherished memories there. Second, and perhaps more importantly, returning afforded me an opportunity to compensate for the various regrets accumulated during my previous travels.
 
 ## Bangkok
 
@@ -8,7 +8,7 @@ I made a serious blunder when I mistakenly booked the wrong dates for my hotel s
 
 <a-flight flight="FD553" departure="CKG" destination="DMK" departure-time="2017-01-05 19:55" arrive-time="2017-01-05 22:05"></a-flight>
 
-Once again, I had a brief stay before taking a direct flight to Surat Thani.
+Once again, I paid a brief visit before taking a direct flight to Surat Thani.
 
 <a-hotel name="Don Muang Hotel" date="2017-01-05" nights="1"></a-hotel>
 
@@ -18,13 +18,14 @@ Once again, I had a brief stay before taking a direct flight to Surat Thani.
 
 <a-times :times="1" location="Surat Thani"></a-times>
 
-People visit Suratthani because it's the gateway to the Gulf of Thailand. From the international airport, you'll be able to visit Koh Phangan, Koh Samui and the Ang Thong National Marine.
+People often visit Surat Thani because it serves as the primary gateway to the islands of the Gulf of Thailand. From its international airport, travelers can easily access Koh Phangan, Koh Samui, and the Ang Thong National Marine Park.
 
-In Surat Thani town, it was particularly quiet with a limited number of tourists, and the prices were especially affordable.
+In Surat Thani town itself, the atmosphere was remarkably quiet.
 
 <a-hotel name="Papangkorn House" date="2017-01-06" nights="1"></a-hotel>
 
-The following day, I boarded a long-distance bus. Although I rarely make mistakes with my travel itineraries, even when issues arise during the journey, I always manage to navigate through them successfully.
+The following day, I boarded a long-distance bus to continue my travels.
+Although I rarely err in my itineraries, and even when issues do arise, I have always managed to navigate through them successfully.
 
 ```<a-map>
 points:99.3283169,9.1438932,Surat Thani Transport Station|98.5198817,8.9006588,Khao Sok Bus Stop|98.25130909519658,8.64327383935287,Khao Lak|99.333013684943,9.14651073017441,Papangkorn House|98.25099184322282,8.644991293002645,Khao Lak Scuba Adventures

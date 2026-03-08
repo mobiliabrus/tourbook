@@ -1,12 +1,12 @@
 
-## UNFULFILLED JOURNEY
+## Unfulfilled Journey
 
-### KOH LANTA 2019
+### Koh Lanta 2019
 
 In 2019, following two years of economic stagnation and amidst emerging signs of recovery, a travel plan to Koh Lanta was formulated but ultimately not executed.
 
 The proposed itinerary and equipment configuration were as follows:
-- Flexible scheduling with hostel-based lodging.
+- **Flexible** scheduling with **hostel**-based lodging.
 - iPhone designated for film recording;<br/> DJI Pocket 3 sports camera allocated for vlogging.
 - Ricoh GR3x compact camera (40mm f/2.8 lens) selected for still photography.
 
@@ -15,7 +15,7 @@ points:99.0953657306661,7.533830747093447,Koh Lanta Yai|99.04069098221403,7.5540
 route:{"legs":[{"steps":[],"weight":1234,"summary":"","duration":1234,"distance":10945.7},{"steps":[],"weight":1919.7,"summary":"","duration":1919.7,"distance":13895.4}],"weight_name":"routability","geometry":{"coordinates":[[99.096332,7.531978],[99.091338,7.530315],[99.086833,7.538223],[99.083801,7.537285],[99.08247,7.5382],[99.082444,7.541739],[99.080511,7.542468],[99.079196,7.544254],[99.077253,7.544909],[99.076507,7.547569],[99.07379,7.551337],[99.071205,7.557099],[99.068377,7.55679],[99.068402,7.5583],[99.062352,7.560078],[99.061407,7.562084],[99.061365,7.564764],[99.05736,7.571031],[99.055422,7.572189],[99.052957,7.572331],[99.049708,7.57145],[99.048016,7.569671],[99.042843,7.567035],[99.039161,7.563985],[99.038409,7.560322],[99.03875,7.557935],[99.040726,7.554119],[99.045182,7.553517],[99.045216,7.549522],[99.046461,7.546116],[99.047718,7.545048],[99.046597,7.544306],[99.051544,7.530852],[99.052392,7.529908],[99.052655,7.527614],[99.053543,7.525785],[99.055387,7.524396],[99.058414,7.520339],[99.061953,7.509622],[99.064163,7.506248],[99.067065,7.504124],[99.068527,7.500297],[99.070761,7.499098],[99.0747,7.499529],[99.076059,7.498655],[99.077044,7.490109],[99.079444,7.49027],[99.080448,7.488165],[99.085421,7.487844],[99.086548,7.48394],[99.089957,7.48626],[99.092097,7.484335],[99.091136,7.47731],[99.08994,7.47487],[99.091855,7.474849],[99.093311,7.473672],[99.0958,7.473113],[99.097201,7.471993],[99.097621,7.470464]],"type":"LineString"},"weight":3153.7,"duration":3153.7,"distance":24841.1}
 ```
 
-## RECORD OF FOLLIES
+## Record of Follies
 
 The following is an objective log of technical failures and data loss incidents incurred during Tours I through VI and post-trip storage:
 - **Tour I**: TF card failure in the GoPro camera resulted in the total loss of footage recorded in the flight simulator cockpit and at Sukhothai Historical Park.
@@ -27,7 +27,7 @@ The following is an objective log of technical failures and data loss incidents 
 - **Tour VI**: A wire snagged on the waterproof gasket of the housing unit, causing a malfunction that exposed the Sony A7R camera to water damage.
 - **Final Incident**: Following the conclusion of all trips, a second hard drive failure led to the loss of the remaining video archive. While technical recovery methods salvaged most files, several critical clips were permanently lost.
 
-## CHECKLIST
+## Checklist
 
 Have you seen my checklist? In fact, I made a checklist before any trip to ensure that everything is taken care of. Here is my checklist of tour 7.
 
