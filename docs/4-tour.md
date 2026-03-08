@@ -33,9 +33,13 @@ One night I will get the perfect photograp
 
 ### FULLMOON PARTY
 
+We took a boat ride from Koh Tao to Koh Phangan, followed by a local transfer to the bustling Haad Rin Beach. Upon arrival, we spotted a stall offering fluorescent body painting. However, knowing that she possessed a natural talent for art, we made a frugal decision: we would paint the designs on ourselves rather than paying the vendor, saving a considerable amount of money.
+
 ```<a-map>
 points:99.824118,10.084742,Koh Tao (Mae Haad Pier)|99.984432,9.709127,Thong Sala|100.068051,9.676993,Haad Rin
 ```
+
+By the time we reached the sand, the beach was already teeming with life. We purchased our fuel for the night—vodka mixed with Sprite, served in those iconic, makeshift plastic buckets with straws. It was she who spotted a two-tiered platform on the beach, resembling a grandstand. Since it was still relatively empty, we decided to claim this spot as our territory for the evening.
 
 ```<a-img>
 name:fullmoon0
@@ -50,12 +54,14 @@ name:fullmoon-13
 ```
 
 ```<a-img>
-name:fullmoon-14
+name:fullmoon-2
 ```
 
 ```<a-img>
-name:fullmoon-2
+name:fullmoon-14
 ```
+
+As the night progressed, the crowd swelled, and the atmosphere gradually intensified into a frenzy. At some point during the revelry, she handed me her glasses for safekeeping. In a moment of casual negligence, I hooked them onto the collar of my T-shirt. Lost in the euphoria of the moment, I remained completely oblivious to their fate. It was not until much later, when she casually asked about them, that the sinking realization hit me: the glasses were gone, likely lost amidst the chaos of our dancing.
 
 ```<a-img>
 name:fullmoon-1
@@ -67,16 +73,19 @@ dir:animation
 ```
 
 ```<a-img>
-name:fullmoon-4
-```
-
-Her glasses, which was on my shirt lost. I didn't notice that. My attention was diverted.
-
-<a-secret name="fullmoon" autoload></a-secret>
-
-```<a-img>
 name:fullmoon-8.jpg
 dir:privacy
+```
+
+```<a-img>
+name:fullmoon-11.jpg
+dir:privacy
+```
+
+<a-carousel :img="[{name:'fullmoon-6',dir:'privacy'},{name:'fullmoon-7',dir:'privacy'}]"></a-carousel>
+
+```<a-img>
+name:fullmoon-4
 ```
 
 ```<a-img>
@@ -88,65 +97,21 @@ name:fullmoon-11
 ```
 
 ```<a-img>
-name:fullmoon-11.jpg
-dir:privacy
-```
-
-```<a-img>
-name:fullmoon-6.jpg
-dir:privacy
-```
-
-```<a-img>
-name:fullmoon-7.jpg
-dir:privacy
-```
-
-```<a-img>
-name:fullmoon-9.jpg
-dir:privacy
-```
-
-```<a-img>
-name:fullmoon-10.jpg
-dir:privacy
-```
-
-```<a-img>
 name:fullmoon-5
 ```
 
-```<a-img>
-name:she-5.jpg
-dir:privacy
-```
-
-```<a-img>
-name:she-6.jpg
-dir:privacy
-```
-
-```<a-img>
-name:she-7.jpg
-dir:privacy
-```
-
-```<a-img>
-name:fullmoonend.jpg
-dir:privacy
-```
+<a-secret name="fullmoon" autoload></a-secret>
 
 ## KOH TAO
 
-```<a-img>
-name:bed-she.jpg
-dir:privacy
-```
+<a-secret name="fullmoon2" autoload></a-secret>
 
 ```<a-img>
 name:she-morning.jpg
 dir:privacy
 ```
+
+The following day, as I walked along the beach with her, there were beauties sunbathing au naturel on the sand, but my attention remained steadfastly on her silhouette; the lens of my gaze never wandered. We strolled until we reached a spot with loungers where we decided to rest. We also ventured to the row of houses behind and discovered that one of them housed a Chinese couple—a man and a woman—who hailed from Chengdu and had come to learn scuba diving. After exploring the area, we both agreed that the accommodations there were quite satisfactory.
 
 ```<a-img>
 name:she-9.jpg
@@ -168,9 +133,9 @@ name:she-12.jpg
 dir:privacy
 ```
 
-As I walked along the beach with her, there were beauties sunbathing au naturel on the sand, but my attention remained steadfastly on her silhouette; the lens of my gaze never wandered. We strolled until we reached a spot with loungers where we decided to rest. We also ventured to the row of houses behind and discovered that one of them housed a Chinese couple—a man and a woman—who hailed from Chengdu and had come to learn scuba diving. After exploring around, we both agreed that the accommodations in the area were quite satisfactory.
+When we arrived at the diving school later, they arranged for a vehicle to take us to our lodging. The car meandered through the area and eventually pulled up at the very same row of houses we had visited yesterday. I was assigned the room closest to the beach, while she got the one right next door.
 
-The following day, when we arrived at the diving school, they arranged for a vehicle to take us to our lodging. The car meandered through the area and eventually pulled up at the very same row of houses we had visited yesterday. I was assigned the room closest to the beach, while she got the one right next door.
+However, things changed quickly. She made new friends during her course, and we hardly saw or spoke to each other anymore.
 
 ```<a-img>
 name:she-10.jpg
@@ -188,7 +153,11 @@ points:99.825093,10.085696,Crystal Dive Resort
 divesites:99.81525,10.10535,White Rock|99.81301,10.11741,Twins Rocks|99.78779,10.16120,Chumphon Pinnacle|99.81537,10.10169,HTMS Sattakut
 ```
 
-In the evening, at the bar, I chatted with my diving instructor, who was strict in class but friendly in private. He told me about his adorable kitten that once climbed onto his shoulder to play. He also shared a piece of advice with me: "If you wear this massive dive computer, it won't help you attract any girls."
+One evening, after I finished my AOW course, I was at a bar chatting with my diving instructor. He was strict in class but friendly in private. He told me about his adorable kitten that once climbed onto his shoulder to play. He also shared a piece of advice with me: “If you wear this massive dive computer, it won’t help you attract any girls.”
+
+The AOW course took only two days, whereas her OW course required four. Those remaining two days felt endless. I had nothing to do but sit in front of the house drinking Chang beer, or walk along the shore collecting shells. In a quiet gesture of hope, I even arranged some shells into a star shape right outside her door.
+
+I barely held on until the fourth day. Then, she told me she planned to continue with the AOW course and would not be joining me for the rest of the itinerary. And so, I had to continue the journey alone.
 
 ## KRABI
 
