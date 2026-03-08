@@ -14,7 +14,7 @@ The genesis of this journey lay in a thread I posted on a travel forum, where I 
 
 This journey originated from a simple thread I posted on a travel forum, detailing my proposed itinerary for Chiang Mai. To my unexpected delight, the post resonated with a group of fellow travelers whose schedules aligned perfectly with mine. Interestingly, most of them hailed from my hometown, Chongqing, and, to my secret anticipation as a single man hoping for a romantic encounter, the group was predominantly female. We quickly arranged to converge in Chiang Mai, eager to explore the region together. Little did I know that this gathering of strangers would soon mirror the very scene from the movie: excitement, attraction, and the potential for something more.
 
-## CHIANG MAI
+## Chiang Mai
 
 <a-times :times="2" location="CHIANG MAI"></a-times>
 
