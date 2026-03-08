@@ -104,34 +104,11 @@ name:fullmoon-5
 
 ## KOH TAO
 
+Afterward, we took a boat back to Koh Tao. We slept through the entire day, recovering from the previous night’s party. It was nearly sunset when we finally woke up and made our way to the beach. As I walked along the beach with her, there were beauties sunbathing au naturel on the sand, but my attention remained steadfastly on her silhouette; the lens of my gaze never wandered. We strolled until we reached a spot with loungers where we decided to rest. We also ventured to the row of houses behind and discovered that one of them housed a Chinese couple—a man and a woman—who hailed from Chengdu and had come to learn scuba diving. After exploring the area, we both agreed that the accommodations there were quite satisfactory.
+
+<a-carousel :img="[{name:'she-13.jpg',dir:'privacy'},{name:'she-11.jpg',dir:'privacy'},{name:'she-12.jpg',dir:'privacy'},{name:'she-9.jpg',dir:'privacy'}]"></a-carousel>
+
 <a-secret name="fullmoon2" autoload></a-secret>
-
-```<a-img>
-name:she-morning.jpg
-dir:privacy
-```
-
-The following day, as I walked along the beach with her, there were beauties sunbathing au naturel on the sand, but my attention remained steadfastly on her silhouette; the lens of my gaze never wandered. We strolled until we reached a spot with loungers where we decided to rest. We also ventured to the row of houses behind and discovered that one of them housed a Chinese couple—a man and a woman—who hailed from Chengdu and had come to learn scuba diving. After exploring the area, we both agreed that the accommodations there were quite satisfactory.
-
-```<a-img>
-name:she-9.jpg
-dir:privacy
-```
-
-```<a-img>
-name:she-13.jpg
-dir:privacy
-```
-
-```<a-img>
-name:she-11.jpg
-dir:privacy
-```
-
-```<a-img>
-name:she-12.jpg
-dir:privacy
-```
 
 When we arrived at the diving school later, they arranged for a vehicle to take us to our lodging. The car meandered through the area and eventually pulled up at the very same row of houses we had visited yesterday. I was assigned the room closest to the beach, while she got the one right next door.
 
