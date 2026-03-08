@@ -14,9 +14,9 @@ Once again, I had a brief stay before taking a direct flight to Surat Thani.
 
 <a-flight flight="FD3239" departure="DMK" destination="URT" departure-time="2017-01-06 11:40" arrive-time="2017-01-06 12:50"></a-flight>
 
-## SURATTHANI
+## Surat Thani
 
-<a-times :times="1" location="SURATTHANI"></a-times>
+<a-times :times="1" location="Surat Thani"></a-times>
 
 People visit Suratthani because it's the gateway to the Gulf of Thailand. From the international airport, you'll be able to visit Koh Phangan, Koh Samui and the Ang Thong National Marine.
 
@@ -67,7 +67,7 @@ name:a7-1
 name:a7-2
 ```
 
-## THE GREAT ROUTE
+## The Great Route
 
 It was the hardest route plan I've ever made.
 

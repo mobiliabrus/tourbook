@@ -6,13 +6,13 @@
 
 Having secured my visa, I deliberately chose not to tuck any money into my passport as some online guides suggested; I believed such practices should not be encouraged. The initial customs check proceeded smoothly, and I finally set foot in Bangkok. Following the guidebook's advice, I located an ATM on the second floor to withdraw some Thai Baht. With cash in hand, I was ready to embark on my journey.
 
-### DON MEANG
+### Don Mueang
 
 As the terminal doors slid open, a wall of heat instantly enveloped me. Navigating through the humid air, I made my way to the bus stop. The bus pulled up, turning right, while I boarded from the left. I took the A1 bus to Mo Chit, planning to transfer to the BTS to reach my final destination.
 
 <a-map points="100.60039043426515,13.917301445032487,A1 Bus|100.5545711,13.802285,Mo Chit" route='{"legs":[{"steps":[],"weight":863,"summary":"","duration":775,"distance":14117.8}],"weight_name":"routability","geometry":{"coordinates":[[100.600384,13.917308],[100.55846,13.841454],[100.557303,13.834878],[100.559839,13.811459],[100.554462,13.802345]],"type":"LineString"},"weight":863,"duration":775,"distance":14117.8}'></a-map>
 
-### FIRST DAY
+### First Day
 
 On that first day, I was overwhelmed by Foreign Language Anxiety and completely avoided speaking to anyone. It was not until the second day that this anxiety began to subside. The city presented a somewhat dilapidated appearance, with numerous street vendors pushing carts along the roadsides. White-collar workers commuted on "motos," a local taxi service where uniformed drivers operate motorcycles, allowing passengers to ride pillion.
 
@@ -20,7 +20,7 @@ My hostel room felt like a cramped cell. Beyond its window, Bangkok erupted into
 
 > This is it—Bangkok, good-time city. Gateway to Southeast Asia. Where dollars and Deutsche Mark get turned into counterfeit watches and genuine scars.
 
-### PRATUNAM
+### Pratunam
 
 The following morning, I relocated to a hotel near Pratunam. Nestled on a bustling street, the hotel overlooked a lively market teeming with activity. A steady stream of people flowed through the narrow lanes, weaving between vendors peddling diverse goods. Maneuvering through this vibrant maze required both patience and agility, as one had to navigate the crowds and find paths amidst the stalls. The dynamic atmosphere was captivating yet slightly overwhelming, perfectly encapsulating the energetic spirit of the area.
 
@@ -48,11 +48,11 @@ name:bkdelay2
 dir:animation
 ```
 
-### COWBOY
+### Cowboy
 
 In the evening, I visited Cowboy Street, a small red-light district. After finding a seat and ordering a bottle of beer, a Caucasian man sat across from me and offered a greeting. We began chatting, and to my surprise, he worked in Chongqing. However, as soon as his "Thai wife" arrived, he excused himself and left.
 
-### CHINA TOWN
+### China Town
 
 The next day, the journey to Chinatown was not without challenges. Initially, I took the subway heading to Hua Lamphong but mistakenly alighted at the train station. With no better option, I opted for a motorcycle taxi. Not particularly comfortable on motorcycles, I instinctively placed my hand on the driver's shoulder when we turned corners, which seemed to bother him. Fortunately, the destination was nearby, and we arrived swiftly.
 
@@ -64,9 +64,9 @@ Clearly, Chinatown did not leave a favorable impression on me.
 
 <a-secret name="body2body"></a-secret>
 
-## SUKHOTHAI
+## Sukhothai
 
-<a-times :times="1" location="SUKHOTHAI"></a-times>
+<a-times :times="1" location="Sukhothai"></a-times>
 
 ```<a-map>
 points:100.53985634597014,13.752907383951737,Baiyoke Suite Hotel|100.548074,13.813143,Mo Chit Bus Station
@@ -87,8 +87,6 @@ Lost and unable to locate the resort, I spotted only a humble food cart selling 
 We drove a mere hundred meters forward, turned right for another hundred, and soon arrived at the hotel. To my surprise, he demanded no payment, revealing only that he was a teacher in the area. I then recalled seeing a group of boy scouts traveling in a vehicle earlier—perhaps they were his students.
 
 <a-map :zoom="15" points="99.702936,17.030496,Tourist Information Center|99.706329,17.031670,Baan Rim Klong Resort" route='{"legs":[{"steps":[],"weight":65,"summary":"","duration":65,"distance":536.5}],"weight_name":"routability","geometry":{"coordinates":[[99.702871,17.030497],[99.702891,17.032022],[99.704591,17.031841],[99.706311,17.031568]],"type":"LineString"},"weight":65,"duration":65,"distance":536.5}'></a-map>
-
-### BAAN ROM KLONG RESORT
 
 > _It belongs to a very kind family._
 > _Good place, just behind The Tourist Center._
@@ -134,15 +132,11 @@ points:99.687335,17.022397,Restaurant|99.702393,17.031913,Fireflies|99.706329,17
 route:{"legs":[{"steps":[],"weight":697.8,"summary":"","duration":697.8,"distance":2895.8}],"weight_name":"duration","geometry":{"coordinates":[[99.687147,17.022514],[99.68918,17.025146],[99.689335,17.02506],[99.690548,17.025006],[99.69317,17.025464],[99.694898,17.025551],[99.694987,17.025625],[99.69533,17.028108],[99.695462,17.028221],[99.696056,17.028167],[99.696263,17.032062],[99.696453,17.032261],[99.702882,17.031795],[99.702891,17.032022],[99.706311,17.031568]],"type":"LineString"},"weight":697.8,"duration":697.8,"distance":2895.8}
 ```
 
-### MORNING
-
 The next morning, I intended to cycle along a quiet lane to the bus stop situated next to a 7-Eleven, where I planned to book a ticket to Chiang Mai. As I passed through a residential area, the locals lining the road warmly greeted me. I returned their kindness with smiles, cycling the entire length of the street in a haze of friendliness. One man even stepped out of his yard to stop me; he shook my hand enthusiastically, asking where I was from and where I was headed. It was a simple yet touching interaction that highlighted the hospitality of the ancient city.
 
 <a-map points="99.706329,17.031670,Baan Rim Klong Resort|99.709757,17.018625,Bus Stop" route='{"legs":[{"steps":[],"weight":52.6,"summary":"","duration":52.6,"distance":364.9},{"steps":[],"weight":65.9,"summary":"","duration":65.9,"distance":901.5},{"steps":[],"weight":74.1,"summary":"","duration":74.1,"distance":499.5},{"steps":[],"weight":68.6,"summary":"","duration":68.6,"distance":451.6},{"steps":[],"weight":48.8,"summary":"","duration":48.8,"distance":351}],"weight_name":"routability","geometry":{"coordinates":[[99.706311,17.031568],[99.702917,17.032019],[99.702702,17.027534],[99.703155,17.027033],[99.703722,17.025449],[99.703495,17.024631],[99.703863,17.024665],[99.707306,17.024831],[99.707363,17.023637],[99.707466,17.022345],[99.708167,17.02218],[99.710039,17.021152],[99.710264,17.021081],[99.710243,17.019016],[99.710115,17.018501],[99.70976,17.018493]],"type":"LineString"},"weight":310,"duration":310,"distance":2568.5}'></a-map>
 
 That night, the proprietor’s captivating daughter knocked on my door. She told me about a local festival taking place nearby and invited me to join them. Citing exhaustion, I declined, saying I was too tired to go out. Looking back, I deeply regret that decision; I likely missed out on a unique and memorable experience.
-
-### ON THE ROAD
 
 ```<a-map>
 points:99.709757,17.018625,Bus Stop|99.4807422,18.2772803,Lampang bus terminal|99.017627,18.799716,Chiang Mai Bus Terminal 3
@@ -153,9 +147,9 @@ On the bus, I sat a few rows from the rear, where a small group of foreigners ha
 
 The bus made a short stop at the Lampang terminal. Mistaking it for my final destination, I disembarked. It took only a moment of observation to realize my error—this was not Chiang Mai. Hurriedly, I boarded the bus again before it departed, relieved to have corrected my mistake so quickly.
 
-## CHIANG MAI
+## Chiang Mai
 
-<a-times :times="1" location="CHIANG MAI"></a-times>
+<a-times :times="1" location="Chiang Mai"></a-times>
 
 On my first evening in Chiang Mai, I decided to explore the city on foot. Relying on my faint recollection of the map, I strolled along the Ping River, passing the consulate, as well as vibrant flower and fruit markets. I paused in a narrow alley to enjoy a local snack before trusting my instincts to guide me back to the hotel, walking along the historic moat that encircles the old city. The night air was cool, and the unfamiliar streets felt inviting rather than intimidating.
 
@@ -194,7 +188,7 @@ name:tj3
 
 > _What are you doing in thailand? Tourist? You go to Patpong? See smoke from pussy, ping pong ball from pussy, razor blade from pussy; bird from pussy. Why not? Thai girls best in the world. Thai food best in the world. Thai dope best in the world._
 
-### PATONG
+### Patong
 
 <a-hotel name="Royal Crown Hotel & Palm Spa resort" date="2013-10-19" nights="1" points="98.305505,7.893803"></a-hotel>
 
@@ -230,7 +224,7 @@ name:victorria-2
 name:victorria-3
 ```
 
-### Phuket TOWN
+### Phuket Town
 
 ```<a-img>
 name:pktbus
@@ -256,7 +250,7 @@ Mueang Phuket Exercise Park
 
 <a-map points="98.3829377,7.8874035,Pattra Mansion by AKSARA Collection|98.39725386383,7.8677293941849165,Saphan Hin" route='{"legs":[{"steps":[],"weight":180.5,"summary":"","duration":180.5,"distance":1990.3},{"steps":[],"weight":31.9,"summary":"","duration":31.9,"distance":455.2},{"steps":[],"weight":124.6,"summary":"","duration":124.6,"distance":1224.5}],"weight_name":"routability","geometry":{"coordinates":[[98.38293,7.887441],[98.382806,7.887416],[98.382851,7.886794],[98.382299,7.886755],[98.382617,7.881609],[98.381673,7.879681],[98.384767,7.87964],[98.388703,7.876021],[98.389129,7.875745],[98.389509,7.875723],[98.391924,7.876239],[98.393462,7.876845],[98.393612,7.876902],[98.393753,7.876537],[98.393953,7.871559],[98.394277,7.869858],[98.394496,7.869544],[98.397264,7.867723]],"type":"LineString"},"weight":337,"duration":337,"distance":3670}'></a-map>
 
-### SIRI
+### Sirinat
 
 <a-hotel name="Chill House Nai Yang" date="2013-10-27" nights="2" points="98.3019226,8.0920261"></a-hotel>
 
@@ -316,9 +310,7 @@ name:flighte
 
 ## Bangkok
 
-### PRATUNAM
-
-#### BAIYOKE SUITE HOTEL
+### Pratunam
 
 I returned to my previous hotel.
 
