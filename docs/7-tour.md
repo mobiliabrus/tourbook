@@ -30,21 +30,14 @@ points:116.0487216,5.9436606,KKIA Terminal 2|116.0763801,5.9809019,Airport Bus S
 route:{"legs":[{"steps":[],"weight":434.7,"summary":"","duration":434.7,"distance":5915.7},{"steps":[],"weight":103.2,"summary":"","duration":103.2,"distance":757.3},{"steps":[],"weight":252.2,"summary":"","duration":252.2,"distance":2393.8},{"steps":[],"weight":4133.8,"summary":"","duration":4133.8,"distance":83481.1}],"weight_name":"routability","geometry":{"coordinates":[[116.048664,5.943653],[116.047424,5.948178],[116.06908,5.960142],[116.076408,5.980893],[116.078181,5.977649],[116.081515,5.973589],[116.081122,5.96801],[116.083912,5.969122],[116.084881,5.973828],[116.097233,5.977149],[116.110104,5.99217],[116.11799,5.9913],[116.122578,5.99871],[116.130385,6.002361],[116.151256,6.039517],[116.163372,6.046712],[116.181196,6.064106],[116.192067,6.085864],[116.201111,6.096951],[116.205571,6.115481],[116.213569,6.125842],[116.221809,6.146946],[116.236735,6.150241],[116.24439,6.14527],[116.269496,6.139995],[116.291816,6.144316],[116.295994,6.150382],[116.301981,6.148417],[116.309296,6.150317],[116.319389,6.142401],[116.330078,6.127365],[116.334786,6.125739],[116.345077,6.12886],[116.348309,6.125799],[116.34034,6.118168],[116.343818,6.109231],[116.348694,6.110424],[116.354704,6.107402],[116.36173,6.110807],[116.367149,6.10714],[116.375245,6.118385],[116.387228,6.120544],[116.403365,6.114586],[116.402426,6.10521],[116.408874,6.11147],[116.419512,6.110611],[116.423781,6.10438],[116.422795,6.097665],[116.437037,6.090765],[116.442113,6.075549],[116.441895,6.067778],[116.448571,6.052712],[116.452658,6.049748],[116.455557,6.051625],[116.452936,6.042021],[116.457969,6.037155],[116.457215,6.030186],[116.468999,6.02202],[116.471693,6.017031],[116.480378,6.013468],[116.494692,6.020092],[116.500244,6.017628],[116.497064,6.022864],[116.51338,6.017425],[116.514098,6.010832],[116.525863,6.004608],[116.542172,6.005282]],"type":"LineString"},"weight":4923.9,"duration":4923.9,"distance":92547.9}
 ```
 
+After an arduous eighteen-hour journey, I finally reached my accommodation. Once settled and having watched the sunset, I treated myself to a well-deserved dinner at Balsam Café within Mount Kinabalu Park.
+
 <a-hotel name="Dormitory (Grace Hostel) at Kinabalu Park (1585M)" date="2017-04-02" nights="1"></a-hotel>
 
 ```<a-map>
 points:116.5421188,6.0053195,Kinabalu National Park;116.5393427365916,6.01042297268944,Grace hostel
 route:{"legs":[{"steps":[],"weight":70.37,"summary":"","duration":578.1,"distance":722.8}],"weight_name":"routability","geometry":{"coordinates":[[116.542422,6.005841],[116.542243,6.006101],[116.542259,6.006649],[116.542187,6.006838],[116.542093,6.006883],[116.541805,6.006874],[116.541693,6.006964],[116.541677,6.007045],[116.541816,6.007345],[116.54182,6.007521],[116.541477,6.008092],[116.541507,6.008461],[116.541397,6.008803],[116.540851,6.00945],[116.540549,6.009588],[116.540305,6.009781],[116.540264,6.009924],[116.540317,6.010171],[116.540066,6.010147],[116.539919,6.010203],[116.539773,6.010195],[116.539334,6.01035]],"type":"LineString"},"weight":70.37,"duration":578.1,"distance":722.8}
 ```
-
-After an arduous eighteen-hour journey, I finally reached my accommodation. Once settled and having watched the sunset, I treated myself to a well-deserved dinner at Balsam Café within Mount Kinabalu Park.
-
-<div style="color:#999">
-• Mt KK Entrance fee <span style="text-decoration:underline">RM 15</span></br>
-• Climbing permit <span style="text-decoration:underline">RM 200</span></br>
-• Insurance <span style="text-decoration:underline">RM 7</span></br>
-• GUIDE FEE <span style="text-decoration:underline">RM 230</span> (1-5 Climbers)
-</div>
 
 However, a significant challenge lay ahead. The park regulations mandated that every climber hire a guide to ascend the sacred mountain. The costs were prohibitive for a solo traveler: besides the RM 15 entrance fee, RM 200 climbing permit, and RM 7 insurance, the guide fee alone was RM 230 for a group of one to five people. Since a single guide could accommodate up to six climbers, I needed to find companions to form a group and share the expenses. Consequently, I fashioned a sign to recruit fellow climbers.
 
@@ -73,16 +66,16 @@ In my preparation, I had overlooked a critical issue: my ten-kilogram backpack. 
 points:116.5421188,6.0053195,Kinabalu National Park|116.5462398,6.0291003,Timpohon Gate|116.5651771,6.058994,Laban Rata Resthouse;116.558832,6.075277,Low's Peak
 ```
 
-As soon as we set off, the trail revealed its true nature: a relentless, steep ascent that seemed to go on forever. The path was flanked by dense, lush vegetation, typical of the tropical rainforest, creating a green tunnel that enclosed us. Shortly after we began, the sky opened up, and rain started to pour down. Undeterred, we pressed on through the downpour, our clothes quickly soaked. Amidst the grey mist and dripping leaves, we occasionally spotted squirrels darting along the branches or pausing on the wet trail, the only lively companions in the arduous climb.
-
-```<a-img>
-name:mtkk-2
-```
-
 Before reaching the first rest station, I unexpectedly encountered another group of six Malaysian climbers, all ethnic Malays. Despite having not met them at the gate, we shared a moment of camaraderie and even took a group photo together. The trek proved far more arduous than I had imagined. Scenic highlights were scarce; aside from some squirrels spotted at the initial stop, there were no remarkable sights to behold. Yet, the spirit of mutual support prevailed. Along the trail, we encountered fellow climbers, exchanging words of encouragement that fueled our determination.
 
 ```<a-img>
 name:team-1
+```
+
+As soon as we set off, the trail revealed its true nature: a relentless, steep ascent that seemed to go on forever. The path was flanked by dense, lush vegetation, typical of the tropical rainforest, creating a green tunnel that enclosed us. Shortly after we began, the sky opened up, and rain started to pour down. Undeterred, we pressed on through the downpour, our clothes quickly soaked. Amidst the grey mist and dripping leaves, we occasionally spotted squirrels darting along the branches or pausing on the wet trail, the only lively companions in the arduous climb.
+
+```<a-img>
+name:mtkk-2
 ```
 
 ### LABAN RATA
@@ -90,8 +83,6 @@ name:team-1
 By 15:00, we finally arrived at Laban Rata, situated at an altitude of 3,270 meters.
 
 <a-hotel name="Non-Heated Dormitory-Laban Rata Resthouse" date="2017-04-03" nights="1"></a-hotel>
-
-22:30 lights off
 
 ```<a-img>
 name:raban-rata
