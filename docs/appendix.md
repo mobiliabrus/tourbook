@@ -6,9 +6,9 @@
 In 2019, following two years of economic stagnation and amidst emerging signs of recovery, a travel plan to Koh Lanta was formulated but ultimately not executed.
 
 The proposed itinerary and equipment configuration were as follows:
-- **Schedule & Accommodation**: Flexible scheduling with hostel-based lodging.
-- **Videography**: iPhone designated for film recording; DJI Pocket 3 sports camera allocated for vlogging.
-- **Photography**: Ricoh GR3x compact camera (40mm f/2.8 lens) selected for still photography.
+- Flexible scheduling with hostel-based lodging.
+- iPhone designated for film recording;<br/> DJI Pocket 3 sports camera allocated for vlogging.
+- Ricoh GR3x compact camera (40mm f/2.8 lens) selected for still photography.
 
 ```<a-map>
 points:99.0953657306661,7.533830747093447,Koh Lanta Yai|99.04069098221403,7.5540883194404245,Baan|99.09929031355453,7.470410218667524,Lanta National Park
