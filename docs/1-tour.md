@@ -1,6 +1,6 @@
-## BANGKOK
+## Bangkok
 
-<a-times :times="1" location="BANGKOK"></a-times>
+<a-times :times="1" location="Bangkok"></a-times>
 
 <a-flight flight="FD2557" departure="CKG" departure-time="2013-10-08 11:10" destination="DMK" arrive-time="2013-10-08 13:20"></a-flight>
 
@@ -188,9 +188,9 @@ name:tj3
 
 <a-flight flight="FD3162" departure="CNX" departure-time="2013-10-19 13:10" destination="HKT" arrive-time="2013-10-19 15:15"></a-flight>
 
-## PHUKET
+## Phuket
 
-<a-times :times="1" location="PHUKET"></a-times>
+<a-times :times="1" location="Phuket"></a-times>
 
 > _What are you doing in thailand? Tourist? You go to Patpong? See smoke from pussy, ping pong ball from pussy, razor blade from pussy; bird from pussy. Why not? Thai girls best in the world. Thai food best in the world. Thai dope best in the world._
 
@@ -230,7 +230,7 @@ name:victorria-2
 name:victorria-3
 ```
 
-### PHUKET TOWN
+### Phuket TOWN
 
 ```<a-img>
 name:pktbus
@@ -314,7 +314,7 @@ name:flighte
 
 <a-flight flight="FD3020" departure="HKT" departure-time="2013-10-29 08:00" destination="DMK" arrive-time="2013-10-29 09:25"></a-flight>
 
-## BANGKOK
+## Bangkok
 
 ### PRATUNAM
 

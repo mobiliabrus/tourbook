@@ -1,6 +1,6 @@
-## BANGKOK
+## Bangkok
 
-<a-times :times="3" location="BANGKOK"></a-times>
+<a-times :times="3" location="Bangkok"></a-times>
 
 <a-flight flight="FD557" departure="CKG" destination="DMK" departure-time="2015-03-31 11:10" arrive-time="2015-03-31 13:20"></a-flight>
 
@@ -18,20 +18,18 @@ name:she-1.jpg
 dir:privacy
 ```
 
-## KOH TAO
+## Koh Tao
 
-<a-times :times="2" location="KOH TAO"></a-times>
+<a-times :times="2" location="Koh Tao"></a-times>
 
 You think I waste time taking photographs of the sky.
 One night I will get the perfect photograp
 
 <a-hotel name="Ananda Villa" date="2015-04-03" nights="2"></a-hotel>
 
-## KOH PHANGAN
+## Koh Phangan
 
-<a-times :times="1" location="KOH PHANGAN"></a-times>
-
-### FULLMOON PARTY
+<a-times :times="1" location="Koh Phangan"></a-times>
 
 We took a boat ride from Koh Tao to Koh Phangan, followed by a local transfer to the bustling Haad Rin Beach. Upon arrival, we spotted a stall offering fluorescent body painting. However, knowing that she possessed a natural talent for art, we made a frugal decision: we would paint the designs on ourselves rather than paying the vendor, saving a considerable amount of money.
 
@@ -102,7 +100,7 @@ name:fullmoon-5
 
 <a-secret name="fullmoon" autoload></a-secret>
 
-## KOH TAO
+## Koh Tao
 
 Afterward, we took a boat back to Koh Tao. We slept through the entire day, recovering from the previous night’s party. It was nearly sunset when we finally woke up and made our way to the beach. As I walked along the beach with her, there were beauties sunbathing au naturel on the sand, but my attention remained steadfastly on her silhouette; the lens of my gaze never wandered. We strolled until we reached a spot with loungers where we decided to rest. We also ventured to the row of houses behind and discovered that one of them housed a Chinese couple—a man and a woman—who hailed from Chengdu and had come to learn scuba diving. After exploring the area, we both agreed that the accommodations there were quite satisfactory.
 
@@ -136,9 +134,9 @@ dir:privacy
 
 I barely held on until the fourth day. Then, she told me she planned to continue with the AOW course and would not be joining me for the rest of the itinerary. And so, I had to continue the journey alone.
 
-## KRABI
+## Krabi
 
-<a-times :times="1" location="KRABI"></a-times>
+<a-times :times="1" location="Krabi"></a-times>
 
 ```<a-map>
 points:98.810486,8.042807,Ao Nang Landmark Bus Station|98.395726,7.884028,Phuket Bus Terminal 1|98.294148,7.844075,Woraburi Phuket Resort & Spa
@@ -153,11 +151,11 @@ name:draw
 
 And as for traveling alone, fuck it. If that's the way it has to be, then that's the way it is.
 
-## PHUKET
+## Phuket
 
-<a-times :times="2" location="PHUKET"></a-times>
+<a-times :times="2" location="Phuket"></a-times>
 
-### KARON
+### Karon
 
 <a-hotel name="Woraburi Phuket Resort & Spa" date="2015-04-11" nights="4"></a-hotel>
 
@@ -165,7 +163,7 @@ And as for traveling alone, fuck it. If that's the way it has to be, then that's
 name:songkran-karon
 ```
 
-### SONGKRAN
+### Songkran
 
 ```<a-img>
 name:songkran1-1
@@ -182,9 +180,9 @@ points:98.294236,7.881441,Corner|98.294148,7.844075,Woraburi Phuket Resort & Spa
 route:{"legs":[{"steps":[],"weight":376.5,"summary":"","duration":376.5,"distance":5843}],"weight_name":"routability","geometry":{"coordinates":[[98.294258,7.881452],[98.292154,7.878607],[98.290382,7.877511],[98.290354,7.87642],[98.288223,7.873992],[98.285791,7.870037],[98.284673,7.866964],[98.284814,7.86525],[98.283748,7.862445],[98.284337,7.86109],[98.285937,7.860371],[98.288369,7.859858],[98.28956,7.860113],[98.290982,7.85964],[98.291895,7.860364],[98.292343,7.860312],[98.29234,7.858935],[98.291602,7.855761],[98.292643,7.853644],[98.293932,7.85343],[98.294975,7.85149],[98.29274,7.850287],[98.293478,7.849167],[98.293379,7.847359],[98.294161,7.844078]],"type":"LineString"},"weight":376.5,"duration":376.5,"distance":5843}
 ```
 
-## KOH SIMILAN
+## Koh Similan
 
-<a-times :times="1" location="KOH SIMILAN"></a-times>
+<a-times :times="1" location="Koh Similan"></a-times>
 
 ```<a-map>
 points:98.294148,7.844075,Woraburi Phuket Resort & Spa|98.251020,8.644964,Khao Lak Scuba Adventures
@@ -311,9 +309,9 @@ _pre-flight surface interval_
 
 <a-flight flight="UO764" departure="HKT" destination="HKG" departure-time="2015-04-21 02:55" arrive-time="2015-04-21 07:30"></a-flight>
 
-## HONGKONG
+## Hongkong
 
-<a-times :times="1" location="HONGKONG"></a-times>
+<a-times :times="1" location="Hongkong"></a-times>
 
 ```<a-img>
 name:hk

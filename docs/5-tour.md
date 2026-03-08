@@ -1,6 +1,6 @@
-## BANGKOK
+## Bangkok
 
-<a-times :times="4" location="BANGKOK"></a-times>
+<a-times :times="4" location="Bangkok"></a-times>
 
 In the past, to secure the most favorable fares, I would typically book my tickets a year in advance and allocate at least a fortnight for my vacation. In stark contrast, this time I made no advance bookings nor reserved any specific leave; I simply embarked on a spontaneous weekend getaway.
 

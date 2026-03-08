@@ -290,9 +290,9 @@ Eventually, I made my way back to the station, waiting for the next airport expr
 
 <a-hotel name="Samui Hostel" date="2017-04-10" nights="7"></a-hotel>
 
-## KOH PHANGAN
+## Koh Phangan
 
-<a-times :times="3" location="KOH PHANGAN"></a-times>
+<a-times :times="3" location="Koh Phangan"></a-times>
 
 ### FULLMOON PARTY
 
@@ -348,7 +348,7 @@ points:100.0639134,9.6742334,Haad Rin Pier|100.0610741,9.5713503,Bangrak Seatran
 
 ## KOH SAMUI
 
-### SONGKRAN 2561
+### Songkran 2561
 
 ```<a-img>
 name:japanspa-1

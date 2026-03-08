@@ -8,7 +8,7 @@
 
 The genesis of this journey lay in a thread I posted on a travel forum, where I outlined my itinerary for Chiang Mai. To my delight, this initiative attracted numerous fellow travelers with matching schedules, and we successfully arranged to meet up and explore the region together.
 
-## BANGKOK
+## Bangkok
 
 <a-flight flight="FD553" departure="CKG" destination="DMK" departure-time="2014-11-02 19:55" arrive-time="2014-11-02 22:05"></a-flight>
 
@@ -320,9 +320,9 @@ I saw she off at the airport.
 
 Accident
 
-## BANGKOK
+## Bangkok
 
-<a-times :times="2" location="BANGKOK"></a-times>
+<a-times :times="2" location="Bangkok"></a-times>
 
 Sheyao had originally planned to come with us to Koh Tao to learn diving, but had to change her itinerary due to a friend visiting Chiang Mai.
 
@@ -346,9 +346,9 @@ The vehicle stopped at a midway station, and after an agonizing night, we finall
 
 It's still the rainy season. As we were boarding the boat under the steel canopy at the pier, a large dark cloud drifted over. I only heard the sound of thunder rolling from a distance, approaching quickly and then fading away swiftly. This is typical of the coastal climate.
 
-## KOH TAO
+## Koh Tao
 
-<a-times :times="1" location="KOH TAO"></a-times>
+<a-times :times="1" location="Koh Tao"></a-times>
 
 ```<a-img>
 name:qinx1.jpg
@@ -546,7 +546,7 @@ In the dead of night, I was awakened by sounds emanating from the courtyard. Swi
 
 In retrospect, I wonder what compelled me to traverse half of Koh Tao, from one beach on one side of the mountain to another shore on the opposite side. Even with the risk of getting lost in the dark, I had to seek assistance from a local shopkeeper. They sent a motorcycle to fetch me, yet the steep downhill descent filled me with such trepidation that I chose to walk instead. Upon reaching my destination, I discovered that the hotel provided transportation services. So, what was the purpose of this arduous journey? Was it for the sake of a breathtaking vista or the hope that some goddess might suddenly appear amidst these surroundings?
 
-## BANGKOK
+## Bangkok
 
 <a-hotel name="48 ville" date="2014-11-2" nights="1"></a-hotel>
 

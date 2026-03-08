@@ -2,9 +2,9 @@ Why you visit a place twice, people asked. First, I have memories there. And the
 
 I made a serious blunder when I mistakenly booked the wrong dates for my hotel stay, and it wasn't until I received a notification that "check-in is tomorrow" that I realized my error. After some negotiations, I ended up having to pay more money and settle for a less desirable room.
 
-## BANGKOK
+## Bangkok
 
-<a-times :times="5" location="BANGKOK"></a-times>
+<a-times :times="5" location="Bangkok"></a-times>
 
 <a-flight flight="FD553" departure="CKG" destination="DMK" departure-time="2017-01-05 19:55" arrive-time="2017-01-05 22:05"></a-flight>
 
@@ -31,9 +31,9 @@ points:99.3283169,9.1438932,Surat Thani Transport Station|98.5198817,8.9006588,K
 route:{"legs":[{"steps":[],"weight":6683.1,"summary":"","duration":6683.1,"distance":120914},{"steps":[],"weight":3682.3,"summary":"","duration":3682.3,"distance":62251.3}],"weight_name":"routability","geometry":{"coordinates":[[99.328314,9.143897],[99.315156,9.132536],[99.303226,9.105135],[99.274331,9.116802],[99.233422,9.107348],[99.21863,9.114566],[99.161971,9.112457],[99.16292,9.098193],[99.175959,9.075531],[99.173927,9.05306],[99.136376,9.036094],[99.121389,9.042853],[99.102632,9.03601],[99.084821,9.042548],[99.061851,9.026852],[99.060301,9.020593],[99.040643,9.014655],[99.030904,9.004266],[99.032041,8.989977],[98.991327,8.939418],[98.964995,8.940269],[98.947079,8.926739],[98.928407,8.936788],[98.909899,8.922136],[98.887266,8.913354],[98.882974,8.888143],[98.861397,8.878048],[98.838762,8.885148],[98.787947,8.834211],[98.758083,8.846852],[98.735263,8.846844],[98.721039,8.865881],[98.708608,8.86636],[98.698391,8.882576],[98.676259,8.880526],[98.653015,8.893885],[98.632056,8.896889],[98.602669,8.909666],[98.582992,8.912158],[98.551021,8.892734],[98.532493,8.891156],[98.519918,8.900532],[98.499449,8.882974],[98.505383,8.879241],[98.507485,8.86764],[98.488423,8.84221],[98.473081,8.837601],[98.468998,8.844494],[98.447061,8.832258],[98.420969,8.778797],[98.398056,8.775256],[98.39195,8.779245],[98.389274,8.770678],[98.378382,8.772848],[98.366792,8.795252],[98.366084,8.819002],[98.336819,8.79329],[98.318191,8.758034],[98.306344,8.756502],[98.292454,8.762483],[98.262565,8.748834],[98.255014,8.736057],[98.258568,8.701565],[98.252755,8.688536],[98.251004,8.645055]],"type":"LineString"},"weight":10365.4,"duration":10365.4,"distance":183165.3}
 ```
 
-## KOH SIMILAN
+## Koh Similan
 
-<a-times :times="2" location="KOH SIMILAN"></a-times>
+<a-times :times="2" location="Koh Similan"></a-times>
 
 > In January 2017, Southern Thailand was hit by a devastating flood disaster. Thunderstorms and strong winds caused extreme waves in the sea.
 
@@ -93,9 +93,9 @@ route:{"legs":[{"steps":[],"weight":60.21,"summary":"","duration":385.1,"distanc
 
 After sleeping for two hours and then a six-hour journey of combined transportation by train and ship, I was there.
 
-## KOH PHANGAN
+## Koh Phangan
 
-<a-times :times="2" location="KOH PHANGAN"></a-times>
+<a-times :times="2" location="Koh Phangan"></a-times>
 
 I saw flood on this island. The minibus driver had to took detour from the jungle. Arrived at resort after lunchtime, I told the front deck that I had just finished my seagoing tour. The stormy weather made the ship swing and moving up and down. After voyage, I got a week-long Land Sickness which made me feel shifts under my feet.
 
@@ -112,7 +112,7 @@ route:{"legs":[{"steps":[],"weight":1149.2,"summary":"","duration":1090.4,"dista
 
 Shit. I'm still single. When I was home after my first tour, it was worse. I'd wake up, and there'd be nothing. When I was here, I wanted to be there. When I was there, all I could think of was getting back to the beach. I'm here a week now. Waiting for a passion. Getting softer. Every minute I stay in this room, I get weaker.
 
-## BANGKOK
+## Bangkok
 
 <a-flight flight="FD3240" departure="URT" destination="DMK" departure-time="2017-01-17 13:20" arrive-time="2017-01-17 14:35"></a-flight>
 
