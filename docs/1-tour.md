@@ -73,7 +73,7 @@ points:100.53985634597014,13.752907383951737,Baiyoke Suite Hotel|100.548074,13.8
 route:{"legs":[{"steps":[],"weight":638.3,"summary":"","duration":638.3,"distance":7879.5}],"weight_name":"routability","geometry":{"coordinates":[[100.539859,13.752906],[100.541631,13.752726],[100.542415,13.756085],[100.542421,13.762933],[100.539054,13.764538],[100.538061,13.764346],[100.537788,13.764958],[100.541181,13.770386],[100.550782,13.797426],[100.548354,13.797784],[100.547949,13.80846],[100.549516,13.811912],[100.548859,13.812817]],"type":"LineString"},"weight":638.3,"duration":638.3,"distance":7879.5}
 ```
 
-Every day at the hotel, a taxi driver waited downstairs. Each time he saw me, he would smile politely, inquire about my destination, and offer his services. Despite staying for two days, I had never accepted his offer—until today. This morning, it was time for him to receive some reward for his persistent kindness. I took his tuk-tuk to Mo Chit Bus Station, from where I would continue my journey to my next destination: Sukhothai.
+Every day at the hotel, a taxi driver waited downstairs. He had been stationed there for years, and every time I stepped out of the building, he would be there—always with a warm smile, always asking if I needed a ride. Day after day, I politely declined his offers. But today, on my departure morning, I finally had a destination that required his service. It felt like time to reward his persistent kindness with some business. I took his tuk-tuk to Mo Chit Bus Station, from where I would continue my journey to my next destination: Sukhothai.
 
 ```<a-map>
 points:100.548074,13.813143,Mo Chit Bus Station|99.812901,17.014624,Sukhothai Bus Terminal
@@ -82,7 +82,7 @@ route:{"legs":[{"steps":[],"weight":2602.1,"summary":"","duration":2602.1,"dista
 
 The bus only stopped in the new town, so upon disembarking, I walked directly to a songthaew (shared pickup truck). I asked the driver the fare to the ancient city and attempted to haggle. He simply said, "Okay." The driver took me to a convenience store in the ancient city, but I insisted on going to a nearby hotel. When we arrived, he claimed the place was far and refused any discount, making the whole trip unpleasant.
 
-Lost and unable to locate the resort, I spotted only a humble food cart selling skewers. I approached, purchased some, and used the opportunity to ask for directions. The cart owner promptly summoned a uniformed police officer, who kindly offered to guide me. As I prepared to depart, the officer insisted on personally driving me to the hotel in his pickup truck. My suspicions were initially raised, but his unwavering enthusiasm left me with no choice but to accept.
+Lost and unable to locate the resort, I spotted only a humble food cart selling skewers. I approached, purchased some, and used the opportunity to ask for directions. The cart owner promptly summoned a man in uniform—it looked like a police uniform to my untrained eye, though later I learned he was actually a school teacher, perhaps wearing some kind of scout leader attire. He kindly offered to guide me, then insisted on driving me to the hotel in his pickup truck. My suspicions were initially raised, but his unwavering enthusiasm left me with no choice but to accept.
 
 We drove a mere hundred meters forward, turned right for another hundred, and soon arrived at the hotel. To my surprise, he demanded no payment, revealing only that he was a teacher in the area. I then recalled seeing a group of boy scouts traveling in a vehicle earlier—perhaps they were his students.
 
@@ -136,14 +136,14 @@ The next morning, I intended to cycle along a quiet lane to the bus stop situate
 
 <a-map points="99.706329,17.031670,Baan Rim Klong Resort|99.709757,17.018625,Bus Stop" route='{"legs":[{"steps":[],"weight":52.6,"summary":"","duration":52.6,"distance":364.9},{"steps":[],"weight":65.9,"summary":"","duration":65.9,"distance":901.5},{"steps":[],"weight":74.1,"summary":"","duration":74.1,"distance":499.5},{"steps":[],"weight":68.6,"summary":"","duration":68.6,"distance":451.6},{"steps":[],"weight":48.8,"summary":"","duration":48.8,"distance":351}],"weight_name":"routability","geometry":{"coordinates":[[99.706311,17.031568],[99.702917,17.032019],[99.702702,17.027534],[99.703155,17.027033],[99.703722,17.025449],[99.703495,17.024631],[99.703863,17.024665],[99.707306,17.024831],[99.707363,17.023637],[99.707466,17.022345],[99.708167,17.02218],[99.710039,17.021152],[99.710264,17.021081],[99.710243,17.019016],[99.710115,17.018501],[99.70976,17.018493]],"type":"LineString"},"weight":310,"duration":310,"distance":2568.5}'></a-map>
 
-That night, the proprietor’s captivating daughter knocked on my door. She told me about a local festival taking place nearby and invited me to join them. Citing exhaustion, I declined, saying I was too tired to go out. Looking back, I deeply regret that decision; I likely missed out on a unique and memorable experience.
+That night, the proprietor's captivating daughter knocked on my door. She told me about a local festival taking place nearby and invited me to join them. But I was in no state for human connection. Days of travel had left me disheveled and withdrawn, trapped in a kind of self-imposed isolation. "I'm too tired," I lied, using exhaustion as an excuse to avoid the messiness of real interaction. Looking back, I deeply regret that decision; I likely missed out on a unique and memorable experience. But back then, I was too caught up in my own spiral to care.
 
 ```<a-map>
 points:99.709757,17.018625,Bus Stop|99.4807422,18.2772803,Lampang bus terminal|99.017627,18.799716,Chiang Mai Bus Terminal 3
 route:{"legs":[{"steps":[],"weight":10134.3,"summary":"","duration":10134.3,"distance":200802.7},{"steps":[],"weight":5170.7,"summary":"","duration":5170.7,"distance":96253.4}],"weight_name":"routability","geometry":{"coordinates":[[99.70976,17.018493],[99.696045,17.20267],[99.732636,17.308899],[99.643119,17.316523],[99.597921,17.343875],[99.507839,17.327281],[99.416724,17.349962],[99.352889,17.475054],[99.310317,17.637108],[99.238395,17.629967],[99.250977,17.655196],[99.23061,17.745856],[99.293294,17.852044],[99.336719,17.868505],[99.407514,18.198991],[99.480815,18.277324],[99.465519,18.266761],[99.381268,18.314105],[99.254705,18.329264],[99.202091,18.452457],[99.129069,18.464193],[99.128221,18.509805],[99.098903,18.509001],[99.048074,18.552945],[99.048894,18.69761],[99.017523,18.799644]],"type":"LineString"},"weight":15305,"duration":15305,"distance":297056.1}
 ```
 
-On the bus, I sat a few rows from the rear, where a small group of foreigners had gathered. We exchanged brief pleasantries. Sitting directly next to me was a Chinese man who claimed to be in the Burmese gem trade. He eagerly asked for my contact information, suggesting that I reach out to him once I arrived in Chiang Mai. However, a instinctive wariness held me back, and I politely declined; I had no intention of following up on that offer.
+On the bus, I sat a few rows from the rear, where a small group of foreigners had gathered. We exchanged brief pleasantries. Sitting directly next to me was a Chinese man who claimed to be in the Burmese gem trade. He eagerly asked for my contact information, suggesting that I reach out to him once I arrived in Chiang Mai. However, an instinctive wariness held me back, and I politely declined; I had no intention of following up on that offer.
 
 The bus made a short stop at the Lampang terminal. Mistaking it for my final destination, I disembarked. It took only a moment of observation to realize my error—this was not Chiang Mai. Hurriedly, I boarded the bus again before it departed, relieved to have corrected my mistake so quickly.
 
@@ -272,7 +272,9 @@ name:sirix
 
 On my final day in Phuket, the weather turned violent. The wind picked up sharply and it started raining heavily, accompanied by strong gusts of wind. This meant that the planes wouldn't land over the beach and my chance to capture those iconic photos was slipping away.
 
-However, time was not on my side. I had no choice but to brave the elements, struggling against the gale towards the coast. I trekked through Sirinat National Park until I reached the end of the paved road. Beyond that point, there was only sand. Soon, I encountered a makeshift "river" where runoff from the land had converged, carving a deep channel through the beach. The current was strong, so I carefully stowed my camera and waded across the icy water. After a arduous walk, I finally reached the spot directly beneath the runway's threshold. Just as I arrived, an Airbus A380 roared overhead, its massive belly seemingly within arm's reach as it climbed into the stormy sky.
+I had been obsessed with aviation photography since back home in China. That obsession had followed me here: I needed this shot, this perfect moment of metal descending from the stormy sky, another trophy to add to my collection of captured landscapes.
+
+However, time was not on my side. I had no choice but to brave the elements, struggling against the gale towards the coast. I trekked through Sirinat National Park until I reached the end of the paved road. Beyond that point, there was only sand. Soon, I encountered a makeshift "river" where runoff from the land had converged, carving a deep channel through the beach. The current was strong, so I carefully stowed my camera and waded across the icy water. After an arduous walk, I finally reached the spot directly beneath the runway's threshold. Just as I arrived, an Airbus A380 roared overhead, its massive belly seemingly within arm's reach as it climbed into the stormy sky.
 
 <a-map points="98.3019226,8.0920261,Chill House Nai Yang|98.299957,8.101805,↑walking alone beach|98.302161,8.111834,Runway" route='{"legs":[{"steps":[],"weight":158.9,"summary":"","duration":158.9,"distance":1475.2}],"weight_name":"routability","geometry":{"coordinates":[[98.301659,8.092062],[98.30172,8.092499],[98.29912,8.092541],[98.299239,8.095634],[98.299018,8.096273],[98.298646,8.096804],[98.298093,8.097362],[98.297981,8.09759],[98.297975,8.098116],[98.298415,8.10006],[98.300012,8.101748]],"type":"LineString"},"weight":158.9,"duration":158.9,"distance":1475.2}'></a-map>
 
@@ -321,6 +323,8 @@ They were reaching the climax of their activity.
 
 That's OK, they are on holiday.
 Instead of recording it, I turned on the air conditioning and television. I really enjoyed a moment of "silence".
+
+Along this journey, loneliness had been my constant companion, whispering doubts into my ear at every turn. But now, standing at the end of it all, I felt something else—a strange sense of release. Let them have their moment. Let me have mine. Just leave it be.
 
 ```<a-img>
 name:a1

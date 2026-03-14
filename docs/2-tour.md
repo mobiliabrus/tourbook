@@ -38,7 +38,7 @@ Everyone was obviously asleep because they were snoring loudly. I walked quietly
 
 When I woke the next morning, the room was empty; everyone else had already vanished into the city. A self-service breakfast awaited me—toast, butter, and instant coffee. A note pinned to the wall gently reminded guests to wash their own dishes, adding a touch of practical efficiency to the quiet morning.
 
-Stepping outside, I was immediately engulfed by the city’s frenetic energy. The community was a hive of activity; people rushed past with heads down, living at a breakneck pace that allowed for no pauses, no breaths, and no moments of stillness. It felt as though an invisible force was driving them forward.
+Stepping outside, I was immediately engulfed by the city's frenetic energy. The contrast with Thailand was striking—here, people rushed past with heads down, avoiding eye contact, their faces blank and unreadable. No warm smiles, no welcoming glances, just an invisible wall between strangers. It felt as though an invisible force was driving them forward, allowing for no pauses, no breaths, and no moments of stillness.
 
 This sense of relentless momentum followed me into my dining experiences. Determined to avoid high-end restaurants and crowded tourist traps, I sought out small Indian eateries, hoping for a slower, more affordable meal. However, even here, the rhythm was different. At the first restaurant I visited, no spoons were provided. When I asked for one, the owner simply demonstrated how to eat with hands, treating my request as a cultural misunderstanding rather than a preference. It was only after I insisted several times that he found a spoon for me. I shared this anecdote with Jing Yuman, knowing that having studied in Malaysia, she would appreciate such a raw slice of local cultural nuance. Sitting alone with my food, I did not feel like an outsider struggling to adapt; rather, I felt like a traveler observing a distinct way of life.
 
@@ -64,7 +64,7 @@ route:{"legs":[{"steps":[],"weight":214.4,"summary":"","duration":214.4,"distanc
 
 I had operated under the assumption that there was only one airport bus line serving the city. Perhaps this explained the uncertainty I overheard behind me. A young Chinese couple, who had boarded at the first stop, were whispering anxiously to each other, doubting whether this bus actually headed to the downtown area.
 
-Curiosity prompted me to turn around and join their discussion. I shared what I knew about the route, recounting how I had verified the transfer information before my departure. They listened with relief, and as our conversation deepened, they expressed surprise that I was traveling entirely alone. It was only then that I learned they were from Wuhan. They shared a charming story: both were passionate motorbike enthusiasts, and it was this shared love for riding that had brought them together and sparked their romance.
+Curiosity prompted me to turn around and join their discussion. For a moment, I hesitated—after the cold reception from Kuala Lumpur's locals, initiating conversation felt like stepping out of my comfort zone. But the anxiety in their voices reminded me of my own travel jitters, and I pushed through my reluctance. I shared what I knew about the route, recounting how I had verified the transfer information before my departure. They listened with relief, and as our conversation deepened, they expressed surprise that I was traveling entirely alone. It was only then that I learned they were from Wuhan. They shared a charming story: both were passionate motorbike enthusiasts, and it was this shared love for riding that had brought them together and sparked their romance.
 
 As fate would have it, after we disembarked and began walking, we discovered that our accommodations were located on adjacent streets, just a stone’s throw away from each other. This coincidence marked the beginning of a genuine friendship. Over the next few days, we stayed in close contact. I even visited their guesthouse, where we spent hours sipping tea and chatting. Their lodging was nestled right against a lush mountain backdrop. They excitedly told me that they had spotted monkeys roaming in the hills behind their house—a wild touch to their urban stay that I had completely missed in my solitary rush.
 
@@ -89,7 +89,7 @@ The next morning, while I was enjoying breakfast, 'Vegetable' approached me and 
 
 ### Pulau Sapi
 
-The destination was an island named Sapi. To our Chinese ears, the name sounded suspiciously like "shǎ bī" (stupid), so we jokingly refused to call it by its real name. Instead, we rechristened it "Mermaid Island," a title that proved to be far more than just a joke.
+The destination was an island named Sapi. To our Chinese ears, the name sounded suspiciously like "shǎ bī" (stupid), so we jokingly refused to call it by its real name. Instead, we rechristened it "Mermaid Island," though none of us knew then that the nickname would find its true purpose sooner than expected.
 
 ```<a-img>
 name:marilyn-2
@@ -124,7 +124,7 @@ name:marilyn-6
 name:marilyn-7
 ```
 
-We spent the afternoon snorkeling in the shallow waters. Although the seabed was littered with patches of dead coral, the crystal-clear water created a mesmerizing stage. It was there that I witnessed the origin of Marilyn’s nickname. As she dove beneath the surface, her movements were incredibly fluid and graceful. Through my camera lens, I captured a stunning shot of her gliding silently among the fish, her silhouette framed by the shimmering sunlight filtering from above. She looked exactly like a real-life mermaid. It wasn’t a trick of the light or an overactive imagination; the resemblance was uncanny. From that moment on, "Mermaid" wasn’t just a playful tease—it was her definitive title among us.
+We spent the afternoon snorkeling in the shallow waters. Although the seabed was littered with patches of dead coral, the crystal-clear water created a mesmerizing stage. It was there that Marilyn earned her nickname properly. As she dove beneath the surface, her movements were incredibly fluid and graceful. Through my camera lens, I captured a stunning shot of her gliding silently among the fish, her silhouette framed by the shimmering sunlight filtering from above. She looked exactly like a real-life mermaid—not because of some childish island game, but simply because she belonged in that element. From that moment on, "Mermaid" wasn't just a playful tease—it was her definitive title among us.
 
 ```<a-img>
 name:ng1
@@ -207,7 +207,7 @@ Upon checking into our accommodation—a modest dive lodge—we discovered to ou
 
 However, the atmosphere was tense. The Brazilian man was extremely abrasive, declaring that he refused to let anyone sleep on the top bunk of his bunk bed. Unwilling to argue, and since my itinerary allowed for only a single night here, I simply found an empty dormitory nextdoor and settled on one of the beds. I stayed there fully clothed and without a blanket, just making do until morning.
 
-The following morning, as I prepared to depart, the Brazilian man approached me. We shared a brief hug, and he offered a sincere apology for his behavior the previous night. With that matter resolved, I boarded Uncle Chang's boat.
+The following morning, as I prepared to depart, the Brazilian man approached me. He looked different from the night before—quieter, almost sheepish. Perhaps he had spent the night wondering where I'd slept, or maybe he realized I'd quietly yielded without argument. Whatever the reason, his arrogance had melted into something resembling guilt. We shared a brief hug, and he offered a sincere apology for his behavior the previous night. With that matter resolved, I boarded Uncle Chang's boat.
 
 ### ‌Pulau Mabul
 
@@ -261,7 +261,7 @@ Upon arriving at Kapalai, a resort renowned for its crystalline waters and stilt
 
 Suddenly, urgent shouts from the crew pierced the air, signaling all snorkelers to return to the boat immediately. I scanned the surface and realized Butterfly was the furthest away, struggling against a strengthening current. Without hesitation, I swam to her side, grasped her hand firmly, and rolled onto my back. Adopting a steady backstroke, I began to pull us both towards the boat.
 
-It was a wondrous and intimate sensation. As I stroked upward with rhythmic effort, keeping us afloat, Butterfly clung to my hand, her gaze fixed downward like a timid child mesmerized by the ocean floor below. In that moment, with the vast sea surrounding us and our hands tightly linked, a subtle, unspoken current of affection flowed between us. Although we parted ways shortly after, the existence of this ambiguous connection was indeed confirmed during our conversations several months later.
+It was a wondrous and intimate sensation. As I stroked upward with rhythmic effort, keeping us afloat, Butterfly clung to my hand, her gaze fixed downward like a timid child mesmerized by the ocean floor below. In that moment, with the vast sea surrounding us and our hands tightly linked, a subtle, unspoken current of affection flowed between us. We parted ways that day, never to meet again in person, but the existence of this ambiguous connection was confirmed in the weeks that followed through late-night online conversations that stretched into early morning.
 
 
 ### ‌Pulau Mabul
@@ -479,7 +479,7 @@ points:100.343897,5.420885,FORT Cornwallis|100.342654,5.421882,Danni|100.337566,
 route: {"legs":[{"steps":[],"weight":33.44,"summary":"","duration":319.9,"distance":399.6},{"steps":[],"weight":51.53,"summary":"","duration":440.6,"distance":550.4},{"steps":[],"weight":40.32,"summary":"","duration":334.1,"distance":417.1},{"steps":[],"weight":36.92,"summary":"","duration":295.3,"distance":369.2}],"weight_name":"routability","geometry":{"coordinates":[[100.343673,5.420902],[100.343688,5.420689],[100.343548,5.42075],[100.343507,5.420647],[100.343229,5.420755],[100.343311,5.421261],[100.343145,5.421361],[100.3432,5.421513],[100.343158,5.42153],[100.343493,5.421532],[100.343752,5.421415],[100.343723,5.421512],[100.343504,5.421618],[100.343219,5.421653],[100.342664,5.421904],[100.342149,5.422148],[100.342031,5.422448],[100.341915,5.422557],[100.340669,5.423119],[100.340455,5.423166],[100.34046,5.42324],[100.340044,5.423375],[100.339596,5.421683],[100.339446,5.421176],[100.338772,5.421479],[100.338423,5.42108],[100.338186,5.420999],[100.337692,5.421163],[100.337481,5.421291],[100.337504,5.421347],[100.337401,5.421389],[100.337289,5.421129],[100.337501,5.421088],[100.337518,5.420991],[100.337571,5.420972],[100.337542,5.420906],[100.336944,5.41954],[100.336037,5.419886],[100.3352,5.420133]],"type":"LineString"},"weight":162.21,"duration":1389.9,"distance":1736.3}
 ```
 
-Upon arrival, wouldn’t you know it, she led us straight to the exact hostel where Isis and I were lodged! The coincidence was astonishing. For a moment, we entertained the delightful speculation: Could we possibly be roommates? It was a perfect example of the serendipitous occurrences that make traveling so magical, turning a simple offer to capture a moment into an instant friendship.
+Upon arrival, wouldn't you know it, she led us straight to the exact hostel where Isis and I were lodged! The coincidence was astonishing—for a moment, I even doubted my own memory, wondering if I'd somehow subconsciously noted her presence before. But no, this was pure serendipity. We entertained the delightful speculation: Could we possibly be roommates? It was one of those perfect travel moments that defy logic, turning a simple offer to capture a moment into an instant friendship.
 
 ### Night Market
 
