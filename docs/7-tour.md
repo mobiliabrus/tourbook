@@ -10,6 +10,8 @@ Flight & Arrival Log
 - _09:30 - 12:05_: Flight AK5106 (KUL to KK - Kota Kinabalu).
 - Took the Airport Bus (<span style="text-decoration:underline">RM 5</span>) to Bandaran Berjaya terminal.
 
+This was the seventh time. The motions were familiar now—the taxi ride, the check-in counters, the security lines. But something felt different. There was no excitement, no anticipation of what lay ahead. Just a quiet determination to complete what I had started, to tick off the last item on a list that had long since lost its meaning.
+
 The red-eye flight from Chongqing proved more arduous than anticipated. Continuous cabin noise and limited seat recline prevented deep sleep, rendering the four-hour journey subjectively longer than the three-hour sector to Bangkok. Upon landing in Kuala Lumpur at dawn, food options were scarce; a single cup of coffee sufficed before returning to the departure lounge for the connecting flight.
 
 <a-flight flight="D7809" departure="CKG" destination="KUL" departure-time="2017-04-02 01:50" arrive-time="2017-04-02 06:40"></a-flight>
@@ -59,7 +61,7 @@ name:mtkk-1
 
 The trek to Laban Rata covered a distance of 6 kilometers, involving an ascent from Timpohon Gate at 1,866 meters to an altitude of 3,273 meters—a climb estimated to take six hours.
 
-In my preparation, I had overlooked a critical issue: my ten-kilogram backpack. Carrying such a burden up the mountain would be no easy feat. Completely neglecting this reality, I passed through Timpohon Gate without hiring a porter. Eventually, I had no choice but to pay my guide extra to carry it for me.
+In my preparation, I had overlooked a critical issue: my ten-kilogram backpack. Carrying such a burden up the mountain would be no easy feat. Completely neglecting this reality—I simply forgot to consider it—I passed through Timpohon Gate without hiring a porter. Eventually, I had no choice but to pay my guide extra to carry it for me. Even my meticulous planning was beginning to betray me.
 
 
 ```<a-map>
@@ -163,7 +165,7 @@ By the time I went diving, I had regained my mobility, although I still felt a f
 
 <a-hotel name="Borneo Backpackers" date="2017-04-04" nights="2"></a-hotel>
 
-When I returned to Borneo Backpackers, it felt completely different. Although the room layout remained the same, it seemed as though the owner had changed. The shop downstairs had also been converted into a restaurant. This time, I did not stay in a mixed dormitory but opted for a single room instead. Due to my knee and limited mobility, I rarely ventured out, resulting in minimal interaction with others. The stark contrast from my previous experience made me feel like this place was now entirely different.
+When I returned to Borneo Backpackers, it felt like visiting a ghost from my past. The room layout remained the same, yet everything had shifted. The owner seemed different—perhaps it was a new person, or perhaps the warmth I remembered had simply existed in my memory. The shop downstairs had been converted into a restaurant. This time, I did not stay in the mixed dormitory but opted for a single room instead. Due to my knee and limited mobility, I rarely ventured out, spending most of my time confined to the room, nursing the injury. I didn't meet anyone new. Didn't speak to a single soul. The stark contrast from my previous experience—the lively conversations, Marilyn, Carl, the vegetable boy—all of it seemed like someone else's memory. This place hadn't changed; I had. Or maybe loneliness had finally caught up with me.
 
 ## Semporna
 
@@ -340,7 +342,9 @@ I found a camera in the sand. I asked around, it belongs to nobody. I danced and
 
 Middle night, where the music from the beach party is audible, a couple that we should be danced in the party found me. "It's him...a good guy who found a camera..." The guy told her girlfriend. We took photos, and they should uploaded. Unfortunately, I never found it.
 
-After that I took speed boat back to Koh Samui.
+Maybe that's fitting. Some moments aren't meant to be kept. They're meant to be lived, then released.
+
+After that I took speed boat back to Koh Samui. It was still early morning. The energy had drained out of me, the music fading into background noise. Maybe it was because I knew no one there. Or maybe it was because she wasn't there. Whatever the reason, the party felt hollow. I was done.
 
 ```<a-map>
 points:100.0639134,9.6742334,Haad Rin Pier|100.0610741,9.5713503,Bangrak Seatran Pier
