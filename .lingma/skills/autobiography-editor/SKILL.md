@@ -35,6 +35,13 @@ Analyze English autobiography content fragments, identify structural and grammat
   - If explanation: Adjust content based on the clarification provided
   - If supplement: Translate and integrate into appropriate positions
 
+## Optional Reference
+- For context and consistency, you may refer to: `docs/assets/confidential/autobiography_outline.mdx`
+- Use this reference when:
+  - Checking narrative structure alignment
+  - Ensuring character consistency
+  - Verifying emotional tone
+
 ## Output Format
 Respond in **Chinese** with:
 1. **Identified Issues**: List structural and grammatical problems found
