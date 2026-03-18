@@ -235,6 +235,11 @@ theme:satellite
 
 Baan Thai Apartment
 
+```<a-img>
+name:sheswim.jpg
+dir:privacy
+```
+
 ### Loy Krathong
 
 First, we went for a spa treatment, and by the time it concluded, the popular Water Lantern Festival had already begun, so we joined in the festivities.
