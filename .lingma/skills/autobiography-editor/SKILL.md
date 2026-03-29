@@ -28,6 +28,8 @@ Analyze English autobiography content fragments, identify structural and grammat
 - **File access convention for confidential assets**: 
   - `docs/assets/confidential/*.mdx` files are valid markdown files
   - Only access `docs/*.md` and `docs/assets/confidential/*.mdx` files, never access `docs/assets/confidential/*.md` files
+- **Dual gaze preservation**: Maintain both past narrative voice and present commentary
+- **Chronological integrity**: Do not reorder events across the seven journeys
 
 ## Input Format
 - **English text**: Original autobiography fragments
@@ -41,6 +43,8 @@ Analyze English autobiography content fragments, identify structural and grammat
   - Checking narrative structure alignment
   - Ensuring character consistency
   - Verifying emotional tone
+  - Understanding the "Precise Waste" archetype
+  - Tracking the dual-gaze technique implementation
 
 ## Output Format
 Respond in **Chinese** with:

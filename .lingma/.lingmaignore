@@ -1,0 +1,19 @@
+# .lingmaignore
+# Files that Lingma should not access or modify
+
+# Raw confidential drafts (only .mdx versions are allowed)
+docs/assets/confidential/*.md
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+dist/**
+build/**
+
+# Dependencies
+node_modules/**
+
+# Git directory
+.git/**

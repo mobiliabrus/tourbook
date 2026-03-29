@@ -1,0 +1,57 @@
+{
+  "$schema": "https://lingma.ai/schema/config.json",
+  "version": "1.0.0",
+  "project": {
+    "name": "Tourbook",
+    "type": "travel-memoir",
+    "privacy": "private",
+    "language": {
+      "primary": "en",
+      "secondary": "zh-CN",
+      "explanations": "zh-CN"
+    }
+  },
+  "skills": {
+    "enabled": [
+      "autobiography-editor"
+    ],
+    "default": "tourbook-assistant"
+  },
+  "agents": {
+    "enabled": [
+      "tourbook-assistant"
+    ]
+  },
+  "rules": {
+    "enabled": [
+      "file-access",
+      "code-style",
+      "writing-style"
+    ]
+  },
+  "filePatterns": {
+    "include": [
+      "**/*.md",
+      "**/*.mdx",
+      "**/*.json",
+      "**/*.js"
+    ],
+    "exclude": [
+      "docs/assets/confidential/*.md",
+      "node_modules/**",
+      ".git/**"
+    ]
+  },
+  "customComponents": {
+    "prefix": "a-",
+    "types": [
+      "flight",
+      "map",
+      "img",
+      "hotel",
+      "times",
+      "secret",
+      "bg"
+    ]
+  }
+}
