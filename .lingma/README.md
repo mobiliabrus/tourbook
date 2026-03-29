@@ -9,14 +9,16 @@ Tourbook is a travel memoir project documenting seven overseas journeys and the 
 ├── config.json              # Main configuration file
 ├── .lingmaignore            # File access rules
 ├── rules/                   # Rules directory
-│   ├── file-access.md       # File access rules
+│   ├── file-access.md       # File access & permission rules
 │   ├── code-style.md        # Code style rules
 │   └── writing-style.md     # Writing style guide
 ├── skills/                  # Skills directory
 │   ├── autobiography-editor/
 │   │   └── SKILL.md         # English autobiography editing skill
-│   └── travel-editor/
-│       └── SKILL.md         # Travel narrative editing skill
+│   ├── travel-editor/
+│   │   └── SKILL.md         # Travel narrative editing skill
+│   └── timeline-context/
+│       └── SKILL.md         # Timeline lookup & context skill
 ├── agents/                  # Agent configurations
 │   └── tourbook-assistant.json  # Main assistant agent
 └── README.md                # This file
@@ -28,17 +30,38 @@ Tourbook is a travel memoir project documenting seven overseas journeys and the 
 Use `tourbook-assistant` as your default helper. It integrates all relevant skills:
 - **autobiography-editor**: English grammar and structure refinement
 - **travel-editor**: Narrative flow and emotional authenticity
+- **timeline-context**: Chronological context and cross-reference navigation
 
 ### Accessing Files
-When working with the project:
-- ✅ **Allowed**: `docs/*.md` and `docs/assets/confidential/*.mdx`
-- ❌ **Forbidden**: `docs/assets/confidential/*.md` (raw drafts)
 
-### Custom Components
-This project uses custom markdown components (`<a-flight>`, `<a-map>`, `<a-img>`, etc.). When editing:
-- Never modify component syntax unless fixing errors
-- Preserve all attributes exactly
-- Maintain component block integrity
+#### Access Levels
+
+**✅ ALLOWED (No Permission Required)**
+- `docs/*.md` - Public content files
+- `docs/_sidebar.md`, `docs/_navbar.md` - Navigation files
+- `docs/assets/confidential/timeline.mdx` - Timeline index
+- `docs/assets/confidential/autobiography_outline.mdx` - Narrative guide
+
+**⚠️ PERMISSION REQUIRED (Must Ask First)**
+- `docs/assets/confidential/*.mdx` - Private stories (apple.mdx, hq.mdx, jyy.mdx, etc.)
+  - LLM will ask: "This is confidential content from your private stories. Do you want me to access [filename]?"
+  - Must wait for your explicit confirmation before proceeding
+
+**❌ FORBIDDEN (Never Access)**
+- `docs/assets/confidential/*.md` - Raw drafts
+
+### Permission Workflow Example
+```
+User: 帮我看看 hq.mdx 里的内容
+
+Assistant: I see you're asking about hq.mdx, which is one of your confidential 
+private stories about He Qian. This contains personal content. 
+Do you want me to access this file?
+
+User: Yes, please.
+
+Assistant: [Now proceeds to read the file]
+```
 
 ## Configuration Details
 
@@ -48,11 +71,12 @@ This project uses custom markdown components (`<a-flight>`, `<a-map>`, `<a-img>`
 - **Primary Language**: English (content)
 - **Secondary Language**: Chinese (explanations)
 - **Custom Component Prefix**: `a-`
+- **Permission Rules**: Explicit consent required for confidential .mdx files
 
 ### File Patterns
 **Included:**
 - `**/*.md` - Markdown files
-- `**/*.mdx` - MDX files
+- `**/*.mdx` - MDX files (with permission requirements)
 - `**/*.json` - JSON configuration
 - `**/*.js` - JavaScript scripts
 
@@ -61,10 +85,14 @@ This project uses custom markdown components (`<a-flight>`, `<a-map>`, `<a-img>`
 - `node_modules/**` - Dependencies
 - `.git/**` - Git metadata
 
+**Require Permission:**
+- `docs/assets/confidential/*.mdx` - Private stories (except timeline & outline)
+
 ### Enabled Rules
-1. **file-access**: Controls which files can be accessed
+1. **file-access**: Controls file access levels + permission workflow
 2. **code-style**: Defines custom component syntax rules
 3. **writing-style**: Establishes narrative voice and tone guidelines
+4. **privacy-protection**: Enforces consent-based access to personal stories
 
 ## Skills
 
@@ -98,6 +126,24 @@ This project uses custom markdown components (`<a-flight>`, `<a-map>`, `<a-img>`
 - Checking emotional progression
 - Balancing past/present voices
 
+### timeline-context
+**Purpose**: Provide chronological context and navigation assistance
+
+**Capabilities**:
+- Timeline lookup (dates, sequences, relationships)
+- Cross-reference mapping between files
+- Structural overview provision
+- Context awareness during editing
+
+**Access Level**: ✅ Can freely access `timeline.mdx`
+
+**When to Use**:
+- "When did this event happen?"
+- "What came before/after this?"
+- "Which file covers this person?"
+- "Show me the overall structure"
+- Automatically provides context while editing
+
 ## Agent
 
 ### tourbook-assistant
@@ -105,10 +151,11 @@ The main assistant that combines all skills and understands project context.
 
 **Features**:
 - Understands seven-journey structure
-- Protects confidential materials
+- Protects confidential materials with permission workflow
 - Preserves dual-gaze narrative technique
 - Maintains chronological integrity
 - Applies minimal changes principle
+- Respects privacy boundaries
 
 **Default Behaviors**:
 - Respond in Chinese for explanations
@@ -116,6 +163,52 @@ The main assistant that combines all skills and understands project context.
 - Preserve author's voice
 - Protect custom components
 - Maintain chronology
+- **Ask permission before accessing private stories**
+- Respect user's privacy decisions
+
+**Special Instructions**:
+1. Respect dual-gaze narrative technique
+2. Never modify custom component syntax unless fixing errors
+3. Preserve "Precise Waste" character archetype
+4. Maintain chronological integrity (Tour 1-7)
+5. **PROTECT PRIVACY**: Ask before accessing confidential .mdx files
+6. Apply minimal changes principle
+7. Explain how changes affect emotional tone
+8. Check for Chinglish patterns
+9. Preserve sensory details
+10. Ask before making significant structural changes
+11. Use timeline-context for chronological awareness
+12. Respect user's decision if they decline file access
+
+## Privacy Protection
+
+### Three Access Levels
+
+#### Level 1: Public Content (Free Access)
+- All `docs/*.md` files
+- Navigation and configuration files
+- Timeline index and autobiography outline
+
+#### Level 2: Private Stories (Permission Required)
+- Personal narratives about real people
+- Confidential relationship accounts
+- Intimate emotional experiences
+
+**Rule**: LLM must ask: "This is confidential content from your private stories. Do you want me to access [filename]?"
+
+**Wait for**: Your explicit "yes", "please", "go ahead", or equivalent
+
+#### Level 3: Raw Drafts (Never Access)
+- Working drafts in `.md` format
+- Unfinished or abandoned content
+- Internal working documents
+
+### Why Privacy Matters
+These are real people's lives and relationships. The confidential designation:
+- Protects your privacy and theirs
+- Prevents accidental exposure of sensitive content
+- Gives you control over what gets processed
+- Maintains ethical boundaries around personal narratives
 
 ## Writing Style Guide
 
@@ -162,102 +255,79 @@ Assistant responds with:
 [Corrected English version]
 ```
 
-### Example 2: Narrative Flow
+### Example 2: Timeline Context
 ```markdown
-User: How's the transition between these two paragraphs?
+User: 我遇到张丹妮是什么时候？
 
-Assistant analyzes:
-- Paragraph coherence
-- Emotional continuity
-- Dual-gaze balance
-- Provides specific suggestions
+Assistant checks timeline.mdx:
+## Time Reference
+
+**Event**: Meeting Zhang Danni
+**Date**: January 2014
+**Chapter**: Tour II - Backpacking (2-tour.md)
+**Context**: During solo travel to Malaysia (Kota Kinabalu, Mabul)
 ```
 
-### Example 3: Component Validation
+### Example 3: Permission Request
 ```markdown
-User: Is this flight component correct?
+User: 对比一下 jyy.mdx 和 dl.mdx
 
-Assistant validates:
-- IATA airport codes
-- Datetime format
-- Flight number pattern
-- Confirms or flags issues
+Assistant: This will require accessing two confidential files:
+- jyy.mdx (about Jia Yangyang)
+- dl.mdx (about Du Yue)
+
+May I access both files to help with the comparison?
+
+User: 好的
+
+Assistant: [Now proceeds to read both files]
 ```
 
-## Special Instructions
+## Best Practices
 
-### Always Remember
-1. Respect the dual-gaze narrative technique
-2. Never modify custom component syntax unless fixing errors
-3. Preserve the "Precise Waste" character archetype
-4. Maintain chronological integrity (Tour 1 → Tour 7)
-5. Protect confidential draft files
-6. Apply minimal changes principle
-7. Explain how changes affect emotional tone
-8. Check for Chinglish patterns
-9. Preserve sensory details
-10. Ask before making significant structural changes
+### For Users
+1. ✅ Clearly state which files you want to work on
+2. ✅ Grant permission explicitly when asked
+3. ✅ Provide context about which time period/journey
+4. ✅ Specify if you need timeline context automatically
+5. ❌ Don't expect LLM to remember confidential content between sessions
 
-### Clarification Needed When
-- Emotional tone shifts dramatically without setup
-- Timeline becomes unclear or contradictory
-- Character motivation seems inconsistent
-- Cultural details appear inaccurate
-- User requests comparison between .md and .mdx versions
-
-## Project Structure Reference
-
-### Public Content
-- `docs/README.md` - Introduction
-- `docs/episode-1.md`, `episode-2.md` - Prelude
-- `docs/1-tour.md` through `7-tour.md` - Main Chronicles
-- `docs/appendix.md` - Supplementary material
-
-### Confidential Materials
-- `docs/assets/confidential/*.mdx` - Finalized personal stories
-- `docs/assets/confidential/autobiography_outline.mdx` - Narrative outline
-
-### Build System
-- `package.json` - NPM scripts
-- `../scripts/lib/watch` - Development server
-- `../scripts/lib/encodeAll` - Build command
-- `../scripts/lib/decodeAll` - Revert command
+### For LLM
+1. ✅ Always check file access level before reading
+2. ✅ Pause and ask when confidential file is requested
+3. ✅ Be specific about which file you're asking to access
+4. ✅ Wait for clear confirmation before proceeding
+5. ✅ Use timeline.mdx frequently for context
+6. ✅ Respect user's privacy decisions
+7. ✅ Never quote private stories in public files without permission
 
 ## Troubleshooting
 
 ### Common Issues
 
-**Issue**: Component syntax broken after edit
-**Solution**: Restore original component, only edit surrounding text
+**Issue**: LLM accessed confidential file without asking
+**Solution**: Remind it of the permission rule. It should apologize and wait for consent.
 
-**Issue**: Dual gaze feels unbalanced
-**Solution**: Check ratio (~70% past narrative, ~30% present commentary)
+**Issue**: Can't find information about a person/event
+**Solution**: Check timeline.mdx first - it has the master index with links
 
-**Issue**: Emotional tone too sentimental
-**Solution**: Add present "I" commentary for distance
+**Issue**: Timeline shows different date than chapter
+**Solution**: Flag the inconsistency. Timeline.mdx is usually authoritative.
 
-**Issue**: Chronology confusion
-**Solution**: Verify tour numbering and event sequence
-
-## Best Practices
-
-1. **Read First**: Understand the fragment's position in the journey arc
-2. **Check Components**: Ensure all `<a-*>` tags are intact
-3. **Identify Voices**: Mark past vs present narration
-4. **Minimal Edits**: Apply smallest necessary changes
-5. **Explain Changes**: Provide reasoning in Chinese
-6. **Preserve Voice**: Author's expression is paramount
-7. **Ask Questions**: When uncertain, clarify before acting
+**Issue**: Need context but don't want to share private story
+**Solution**: Ask LLM to check timeline.mdx only - it has metadata without details
 
 ## Notes
 - This is a "medical report" on forced confrontation with reality
 - The goal is refinement, not rewriting
 - Dual gaze is the core technique - protect it fiercely
 - Seven journeys form a complete arc - maintain structural integrity
-- Confidential materials require special handling
+- **Privacy protection is paramount - always respect boundaries**
+- Timeline.mdx is your friend - use it for navigation and context
 
 ## Support
 For questions about .lingma configuration or usage, refer to:
-- `config.json` for project settings
-- `rules/` directory for specific guidelines
-- Skill documentation for editing workflows
+- `config.json` for project settings and permission rules
+- `rules/file-access.md` for detailed permission workflow
+- `skills/timeline-context/SKILL.md` for timeline usage
+- `agents/tourbook-assistant.json` for agent capabilities

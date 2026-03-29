@@ -1,6 +1,10 @@
 
 <a-secret name="shapingpark" autoload></a-secret>
 
+<a-secret name="lu" autoload></a-secret>
+
+<a-secret name="zx" autoload></a-secret>
+
 <a-secret name="zounian" autoload></a-secret>
 
 <a-secret name="tuhuan" autoload></a-secret>
@@ -11,11 +15,7 @@
 
 <a-secret name="lxm" autoload></a-secret>
 
-<a-secret name="zx" autoload></a-secret>
-
 <a-secret name="dd" autoload></a-secret>
-
-<a-secret name="lu" autoload></a-secret>
 
 ### Weizhou Island
 
@@ -104,9 +104,9 @@ dir:privacy
 
 <a-flight flight="CA4166" departure="XMN" departure-time="2013-06-07 22:05" destination="CKG" arrive-time="2013-06-08 00:30"></a-flight>
 
-### West Sichua
+### Western Sichuan
 
-Having returned from Gulangyu a mere fortnight ago, I received another invitation to travel to West Sichuan. Although travel had recently become a frequent occurrence for me, I accepted the offer.
+Having returned from Gulangyu a mere fortnight ago, I received another invitation to travel to Western Sichuan. Although travel had recently become a frequent occurrence for me, I accepted the offer.
 
 My plan was to fly directly to Shangri-La, then retrace my route along National Highway 318. The itinerary included stops at Daocheng Yading along the way, with the ultimate destination being Minya Kongka.
 

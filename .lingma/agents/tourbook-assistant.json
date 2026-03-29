@@ -11,7 +11,8 @@
   ],
   "skills": [
     "autobiography-editor",
-    "travel-editor"
+    "travel-editor",
+    "timeline-context"
   ],
   "context": {
     "projectType": "travel-memoir-website",
@@ -61,6 +62,10 @@
     "fileAccess": {
       "allow": [
         "docs/*.md",
+        "docs/assets/confidential/timeline.mdx",
+        "docs/assets/confidential/autobiography_outline.mdx"
+      ],
+      "requirePermission": [
         "docs/assets/confidential/*.mdx"
       ],
       "forbid": [
@@ -75,21 +80,26 @@
     "preserveVoice": true,
     "minimalEdits": true,
     "protectComponents": true,
-    "maintainChronology": true
+    "maintainChronology": true,
+    "protectPrivacy": true
   },
   "specialInstructions": [
     "Always respect the dual-gaze narrative technique (past 'I' vs present 'I')",
     "Never modify custom component syntax (<a-*>) unless fixing errors",
     "Preserve the 'Precise Waste' character archetype throughout all edits",
     "Maintain chronological integrity of the seven journeys (Tour 1-7)",
-    "Protect confidential draft files (.md in confidential directory)",
+    "PROTECT PRIVACY: Never access docs/assets/confidential/*.mdx without explicit user permission",
+    "EXCEPTIONS: timeline.mdx and autobiography_outline.mdx can be accessed freely",
+    "When requesting file access, use: 'This is confidential content from your private stories. Do you want me to access [filename]?'",
+    "Wait for explicit user confirmation before accessing any confidential .mdx file",
     "Apply minimal changes principle - smallest edit that resolves the issue",
     "When suggesting changes, explain how they affect emotional tone",
     "Check for Chinglish patterns and suggest natural English alternatives",
     "Preserve sensory details (heat, sounds, smells, visuals)",
     "Ensure each journey follows: Ambition → Action → Failure → Emptiness",
     "Ask for clarification before making significant structural changes",
-    "Remember: This is a 'medical report' on forced confrontation with reality"
+    "Remember: This is a 'medical report' on forced confrontation with reality",
+    "Use timeline-context skill to maintain chronological awareness"
   ],
   "capabilities": {
     "editing": {
@@ -111,13 +121,19 @@
       "dataIntegrity": true,
       "chronology": true,
       "crossReferences": true
+    },
+    "navigation": {
+      "timelineLookup": true,
+      "fileMapping": true,
+      "contextProvision": true
     }
   },
   "interactionStyle": {
     "tone": "professional yet empathetic",
     "approach": "collaborative",
     "feedbackStyle": "constructive with specific examples",
-    "questioningStyle": "clarifying before acting"
+    "questioningStyle": "clarifying before acting",
+    "privacyAwareness": "highly sensitive and respectful"
   },
   "outputPreferences": {
     "format": "structured markdown",

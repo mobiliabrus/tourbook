@@ -13,7 +13,8 @@
   },
   "skills": {
     "enabled": [
-      "autobiography-editor"
+      "autobiography-editor",
+      "timeline-context"
     ],
     "default": "tourbook-assistant"
   },
@@ -26,7 +27,8 @@
     "enabled": [
       "file-access",
       "code-style",
-      "writing-style"
+      "writing-style",
+      "privacy-protection"
     ]
   },
   "filePatterns": {
@@ -40,6 +42,9 @@
       "docs/assets/confidential/*.md",
       "node_modules/**",
       ".git/**"
+    ],
+    "requirePermission": [
+      "docs/assets/confidential/*.mdx"
     ]
   },
   "customComponents": {
@@ -53,5 +58,13 @@
       "secret",
       "bg"
     ]
+  },
+  "permissionRules": {
+    "confidentialMdx": {
+      "pattern": "docs/assets/confidential/*.mdx",
+      "rule": "must-ask-before-access",
+      "message": "This is confidential content. Do you want me to access this file?",
+      "exceptions": []
+    }
   }
 }
