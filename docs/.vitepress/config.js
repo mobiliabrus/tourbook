@@ -13,6 +13,14 @@ export default defineConfig({
     ['link', { rel: 'icon', href: '/favicon.ico' }],
   ],
   
+  vite: {
+    resolve: {
+      alias: {
+        'vue': 'vue/dist/vue.esm-bundler.js'
+      }
+    }
+  },
+  
   themeConfig: {
     sidebar: [
       { text: 'INTRO', link: '/' },

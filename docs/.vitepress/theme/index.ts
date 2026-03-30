@@ -14,14 +14,15 @@ import ABg from '../components/ABg.vue'
 import AGallery from '../components/AGallery.vue'
 import ADivelog from '../components/ADivelog.vue'
 import ALazyContent from '../components/ALazyContent.vue'
+import Map from '../components/ol-map/index.vue'
 
 export default {
   extends: DefaultTheme,
   enhanceApp({ app }) {
     app.component('AImg', AImg)
     app.component('a-img', AImg)
-    app.component('AMap', AMap)
-    app.component('a-map', AMap)
+    app.component('AMap', Map)
+    app.component('a-map', Map)
     app.component('AFlight', AFlight)
     app.component('a-flight', AFlight)
     app.component('AHotel', AHotel)
