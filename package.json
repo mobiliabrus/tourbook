@@ -1,10 +1,18 @@
 {
   "name": "tourbook",
   "version": "0.0.0",
+  "type": "module",
   "private": true,
   "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "preview": "vitepress preview docs",
     "start": "node ../scripts/lib/watch",
-    "build": "node ../scripts/lib/encodeAll",
-    "revert": "node ../scripts/lib/decodeAll"
+    "encode": "node ../scripts/lib/encodeAll",
+    "decode": "node ../scripts/lib/decodeAll"
+  },
+  "devDependencies": {
+    "vitepress": "^1.6.4",
+    "vue": "^3.5.31"
   }
 }
