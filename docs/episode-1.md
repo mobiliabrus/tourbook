@@ -1,6 +1,6 @@
 <a-secret name="jyy" autoload></a-secret>
 
-### South Korea
+## South Korea
 
 The year I was named Sales Champion, the reward was supposed to be a trip to Thailand. However, due to the political turmoil surrounding the Red Shirt Movement, our destination was abruptly changed to South Korea. This detour marked not only my first journey abroad but also my inaugural flight.
 
@@ -68,7 +68,7 @@ Upon returning home, I made the pivotal decision to resign from my job and pursu
 
 <a-secret name="ranling" autoload></a-secret>
 
-### Weizhou Island
+## Weizhou Island
 
 I have visited Weizhou Island twice, with my first trip taking place in July 2011.
 

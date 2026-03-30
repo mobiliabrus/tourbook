@@ -34,7 +34,7 @@ name:balake2.jpg
 dir:privacy
 ```
 
-### Tree Houses
+## Tree Houses
 
 The following morning marked the true beginning of our expedition. A van from the Treehouse Lodge set off to collect us, starting with the furthest point: Baan Thai on Nimmanhaeminda Road. Here, the first two members of our group boarded the empty van.
 
@@ -225,7 +225,7 @@ name:treehouse-27.jpg
 dir:privacy
 ```
 
-### Swimming Pool
+## Swimming Pool
 
 ```<a-map>
 points:98.9660400,18.7979829,Baan Thai Apartment
@@ -240,7 +240,7 @@ name:sheswim.jpg
 dir:privacy
 ```
 
-### Loy Krathong
+## Loy Krathong
 
 First, we went for a spa treatment, and by the time it concluded, the popular Water Lantern Festival had already begun, so we joined in the festivities.
 
@@ -268,7 +268,7 @@ dir:privacy
 name:deng
 ```
 
-### Old City
+## Old City
 
 11-6
 
@@ -319,7 +319,7 @@ points:98.9660400,18.7979829,Baan Thai Apartment|98.9547589,18.8083025,Chiang Ma
 route:{"legs":[{"steps":[],"weight":143.1,"summary":"","duration":143.1,"distance":2047}],"weight_name":"routability","geometry":{"coordinates":[[98.966012,18.797801],[98.966534,18.797729],[98.967612,18.80062],[98.967771,18.801202],[98.967685,18.801386],[98.954757,18.808299]],"type":"LineString"},"weight":143.1,"duration":143.1,"distance":2047}
 ```
 
-### Chiang Mai Airport
+## Chiang Mai Airport
 
 I saw she off at the airport.
 
@@ -362,7 +362,7 @@ dir:privacy
 
 We eventually got on the boat, and the sea was very rough; it felt like we were surfing as the boat rose and fell with the waves, dropping suddenly each time. Half of the passengers on board ended up seasick and vomiting. I couldn’t vomit though, which left me feeling miserable with nausea. Qin, however, was fine. I only felt better after forcing myself to sleep for a while; when I woke up, we could already see Koh Tao.
 
-### Crystal Dive
+## Crystal Dive
 
 When we first arrived on the island, it would often rain, and the ground was crawling with millipedes as thick as thumbs. The diving shop provided free accommodation, but Qin wasn’t satisfied with it and rented another room elsewhere. I, on the other hand, made do with what was provided.
 
@@ -481,7 +481,7 @@ name:crystal-4
 name:crystal-5
 ```
 
-### Qin
+## Qin
 
 ```<a-img>
 name:qinx2.jpg
@@ -520,7 +520,7 @@ dir:privacy
 name:kohtaosunset
 ```
 
-### Moondance
+## Moondance
 
 I had originally planned to go to this cliff house with her, but now I have to muster the courage to go alone. Qin was also left behind.
 

@@ -80,7 +80,7 @@ As soon as we set off, the trail revealed its true nature: a relentless, steep a
 name:mtkk-2
 ```
 
-### Laban Rata
+## Laban Rata
 
 By 15:00, we finally arrived at Laban Rata, situated at an altitude of 3,270 meters.
 
@@ -108,7 +108,7 @@ However, a more pressing issue emerged shortly after. I discovered that my passp
 
 The day ended abruptly. At 22:30, lights were turned off throughout the lodge. We needed to rest immediately, as we were scheduled to wake up before dawn the next day for the final summit push.
 
-### Low's Peak
+## Low's Peak
 
 _So close, yet so far._
 
@@ -169,7 +169,7 @@ When I returned to Borneo Backpackers, it felt like visiting a ghost from my pas
 
 ## Semporna
 
-### Seaventure Rig
+## Seaventure Rig
 
 <a-times :times="2" location="Semporna"></a-times>
 
@@ -192,7 +192,7 @@ divesites:118.630882,4.250431,Paradise 2
 
 <a-lazycontent><iframe src="https://player.xinpianchang.com/?aid=10216905&amp;mid=9POpZQXqRxV7Er5a" allowfullscreen="" allow="fullscreen" frameborder="0" style="border: none;"></iframe></a-lazycontent>
 
-### Band
+## Band
 
 ```<a-img>
 name:band-1
@@ -213,7 +213,7 @@ name:vivian
 dir:animation
 ```
 
-### Sipadan
+## Sipadan
 
 ```<a-img>
 name:sipandan-2
@@ -240,7 +240,7 @@ name:sh2
 ```
 
 
-### Kapalai
+## Kapalai
 
 ```<a-img>
 name:seaventure-1
@@ -264,7 +264,7 @@ Scheduled land transfer from Semporna to Tawau Airport at 1200hrs
 
 <a-flight flight="AK5741" departure="TWU" destination="KUL" departure-time="2017-04-09 18:20" arrive-time="2017-04-09 21:45"></a-flight>
 
-### Sepang
+## Sepang
 
 As I walked down the street from the station, the crowds gradually thinned out. When I reached an intersection, I hesitated – should I take the dimly lit path in the distance or stick to the main road, even if it meant a longer detour? I chose the latter. However, this route proved to be much farther than I had anticipated, and it took me quite some time to reach the hotel.
 
@@ -296,7 +296,7 @@ Eventually, I made my way back to the station, waiting for the next airport expr
 
 <a-times :times="3" location="Koh Phangan"></a-times>
 
-### Full Moon Party
+## Full Moon Party
 
 drunkards, goats, hookers, drugsters and tourists.
 
@@ -352,7 +352,7 @@ points:100.0639134,9.6742334,Haad Rin Pier|100.0610741,9.5713503,Bangrak Seatran
 
 ## Koh Samui
 
-### Songkran 2561
+## Songkran 2561
 
 ```<a-img>
 name:japanspa-1

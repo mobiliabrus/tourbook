@@ -17,7 +17,7 @@
 
 <a-secret name="dd" autoload></a-secret>
 
-### Weizhou Island
+## Weizhou Island
 
 My second visit to Weizhou Island was a solitary journey.
 
@@ -43,7 +43,7 @@ arrive-time:2012-09-13 11:45
 
 <a-secret name="dww" autoload></a-secret>
 
-### Mount Emei
+## Mount Emei
 
 In January, equipped with a newly purchased set of waterproof jackets, my camera, and a heavy-duty tripod, I boarded a train bound for Chengdu. Upon arrival, I transferred to a long-distance bus that took me to the foot of Mount Emei. As vehicle access to the summit was restricted, I spent the night at the base and began my ascent at the crack of dawn the following day.
 
@@ -65,7 +65,7 @@ dir:animation
 
 After descending the mountain, I spent one final night at its base. Sitting in the hotel lobby, I watched a news report on television detailing the most severe smog crisis in China's history.
 
-### Gulangyu Island
+## Gulangyu Island
 
 In March, I purchased my very first budget airline ticket, scheduled for a flight to Bangkok, Thailand, in October. However, prior to that trip, in June, I spontaneously embarked on a journey to Gulangyu Island—a true embodiment of a spur-of-the-moment adventure.
 
@@ -104,7 +104,7 @@ dir:privacy
 
 <a-flight flight="CA4166" departure="XMN" departure-time="2013-06-07 22:05" destination="CKG" arrive-time="2013-06-08 00:30"></a-flight>
 
-### Western Sichuan
+## Western Sichuan
 
 Having returned from Gulangyu a mere fortnight ago, I received another invitation to travel to Western Sichuan. Although travel had recently become a frequent occurrence for me, I accepted the offer.
 

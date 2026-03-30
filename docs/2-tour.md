@@ -87,7 +87,7 @@ Then there was Marilyn from Paris, who mentioned she had been traveling in China
 
 The next morning, while I was enjoying breakfast, 'Vegetable' approached me and invited me to join our small group on an independent excursion to a nearby island. I was thrilled to accept, especially when I learned that Marilyn had been invited as well. It seemed my lonely journey was about to become a shared adventure.
 
-### Pulau Sapi
+## Pulau Sapi
 
 The destination was an island named Sapi. To our Chinese ears, the name sounded suspiciously like "shǎ bī" (stupid), so we jokingly refused to call it by its real name. Instead, we rechristened it "Mermaid Island," though none of us knew then that the nickname would find its true purpose sooner than expected.
 
@@ -176,7 +176,7 @@ dir:privacy
 
 The adventure, however, came with a steep price. Upon returning from the island, I discovered that my back had been severely sunburned. The pain was immediate and intense. Over the next few days, large patches of skin began to peel off, a painful but vivid reminder of my day under the tropical sun.
 
-### The Black Guy
+## The Black Guy
 
 Originally, my itinerary was meticulously planned well in advance, with flight tickets purchased early and only a brief stopover allocated for Kota Kinabalu. However, upon arriving in KK, I encountered a serendipitous connection that compelled me to depart sooner than intended. This unforeseen turn of events drastically truncated my stay. Consequently, I was forced to reluctantly forgo further underwater exploration the following day and embark on the next leg of my journey, leaving the pristine diving spots of Semporna for another time.
 
@@ -209,7 +209,7 @@ However, the atmosphere was tense. The Brazilian man was extremely abrasive, dec
 
 The following morning, as I prepared to depart, the Brazilian man approached me. He looked different from the night before—quieter, almost sheepish. Perhaps he had spent the night wondering where I'd slept, or maybe he realized I'd quietly yielded without argument. Whatever the reason, his arrogance had melted into something resembling guilt. We shared a brief hug, and he offered a sincere apology for his behavior the previous night. With that matter resolved, I boarded Uncle Chang's boat.
 
-### ‌Pulau Mabul
+## ‌Pulau Mabul
 
 
 ```<a-img>
@@ -241,7 +241,7 @@ name:mabul-1
 
 Additionally, we encountered a girl from Chongqing diving alongside her mother on the platform, a sight that filled us all with admiration for her courage.
 
-### Kapalai
+## Kapalai
 
 The three girls from Guangdong had planned only a brief half-day stopover; their itinerary involved snorkeling at Kapalai before proceeding to Mataking Island. Our boat ferried them towards Kapalai, taking a route that passed the Seaventure Dive Rig—a distinctive offshore oil platform repurposed into a diving resort. We paused beneath the towering structure to drop off a fellow passenger, a girl who was scheduled to stay there.
 
@@ -264,7 +264,7 @@ Suddenly, urgent shouts from the crew pierced the air, signaling all snorkelers 
 It was a wondrous and intimate sensation. As I stroked upward with rhythmic effort, keeping us afloat, Butterfly clung to my hand, her gaze fixed downward like a timid child mesmerized by the ocean floor below. In that moment, with the vast sea surrounding us and our hands tightly linked, a subtle, unspoken current of affection flowed between us. We parted ways that day, never to meet again in person, but the existence of this ambiguous connection was confirmed in the weeks that followed through late-night online conversations that stretched into early morning.
 
 
-### ‌Pulau Mabul
+## ‌Pulau Mabul
 
 A favorite pastime on the platform involved a simple yet challenging game: swinging a small iron ring suspended from a string to hook it onto a stationary metal peg positioned opposite. It was an addictive diversion that initially frustrated most players, as the ring would stubbornly swing back and forth, eluding capture time and again. I spent a solid hour mastering it before finally discerning the trick: one must guide the ring in an elliptical trajectory and apply a subtle spinning force, which stabilizes its path and allows it to latch onto the hook with satisfying precision.
 
@@ -317,7 +317,7 @@ After checking into my accommodation, I decided to take a leisurely stroll throu
 
 Upon my return to Kota Kinabalu, the hostel room was deserted. As evening fell, I reunited with Marilyn, and we promptly made plans for dinner. Afterward, she suggested visiting a nearby spot for a nightcap.
 
-### Salty Dog
+## Salty Dog
 
 I followed her to an open-air bar. We talked about some things, such as her experience in China and why she wanted to go back to France. She recommended a wine that was soaked in salt, and she was surprised that I finished it so quickly and ordered another one. Afterwards, we walked back to the hostel along the road. When I entered the room, she was video chatting with her boyfriend on the bed, and I said hello.
 
@@ -340,7 +340,7 @@ name:cat
 
 <a-times :times="1" location="Penang"></a-times>
 
-### George Town
+## George Town
 
 <a-flight flight="AK5323" departure="BKI" destination="PEN" departure-time="2014-01-13 13:20" arrive-time="2014-01-13 16:05"></a-flight>
 
@@ -359,7 +359,7 @@ Initially, I was the solitary occupant of this space. Later, Feng Cheche joined 
 
 Upon returning to the room after our chat, I was greeted by an unexpected sight: a young girl was perched on the top bunk, waving enthusiastically at me. She introduced herself as Isis Yu, a traveler from Hong Kong.
 
-### Little India
+## Little India
 
 I promptly introduced Isis to Feng Cheche. The three of us hit it off immediately and made plans to explore the city together the following day. True to our word, the next morning we set out for Little India. 
 
@@ -369,7 +369,7 @@ name:little-india-1
 
 2014-01-14
 
-### Jetty
+## Jetty
 
 A fresh day commenced with a new itinerary. Our first stop was the jetty, where we soaked in the harbor views before detouring to a separate ticketing office to secure Isis’s ferry passage to Langkawi. With that errand completed, we headed to Fort Cornwallis, a historic seaside citadel, to rest and explore.
  
@@ -427,7 +427,7 @@ dir:privacy
 name:george-town-fengcheche
 ```
 
-### Danni
+## Danni
 
 As we concluded our visit and began to depart, walking along the coastal path near the entrance, we spotted a young girl standing alone by the water, focused on taking selfies.
 
@@ -481,7 +481,7 @@ route: {"legs":[{"steps":[],"weight":33.44,"summary":"","duration":319.9,"distan
 
 Upon arrival, wouldn't you know it, she led us straight to the exact hostel where Isis and I were lodged! The coincidence was astonishing—for a moment, I even doubted my own memory, wondering if I'd somehow subconsciously noted her presence before. But no, this was pure serendipity. We entertained the delightful speculation: Could we possibly be roommates? It was one of those perfect travel moments that defy logic, turning a simple offer to capture a moment into an instant friendship.
 
-### Night Market
+## Night Market
 
 That evening, we embarked on a culinary expedition to the night market, the furthest point on our itinerary. We meandered through lively streets to reach the bustling hub, where every step proved worthwhile. Our gastronomic adventure began with the famous "Four-Fruit Soup." Its unique blend of flavors was so captivating that we returned to the stall multiple times. Equally remarkable were the braised chicken feet in soy sauce; their succulent texture and rich taste left us in awe. Later, Danni—the solo traveler from Chongqing we had met earlier—and I shared an exquisitely creamy durian. Its unparalleled sweetness set a benchmark in my memory that I have yet to encounter elsewhere. We capped off our feast with some scrumptious fried rice noodles before heading to a local bar, which was conveniently located closer to our hostel.
 
@@ -498,7 +498,7 @@ name:night-food
 name:night-food-2
 ```
 
-### Bar
+## Bar
 
 For Danni, this was her first-ever visit to a bar, and her excitement was palpable. Her eyes sparkled with curiosity as she took in the dim lights and the clinking of glasses. We found a cozy corner and spent hours immersed in lively conversation, sharing stories of our travels, dreams, and quirks. Time seemed to fly as we laughed and talked late into the night, thoroughly enjoying the camaraderie.
 
@@ -520,7 +520,7 @@ Suddenly, a motorcycle zoomed past us, carrying two riders. The passenger in the
 
 Almost immediately after this tense moment, a police motorcycle cruised up alongside us, also manned by two officers. The officer seated at the rear eyed me intently, seemingly assessing whether I was in danger or had just witnessed a crime. This striking juxtaposition—a suspicious glance from a potential threat followed instantly by a vigilant stare from the law—underscored the city's complex reality. It highlighted both the ever-present need for caution and the reassuring presence of authority ready to intervene. We all agreed in hindsight that it had been a potentially dangerous encounter, narrowly averted by awareness and a bit of luck, serving as a sobering end to an otherwise joyful night.
 
-### Beach
+## Beach
 
 The following day marked a farewell; Isis departed for Langkawi to continue her solo journey.
 
@@ -567,7 +567,7 @@ dir:privacy
 
 Later, Feng Cheche departed as her itinerary required.
 
-### Penang HILL
+## Penang HILL
 
 2014-01-16
 
@@ -631,7 +631,7 @@ The next day, Danni departed for Kota Kinabalu.
 > _The last day in Penang. Kota Kinabalu the next morning!_
 > <br/><div style="text-align:right">_Danni - 2014-01-16_</div>
 
-### George Town
+## George Town
 
 Having spent several days in Penang, logic dictated that I should have moved on to explore new destinations. However, lacking a pre-planned itinerary and feeling too lethargic to formulate new strategies, I decided to extend my stay at my current hostel, hoping to wait for Isis’s return from Langkawi. Fate, however, had other plans. The owner informed me that the upcoming weekend coincided with a Malaysian national holiday, and every room was fully booked. Consequently, I was forced to vacate. Shortly after my departure, Isis returned, but we missed the chance to reunite.
 

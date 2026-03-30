@@ -6,13 +6,13 @@
 
 Having secured my visa, I deliberately chose not to tuck any money into my passport as some online guides suggested; I believed such practices should not be encouraged. The initial customs check proceeded smoothly, and I finally set foot in Bangkok. Following the guidebook's advice, I located an ATM on the second floor to withdraw some Thai Baht. With cash in hand, I was ready to embark on my journey.
 
-### Don Mueang
+## Don Mueang
 
 As the terminal doors slid open, a wall of heat instantly enveloped me. Navigating through the humid air, I made my way to the bus stop. The bus pulled up, turning right, while I boarded from the left. I took the A1 bus to Mo Chit, planning to transfer to the BTS to reach my final destination.
 
 <a-map points="100.60039043426515,13.917301445032487,A1 Bus|100.5545711,13.802285,Mo Chit" route='{"legs":[{"steps":[],"weight":863,"summary":"","duration":775,"distance":14117.8}],"weight_name":"routability","geometry":{"coordinates":[[100.600384,13.917308],[100.55846,13.841454],[100.557303,13.834878],[100.559839,13.811459],[100.554462,13.802345]],"type":"LineString"},"weight":863,"duration":775,"distance":14117.8}'></a-map>
 
-### First Day
+## First Day
 
 On that first day, I was overwhelmed by Foreign Language Anxiety and completely avoided speaking to anyone. It was not until the second day that this anxiety began to subside. The city presented a somewhat dilapidated appearance, with numerous street vendors pushing carts along the roadsides. White-collar workers commuted on "motos," a local taxi service where uniformed drivers operate motorcycles, allowing passengers to ride pillion.
 
@@ -20,7 +20,7 @@ My hostel room felt like a cramped cell. Beyond its window, Bangkok erupted into
 
 > This is it—Bangkok, good-time city. Gateway to Southeast Asia. Where dollars and Deutsche Mark get turned into counterfeit watches and genuine scars.
 
-### Pratunam
+## Pratunam
 
 The following morning, I relocated to a hotel near Pratunam. Nestled on a bustling street, the hotel overlooked a lively market teeming with activity. A steady stream of people flowed through the narrow lanes, weaving between vendors peddling diverse goods. Maneuvering through this vibrant maze required both patience and agility, as one had to navigate the crowds and find paths amidst the stalls. The dynamic atmosphere was captivating yet slightly overwhelming, perfectly encapsulating the energetic spirit of the area.
 
@@ -48,11 +48,11 @@ name:bkdelay2
 dir:animation
 ```
 
-### Cowboy
+## Cowboy
 
 In the evening, I visited Cowboy Street, a small red-light district. After finding a seat and ordering a bottle of beer, a Caucasian man sat across from me and offered a greeting. We began chatting, and to my surprise, he worked in Chongqing. However, as soon as his "Thai wife" arrived, he excused himself and left.
 
-### China Town
+## China Town
 
 The next day, the journey to Chinatown was not without challenges. Initially, I took the subway heading to Hua Lamphong but mistakenly alighted at the train station. With no better option, I opted for a motorcycle taxi. Not particularly comfortable on motorcycles, I instinctively placed my hand on the driver's shoulder when we turned corners, which seemed to bother him. Fortunately, the destination was nearby, and we arrived swiftly.
 
@@ -188,7 +188,7 @@ name:tj3
 
 > _What are you doing in thailand? Tourist? You go to Patpong? See smoke from pussy, ping pong ball from pussy, razor blade from pussy; bird from pussy. Why not? Thai girls best in the world. Thai food best in the world. Thai dope best in the world._
 
-### Patong
+## Patong
 
 <a-hotel name="Royal Crown Hotel & Palm Spa resort" date="2013-10-19" nights="1" points="98.305505,7.893803"></a-hotel>
 
@@ -224,7 +224,7 @@ name:victorria-2
 name:victorria-3
 ```
 
-### Phuket Town
+## Phuket Town
 
 ```<a-img>
 name:pktbus
@@ -250,7 +250,7 @@ Mueang Phuket Exercise Park
 
 <a-map points="98.3829377,7.8874035,Pattra Mansion by AKSARA Collection|98.39725386383,7.8677293941849165,Saphan Hin" route='{"legs":[{"steps":[],"weight":180.5,"summary":"","duration":180.5,"distance":1990.3},{"steps":[],"weight":31.9,"summary":"","duration":31.9,"distance":455.2},{"steps":[],"weight":124.6,"summary":"","duration":124.6,"distance":1224.5}],"weight_name":"routability","geometry":{"coordinates":[[98.38293,7.887441],[98.382806,7.887416],[98.382851,7.886794],[98.382299,7.886755],[98.382617,7.881609],[98.381673,7.879681],[98.384767,7.87964],[98.388703,7.876021],[98.389129,7.875745],[98.389509,7.875723],[98.391924,7.876239],[98.393462,7.876845],[98.393612,7.876902],[98.393753,7.876537],[98.393953,7.871559],[98.394277,7.869858],[98.394496,7.869544],[98.397264,7.867723]],"type":"LineString"},"weight":337,"duration":337,"distance":3670}'></a-map>
 
-### Sirinat
+## Sirinat
 
 <a-hotel name="Chill House Nai Yang" date="2013-10-27" nights="2" points="98.3019226,8.0920261"></a-hotel>
 
@@ -312,7 +312,7 @@ name:flighte
 
 ## Bangkok
 
-### Pratunam
+## Pratunam
 
 I returned to my previous hotel.
 

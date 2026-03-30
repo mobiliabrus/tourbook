@@ -155,7 +155,7 @@ And as for traveling alone, fuck it. If that's the way it has to be, then that's
 
 <a-times :times="2" location="Phuket"></a-times>
 
-### Karon
+## Karon
 
 <a-hotel name="Woraburi Phuket Resort & Spa" date="2015-04-11" nights="4"></a-hotel>
 
@@ -163,7 +163,7 @@ And as for traveling alone, fuck it. If that's the way it has to be, then that's
 name:songkran-karon
 ```
 
-### Songkran
+## Songkran
 
 ```<a-img>
 name:songkran1-1
@@ -173,7 +173,7 @@ name:songkran1-1
 name:songkran1-2
 ```
 
-#### A Free Riding
+### A Free Riding
 
 ```<a-map>
 points:98.294236,7.881441,Corner|98.294148,7.844075,Woraburi Phuket Resort & Spa
