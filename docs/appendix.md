@@ -6,7 +6,7 @@
 In 2019, following two years of economic stagnation and amidst emerging signs of recovery, a travel plan to Koh Lanta was formulated but ultimately not executed.
 
 The proposed itinerary and equipment configuration were as follows:
-- **Flexible** scheduling with **hostel**-based lodging.
+- **Flexible** scheduling with private room lodging **hostel**; spending more time in communal area as a result.
 - iPhone designated for film recording;<br/> DJI Pocket 3 sports camera allocated for vlogging.
 - Ricoh GR3x compact camera (40mm f/2.8 lens) selected for still photography.
 
