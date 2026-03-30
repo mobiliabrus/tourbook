@@ -1,10 +1,12 @@
 import { defineConfig } from 'vitepress'
+import customComponent from './customComponent'
 
 export default defineConfig({
   lang: 'en-US',
   title: 'Tourbook',
   description: 'Confidence, Strong and Handsome.',
-  
+  appearance: false,
+
   srcDir: './',
   
   head: [
@@ -13,6 +15,7 @@ export default defineConfig({
   
   themeConfig: {
     sidebar: [
+      { text: 'INTRO', link: '/' },
       {
         text: 'PROLOGUE',
         items: [
@@ -44,8 +47,11 @@ export default defineConfig({
   },
   
   markdown: {
+    image: {
+      lazyLoading: true
+    },
     config: (md) => {
-      // 自定义 markdown 配置
+      md.use(customComponent)
     },
   },
 })
