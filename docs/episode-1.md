@@ -1,3 +1,7 @@
+---
+title: Episode I. Beginnings
+---
+
 <a-secret name="jyy" autoload></a-secret>
 
 ## South Korea
