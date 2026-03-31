@@ -1,5 +1,5 @@
 import { defineConfig } from 'vitepress'
-import customComponent from './customComponent'
+import macau from './plugins/macau'
 
 export default defineConfig({
   lang: 'en-US',
@@ -59,7 +59,7 @@ export default defineConfig({
       lazyLoading: true
     },
     config: (md) => {
-      md.use(customComponent)
+      md.use(macau)
     },
   },
 })

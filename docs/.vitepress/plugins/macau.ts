@@ -41,8 +41,10 @@ function parseSimpleYAML(content: string): Record<string, any> {
   return result
 }
 
-export default function markdownItCustomComponent(md: MarkdownIt) {
-  const defaultFenceRenderer = md.renderer.rules.fence || function () {}
+export default function markdownItMacau(md: MarkdownIt) {
+  const defaultFenceRenderer = md.renderer.rules.fence || function (tokens: any[], idx: number, options: any, env: any, self: any) {
+    return self.renderToken(tokens, idx, options);
+  }
   
   // 保存原始的 fence 规则
   const originalFence = md.renderer.rules.fence
@@ -60,7 +62,7 @@ export default function markdownItCustomComponent(md: MarkdownIt) {
       const componentName = componentMatch[1]
       // 转换为大写字母开头的组件名（Vue 组件命名规范）
       const pascalCaseName = componentName.charAt(0).toUpperCase() + componentName.slice(1)
-      console.log('[CustomComponent] Component matched:', pascalCaseName)
+      console.log('[Macau] Component matched:', pascalCaseName)
       
       try {
         // 解析 YAML 内容
@@ -91,12 +93,16 @@ export default function markdownItCustomComponent(md: MarkdownIt) {
         
       } catch (e) {
         // YAML 解析失败时，返回错误信息
-        console.error(`[CustomComponent] Failed to parse YAML for component ${pascalCaseName}:`, e)
+        console.error(`[Macau] Failed to parse YAML for component ${pascalCaseName}:`, e)
         return `<div style="color: red; padding: 1rem;">Invalid YAML format: ${(e as Error).message}</div>`
       }
     }
     
     // 其他情况使用默认的 fence 渲染
-    return originalFence ? originalFence(tokens, idx, options, env, self) : defaultFenceRenderer(tokens, idx, options, env, self)
+    if (originalFence) {
+      return originalFence(tokens, idx, options, env, self);
+    } else {
+      return defaultFenceRenderer(tokens, idx, options, env, self);
+    }
   }
 }
