@@ -8,6 +8,10 @@ const props = defineProps<{
 }>()
 
 const imageUrl = computed(() => {
+  if (!props.name) {
+    console.warn('AImg: name prop is required but not provided')
+    return ''
+  }
   const ext = props.name.includes('.') ? '' : '.jpg'
   if (props.dir) {
     return `/assets/${props.dir}/${props.name}${ext}`

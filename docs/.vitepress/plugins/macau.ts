@@ -1,45 +1,5 @@
 import type MarkdownIt from 'markdown-it'
-
-/**
- * 简单的 YAML 解析器（支持基础类型）
- */
-function parseSimpleYAML(content: string): Record<string, any> {
-  const result: Record<string, any> = {}
-  const lines = content.split('\n')
-  
-  for (const line of lines) {
-    const trimmedLine = line.trim()
-    if (!trimmedLine || trimmedLine.startsWith('#')) continue // 跳过空行和注释
-    
-    const colonIndex = trimmedLine.indexOf(':')
-    if (colonIndex === -1) continue
-    
-    const key = trimmedLine.substring(0, colonIndex).trim()
-    const valueStr = trimmedLine.substring(colonIndex + 1).trim()
-    
-    // 解析值类型
-    let value: any
-    if (valueStr === 'true') {
-      value = true
-    } else if (valueStr === 'false') {
-      value = false
-    } else if (/^-?\d+$/.test(valueStr)) {
-      value = parseInt(valueStr, 10)
-    } else if (/^-?\d+\.\d+$/.test(valueStr)) {
-      value = parseFloat(valueStr)
-    } else if ((valueStr.startsWith('"') && valueStr.endsWith('"')) || 
-               (valueStr.startsWith("'") && valueStr.endsWith("'"))) {
-      // 去除引号
-      value = valueStr.slice(1, -1)
-    } else {
-      value = valueStr
-    }
-    
-    result[key] = value
-  }
-  
-  return result
-}
+import { load } from 'js-yaml'
 
 export default function markdownItMacau(md: MarkdownIt) {
   const defaultFenceRenderer = md.renderer.rules.fence || function (tokens: any[], idx: number, options: any, env: any, self: any) {
@@ -65,23 +25,25 @@ export default function markdownItMacau(md: MarkdownIt) {
       console.log('[Macau] Component matched:', pascalCaseName)
       
       try {
-        // 解析 YAML 内容
-        const attrs = parseSimpleYAML(content)
+        // 使用官方的 js-yaml 解析 YAML 内容
+        const attrs = load(content) as Record<string, any> || {}
         
         // 构建 Vue 组件标签
         const attrString = Object.entries(attrs)
           .map(([key, value]) => {
             // 根据值类型决定是否需要引号
-            if (typeof value === 'boolean' || typeof value === 'number') {
+            if (typeof value === 'boolean' || typeof value === 'number' || value === null) {
               return `:${key}="${value}"`
             } else if (typeof value === 'string') {
-              // 检查是否是 JSON 对象或数组字符串
-              try {
-                JSON.parse(value)
-                return `:${key}="${value}"`
-              } catch {
-                return `${key}="${value}"`
-              }
+              // 转义字符串中的特殊字符
+              const escapedValue = value
+                .replace(/"/g, '&quot;')
+                .replace(/</g, '&lt;')
+                .replace(/>/g, '&gt;')
+                .replace(/&/g, '&amp;');
+              return `${key}="${escapedValue}"`
+            } else if (Array.isArray(value) || (typeof value === 'object' && value !== null)) {
+              return `:${key}="${JSON.stringify(value)}"`
             } else {
               return `:${key}="${JSON.stringify(value)}"`
             }
