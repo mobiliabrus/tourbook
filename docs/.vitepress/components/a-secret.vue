@@ -161,10 +161,4 @@ onMounted(async () => {
   letter-spacing: -5.5px;
   cursor: pointer;
 }
-
-.a-secret-content {
-  text-decoration-line: underline;
-  text-decoration-color: #f0f0f0;
-  text-underline-position: from-font;
-}
 </style>
