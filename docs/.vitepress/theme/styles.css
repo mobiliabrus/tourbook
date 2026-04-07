@@ -5,3 +5,9 @@
 .VPNavBarHamburger.hamburger {
   display: none;
 }
+
+/* 表格自适应宽度 */
+.vp-doc table {
+  width: 100%;
+  display: table;
+}
