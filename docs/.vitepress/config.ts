@@ -1,5 +1,8 @@
 import { defineConfig } from 'vitepress'
-import macau from './plugins/macau'
+import macauPkg from 'markdown-it-macau'
+
+// markdown-it-macau 导出的是 { default: fn }，需要提取实际的函数
+const markdownItMacau = (macauPkg as any).default || macauPkg
 
 export default defineConfig({
   lang: 'en-US',
@@ -59,7 +62,7 @@ export default defineConfig({
       lazyLoading: true
     },
     config: (md) => {
-      md.use(macau)
+      md.use(markdownItMacau)
     },
   },
 })

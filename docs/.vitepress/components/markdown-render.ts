@@ -1,5 +1,7 @@
 import MarkdownIt from 'markdown-it'
-import { load } from 'js-yaml'
+import macauPkg from 'markdown-it-macau'
+
+const markdownItMacau = (macauPkg as any).default || macauPkg
 
 /**
  * 创建一个简化的 markdown 渲染器（用于 a-secret 组件）
@@ -22,7 +24,9 @@ const md = createMarkdownRenderer()
  * 将 markdown 内容渲染为 HTML
  */
 export function renderMarkdown(content: string): string {
+  console.log('content', content);
   try {
+    md.use(markdownItMacau)
     return md.render(content)
   } catch (error) {
     console.error('Failed to render markdown:', error)

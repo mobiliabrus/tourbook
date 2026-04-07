@@ -9,19 +9,22 @@
     "preview": "vitepress preview docs",
     "start": "node ../scripts/lib/watch & vitepress dev docs",
     "encode": "node ../scripts/lib/encodeAll",
-    "decode": "node ../scripts/lib/decodeAll"
+    "decode": "node ../scripts/lib/decodeAll",
+    "type-check": "tsc --noEmit"
   },
   "devDependencies": {
+    "@types/node": "^25.5.2",
     "crypto-js": "^4.1.1",
     "katex": "^0.16.25",
     "ol": "^10.6.0",
     "ol-mapbox-style": "^13.1.0",
+    "typescript": "^5.9.3",
     "vitepress": "^1.6.4",
     "vue": "^3.5.31"
   },
   "dependencies": {
     "dayjs": "^1.11.20",
-    "js-yaml": "^4.1.1",
-    "markdown-it": "^14.1.1"
+    "markdown-it": "^14.1.1",
+    "markdown-it-macau": "^1.0.0"
   }
 }
