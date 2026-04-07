@@ -27,7 +27,7 @@ The following morning, I relocated to a hotel near Pratunam. Nestled on a bustli
 <a-hotel name="Baiyoke Suite Hotel" date="2013-10-09" nights="3" points="100.53985634597014,13.752907383951737"></a-hotel>
 
 ```<a-img>
-name:bk2
+name: bk2
 ```
 
 During the day, however, I found myself confined to the hotel, unsure of where to go. The honking of car horns, traffic whistles, cooing doves, the hum of air conditioners, slamming doors, and the elevator's beep all contributed to a cacophony that filled the room. Certain noises transported me back to similar sounds I had once heard on Gulangyu Island, stirring up feelings of confusion and unease within me.
@@ -35,17 +35,17 @@ During the day, however, I found myself confined to the hotel, unsure of where t
 "What do you want? Take a ride? Spots? You want silk? I'll take you to the best silk place? Diamonds? Come with me, get presents for girlfriend. Maybe no girlfriend. You want a girl, no problem. Good time. Boy girl fucking no problem..." Walking down the street, it was common to encounter people from various backgrounds trying to engage you with such pitches.
 
 ```<a-img>
-name:bkk
+name: bkk
 ```
 
 ```<a-img>
-name:bkdelay1
-dir:animation
+name: bkdelay1
+dir: animation
 ```
 
 ```<a-img>
-name:bkdelay2
-dir:animation
+name: bkdelay2
+dir: animation
 ```
 
 ## Cowboy
@@ -69,15 +69,15 @@ Clearly, Chinatown did not leave a favorable impression on me.
 <a-times :times="1" location="Sukhothai"></a-times>
 
 ```<a-map>
-points:100.53985634597014,13.752907383951737,Baiyoke Suite Hotel|100.548074,13.813143,Mo Chit Bus Station
-route:{"legs":[{"steps":[],"weight":638.3,"summary":"","duration":638.3,"distance":7879.5}],"weight_name":"routability","geometry":{"coordinates":[[100.539859,13.752906],[100.541631,13.752726],[100.542415,13.756085],[100.542421,13.762933],[100.539054,13.764538],[100.538061,13.764346],[100.537788,13.764958],[100.541181,13.770386],[100.550782,13.797426],[100.548354,13.797784],[100.547949,13.80846],[100.549516,13.811912],[100.548859,13.812817]],"type":"LineString"},"weight":638.3,"duration":638.3,"distance":7879.5}
+points: 100.53985634597014,13.752907383951737,Baiyoke Suite Hotel|100.548074,13.813143,Mo Chit Bus Station
+route: {"legs":[{"steps":[],"weight":638.3,"summary":"","duration":638.3,"distance":7879.5}],"weight_name":"routability","geometry":{"coordinates":[[100.539859,13.752906],[100.541631,13.752726],[100.542415,13.756085],[100.542421,13.762933],[100.539054,13.764538],[100.538061,13.764346],[100.537788,13.764958],[100.541181,13.770386],[100.550782,13.797426],[100.548354,13.797784],[100.547949,13.80846],[100.549516,13.811912],[100.548859,13.812817]],"type":"LineString"},"weight":638.3,"duration":638.3,"distance":7879.5}
 ```
 
 Every day at the hotel, a taxi driver waited downstairs. He had been stationed there for years, and every time I stepped out of the building, he would be there—always with a warm smile, always asking if I needed a ride. Day after day, I politely declined his offers. But today, on my departure morning, I finally had a destination that required his service. It felt like time to reward his persistent kindness with some business. I took his tuk-tuk to Mo Chit Bus Station, from where I would continue my journey to my next destination: Sukhothai.
 
 ```<a-map>
-points:100.548074,13.813143,Mo Chit Bus Station|99.812901,17.014624,Sukhothai Bus Terminal
-route:{"legs":[{"steps":[],"weight":2602.1,"summary":"","duration":2602.1,"distance":47485.2},{"steps":[],"weight":17430.1,"summary":"","duration":17430.1,"distance":395604.5}],"weight_name":"routability","geometry":{"coordinates":[[100.548859,13.812817],[100.580997,13.884553],[100.447577,13.92907],[100.411058,13.918051],[100.415926,13.942552],[100.33468,14.051879],[100.289431,14.116125],[100.291266,14.202002],[100.131432,14.445869],[100.130157,14.541477],[100.155995,14.608122],[100.102156,14.699785],[100.087993,14.785107],[100.118985,14.812377],[100.087606,14.866619],[100.073661,14.996839],[100.152993,15.057775],[100.136111,15.103228],[100.145365,15.171652],[100.092145,15.262597],[100.147288,15.394803],[100.125058,15.506035],[100.114437,16.022489],[100.149705,16.643549],[100.21097,16.79471],[100.213907,16.86351],[100.185618,16.914412],[100.115525,16.957262],[100.014496,16.971676],[99.967319,16.950232],[99.929786,17.007562],[99.888228,17.025795],[99.812949,17.014858]],"type":"LineString"},"weight":20032.2,"duration":20032.2,"distance":443089.7}
+points: 100.548074,13.813143,Mo Chit Bus Station|99.812901,17.014624,Sukhothai Bus Terminal
+route: {"legs":[{"steps":[],"weight":2602.1,"summary":"","duration":2602.1,"distance":47485.2},{"steps":[],"weight":17430.1,"summary":"","duration":17430.1,"distance":395604.5}],"weight_name":"routability","geometry":{"coordinates":[[100.548859,13.812817],[100.580997,13.884553],[100.447577,13.92907],[100.411058,13.918051],[100.415926,13.942552],[100.33468,14.051879],[100.289431,14.116125],[100.291266,14.202002],[100.131432,14.445869],[100.130157,14.541477],[100.155995,14.608122],[100.102156,14.699785],[100.087993,14.785107],[100.118985,14.812377],[100.087606,14.866619],[100.073661,14.996839],[100.152993,15.057775],[100.136111,15.103228],[100.145365,15.171652],[100.092145,15.262597],[100.147288,15.394803],[100.125058,15.506035],[100.114437,16.022489],[100.149705,16.643549],[100.21097,16.79471],[100.213907,16.86351],[100.185618,16.914412],[100.115525,16.957262],[100.014496,16.971676],[99.967319,16.950232],[99.929786,17.007562],[99.888228,17.025795],[99.812949,17.014858]],"type":"LineString"},"weight":20032.2,"duration":20032.2,"distance":443089.7}
 ```
 
 The bus only stopped in the new town, so upon disembarking, I walked directly to a songthaew (shared pickup truck). I asked the driver the fare to the ancient city and attempted to haggle. He simply said, "Okay." The driver took me to a convenience store in the ancient city, but I insisted on going to a nearby hotel. When we arrived, he claimed the place was far and refused any discount, making the whole trip unpleasant.
@@ -102,21 +102,21 @@ We drove a mere hundred meters forward, turned right for another hundred, and so
 The proprietors of the guesthouse were an amiable Thai couple. Their captivating daughter greeted me at the reception desk; she was a vision of beauty and even introduced me to their golden retriever, Latu. For a modest fee of 50 baht per day, the guesthouse provided bicycles for guests. I hopped on one and began my exploration from the northern edge of the ancient city, leisurely making my way toward its heart.
 
 ```<a-img>
-name:skt-1
+name: skt-1
 ```
 
 ```<a-img>
-name:sukhothai
+name: sukhothai
 ```
 
 ```<a-img>
-name:sk1
+name: sk1
 ```
 
 Along the way, I met some German girls—one with short brown hair and tall stature, which happens to be my favorite type. I chatted with them, but unfortunately, they were leaving the next day.
 
 ```<a-img>
-name:sk2
+name: sk2
 ```
 
 As the sun began to dip below the horizon, I sought out a restaurant just beyond the city's boundaries. By the time I finished my meal, darkness had descended. Unlike the bustling cities, this place was sparsely lit, and the roads were shrouded in shadows.
@@ -128,8 +128,8 @@ Halfway through my journey, a glimmer of hope appeared as a motorcycle headlight
 Upon my return to the guesthouse, the hosts were astonished by my account of the journey. They invited me to their room, where the couple, their daughter, and their cat, Momo, were gathered. We laughed and played poker together, and they even taught me how to count in Thai.
 
 ```<a-map>
-points:99.687335,17.022397,Restaurant|99.702393,17.031913,Fireflies|99.706329,17.031670,Baan Rim Klong Resort
-route:{"legs":[{"steps":[],"weight":697.8,"summary":"","duration":697.8,"distance":2895.8}],"weight_name":"duration","geometry":{"coordinates":[[99.687147,17.022514],[99.68918,17.025146],[99.689335,17.02506],[99.690548,17.025006],[99.69317,17.025464],[99.694898,17.025551],[99.694987,17.025625],[99.69533,17.028108],[99.695462,17.028221],[99.696056,17.028167],[99.696263,17.032062],[99.696453,17.032261],[99.702882,17.031795],[99.702891,17.032022],[99.706311,17.031568]],"type":"LineString"},"weight":697.8,"duration":697.8,"distance":2895.8}
+points: 99.687335,17.022397,Restaurant|99.702393,17.031913,Fireflies|99.706329,17.031670,Baan Rim Klong Resort
+route: {"legs":[{"steps":[],"weight":697.8,"summary":"","duration":697.8,"distance":2895.8}],"weight_name":"duration","geometry":{"coordinates":[[99.687147,17.022514],[99.68918,17.025146],[99.689335,17.02506],[99.690548,17.025006],[99.69317,17.025464],[99.694898,17.025551],[99.694987,17.025625],[99.69533,17.028108],[99.695462,17.028221],[99.696056,17.028167],[99.696263,17.032062],[99.696453,17.032261],[99.702882,17.031795],[99.702891,17.032022],[99.706311,17.031568]],"type":"LineString"},"weight":697.8,"duration":697.8,"distance":2895.8}
 ```
 
 The next morning, I intended to cycle along a quiet lane to the bus stop situated next to a 7-Eleven, where I planned to book a ticket to Chiang Mai. As I passed through a residential area, the locals lining the road warmly greeted me. I returned their kindness with smiles, cycling the entire length of the street in a haze of friendliness. One man even stepped out of his yard to stop me; he shook my hand enthusiastically, asking where I was from and where I was headed. It was a simple yet touching interaction that highlighted the hospitality of the ancient city.
@@ -139,8 +139,8 @@ The next morning, I intended to cycle along a quiet lane to the bus stop situate
 That night, the proprietor's captivating daughter knocked on my door. She told me about a local festival taking place nearby and invited me to join them. But I was in no state for human connection. Days of travel had left me disheveled and withdrawn, trapped in a kind of self-imposed isolation. "I'm too tired," I lied, using exhaustion as an excuse to avoid the messiness of real interaction. Looking back, I deeply regret that decision; I likely missed out on a unique and memorable experience. But back then, I was too caught up in my own spiral to care.
 
 ```<a-map>
-points:99.709757,17.018625,Bus Stop|99.4807422,18.2772803,Lampang bus terminal|99.017627,18.799716,Chiang Mai Bus Terminal 3
-route:{"legs":[{"steps":[],"weight":10134.3,"summary":"","duration":10134.3,"distance":200802.7},{"steps":[],"weight":5170.7,"summary":"","duration":5170.7,"distance":96253.4}],"weight_name":"routability","geometry":{"coordinates":[[99.70976,17.018493],[99.696045,17.20267],[99.732636,17.308899],[99.643119,17.316523],[99.597921,17.343875],[99.507839,17.327281],[99.416724,17.349962],[99.352889,17.475054],[99.310317,17.637108],[99.238395,17.629967],[99.250977,17.655196],[99.23061,17.745856],[99.293294,17.852044],[99.336719,17.868505],[99.407514,18.198991],[99.480815,18.277324],[99.465519,18.266761],[99.381268,18.314105],[99.254705,18.329264],[99.202091,18.452457],[99.129069,18.464193],[99.128221,18.509805],[99.098903,18.509001],[99.048074,18.552945],[99.048894,18.69761],[99.017523,18.799644]],"type":"LineString"},"weight":15305,"duration":15305,"distance":297056.1}
+points: 99.709757,17.018625,Bus Stop|99.4807422,18.2772803,Lampang bus terminal|99.017627,18.799716,Chiang Mai Bus Terminal 3
+route: {"legs":[{"steps":[],"weight":10134.3,"summary":"","duration":10134.3,"distance":200802.7},{"steps":[],"weight":5170.7,"summary":"","duration":5170.7,"distance":96253.4}],"weight_name":"routability","geometry":{"coordinates":[[99.70976,17.018493],[99.696045,17.20267],[99.732636,17.308899],[99.643119,17.316523],[99.597921,17.343875],[99.507839,17.327281],[99.416724,17.349962],[99.352889,17.475054],[99.310317,17.637108],[99.238395,17.629967],[99.250977,17.655196],[99.23061,17.745856],[99.293294,17.852044],[99.336719,17.868505],[99.407514,18.198991],[99.480815,18.277324],[99.465519,18.266761],[99.381268,18.314105],[99.254705,18.329264],[99.202091,18.452457],[99.129069,18.464193],[99.128221,18.509805],[99.098903,18.509001],[99.048074,18.552945],[99.048894,18.69761],[99.017523,18.799644]],"type":"LineString"},"weight":15305,"duration":15305,"distance":297056.1}
 ```
 
 On the bus, I sat a few rows from the rear, where a small group of foreigners had gathered. We exchanged brief pleasantries. Sitting directly next to me was a Chinese man who claimed to be in the Burmese gem trade. He eagerly asked for my contact information, suggesting that I reach out to him once I arrived in Chiang Mai. However, an instinctive wariness held me back, and I politely declined; I had no intention of following up on that offer.
@@ -154,12 +154,12 @@ The bus made a short stop at the Lampang terminal. Mistaking it for my final des
 On my first evening in Chiang Mai, I decided to explore the city on foot. Relying on my faint recollection of the map, I strolled along the Ping River, passing the consulate, as well as vibrant flower and fruit markets. I paused in a narrow alley to enjoy a local snack before trusting my instincts to guide me back to the hotel, walking along the historic moat that encircles the old city. The night air was cool, and the unfamiliar streets felt inviting rather than intimidating.
 
 ```<a-map>
-points:98.9940416,18.7964248,Royal Panerai Hotel|98.99322927281824,18.789984231751554,Baan klang vieng Tour
-route:{"legs":[{"steps":[],"weight":45.77,"summary":"","duration":331.4,"distance":412.1},{"steps":[],"weight":35.92,"summary":"","duration":274.4,"distance":342.5},{"steps":[],"weight":16.93,"summary":"","duration":129.1,"distance":158.9},{"steps":[],"weight":33.32,"summary":"","duration":266.1,"distance":332.7},{"steps":[],"weight":37.9,"summary":"","duration":305.1,"distance":378.6},{"steps":[],"weight":32.76,"summary":"","duration":258.2,"distance":317.9},{"steps":[],"weight":41.33,"summary":"","duration":317.3,"distance":394.6},{"steps":[],"weight":15.48,"summary":"","duration":112.9,"distance":140.8},{"steps":[],"weight":53.88,"summary":"","duration":417.3,"distance":521.9},{"steps":[],"weight":31.21,"summary":"","duration":245.4,"distance":306.5},{"steps":[],"weight":13.32,"summary":"","duration":110.9,"distance":138.4},{"steps":[],"weight":0,"summary":"","duration":0,"distance":0},{"steps":[],"weight":65.55,"summary":"","duration":604.3,"distance":752.5}],"weight_name":"routability","geometry":{"coordinates":[[98.994058,18.796424],[98.994103,18.796833],[98.994442,18.797567],[98.994995,18.799971],[98.995781,18.799898],[98.996382,18.800098],[98.997977,18.799271],[98.997414,18.797978],[98.997392,18.797931],[98.999182,18.797291],[98.999124,18.79713],[98.999435,18.797069],[98.999287,18.796424],[98.999072,18.795162],[98.999126,18.794683],[98.999073,18.794621],[98.999334,18.793585],[98.999583,18.793183],[98.999528,18.793208],[99.001119,18.794015],[99.001651,18.793087],[99.001119,18.794015],[98.999582,18.793126],[99.000052,18.792492],[99.000757,18.791602],[99.000686,18.791464],[98.999388,18.791179],[98.999425,18.791039],[98.998933,18.790911],[98.998875,18.790701],[98.998768,18.790672],[98.998828,18.790582],[98.996493,18.789736],[98.994697,18.790314],[98.993769,18.790473],[98.993707,18.790612],[98.993679,18.790219],[98.993519,18.790267],[98.993276,18.790204],[98.993263,18.789976],[98.993263,18.789976],[98.99342,18.792387],[98.993535,18.792383],[98.993764,18.792677],[98.993873,18.795124],[98.993817,18.795384],[98.993923,18.795505],[98.994058,18.796424]],"type":"LineString"},"weight":423.37,"duration":3372.4,"distance":4197.4}
+points: 98.9940416,18.7964248,Royal Panerai Hotel|98.99322927281824,18.789984231751554,Baan klang vieng Tour
+route: {"legs":[{"steps":[],"weight":45.77,"summary":"","duration":331.4,"distance":412.1},{"steps":[],"weight":35.92,"summary":"","duration":274.4,"distance":342.5},{"steps":[],"weight":16.93,"summary":"","duration":129.1,"distance":158.9},{"steps":[],"weight":33.32,"summary":"","duration":266.1,"distance":332.7},{"steps":[],"weight":37.9,"summary":"","duration":305.1,"distance":378.6},{"steps":[],"weight":32.76,"summary":"","duration":258.2,"distance":317.9},{"steps":[],"weight":41.33,"summary":"","duration":317.3,"distance":394.6},{"steps":[],"weight":15.48,"summary":"","duration":112.9,"distance":140.8},{"steps":[],"weight":53.88,"summary":"","duration":417.3,"distance":521.9},{"steps":[],"weight":31.21,"summary":"","duration":245.4,"distance":306.5},{"steps":[],"weight":13.32,"summary":"","duration":110.9,"distance":138.4},{"steps":[],"weight":0,"summary":"","duration":0,"distance":0},{"steps":[],"weight":65.55,"summary":"","duration":604.3,"distance":752.5}],"weight_name":"routability","geometry":{"coordinates":[[98.994058,18.796424],[98.994103,18.796833],[98.994442,18.797567],[98.994995,18.799971],[98.995781,18.799898],[98.996382,18.800098],[98.997977,18.799271],[98.997414,18.797978],[98.997392,18.797931],[98.999182,18.797291],[98.999124,18.79713],[98.999435,18.797069],[98.999287,18.796424],[98.999072,18.795162],[98.999126,18.794683],[98.999073,18.794621],[98.999334,18.793585],[98.999583,18.793183],[98.999528,18.793208],[99.001119,18.794015],[99.001651,18.793087],[99.001119,18.794015],[98.999582,18.793126],[99.000052,18.792492],[99.000757,18.791602],[99.000686,18.791464],[98.999388,18.791179],[98.999425,18.791039],[98.998933,18.790911],[98.998875,18.790701],[98.998768,18.790672],[98.998828,18.790582],[98.996493,18.789736],[98.994697,18.790314],[98.993769,18.790473],[98.993707,18.790612],[98.993679,18.790219],[98.993519,18.790267],[98.993276,18.790204],[98.993263,18.789976],[98.993263,18.789976],[98.99342,18.792387],[98.993535,18.792383],[98.993764,18.792677],[98.993873,18.795124],[98.993817,18.795384],[98.993923,18.795505],[98.994058,18.796424]],"type":"LineString"},"weight":423.37,"duration":3372.4,"distance":4197.4}
 ```
 
 ```<a-img>
-name:cmn
+name: cmn
 ```
 
 <a-secret name="mob" autoload></a-secret>
@@ -169,15 +169,15 @@ name:cmn
 I changed hotels twice. One of them was located right next to Wat Buppharam, the very temple where the character "Old Zhou" stayed in the hit movie Lost in Thailand.
 
 ```<a-img>
-name:tj
+name: tj
 ```
 
 ```<a-img>
-name:tj2
+name: tj2
 ```
 
 ```<a-img>
-name:tj3
+name: tj3
 ```
 
 <a-flight flight="FD3162" departure="CNX" departure-time="2013-10-19 13:10" destination="HKT" arrive-time="2013-10-19 15:15"></a-flight>
@@ -195,53 +195,53 @@ name:tj3
 <a-hotel name="I Dee Hotel" points="98.2929051,7.8818396"></a-hotel>
 
 ```<a-img>
-name:patong-1
-dir:animation
+name: patong-1
+dir: animation
 ```
 
 ```<a-img>
-name:patong-2
-dir:animation
+name: patong-2
+dir: animation
 ```
 
 ```<a-img>
-name:patong
+name: patong
 ```
 
 ```<a-img>
-name:victorria
+name: victorria
 ```
 
 ```<a-img>
-name:victorria-1
+name: victorria-1
 ```
 
 ```<a-img>
-name:victorria-2
+name: victorria-2
 ```
 
 ```<a-img>
-name:victorria-3
+name: victorria-3
 ```
 
 ## Phuket Town
 
 ```<a-img>
-name:pktbus
+name: pktbus
 ```
 
 ```<a-img>
-name:pktbus2
+name: pktbus2
 ```
 
 <a-map points="98.2913469,7.8877042, Patong Bus Station|98.3852828,7.8832076, Phuket Town Bus Terminal"></a-map>
 
 ```<a-img>
-name:pkt
+name: pkt
 ```
 
 ```<a-img>
-name:phukettown-1
+name: phukettown-1
 ```
 
 Mueang Phuket Exercise Park
@@ -255,19 +255,19 @@ Mueang Phuket Exercise Park
 <a-hotel name="Chill House Nai Yang" date="2013-10-27" nights="2" points="98.3019226,8.0920261"></a-hotel>
 
 ```<a-img>
-name:siri-1
+name: siri-1
 ```
 
 ```<a-img>
-name:siri-2
+name: siri-2
 ```
 
 ```<a-img>
-name:siri-3
+name: siri-3
 ```
 
 ```<a-img>
-name:sirix
+name: sirix
 ```
 
 On my final day in Phuket, the weather turned violent. The wind picked up sharply and it started raining heavily, accompanied by strong gusts of wind. This meant that the planes wouldn't land over the beach and my chance to capture those iconic photos was slipping away.
@@ -281,31 +281,31 @@ However, time was not on my side. I had no choice but to brave the elements, str
 Moments later, as abruptly as it had begun, the rain ceased. The wind shifted direction, and even the sun broke through the clouds.
 
 ```<a-img>
-name:flight0
+name: flight0
 ```
 
 ```<a-img>
-name:flight
+name: flight
 ```
 
 ```<a-img>
-name:flight2
+name: flight2
 ```
 
 ```<a-img>
-name:flight3
+name: flight3
 ```
 
 ```<a-img>
-name:flight4
+name: flight4
 ```
 
 ```<a-img>
-name:flightx
+name: flightx
 ```
 
 ```<a-img>
-name:flighte
+name: flighte
 ```
 
 <a-flight flight="FD3020" departure="HKT" departure-time="2013-10-29 08:00" destination="DMK" arrive-time="2013-10-29 09:25"></a-flight>
@@ -327,7 +327,7 @@ Instead of recording it, I turned on the air conditioning and television. I real
 Along this journey, loneliness had been my constant companion, whispering doubts into my ear at every turn. But now, standing at the end of it all, I felt something else—a strange sense of release. Let them have their moment. Let me have mine. Just leave it be.
 
 ```<a-img>
-name:a1
+name: a1
 ```
 
 <a-flight flight="FD2550" departure="DMK" departure-time="2013-10-31 06:20" destination="CKG" arrive-time="2013-10-31 10:20"></a-flight>
