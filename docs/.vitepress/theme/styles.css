@@ -1,3 +1,7 @@
 .VPSidebarItem {
   padding-bottom: 4px !important;
 }
+
+.VPNavBarHamburger.hamburger {
+  display: none;
+}

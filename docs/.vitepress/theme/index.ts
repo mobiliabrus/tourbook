@@ -3,11 +3,13 @@ import DefaultTheme from 'vitepress/theme'
 
 import './styles.css'
 
+import CustomLayout from './Layout.vue'
+
 import AImg from '../components/AImg.vue'
 import AFlight from '../components/a-flight/index.vue'
 import AHotel from '../components/AHotel.vue'
 import ATimes from '../components/ATimes.vue'
-import ASecret from '../components/ASecret.vue'
+import ASecret from '../components/a-secret.vue'
 import ACarousel from '../components/ACarousel.vue'
 import ABg from '../components/ABg.vue'
 import AGallery from '../components/AGallery.vue'
@@ -17,6 +19,7 @@ import Map from '../components/ol-map/index.vue'
 
 export default {
   extends: DefaultTheme,
+  Layout: CustomLayout,
   enhanceApp({ app }) {
     app.component('AImg', AImg)
     app.component('a-img', AImg)

@@ -1,6 +1,4 @@
 
-## Unfulfilled Journey
-
 ## Koh Lanta 2019
 
 In 2019, following two years of economic stagnation and amidst emerging signs of recovery, a travel plan to Koh Lanta was formulated but ultimately not executed.
