@@ -110,16 +110,15 @@ onMounted(async () => {
     {{ rawContent }}
   </span>
   
-  <div
+  <template
     v-else-if="visible"
-    class="a-secret-content"
   >
     <component
       v-for="(vnode, index) in contentVNodes"
       :key="index"
       :is="vnode"
     />
-  </div>
+  </template>
 </template>
 
 <style scoped>
