@@ -22,11 +22,15 @@ export default function markdownItMacau(md: MarkdownIt) {
       const componentName = componentMatch[1]
       // 转换为大写字母开头的组件名（Vue 组件命名规范）
       const pascalCaseName = componentName.charAt(0).toUpperCase() + componentName.slice(1)
-      console.log('[Macau] Component matched:', pascalCaseName)
       
       try {
         // 使用官方的 js-yaml 解析 YAML 内容
-        const attrs = load(content) as Record<string, any> || {}
+        const parsed = load(content)
+        
+        // 确保解析结果是对象
+        const attrs = (parsed && typeof parsed === 'object' && !Array.isArray(parsed)) 
+          ? parsed as Record<string, any> 
+          : {}
         
         // 构建 Vue 组件标签
         const attrString = Object.entries(attrs)
@@ -35,15 +39,23 @@ export default function markdownItMacau(md: MarkdownIt) {
             if (typeof value === 'boolean' || typeof value === 'number' || value === null) {
               return `:${key}="${value}"`
             } else if (typeof value === 'string') {
-              // 转义字符串中的特殊字符
+              // 转义字符串中的特殊字符（注意顺序：& 必须最先转义）
               const escapedValue = value
+                .replace(/&/g, '&amp;')
                 .replace(/"/g, '&quot;')
+                .replace(/'/g, '&#39;')
                 .replace(/</g, '&lt;')
-                .replace(/>/g, '&gt;')
-                .replace(/&/g, '&amp;');
+                .replace(/>/g, '&gt;');
               return `${key}="${escapedValue}"`
             } else if (Array.isArray(value) || (typeof value === 'object' && value !== null)) {
-              return `:${key}="${JSON.stringify(value)}"`
+              // JSON 字符串化后也需要转义
+              const jsonString = JSON.stringify(value)
+                .replace(/&/g, '&amp;')
+                .replace(/"/g, '&quot;')
+                .replace(/'/g, '&#39;')
+                .replace(/</g, '&lt;')
+                .replace(/>/g, '&gt;');
+              return `:${key}="${jsonString}"`
             } else {
               return `:${key}="${JSON.stringify(value)}"`
             }

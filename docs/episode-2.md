@@ -25,19 +25,19 @@ title: Episode II. Fastprimes
 My second visit to Weizhou Island was a solitary journey.
 
 ```<a-flight>
-flight:EU2718
-departure:CKG
-destination:BHY
-departure-time:2012-09-09 12:35
-arrive-time:2012-09-09 14:05
+flight: EU2718
+departure: CKG
+destination: BHY
+departure-time: 2012-09-09 12:35
+arrive-time: 2012-09-09 14:05
 ```
 
 ```<a-flight>
-flight:EU2717
-departure:BHY
-destination:CKG
-departure-time:2012-09-13 10:15
-arrive-time:2012-09-13 11:45
+flight: EU2717
+departure: BHY
+destination: CKG
+departure-time: 2012-09-13 10:15
+arrive-time: 2012-09-13 11:45
 ```
 
 <a-secret name="zly" autoload></a-secret>
@@ -73,36 +73,36 @@ After descending the mountain, I spent one final night at its base. Sitting in t
 In March, I purchased my very first budget airline ticket, scheduled for a flight to Bangkok, Thailand, in October. However, prior to that trip, in June, I spontaneously embarked on a journey to Gulangyu Island—a true embodiment of a spur-of-the-moment adventure.
 
 ```<a-flight>
-flight:SC4723
-departure:CKG
-destination:XMN
-departure-time:2013-06-05 07:00
-arrive-time:2013-06-05 10:30
+flight: SC4723
+departure: CKG
+destination: XMN
+departure-time: 2013-06-05 07:00
+arrive-time: 2013-06-05 10:30
 ```
 
 ```<a-hotel>
-name:厦门鼓浪朵拉旅馆
-date:2013-06-05
-nights:1
-points:118.06551857629651,24.44736064618408
+name: 厦门鼓浪朵拉旅馆
+date: 2013-06-05
+nights: 1
+points: 118.06551857629651,24.44736064618408
 ```
 
 ```<a-map>
-points:118.06551857629651,24.44736064618408,厦门鼓浪朵拉旅馆|118.06267167432208,24.45217298291665,一九一九巢庭别院旅馆
+points: 118.06551857629651,24.44736064618408,厦门鼓浪朵拉旅馆|118.06267167432208,24.45217298291665,一九一九巢庭别院旅馆
 ```
 
 ```<a-hotel>
-name:一九一九巢庭别院旅馆
-date:2013-06-06
-nights:1
-points:118.06267167432208,24.45217298291665
+name: 一九一九巢庭别院旅馆
+date: 2013-06-06
+nights: 1
+points: 118.06267167432208,24.45217298291665
 ```
 
 紫藤&鱼欢
 
 ```<a-img>
-name:gly-1.jpg
-dir:privacy
+name: gly-1.jpg
+dir: privacy
 ```
 
 <a-flight flight="CA4166" departure="XMN" departure-time="2013-06-07 22:05" destination="CKG" arrive-time="2013-06-08 00:30"></a-flight>
@@ -114,23 +114,23 @@ Having returned from Gulangyu a mere fortnight ago, I received another invitatio
 My plan was to fly directly to Shangri-La, then retrace my route along National Highway 318. The itinerary included stops at Daocheng Yading along the way, with the ultimate destination being Minya Kongka.
 
 ```<a-flight>
-flight:3U8630
-departure:CKG
-destination:DIG
-departure-time:2013-07-03 08:40
-arrive-time:2013-07-03 09:40
+flight: 3U8630
+departure: CKG
+destination: DIG
+departure-time: 2013-07-03 08:40
+arrive-time: 2013-07-03 09:40
 ```
 
 ```<a-map>
-points:99.6831596,27.7932316,Shangri-La Airport|99.7053845,27.811842,Dukezong|100.297561,29.0366082,Daocheng|101.527224,30.021596,Xinduqiao|101.9543686,30.0011057,Kangding|102.12298657466907,29.643981581567523,Moxi Town|102.171681,29.599233,Minya Kongka|101.9543686,30.0011057,Kangding|101.751812,30.129862,Kangding Airport
+points: 99.6831596,27.7932316,Shangri-La Airport|99.7053845,27.811842,Dukezong|100.297561,29.0366082,Daocheng|101.527224,30.021596,Xinduqiao|101.9543686,30.0011057,Kangding|102.12298657466907,29.643981581567523,Moxi Town|102.171681,29.599233,Minya Kongka|101.9543686,30.0011057,Kangding|101.751812,30.129862,Kangding Airport
 ```
 
 ```<a-flight>
-flight:CZ8129
-departure:KGT
-destination:CKG
-departure-time:2013-06-24 15:25
-arrive-time:2013-06-24 17:05
+flight: CZ8129
+departure: KGT
+destination: CKG
+departure-time: 2013-06-24 15:25
+arrive-time: 2013-06-24 17:05
 ```
 
 <a-secret name="hq" autoload></a-secret>

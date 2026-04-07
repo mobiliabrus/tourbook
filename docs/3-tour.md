@@ -25,13 +25,13 @@ This journey originated from a simple thread I posted on a travel forum, detaili
 Upon my arrival in Chiang Mai on the first day, I joined two female companions from our group for an initial exploration of the Old City. However, our dynamic was quite reserved; we remained polite but somewhat distant, without establishing any deep rapport. Our walk through the ancient streets was largely aimless—a perfunctory loop around the major sites without a clear theme or shared passion. 
 
 ```<a-img>
-name:balake.jpg
-dir:privacy
+name: balake.jpg
+dir: privacy
 ```
 
 ```<a-img>
-name:balake2.jpg
-dir:privacy
+name: balake2.jpg
+dir: privacy
 ```
 
 ## Tree Houses
@@ -57,8 +57,8 @@ With the engine humming and the cityscape fading into the rearview mirror, repla
 <a-hotel name="Rabeang Pasak Treehouse Resort" date="2014-11-04" nights="1"></a-hotel>
 
 ```<a-map>
-points:98.9660400,18.7979829,Baan Thai Apartment|98.9970986,18.7842285,So Hostel|98.9838874,18.7963096,A Little Bird 2 Guest House|98.98652265355459,18.795304760190298,Chang Phuak Gate|99.124138,18.983908,Rabeang Pasak Treehouse Resort
-route:{"legs":[{"steps":[],"weight":2866.4,"summary":"","duration":2865.9,"distance":36398.2}],"weight_name":"routability","geometry":{"coordinates":[[98.986496,18.795306],[98.984153,18.795517],[98.986435,18.795956],[98.983956,18.812096],[99.011399,18.809712],[99.015372,18.807919],[99.018776,18.804256],[99.05463,18.831812],[99.078506,18.846471],[99.130574,18.870544],[99.137705,18.876339],[99.155283,18.884453],[99.148592,18.897476],[99.148981,18.913627],[99.143805,18.922162],[99.142326,18.934809],[99.140659,18.937073],[99.142085,18.938558],[99.139761,18.942216],[99.140833,18.944304],[99.139181,18.946814],[99.140074,18.94843],[99.137669,18.95264],[99.137811,18.951555],[99.134667,18.951823],[99.128271,18.962772],[99.126912,18.968169],[99.125057,18.968826],[99.125109,18.972248],[99.122886,18.974846],[99.12528,18.977995],[99.123797,18.983925]],"type":"LineString"},"weight":2866.4,"duration":2865.9,"distance":36398.2}
+points: 98.9660400,18.7979829,Baan Thai Apartment|98.9970986,18.7842285,So Hostel|98.9838874,18.7963096,A Little Bird 2 Guest House|98.98652265355459,18.795304760190298,Chang Phuak Gate|99.124138,18.983908,Rabeang Pasak Treehouse Resort
+route: {"legs":[{"steps":[],"weight":2866.4,"summary":"","duration":2865.9,"distance":36398.2}],"weight_name":"routability","geometry":{"coordinates":[[98.986496,18.795306],[98.984153,18.795517],[98.986435,18.795956],[98.983956,18.812096],[99.011399,18.809712],[99.015372,18.807919],[99.018776,18.804256],[99.05463,18.831812],[99.078506,18.846471],[99.130574,18.870544],[99.137705,18.876339],[99.155283,18.884453],[99.148592,18.897476],[99.148981,18.913627],[99.143805,18.922162],[99.142326,18.934809],[99.140659,18.937073],[99.142085,18.938558],[99.139761,18.942216],[99.140833,18.944304],[99.139181,18.946814],[99.140074,18.94843],[99.137669,18.95264],[99.137811,18.951555],[99.134667,18.951823],[99.128271,18.962772],[99.126912,18.968169],[99.125057,18.968826],[99.125109,18.972248],[99.122886,18.974846],[99.12528,18.977995],[99.123797,18.983925]],"type":"LineString"},"weight":2866.4,"duration":2865.9,"distance":36398.2}
 ```
 
 <a-carousel :img="[{name:'tree-house-me'},{name:'treehouse-1'}]"></a-carousel>
@@ -66,59 +66,59 @@ route:{"legs":[{"steps":[],"weight":2866.4,"summary":"","duration":2865.9,"dista
 We booked three treehouses — Tamarind House, Moon House, and Rimtarn House. We mainly gathered in the largest treehouse, Moon House. Sheyao stayed in Rimtarn House.
 
 ```<a-img>
-name:she-1
+name: she-1
 ```
 
 ```<a-img>
-name:qin-2.jpg
-dir:privacy
+name: qin-2.jpg
+dir: privacy
 ```
 
 ```<a-img>
-name:qin-1.jpg
-dir:privacy
+name: qin-1.jpg
+dir: privacy
 ```
 
 ```<a-img>
-name:treehouse-2.jpg
-dir:privacy
+name: treehouse-2.jpg
+dir: privacy
 ```
 
 ```<a-img>
-name:treehouse-7.jpg
-dir:privacy
+name: treehouse-7.jpg
+dir: privacy
 ```
 
 ```<a-img>
-name:yunt1.jpg
-dir:privacy
+name: yunt1.jpg
+dir: privacy
 ```
 
 ```<a-img>
-name:yunt2.jpg
-dir:privacy
+name: yunt2.jpg
+dir: privacy
 ```
 
 ```<a-img>
-name:yunt3
+name: yunt3
 ```
 
 ```<a-img>
-name:yunt4
+name: yunt4
 ```
 
 ```<a-img>
-name:treehouse-11
+name: treehouse-11
 ```
 
 ```<a-img>
-name:treehouse-12.jpg
-dir:privacy
+name: treehouse-12.jpg
+dir: privacy
 ```
 
 ```<a-img>
-name:treehouse-13.jpg
-dir:privacy
+name: treehouse-13.jpg
+dir: privacy
 ```
 
 ```<a-img>
