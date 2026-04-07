@@ -1,8 +1,8 @@
 <script setup lang="ts">
-import { ref, onMounted } from 'vue'
+import { ref, onMounted, computed, type VNode } from 'vue'
 import CryptoJS from 'crypto-js'
 import { getSecret } from './util'
-import { renderMarkdown } from './markdown-render'
+import { renderMarkdownToVNodes } from './markdown-render'
 
 const props = defineProps({
   name: {
@@ -22,7 +22,7 @@ const props = defineProps({
 const loading = ref(false)
 const visible = ref(false)
 const rawContent = ref('')
-const content = ref('')
+const contentVNodes = ref<VNode[]>([])
 const secretKey = ref(getSecret())
 
 // 使用 Vite 的 import.meta.glob 预加载所有机密文件
@@ -32,7 +32,7 @@ const confidentialModules = import.meta.glob('../../assets/confidential/*.md', {
 })
 
 const decrypt = () => {
-  if (content.value) {
+  if (contentVNodes.value.length > 0) {
     visible.value = true
   }
 }
@@ -77,8 +77,8 @@ onMounted(async () => {
       )
       const decryptedText = CryptoJS.enc.Utf8.stringify(decrypted)
 
-      // 将解密后的 markdown 渲染为 HTML
-      content.value = renderMarkdown(decryptedText)
+      // 将解密后的 markdown 渲染为 Vue VNodes（支持自定义组件）
+      contentVNodes.value = renderMarkdownToVNodes(decryptedText)
       
       // 如果设置了自动加载，则立即显示
       if (props.autoload) {
@@ -103,7 +103,7 @@ onMounted(async () => {
   </div>
   
   <span
-    v-else-if="!visible && (blackout || content)"
+    v-else-if="!visible && (blackout || contentVNodes.length > 0)"
     class="a-secret-blackout"
     @click="decrypt"
   >
@@ -113,8 +113,13 @@ onMounted(async () => {
   <div
     v-else-if="visible"
     class="a-secret-content"
-    v-html="content"
-  ></div>
+  >
+    <component
+      v-for="(vnode, index) in contentVNodes"
+      :key="index"
+      :is="vnode"
+    />
+  </div>
 </template>
 
 <style scoped>
