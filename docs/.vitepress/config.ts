@@ -25,6 +25,12 @@ export default defineConfig({
   },
   
   themeConfig: {
+    // 全局关闭上一页/下一页导航
+    docFooter: {
+      prev: false,
+      next: false,
+    },
+    
     sidebar: [
       { text: 'INTRO', link: '/' },
       {
