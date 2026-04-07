@@ -1,8 +1,8 @@
 <script setup lang="ts">
-import { ref, onMounted, onBeforeUnmount, nextTick } from 'vue'
+import { ref, onMounted } from 'vue'
 import CryptoJS from 'crypto-js'
-import macau from '../plugins/macau'
 import { getSecret } from './util'
+import { renderMarkdown } from './markdown-render'
 
 const props = defineProps({
   name: {
@@ -24,68 +24,71 @@ const visible = ref(false)
 const rawContent = ref('')
 const content = ref('')
 const secretKey = ref(getSecret())
-const t = ref<HTMLElement | null>(null)
 
-let app: any = null
+// 使用 Vite 的 import.meta.glob 预加载所有机密文件
+const confidentialModules = import.meta.glob('../../assets/confidential/*.md', { 
+  query: '?raw',
+  import: 'default'
+})
 
 const decrypt = () => {
-  if (secretKey.value && content.value) {
+  if (content.value) {
     visible.value = true
-    nextTick(() => {
-      // 这里可以添加渲染逻辑
-      if (t.value) {
-        t.value.innerHTML = content.value
-      }
-    })
   }
 }
 
-onMounted(() => {
-  if (secretKey.value) {
-    loading.value = true
-    fetch(`assets/confidential/${props.name}.md`, { mode: 'cors' })
-      .then((res) => {
-        if (res.status === 200) return res.text()
-        console.error(`${res.url.split('/').slice(-1)} ${res.statusText.toLowerCase()}.`)
-        return Promise.reject()
-      })
-      .then((raw) => {
-        rawContent.value = raw
-        if (secretKey.value) {
-          const keylength = 16
-          const keyorigin = secretKey.value.split('')
-          const key16 =
-            keyorigin.length < 16
-              ? [...keyorigin, ...Array.from(new Array(keylength - keyorigin.length)).map(() => '0')].join('')
-              : keyorigin.slice(0, 16).join('')
-          
-          const keyutf = CryptoJS.enc.Utf8.parse(key16)
-          const iv = { iv: CryptoJS.enc.Base64.parse(key16) }
-          const decrypted = CryptoJS.AES.decrypt(
-            { ciphertext: CryptoJS.enc.Base64.parse(raw) },
-            keyutf,
-            iv
-          )
-          content.value = String(macau(CryptoJS.enc.Utf8.stringify(decrypted)))
-          
-          if (props.autoload) {
-            decrypt()
-          }
-        }
-      })
-      .catch((err) => {
-        console.error('Failed to load secret:', err)
-      })
-      .then(() => {
-        loading.value = false
-      })
+onMounted(async () => {
+  if (!secretKey.value) {
+    return
   }
-})
 
-onBeforeUnmount(() => {
-  if (app) {
-    app.unmount()
-    app = null
+  loading.value = true
+  
+  try {
+    // 构建文件路径
+    const filePath = `../../assets/confidential/${props.name}.md`
+
+    // 检查文件是否存在
+    if (!confidentialModules[filePath]) {
+      console.error(`Secret file not found: ${props.name}.md`)
+      loading.value = false
+      return
+    }
+    
+    // 动态导入文件内容
+    const module = await confidentialModules[filePath]()
+    rawContent.value = module as string
+
+    // 解密内容
+    if (secretKey.value && rawContent.value) {
+      const keylength = 16
+      const keyorigin = secretKey.value.split('')
+      const key16 =
+        keyorigin.length < 16
+          ? [...keyorigin, ...Array.from(new Array(keylength - keyorigin.length)).map(() => '0')].join('')
+          : keyorigin.slice(0, 16).join('')
+      
+      const keyutf = CryptoJS.enc.Utf8.parse(key16)
+      const iv = { iv: CryptoJS.enc.Base64.parse(key16) }
+      const decrypted = CryptoJS.AES.decrypt(
+        { ciphertext: CryptoJS.enc.Base64.parse(rawContent.value) },
+        keyutf,
+        iv
+      )
+      const decryptedText = CryptoJS.enc.Utf8.stringify(decrypted)
+      
+      // 将解密后的 markdown 渲染为 HTML
+      content.value = renderMarkdown(decryptedText)
+      
+      // 如果设置了自动加载，则立即显示
+      if (props.autoload) {
+        decrypt()
+      }
+    }
+  } catch (err) {
+    console.error('Failed to load or decrypt secret:', err)
+  } finally {
+    loading.value = false
   }
 })
 </script>
@@ -107,11 +110,11 @@ onBeforeUnmount(() => {
     {{ rawContent }}
   </span>
   
-  <span
+  <div
     v-else-if="visible"
-    ref="t"
     class="a-secret-content"
-  ></span>
+    v-html="content"
+  ></div>
 </template>
 
 <style scoped>
