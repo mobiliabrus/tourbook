@@ -3,8 +3,15 @@
 
 In 2019, following two years of economic stagnation and amidst emerging signs of recovery, a travel plan to Koh Lanta was formulated but ultimately not executed.
 
-The proposed itinerary and equipment configuration were as follows:
+The proposed pre-trip preparation and requirements were as follows:
+
+**Accommodation & Schedule:**
 - **Flexible** scheduling with private room lodging **hostel**; spending more time in communal area as a result.
+
+**Social Approach:**
+**Prioritize hygiene** and wear **well-fitted gear**. Keep **open body language**, act as a **social connector**, and use the **3C rule** to start conversations. Be a **great listener** to find common ground, and remain **humble and respectful**.
+
+**Equipment:**
 - iPhone designated for film recording;<br/> DJI Pocket 3 sports camera allocated for vlogging.
 - Ricoh GR3x compact camera (40mm f/2.8 lens) selected for still photography.
 
