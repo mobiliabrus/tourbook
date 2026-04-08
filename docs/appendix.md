@@ -1,15 +1,23 @@
 
-## Koh Lanta 2019
+## Unfulfilled Journey
 
-In 2019, following two years of economic stagnation and amidst emerging signs of recovery, a travel plan to Koh Lanta was formulated but ultimately not executed.
+In 2019, following two years of economic stagnation and amidst emerging signs of recovery, a travel plan was formulated but ultimately not executed.
 
 The proposed pre-trip preparation and requirements were as follows:
 
-**Accommodation & Schedule:**
-- **Flexible** scheduling with private room lodging **hostel**; spending more time in communal area as a result.
+**Grooming**
+- Textured crop hairstyle (**sides faded, top styled upward**)
+- **Trimmed nose hair**, **clean nails**, groomed facial hair
+- **Antiperspirant** + light woody fragrance
 
-**Social Approach:**
-**Prioritize hygiene** and wear **well-fitted gear**. Keep **open body language**, act as a **social connector**, and use the **3C rule** to start conversations. Be a **great listener** to find common ground, and remain **humble and respectful**.
+**Wardrobe Essentials**
+- Cuban collar linen shirts (navy/olive) or heavyweight cotton tees (220g+, solid colors)
+- Bermuda shorts (khaki/navy), **2-3cm above knee** in structured twill
+- Leather sandals or minimalist white sneakers
+- *Avoid: Baggy fits, tight polos, worn-out shoes*
+
+**Accommodation & Schedule:**
+- **Flexible** scheduling with private room lodging **hostel**.
 
 **Equipment:**
 - iPhone designated for film recording;<br/> DJI Pocket 3 sports camera allocated for vlogging.
