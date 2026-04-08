@@ -4,7 +4,7 @@ import type { App } from 'vue'
 import AImg from './AImg.vue'
 import AFlight from './a-flight/index.vue'
 import AHotel from './a-hotel/index.vue'
-import ATimes from './a-times.js'
+import ATimes from './a-times.vue'
 import ASecret from './a-secret.vue'
 import ACarousel from './ACarousel.vue'
 import ABg from './ABg.vue'
@@ -12,6 +12,9 @@ import AGallery from './AGallery.vue'
 import ADivelog from './ADivelog.vue'
 import ALazyContent from './ALazyContent.vue'
 import Map from './ol-map/index.vue'
+import AClose from './a-close.vue'
+import APlaceholder from './a-placeholder.vue'
+import ALazyload from './a-lazyload.vue'
 
 // 定义组件映射表
 export const componentRegistry = {
@@ -37,6 +40,12 @@ export const componentRegistry = {
   'a-divelog': ADivelog,
   'ALazyContent': ALazyContent,
   'a-lazycontent': ALazyContent,
+  'AClose': AClose,
+  'a-close': AClose,
+  'APlaceholder': APlaceholder,
+  'a-placeholder': APlaceholder,
+  'ALazyload': ALazyload,
+  'a-lazyload': ALazyload,
 } as const
 
 /**
