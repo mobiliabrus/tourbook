@@ -27,7 +27,7 @@ const isLocal = location.hostname === 'localhost'
 const baseUrl = (localSuffix = 'docs/assets/') => {
   const repo_name = (window as any).__img_repo_name__ || 'img'
   if (isLocal) {
-    return `/packages/${repo_name}/${localSuffix}`
+    return `http://localhost:3000/packages/${repo_name}/${localSuffix}`
   }
   return `/${repo_name}/assets/`
 }
