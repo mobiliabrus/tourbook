@@ -1,8 +1,8 @@
 <script setup>
 import { ref } from 'vue';
 import { propsType } from './constant';
-import Lazyload from '../a-lazyload';
-import Placeholder from '../a-placeholder';
+import Lazyload from '../a-lazyload.vue';
+import Placeholder from '../a-placeholder.vue';
 import Map from './Map.vue';
 
 const loaded = ref(false);

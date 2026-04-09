@@ -1,7 +1,8 @@
 import type { App } from 'vue'
 
 // 导入所有自定义组件
-import AImg from './AImg.vue'
+import AImg from './a-img/index.vue'
+import AModal from './a-modal/index.vue'
 import AFlight from './a-flight/index.vue'
 import AHotel from './a-hotel/index.vue'
 import ATimes from './a-times.vue'
@@ -20,6 +21,8 @@ import ALazyload from './a-lazyload.vue'
 export const componentRegistry = {
   'AImg': AImg,
   'a-img': AImg,
+  'AModal': AModal,
+  'a-modal': AModal,
   'AMap': Map,
   'a-map': Map,
   'AFlight': AFlight,

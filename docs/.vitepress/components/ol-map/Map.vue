@@ -4,7 +4,7 @@ import { useFullscreenWithScroll } from '../../composables/useFullscreenWithScro
 import { propsType } from './constant';
 import VectorSource from 'ol/source/Vector';
 import VectorLayer from 'ol/layer/Vector';
-import Close from '../a-close';
+import Close from '../a-close.vue';
 import { parsePoints, parseFlights } from './util';
 import { createPoints } from './sources/points';
 import { createRoute } from './sources/route';
