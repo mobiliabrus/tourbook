@@ -192,12 +192,16 @@ const load = (suffer = '', t: 'src' | 'srcMin' = 'src') => {
         </div>
       </template>
       <template #popover>
-        <img class="a-img-popover-item" :src="visible ? (src || srcMin) : undefined" :alt="name" />
+        <img class="a-img a-img-popover-item" :src="visible ? (src || srcMin) : undefined" :alt="name" />
       </template>
       <template #default>
-        <img v-if="visible && hide && (src || srcMin)" src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" style="width:100vw;height:56.25vw;max-height:30vh" />
-        <img v-if="visible && !hide && (src || srcMin)" :src="src || srcMin" :alt="name" @load="onImageLoad" @error="onImageError" style="width:100%" />
+        <img class="a-img" v-if="visible && hide && (src || srcMin)" src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" style="width:100vw;height:56.25vw;max-height:30vh" />
+        <img class="a-img" v-if="visible && !hide && (src || srcMin)" :src="src || srcMin" :alt="name" @load="onImageLoad" @error="onImageError" style="width:100%" />
       </template>
     </Modal>
   </Lazyload>
 </template>
+
+<style scoped>.a-img {
+  margin: 18px 0;
+}</style>
