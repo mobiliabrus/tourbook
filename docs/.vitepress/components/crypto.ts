@@ -2,9 +2,9 @@ import CryptoJS from "crypto-js";
 
 const keylength = 16;
 
-function crypto(content, key, action = "encrypt") {
+function crypto(content: string, key: string, action = "encrypt"): string {
   const keyorigin = key.split("");
-  const key16 = keyorigin.length < 16 ? [...keyorigin, ...Array.from(new Array(keylength - keyorigin.length)).map(() => "0")].join("") : key16;
+  const key16: string = keyorigin.length < 16 ? [...keyorigin, ...Array.from(new Array(keylength - keyorigin.length)).map(() => "0")].join("") : key;
   const keyutf = CryptoJS.enc.Utf8.parse(key16);
   const iv = { iv: CryptoJS.enc.Base64.parse(key16) };
 
