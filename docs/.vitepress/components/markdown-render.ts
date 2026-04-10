@@ -79,18 +79,23 @@ export function parseComponentTags(html: string): Array<{
     
     // 解析属性
     const props: Record<string, any> = {}
-    const attrRegex = /([\w-]+)=(?:"([^"]*)"|'([^']*)')/g
+    const attrRegex = /(:?)([\w-]+)=(?:"([^"]*)"|'([^']*)')/g
     let attrMatch
     
     while ((attrMatch = attrRegex.exec(attrsString)) !== null) {
-      const key = attrMatch[1]
-      const value = attrMatch[2] !== undefined ? attrMatch[2] : attrMatch[3]
-      
-      // 尝试解析 JSON 值（如 :route='{...}'）
-      if (value && (value.startsWith('{') || value.startsWith('['))) {
+      const isBinding = attrMatch[1]
+      const key = attrMatch[2]
+      const value = attrMatch[3] !== undefined ? attrMatch[3] : attrMatch[4]
+
+      // 尝试解析 JavaScript 表达式（如 :name="{}"、:count="123"）
+      if (isBinding) {
         try {
-          props[key] = JSON.parse(value)
+          // 使用 Function 构造器安全地解析 JavaScript 表达式
+          // 这种方式可以处理对象字面量、数组、布尔值、数字等
+          const parsed = new Function(`return ${value}`)()
+          props[key] = parsed
         } catch {
+          // 如果解析失败，保持原始字符串值
           props[key] = value
         }
       } else {
