@@ -6,7 +6,7 @@ import './index.css'
 const props = defineProps({
   flight: {
     type: String,
-    required: true,
+    required: false,
   },
   departure: {
     type: String,
