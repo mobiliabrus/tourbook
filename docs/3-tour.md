@@ -406,7 +406,7 @@ dir: privacy
 
 Qin and her dive instructor
 
-```<a-divelog
+```<a-divelog>
 no: 1
 date: 2014-11-11
 location: Japanese Gardens, Koh Tao
@@ -420,7 +420,7 @@ comment: Neon Damselfish, Cleaner Wrasse
 buddy: 280960
 ```
 
-```<a-divelog
+```<a-divelog>
 no: 2
 date: 2014-11-11
 location: Japanese Gardens, Koh Tao
@@ -434,7 +434,7 @@ comment: All Skill Complete
 buddy: 280960
 ```
 
-```<a-divelog
+```<a-divelog>
 no: 3
 date: 2014-11-12
 location: White Rock, Koh Tao
@@ -448,7 +448,7 @@ comment: All Skill Complete
 buddy: 280960
 ```
 
-```<a-divelog
+```<a-divelog>
 no: 4
 date: 2014-11-12
 location: Tao Tong, Koh Tao
