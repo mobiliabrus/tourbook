@@ -5,9 +5,9 @@ import macauPkg from 'markdown-it-macau'
 const markdownItMacau = (macauPkg as any).default || macauPkg
 
 export default defineConfig({
-  lang: 'en-US',
+  lang: 'en-UK',
   title: 'Tourbook',
-  description: 'Confidence, Strong and Handsome.',
+  description: 'Fragments of journeys, echoes of encounters.',
   appearance: false,
 
   srcDir: './',
