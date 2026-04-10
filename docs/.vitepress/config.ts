@@ -54,6 +54,10 @@ export default defineConfig({
       },
       { text: 'Appendix', link: '/appendix' },
     ],
+
+    outline: {
+      label: 'In this section'
+    },
     
     socialLinks: [],
     
