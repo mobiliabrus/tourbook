@@ -79,16 +79,21 @@ export function parseComponentTags(html: string): Array<{
     
     // 解析属性
     const props: Record<string, any> = {}
-    const attrRegex = /(:?)([\w-]+)=(?:"([^"]*)"|'([^']*)')/g
+    // 匹配两种形式：key="value" 或 key（布尔属性）
+    const attrRegex = /(:?)([\w-]+)(?:=(?:"([^"]*)"|'([^']*)'))?/g
     let attrMatch
     
     while ((attrMatch = attrRegex.exec(attrsString)) !== null) {
       const isBinding = attrMatch[1]
       const key = attrMatch[2]
+      const hasValue = attrMatch[3] !== undefined || attrMatch[4] !== undefined
       const value = attrMatch[3] !== undefined ? attrMatch[3] : attrMatch[4]
 
-      // 尝试解析 JavaScript 表达式（如 :name="{}"、:count="123"）
-      if (isBinding) {
+      // 如果没有值，说明是布尔属性（如 autoload、disabled），设置为 true
+      if (!hasValue) {
+        props[key] = true
+      } else if (isBinding) {
+        // 尝试解析 JavaScript 表达式（如 :name="{}"、:count="123"）
         try {
           // 使用 Function 构造器安全地解析 JavaScript 表达式
           // 这种方式可以处理对象字面量、数组、布尔值、数字等
@@ -99,6 +104,7 @@ export function parseComponentTags(html: string): Array<{
           props[key] = value
         }
       } else {
+        // 普通字符串属性
         props[key] = value
       }
     }
