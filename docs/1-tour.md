@@ -1,3 +1,9 @@
+---
+title: I. Long, Solitary Tour
+---
+
+# {{ $frontmatter.title }}
+
 ## Bangkok
 
 <a-times :times="1" location="Bangkok"></a-times>

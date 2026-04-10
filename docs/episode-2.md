@@ -2,6 +2,8 @@
 title: Episode II. Fastprimes
 ---
 
+# {{ $frontmatter.title }}
+
 <a-secret name="shapingpark" autoload></a-secret>
 
 <a-secret name="lu" autoload></a-secret>

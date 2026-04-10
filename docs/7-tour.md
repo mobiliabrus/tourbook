@@ -1,3 +1,9 @@
+---
+title: VII. Final Journey
+---
+
+# {{ $frontmatter.title }}
+
 ## Kota Kinabalu
 
 <a-times :times="2" location="Kota Kinabalu"></a-times>

@@ -1,3 +1,9 @@
+---
+title: VI. Redemption's Echo
+---
+
+# {{ $frontmatter.title }}
+
 "Why do you visit a place twice?" people often asked.
 
 My reasons were twofold. First, I held cherished memories there. Second, and perhaps more importantly, returning afforded me an opportunity to compensate for the various regrets accumulated during my previous travels.

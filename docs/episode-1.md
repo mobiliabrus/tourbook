@@ -2,6 +2,8 @@
 title: Episode I. Beginnings
 ---
 
+# {{ $frontmatter.title }}
+
 <a-secret name="jyy" autoload></a-secret>
 
 ## South Korea

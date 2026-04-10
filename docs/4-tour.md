@@ -1,3 +1,9 @@
+---
+title: IV. Lonely Soul
+---
+
+# {{ $frontmatter.title }}
+
 ## Bangkok
 
 <a-times :times="3" location="Bangkok"></a-times>
