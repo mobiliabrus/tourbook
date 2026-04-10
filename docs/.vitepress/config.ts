@@ -68,9 +68,6 @@ export default defineConfig({
   },
   
   markdown: {
-    image: {
-      lazyLoading: true
-    },
     config: (md) => {
       md.use(markdownItMacau)
     },
