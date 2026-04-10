@@ -34,3 +34,9 @@ const content = computed(() => {
     </div>
   </Carousel>
 </template>
+
+<style scoped>
+:deep(.slick-dots) {
+  align-items: baseline;
+}
+</style>
