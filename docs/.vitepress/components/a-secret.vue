@@ -1,8 +1,9 @@
 <script setup lang="ts">
-import { ref, onMounted, computed, type VNode } from 'vue'
+import { ref, onMounted, onUnmounted, computed, type VNode } from 'vue'
 import CryptoJS from 'crypto-js'
 import { getSecret } from './util'
 import { renderMarkdownToVNodes } from './markdown-render'
+import { createOutlineSyncer, type Heading } from './useOutlineSync'
 
 const props = defineProps({
   name: {
@@ -24,6 +25,8 @@ const visible = ref(false)
 const rawContent = ref('')
 const contentVNodes = ref<VNode[]>([])
 const secretKey = ref(getSecret())
+const syncer = createOutlineSyncer()
+const extractedHeadings = ref<Heading[]>([])
 
 // 使用 Vite 的 import.meta.glob 预加载所有机密文件
 const confidentialModules = import.meta.glob('../../assets/confidential/*.md', { 
@@ -34,7 +37,28 @@ const confidentialModules = import.meta.glob('../../assets/confidential/*.md', {
 const decrypt = () => {
   if (contentVNodes.value.length > 0) {
     visible.value = true
+    // 延迟注册 outline，确保 DOM 已更新
+    setTimeout(() => {
+      syncer.registerHeadings(extractedHeadings.value)
+    }, 0)
   }
+}
+
+/**
+ * 从 HTML 字符串中提取标题信息
+ */
+const extractHeadings = (html: string): Heading[] => {
+  const headings: Heading[] = []
+  const regex = /<h([1-6])[^>]*id="([^"]*)"[^>]*>(.*?)<\/h\1>/gi
+  let match
+  while ((match = regex.exec(html)) !== null) {
+    const level = parseInt(match[1], 10)
+    const id = match[2]
+    // 移除内部的 anchor 标签以获取纯文本
+    const text = match[3].replace(/<a[^>]*class="header-anchor"[^>]*>.*?<\/a>/g, '').trim()
+    headings.push({ id, text, level })
+  }
+  return headings
 }
 
 onMounted(async () => {
@@ -77,6 +101,13 @@ onMounted(async () => {
       )
       const decryptedText = CryptoJS.enc.Utf8.stringify(decrypted)
 
+      // 提取标题用于 Outline 同步
+      // 我们需要先渲染成 HTML 才能提取，或者修改 renderMarkdownToVNodes 返回中间结果
+      // 这里我们重新渲染一次 HTML 用于提取（性能开销较小）
+      const { renderMarkdown } = await import('./markdown-render')
+      const html = renderMarkdown(decryptedText)
+      extractedHeadings.value = extractHeadings(html)
+
       // 将解密后的 markdown 渲染为 Vue VNodes（支持自定义组件）
       contentVNodes.value = renderMarkdownToVNodes(decryptedText)
       
@@ -90,6 +121,10 @@ onMounted(async () => {
   } finally {
     loading.value = false
   }
+})
+
+onUnmounted(() => {
+  syncer.unregister()
 })
 </script>
 

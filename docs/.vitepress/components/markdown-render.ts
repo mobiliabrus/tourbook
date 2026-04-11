@@ -1,5 +1,6 @@
 import MarkdownIt from 'markdown-it'
 import macauPkg from 'markdown-it-macau'
+import anchorPlugin from 'markdown-it-anchor'
 import { h, type VNode } from 'vue'
 import { componentRegistry } from './component-registry'
 
@@ -18,6 +19,22 @@ function createMarkdownRenderer(): MarkdownIt {
 
   // 集成 macau 插件以支持自定义组件语法
   md.use(markdownItMacau)
+
+  // 集成 anchor 插件以支持标题锚点
+  md.use(anchorPlugin, {
+    permalink: anchorPlugin.permalink.ariaHidden({
+      class: 'header-anchor',
+      symbol: '&ZeroWidthSpace;',
+      placement: 'after',
+    }),
+    slugify: (s: string) =>
+      encodeURIComponent(
+        String(s)
+          .trim()
+          .toLowerCase()
+          .replace(/\s+/g, '-')
+      ),
+  })
 
   return md
 }
