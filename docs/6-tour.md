@@ -74,6 +74,100 @@ name: a7-1
 name: a7-2
 ```
 
+```<a-divelog>
+no: 27
+date: 2017-1-8
+location: Anita's Reef
+objective: FD
+timein: 15:25
+time: 58min
+depth: 24.1
+comment: Avg 14m
+```
+
+```<a-divelog>
+no: 28
+date: 2017-1-8
+location: Anita's Reef
+objective: FD
+timein: 18:50
+time: 8min
+depth: 12.2
+comment: Avg 9.5m, Waterproof Fail, Night Dive
+```
+
+```<a-divelog>
+no: 29
+date: 2017-1-9
+location: Anita's Reef
+objective: FD
+timein: 10:18
+time: 50min
+depth: 29.3
+comment: Avg 13.4m
+```
+
+```<a-divelog>
+no: 30
+date: 2017-1-9
+objective: FD
+timein: 6:58
+time: 47min
+depth: 28
+comment: Avg 15.9m
+```
+
+```<a-divelog>
+no: 31
+date: 2017-1-9
+objective: FD
+timein: 10:18
+time: 45min
+depth: 26.5
+comment: Avg 16.5m
+```
+
+```<a-divelog>
+no: 32
+date: 2017-1-9
+objective: FD
+timein: 13:41
+time: 38min
+depth: 24.4
+comment: Avg 18.3m
+```
+
+```<a-divelog>
+no: 33
+date: 2017-1-10
+objective: FD
+timein: 7:18
+time: 39min
+depth: 30.5
+comment: Avg 18m
+```
+
+```<a-divelog>
+no: 34
+date: 2017-1-10
+objective: FD
+timein: 11:37
+time: 46min
+depth: 29.9
+comment: Avg 16.8m
+```
+
+```<a-divelog>
+no: 35
+date: 2017-1-11
+location: North Ridge, Koh Bon
+objective: FD
+timein: 9:52
+time: 48min
+depth: 27.7
+comment: Avg 16.8m
+```
+
 ## The Great Route
 
 It was the hardest route plan I've ever made.

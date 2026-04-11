@@ -33,6 +33,84 @@ One night I will get the perfect photograp
 
 <a-hotel name="Ananda Villa" date="2015-04-03" nights="2"></a-hotel>
 
+```<a-divelog>
+no: 5
+date: 2015-4-5
+location: Twins, Koh Tao
+objective: AOWPPB
+conditions: 30℃
+timein: 13:26
+timeout: 13:33
+depth: 9.5m
+comment: 4kg Weights
+buddy: 285136
+```
+
+```<a-divelog>
+no: 6
+date: 2015-4-5
+location: Twins, Koh Tao
+objective: AOW
+conditions: 30℃
+timein: 14:32
+timeout: 14:57
+depth: 13.4m
+comment: 4kg Weights
+buddy: 285136
+```
+
+```<a-divelog>
+no: 7
+date: 2015-4-5
+location: Twins, Koh Tao
+objective: AOW
+conditions: 30℃
+timein: 15:50
+timeout: 16:27
+depth: 11.6m
+comment: 4kg Weights
+buddy: 285136
+```
+
+```<a-divelog>
+no: 8
+date: 2015-4-5
+location: White Rock, Koh Tao
+objective: AOW
+conditions: 30℃
+timein: 19:06
+timeout: 19:46
+depth: 17.1m
+comment: Green Turtle, 4kg Weights
+buddy: 285136
+```
+
+```<a-divelog>
+no: 9
+date: 2015-4-6
+location: Chumphon Pinnacle
+objective: AOW
+conditions: 29℃
+timein: 8:33
+timeout: 9:06
+depth: 29.3m
+comment: 4kg Weights
+buddy: 285136
+```
+
+```<a-divelog>
+no: 10
+date: 2015-4-6
+location: HTMS Sattakut
+objective: AOW
+conditions: 31℃
+timein: 10:28
+timeout: 11:01
+depth: 27.8m
+comment: 4kg Weights
+buddy: 285136
+```
+
 ## Koh Phangan
 
 <a-times :times="1" location="Koh Phangan"></a-times>
@@ -197,6 +275,186 @@ route: {"legs":[{"steps":[],"weight":6260.8,"summary":"","duration":6260.8,"dist
 
 ```<a-map>
 divesites: 97.645576,8.573707,Anita's Reef|97.635619,8.599783,Deep Six|97.616323,8.554926,West of Eden|97.633515,8.619628,Elephant Head Rock|97.636178,8.684123,Christmas Point|97.65184,8.68071,Three Trees|97.79508,8.82785,West Ridge|97.81172,9.05802,The Dome|98.020175,9.36186,Richelieu Rock|98.18138,8.74631,Boon Sung Wreck
+```
+
+```<a-divelog>
+no: 11
+date: 2015-4-16
+location: Anita Reef
+objective: FD
+conditions: 30℃
+timein: 8:35
+timeout: 8:50
+depth: 11m
+buddy: 205326
+```
+
+```<a-divelog>
+no: 12
+date: 2015-4-16
+location: Anita Reef
+objective: FD
+conditions: 30℃
+timein: 8:57
+timeout: 9:22
+depth: 15.5m
+buddy: 205326
+```
+
+```<a-divelog>
+no: 13
+date: 2015-4-16
+location: West of Eden
+objective: FD
+conditions: 30℃
+timein: 12:06
+timeout: 12:48
+depth: 21.6m
+buddy: 205326
+```
+
+```<a-divelog>
+no: 15
+date: 2015-4-16
+location: Nam Chai Bay
+objective: FD
+conditions: 31℃
+timein: 19:19
+timeout: 20:08
+depth: 16.5m
+buddy: 205326
+```
+
+```<a-divelog>
+no: 16
+date: 2015-4-17
+location: Elephant Head Rock
+objective: FD
+conditions: 28℃
+timein: 7:04
+timeout: 7:55
+depth: 26.2m
+buddy: 205326
+```
+
+```<a-divelog>
+no: 17
+date: 2015-4-17
+location: Three Trees
+objective: FD
+conditions: 30℃
+timein: 10:41
+timeout: 11:36
+depth: 26.5m
+buddy: 205326
+```
+
+```<a-divelog>
+no: 18
+date: 2015-4-17
+location: West Ridge
+objective: FD
+conditions: 32℃
+timein: 14:05
+timeout: 14:59
+depth: 23.7m
+buddy: 205326
+```
+
+```<a-divelog>
+no: 19
+date: 2015-4-17
+location: The Dome
+objective: FD
+conditions: 29℃
+timein: 17:43
+timeout: 18:28
+depth: 21.6m
+buddy: 205326
+```
+
+```<a-divelog>
+no: 20
+date: 2015-4-18
+location: Richelieu Rock
+objective: FD
+conditions: 29℃
+timein: 7:07
+timeout: 7:57
+depth: 30.2m
+buddy: 205326
+```
+
+```<a-divelog>
+no: 21
+date: 2015-4-18
+location: Richelieu Rock
+objective: FD
+conditions: 29℃
+timein: 10:27
+timeout: 11:18
+depth: 26.7m
+buddy: 205326
+```
+
+```<a-divelog>
+no: 22
+date: 2015-4-18
+location: Richelieu Rock
+objective: FD
+conditions: 30℃
+timein: 13:31
+timeout: 14:23
+depth: 16.2m
+buddy: 205326
+```
+
+```<a-divelog>
+no: 23
+date: 2015-4-18
+location: The Dome
+objective: FD
+conditions: 30℃
+timein: 17:33
+timeout: 18:19
+depth: 20.7m
+buddy: 205326
+```
+
+```<a-divelog>
+no: 24
+date: 2015-4-19
+location: West Ridge
+objective: FD
+conditions: 31℃
+timein: 6:58
+timeout: 7:41
+depth: 21.5m
+buddy: 205326
+```
+
+```<a-divelog>
+no: 25
+date: 2015-4-19
+location: Boonsung Wreck
+objective: FD
+conditions: 31℃
+timein: 10:55
+timeout: 11:49
+depth: 19.8m
+buddy: 205326
+```
+
+```<a-divelog>
+no: 26
+date: 2015-4-19
+location: Premchai Wreck
+objective: FD
+conditions: 31℃
+timein: 14:15
+timeout: 15:04
+depth: 20.7m
+buddy: 205326
 ```
 
 <a-carousel :img="[{name:'deep-six'},{name:'the-dome'},{name:'koh-bon2'}]"></a-carousel>

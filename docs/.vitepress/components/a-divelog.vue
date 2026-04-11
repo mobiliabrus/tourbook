@@ -64,9 +64,21 @@ const diveProfile = computed(() => {
   const timeIn = parseTime(props.timein)
   const timeOut = parseTime(props.timeout)
   
+  // Calculate dive duration if not provided
+  let calculatedTime = props.time
+  if (!calculatedTime && props.timein && props.timeout) {
+    const totalMinutesIn = timeIn.hours * 60 + timeIn.minutes
+    const totalMinutesOut = timeOut.hours * 60 + timeOut.minutes
+    const duration = totalMinutesOut - totalMinutesIn
+    if (duration > 0) {
+      calculatedTime = `${duration}min`
+    }
+  }
+  
   return {
     timeIn: `${String(timeIn.hours).padStart(2, '0')}:${String(timeIn.minutes).padStart(2, '0')}`,
     timeOut: `${String(timeOut.hours).padStart(2, '0')}:${String(timeOut.minutes).padStart(2, '0')}`,
+    duration: calculatedTime || '-',
   }
 })
 </script>
@@ -94,7 +106,7 @@ const diveProfile = computed(() => {
       <span class="divelog-separator">|</span>
       <span class="divelog-label">Depth:</span>{{ depth || '-' }}
       <span class="divelog-separator">|</span>
-      <span class="divelog-label">Time:</span>{{ time || '-' }}
+      <span class="divelog-label">Time:</span>{{ diveProfile.duration }}
     </div>
     
     <div v-if="comment" class="divelog-line divelog-comment-line">

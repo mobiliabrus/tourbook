@@ -71,7 +71,7 @@ In my preparation, I had overlooked a critical issue: my ten-kilogram backpack. 
 
 
 ```<a-map>
-points: 116.5421188,6.0053195,Kinabalu National Park|116.5462398,6.0291003,Timpohon Gate|116.5651771,6.058994,Laban Rata Resthouse;116.558832,6.075277,Low's Peak
+points: 116.5421188,6.0053195,Kinabalu National Park|116.5470398,6.0297003,Timpohon Gate|116.5658471,6.058954,Laban Rata;116.558832,6.075277,Low's Peak
 ```
 
 Before reaching the first rest station, I unexpectedly encountered another group of six Malaysian climbers, all ethnic Malays. Despite having not met them at the gate, we shared a moment of camaraderie and even took a group photo together. The trek proved far more arduous than I had imagined. Scenic highlights were scarce; aside from some squirrels spotted at the initial stop, there were no remarkable sights to behold. Yet, the spirit of mutual support prevailed. Along the trail, we encountered fellow climbers, exchanging words of encouragement that fueled our determination.
@@ -187,12 +187,68 @@ Scheduled boat transfer from Semporna to Rig at 1230hrs
 
 <a-hotel name="Seaventures Dive Rig" date="2017-04-06" nights="3"></a-hotel>
 
+```<a-divelog>
+no: 36
+date: 2017-4-6
+location: Mabul
+objective: Check Dive
+conditions: 28℃
+timein: 13:59
+time: 45min
+depth: 22
+comment: Avg 14.3, 5kg Weight
+```
+
+```<a-divelog>
+no: 37
+date: 2017-4-6
+location: Seaventures Reef
+objective: FD
+conditions: 28℃
+timein: 16:00
+time: 26in
+depth: 17.1
+```
+
+```<a-divelog>
+no: 38
+date: 2017-4-7
+objective: FD
+conditions: 31℃
+timein: 8:24
+time: 43min
+depth: 21
+comment: Avg 13.7m
+```
+
+```<a-divelog>
+no: 39
+date: 2017-4-7
+objective: FD
+conditions: 28℃
+timein: 10:35
+time: 47min
+depth: 18.9
+comment: Avg 13.1m
+```
+
+```<a-divelog>
+no: 40
+date: 2017-4-7
+objective: FD
+conditions: 29℃
+timein: 14:08
+time: 50min
+depth: 18
+comment: Avg 12.2m
+```
+
 Paradise but not Sipadan, located just off shore Mabul Island. Minutes away from the Rig, the dive site is made up of artificial house reef where old dive boats were sunk, man-made structure such as pyramids and crates are now home to abundance of marine life. The artificial reef is a collaboration work of resorts within and nearby Mabul.
 
 It named "Paradise 2".
 
 ```<a-map>
-points: 118.63344342417173,4.253798859528792,Seaventures Dive Rig|118.68229942787646,4.233858799351027,Kapalai|118.6276134545917,4.124777700091974,Sipadan
+points: 118.63344342417173,4.253798859528792,Seaventures Dive Rig|118.68229942787646,4.233858799351027,Kapalai|118.627429,4.11749,Sipadan
 divesites: 118.630882,4.250431,Paradise 2
 ```
 
@@ -245,6 +301,46 @@ name: sh1
 name: sh2
 ```
 
+```<a-map>
+points: 118.627429,4.11749,Sipadan
+divesites: 118.632327,4.12329,Barracuda Point
+```
+
+```<a-divelog>
+no: 41
+date: 2017-4-8
+objective: FD
+location: Sipadan
+conditions: 28℃
+timein: 6:56
+time: 49min
+depth: 31.4
+comment: Avg 11.6m
+```
+
+```<a-divelog>
+no: 42
+date: 2017-4-8
+objective: FD
+location: Sipadan
+conditions: 28℃
+timein: 8:56
+time: 49min
+depth: 26.2
+comment: Avg 14.3m
+```
+
+```<a-divelog>
+no: 43
+date: 2017-4-8
+objective: FD
+location: Barracuda Point, Sipadan
+conditions: 29℃
+timein: 10:55
+time: 50min
+depth: 30.8
+comment: Avg 14m
+```
 
 ## Kapalai
 
