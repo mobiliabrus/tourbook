@@ -44,7 +44,14 @@ const scrollToHash = () => {
     setTimeout(() => {
       const element = document.getElementById(decodeURIComponent(hash.slice(1)))
       if (element) {
-        element.scrollIntoView()
+        // 获取导航栏高度作为顶部间距
+        const navHeight = document.querySelector('.VPNav')?.clientHeight || 60;
+        const elementPosition = element.getBoundingClientRect().top;
+        const offsetPosition = elementPosition + window.pageYOffset - navHeight;
+
+        window.scrollTo({
+          top: offsetPosition,
+        });
         updateActiveOutline()
       }
     }, 300)
