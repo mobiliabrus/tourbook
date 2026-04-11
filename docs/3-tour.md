@@ -406,6 +406,11 @@ dir: privacy
 
 Qin and her dive instructor
 
+```<a-map>
+points: 99.825093,10.085696,Crystal Dive Resort
+divesites: 99.81422,10.11937,Japanese Gardens|99.81525,10.10535,White Rock|99.8256,10.057116,Taa Toh Rock
+```
+
 ```<a-divelog>
 no: 1
 date: 2014-11-11
@@ -460,11 +465,6 @@ depth: 10m
 time: 39min
 comment: All Skill Complete
 buddy: 280960
-```
-
-```<a-map>
-points: 99.825093,10.085696,Crystal Dive Resort
-divesites: 99.81422,10.11937,Japanese Gardens|99.81525,10.10535,White Rock|99.8256,10.057116,Taa Toh Rock
 ```
 
 ```<a-img>

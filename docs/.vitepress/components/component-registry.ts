@@ -13,6 +13,7 @@ import AClose from './a-close.vue'
 import APlaceholder from './a-placeholder.vue'
 import ALazyload from './a-lazyload.vue'
 import AGallery from './a-gallery.vue'
+import ADivelog from './a-divelog.vue'
 
 // Define component mapping table
 export const componentRegistry = {
@@ -42,6 +43,9 @@ export const componentRegistry = {
   'a-lazyload': ALazyload,
   'AGallery': AGallery,
   'a-gallery': AGallery,
+  'ADivelog': ADivelog,
+  'a-divelog': ADivelog,
+  'A-divelog': ADivelog,
 } as const
 
 /**
