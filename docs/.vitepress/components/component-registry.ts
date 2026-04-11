@@ -1,9 +1,9 @@
 import type { App } from 'vue'
 
 // 导入所有自定义组件
-import AImg from './a-img/index.vue'
-import AModal from './a-modal/index.vue'
-import AFlight from './a-flight/index.vue'
+import AImg from './a-img.vue'
+import AModal from './a-modal.vue'
+import AFlight from './a-flight.vue'
 import AHotel from './a-hotel.vue'
 import ATimes from './a-times.vue'
 import ASecret from './a-secret.vue'

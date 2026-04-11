@@ -1,7 +1,6 @@
 <script setup lang="ts">
 import { ref, watch, nextTick, computed } from 'vue'
-import Close from '../a-close.vue'
-import './index.less'
+import Close from './a-close.vue'
 
 const props = defineProps({
   scale: {
@@ -78,3 +77,34 @@ const transformStyle = computed(() => ({
     </div>
   </Teleport>
 </template>
+
+<style scoped lang="less">
+.a-modal-wrapper {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background: #000;
+  z-index: 2147483647;
+  overflow: hidden;
+  transform: translateZ(0);
+}
+
+.a-modal-close {
+  position: absolute;
+  right: 15px;
+  top: 15px;
+  z-index: 2147483646;
+}
+
+.a-modal-actions {
+  position: absolute;
+  left: 0;
+  width: 100%;
+  bottom: 0;
+  margin-bottom: 24px;
+  padding: 15px 15px;
+  z-index: 2147483646;
+}
+</style>

@@ -1,11 +1,10 @@
 <script setup lang="ts">
 import { ref } from 'vue'
-import crypto from '../crypto.js'
-import Modal from '../a-modal/index.vue'
-import Lazyload from '../a-lazyload.vue'
-import Placeholder from '../a-placeholder.vue'
-import { base64ToFile, getSecret } from '../util.js'
-import './index.less'
+import crypto from './crypto.js'
+import Modal from './a-modal.vue'
+import Lazyload from './a-lazyload.vue'
+import Placeholder from './a-placeholder.vue'
+import { base64ToFile, getSecret } from './util.js'
 
 const props = defineProps({
   name: {
@@ -202,6 +201,29 @@ const load = (suffer = '', t: 'src' | 'srcMin' = 'src') => {
   </Lazyload>
 </template>
 
-<style scoped>.a-img {
+<style scoped lang="less">
+.a-img-popover-item {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  margin: auto;
+}
+
+.a-img-left-action {
+  width: 50%;
+  text-align: left;
+  float: left;
+}
+
+.a-img-right-action {
+  width: 50%;
+  text-align: right;
+  float: right;
+}
+
+.a-img {
   margin: 18px 0;
-}</style>
+}
+</style>
