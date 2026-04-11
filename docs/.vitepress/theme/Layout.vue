@@ -1,8 +1,10 @@
 <script setup lang="ts">
 import DefaultTheme from 'vitepress/theme'
-import { onMounted, onUnmounted } from 'vue'
+import { onMounted, onUnmounted, watch } from 'vue'
+import { useRoute } from 'vitepress'
 
 const { Layout } = DefaultTheme
+const route = useRoute()
 
 const handleSetSecret = () => {
   const value = prompt("")
@@ -14,23 +16,37 @@ const handleSetSecret = () => {
 const scrollToHash = () => {
   const hash = window.location.hash
   if (hash) {
-    // 等待 DOM 更新后尝试滚动
+    // 增加延迟以确保动态内容（如 a-secret）已经渲染完成
     setTimeout(() => {
       const element = document.getElementById(decodeURIComponent(hash.slice(1)))
       if (element) {
-        element.scrollIntoView({ behavior: 'smooth' })
+        element.scrollIntoView()
       }
-    }, 100)
+    }, 300)
   }
 }
 
 onMounted(() => {
   scrollToHash()
-  window.addEventListener('hashchange', scrollToHash)
+})
+
+// 监听路由变化，处理页面跳转时的 hash 定位
+watch(() => route.path, () => {
+  // 页面切换时，等待新页面挂载后尝试滚动
+  setTimeout(scrollToHash, 100)
+}, { flush: 'post' })
+
+// 由于 VitePress 的 Route 类型可能不包含 hash，我们直接监听 window.location
+const handleHashChange = () => {
+  scrollToHash()
+}
+
+onMounted(() => {
+  window.addEventListener('hashchange', handleHashChange)
 })
 
 onUnmounted(() => {
-  window.removeEventListener('hashchange', scrollToHash)
+  window.removeEventListener('hashchange', handleHashChange)
 })
 </script>
 
