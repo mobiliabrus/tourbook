@@ -18,10 +18,12 @@ import AGallery from './a-gallery.vue'
 export const componentRegistry = {
   'AImg': AImg,
   'a-img': AImg,
+  'A-img': AImg,
   'AModal': AModal,
   'a-modal': AModal,
   'AMap': Map,
   'a-map': Map,
+  'A-map': Map,
   'AFlight': AFlight,
   'a-flight': AFlight,
   'AHotel': AHotel,
