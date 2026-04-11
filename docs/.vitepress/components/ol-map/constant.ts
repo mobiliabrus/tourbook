@@ -33,7 +33,6 @@ export const propsType = {
     default: null,
   },
   route: {
-    type: Object,
     default: null,
   },
   flights: {
