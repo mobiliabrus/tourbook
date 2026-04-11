@@ -58,58 +58,107 @@ export function useOutlineSync() {
 export function createOutlineSyncer() {
   const myIds: string[] = []
 
-  const registerHeadings = (headings: Heading[]) => {
-    const outlineList = document.querySelector('.VPDocAsideOutline .VPDocOutlineItem.root') as HTMLElement
-    if (!outlineList) return
+  /**
+   * Add heading link to a specific container
+   */
+  const addHeadingToContainer = (outlineList: HTMLElement, heading: Heading) => {
+    // Check if already added to THIS specific container (not just registered)
+    const existingLink = outlineList.querySelector(`a.outline-link[href="#${heading.id}"][data-vp-outline="true"]`)
+    if (existingLink) return
+    
+    const li = document.createElement('li')
+    li.setAttribute('data-v-0141d32b', '')
+    const link = document.createElement('a')
+    link.setAttribute('data-v-0141d32b', '')
+    link.className = `outline-link level-${heading.level}`
+    link.href = `#${heading.id}`
+    link.title = heading.text
+    link.textContent = heading.text
+    link.setAttribute('data-vp-outline', 'true')
 
-    headings.forEach((heading) => {
-      if (myIds.includes(heading.id)) return
-      
-      const li = document.createElement('li')
-      li.setAttribute('data-v-0141d32b', '')
-      
-      const link = document.createElement('a')
-      link.setAttribute('data-v-0141d32b', '')
-      link.className = `outline-link level-${heading.level}`
-      link.href = `#${heading.id}`
-      link.title = heading.text
-      link.textContent = heading.text
-      link.setAttribute('data-vp-outline', 'true')
-
-      li.appendChild(link)
-      
-      // Try to insert in order: find the first element that comes after current heading in document flow
-      let inserted = false
-      const targetEl = document.getElementById(heading.id)
-      if (targetEl) {
-        const existingItems = Array.from(outlineList.children) as HTMLElement[]
-        for (const item of existingItems) {
-          const existingLink = item.querySelector('a')
-          if (existingLink) {
-            const existingHref = existingLink.getAttribute('href')
-            if (existingHref) {
-              const existingId = existingHref.slice(1)
-              const existingEl = document.getElementById(existingId)
-              if (existingEl && targetEl.compareDocumentPosition(existingEl) & Node.DOCUMENT_POSITION_PRECEDING) {
-                // If existing element is before current target element, continue loop
-                continue
-              } else {
-                // Found the first existing element that comes after current target element, insert before it
-                outlineList.insertBefore(li, item)
-                inserted = true
-                break
-              }
+    li.appendChild(link)
+    
+    // Try to insert in order: find the first element that comes after current heading in document flow
+    let inserted = false
+    const targetEl = document.getElementById(heading.id)
+    if (targetEl) {
+      const existingItems = Array.from(outlineList.children) as HTMLElement[]
+      for (const item of existingItems) {
+        const existingLink = item.querySelector('a')
+        if (existingLink) {
+          const existingHref = existingLink.getAttribute('href')
+          if (existingHref) {
+            const existingId = existingHref.slice(1)
+            const existingEl = document.getElementById(existingId)
+            if (existingEl && targetEl.compareDocumentPosition(existingEl) & Node.DOCUMENT_POSITION_PRECEDING) {
+              // If existing element is before current target element, continue loop
+              continue
+            } else {
+              // Found the first existing element that comes after current target element, insert before it
+              outlineList.insertBefore(li, item)
+              inserted = true
+              break
             }
           }
         }
       }
-      
-      if (!inserted) {
-        outlineList.appendChild(li)
+    }
+    
+    if (!inserted) {
+      outlineList.appendChild(li)
+    }
+    
+    myIds.push(heading.id)
+  }
+
+  /**
+   * Register headings to both desktop and mobile outlines
+   */
+  const registerHeadings = (headings: Heading[]) => {
+    // 1. Desktop outline: VPDocAsideOutline
+    const desktopOutlineList = document.querySelector('.VPDocAsideOutline .VPDocOutlineItem.root') as HTMLElement
+    if (desktopOutlineList) {
+      headings.forEach((heading) => {
+        addHeadingToContainer(desktopOutlineList, heading)
+      })
+    }
+
+    // 2. Mobile outline: VPLocalNavOutlineDropdown
+    // The mobile outline is inside a dropdown that only renders when opened
+    // We need to observe the dropdown and add headings when it opens
+    const setupMobileObserver = () => {
+      const mobileDropdown = document.querySelector('.VPLocalNavOutlineDropdown')
+      if (!mobileDropdown) return
+
+      // Function to sync headings to mobile outline
+      const syncToMobile = () => {
+        const itemsContainer = mobileDropdown.querySelector('.items')
+        if (!itemsContainer) return
+        
+        const mobileOutlineList = itemsContainer.querySelector('.outline .VPDocOutlineItem.nested') as HTMLElement
+        if (mobileOutlineList) {
+          headings.forEach((heading) => {
+            addHeadingToContainer(mobileOutlineList, heading)
+          })
+        }
       }
+
+      // Check if items are already rendered (dropdown was opened before)
+      syncToMobile()
+
+      // Observe for when the dropdown opens/closes (items element appears/disappears)
+      const observer = new MutationObserver(() => {
+        // When DOM changes, try to sync again
+        syncToMobile()
+      })
+
+      observer.observe(mobileDropdown, { childList: true, subtree: true })
       
-      myIds.push(heading.id)
-    })
+      // Store observer reference for cleanup
+      ;(mobileDropdown as any).__outlineObserver = observer
+    }
+
+    setupMobileObserver()
   }
 
   const unregister = () => {
@@ -121,6 +170,15 @@ export function createOutlineSyncer() {
       }
     })
     myIds.length = 0
+
+    // Clean up observers
+    document.querySelectorAll('.VPLocalNavOutlineDropdown').forEach(dropdown => {
+      const observer = (dropdown as any).__outlineObserver
+      if (observer) {
+        observer.disconnect()
+        delete (dropdown as any).__outlineObserver
+      }
+    })
   }
 
   return {
