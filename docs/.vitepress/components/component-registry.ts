@@ -12,6 +12,7 @@ import Map from './ol-map/index.vue'
 import AClose from './a-close.vue'
 import APlaceholder from './a-placeholder.vue'
 import ALazyload from './a-lazyload.vue'
+import AGallery from './a-gallery.vue'
 
 // 定义组件映射表
 export const componentRegistry = {
@@ -37,6 +38,8 @@ export const componentRegistry = {
   'a-placeholder': APlaceholder,
   'ALazyload': ALazyload,
   'a-lazyload': ALazyload,
+  'AGallery': AGallery,
+  'a-gallery': AGallery,
 } as const
 
 /**
