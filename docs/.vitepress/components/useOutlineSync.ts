@@ -59,6 +59,24 @@ export function createOutlineSyncer() {
   const myIds: string[] = []
 
   /**
+   * Get the scoped CSS hash from existing outline elements
+   */
+  const getScopedHash = (): string | null => {
+    // Find any existing outline link element
+    const existingLink = document.querySelector('.outline-link')
+    if (existingLink) {
+      // Extract hash from attribute name
+      const attrs = existingLink.attributes
+      for (let i = 0; i < attrs.length; i++) {
+        if (attrs[i].name.startsWith('data-v-')) {
+          return attrs[i].name
+        }
+      }
+    }
+    return null
+  }
+
+  /**
    * Add heading link to a specific container
    */
   const addHeadingToContainer = (outlineList: HTMLElement, heading: Heading) => {
@@ -66,10 +84,17 @@ export function createOutlineSyncer() {
     const existingLink = outlineList.querySelector(`a.outline-link[href="#${heading.id}"][data-vp-outline="true"]`)
     if (existingLink) return
     
+    const scopedHash = getScopedHash()
+    
     const li = document.createElement('li')
-    li.setAttribute('data-v-0141d32b', '')
+    if (scopedHash) {
+      li.setAttribute(scopedHash, '')
+    }
+    
     const link = document.createElement('a')
-    link.setAttribute('data-v-0141d32b', '')
+    if (scopedHash) {
+      link.setAttribute(scopedHash, '')
+    }
     link.className = `outline-link level-${heading.level}`
     link.href = `#${heading.id}`
     link.title = heading.text
