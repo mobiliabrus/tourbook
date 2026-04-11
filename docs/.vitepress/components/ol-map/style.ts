@@ -15,13 +15,13 @@ export const textBaseStyle = {
 
 export function style(feature: any) {
   const geometry = feature.getGeometry();
-  const label = feature.get('label'); // 假设点要素有 'label' 属性
+  const label = feature.get('label'); // Assume point features have 'label' property
 
   const styles = [];
 
-  // 1. 根据几何类型添加对应的基础样式
+  // 1. Add corresponding base styles according to geometry type
   if (geometry.getType() === 'LineString') {
-    // 路线样式
+    // Route style
     styles.push(
       new Style({
         stroke: new Stroke({
@@ -32,7 +32,7 @@ export function style(feature: any) {
       })
     );
   } else if (geometry.getType() === 'Point' && label) {
-    // 点样式（带标签）
+    // Point style (with label)
     styles.push(
       new Style({
         text: new Text({
@@ -48,5 +48,5 @@ export function style(feature: any) {
     );
   }
 
-  return styles; // 返回样式数组
+  return styles; // Return style array
 }

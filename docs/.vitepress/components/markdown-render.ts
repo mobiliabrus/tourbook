@@ -7,8 +7,8 @@ import { componentRegistry } from './component-registry'
 const markdownItMacau = (macauPkg as any).default || macauPkg
 
 /**
- * 创建一个简化的 markdown 渲染器（用于 a-secret 组件）
- * 集成 macau 插件以支持自定义组件
+ * Create a simplified markdown renderer (for a-secret component)
+ * Integrates macau plugin to support custom components
  */
 function createMarkdownRenderer(): MarkdownIt {
   const md = new MarkdownIt({
@@ -17,10 +17,10 @@ function createMarkdownRenderer(): MarkdownIt {
     typographer: true,
   })
 
-  // 集成 macau 插件以支持自定义组件语法
+  // Integrate macau plugin to support custom component syntax
   md.use(markdownItMacau)
 
-  // 集成 anchor 插件以支持标题锚点
+  // Integrate anchor plugin to support heading anchors
   md.use(anchorPlugin, {
     permalink: anchorPlugin.permalink.ariaHidden({
       class: 'header-anchor',
@@ -39,14 +39,14 @@ function createMarkdownRenderer(): MarkdownIt {
   return md
 }
 
-// 创建单例实例
+// Create singleton instance
 const md = createMarkdownRenderer()
 
 /**
- * 将 markdown 内容渲染为 HTML 字符串
- * 注意：此方法仅生成 HTML 字符串，不包含 Vue 组件功能
- * @param content Markdown 内容
- * @returns HTML 字符串
+ * Render markdown content as HTML string
+ * Note: This method only generates HTML string, without Vue component functionality
+ * @param content Markdown content
+ * @returns HTML string
  */
 export function renderMarkdown(content: string): string {
   try {
@@ -58,10 +58,10 @@ export function renderMarkdown(content: string): string {
 }
 
 /**
- * 解析 HTML 字符串中的自定义组件标签
- * 将 <AImg name="test" /> 等标签转换为可识别的格式
- * @param html HTML 字符串
- * @returns 解析后的 tokens 数组
+ * Parse custom component tags in HTML string
+ * Convert tags like <AImg name="test" /> to recognizable format
+ * @param html HTML string
+ * @returns Parsed tokens array
  */
 export function parseComponentTags(html: string): Array<{
   type: 'text' | 'component'
@@ -76,14 +76,14 @@ export function parseComponentTags(html: string): Array<{
     props?: Record<string, any>
   }> = []
 
-  // 匹配自定义组件标签的正则表达式
+  // Regular expression to match custom component tags
   const componentRegex = /<(A[A-Z][a-zA-Z0-9]*|a-[a-z-]+)(\s+[^>]*)?\s*\/?>/gi
   
   let lastIndex = 0
   let match
 
   while ((match = componentRegex.exec(html)) !== null) {
-    // 添加普通文本
+    // Add plain text
     if (match.index > lastIndex) {
       tokens.push({
         type: 'text',
@@ -94,9 +94,9 @@ export function parseComponentTags(html: string): Array<{
     const componentName = match[1]
     const attrsString = match[2] || ''
     
-    // 解析属性
+    // Parse attributes
     const props: Record<string, any> = {}
-    // 匹配两种形式：key="value" 或 key（布尔属性）
+    // Match two forms: key="value" or key (boolean attribute)
     const attrRegex = /(:?)([\w-]+)(?:=(?:"([^"]*)"|'([^']*)'))?/g
     let attrMatch
     
@@ -106,22 +106,22 @@ export function parseComponentTags(html: string): Array<{
       const hasValue = attrMatch[3] !== undefined || attrMatch[4] !== undefined
       const value = attrMatch[3] !== undefined ? attrMatch[3] : attrMatch[4]
 
-      // 如果没有值，说明是布尔属性（如 autoload、disabled），设置为 true
+      // If no value, it's a boolean attribute (like autoload, disabled), set to true
       if (!hasValue) {
         props[key] = true
       } else if (isBinding) {
-        // 尝试解析 JavaScript 表达式（如 :name="{}"、:count="123"）
+        // Try to parse JavaScript expression (like :name="{}", :count="123")
         try {
-          // 使用 Function 构造器安全地解析 JavaScript 表达式
-          // 这种方式可以处理对象字面量、数组、布尔值、数字等
+          // Use Function constructor to safely parse JavaScript expressions
+          // This approach can handle object literals, arrays, booleans, numbers, etc.
           const parsed = new Function(`return ${value}`)()
           props[key] = parsed
         } catch {
-          // 如果解析失败，保持原始字符串值
+          // If parsing fails, keep the original string value
           props[key] = value
         }
       } else {
-        // 普通字符串属性
+        // Normal string attribute
         props[key] = value
       }
     }
@@ -136,7 +136,7 @@ export function parseComponentTags(html: string): Array<{
     lastIndex = match.index + match[0].length
   }
 
-  // 添加剩余的文本
+  // Add remaining text
   if (lastIndex < html.length) {
     tokens.push({
       type: 'text',
@@ -148,26 +148,26 @@ export function parseComponentTags(html: string): Array<{
 }
 
 /**
- * 将解析后的 tokens 转换为 Vue VNodes
- * 用于在运行时动态渲染包含自定义组件的内容
- * @param tokens 解析后的 tokens 数组
- * @returns VNode 数组
+ * Convert parsed tokens to Vue VNodes
+ * Used for dynamically rendering content containing custom components at runtime
+ * @param tokens Parsed tokens array
+ * @returns VNode array
  */
 export function renderTokensAsVNodes(tokens: ReturnType<typeof parseComponentTags>): VNode[] {
   return tokens.map((token, index) => {
     if (token.type === 'text') {
-      // 对于普通文本，直接返回文本节点
+      // For plain text, return text node directly
       return h('span', { key: index, innerHTML: token.content })
     } else if (token.type === 'component' && token.componentName) {
-      // 查找注册的组件
+      // Find registered component
       const Component = componentRegistry[token.componentName as keyof typeof componentRegistry]
       
       if (Component) {
-        // 如果找到组件，渲染它
+        // If component is found, render it
         // eslint-disable-next-line @typescript-eslint/no-explicit-any
         return h(Component as any, { key: index, ...token.props })
       } else {
-        // 如果未找到组件，返回原始 HTML
+        // If component not found, return original HTML
         console.warn(`Component "${token.componentName}" not found in registry`)
         return h('span', { key: index, innerHTML: token.content })
       }
@@ -178,10 +178,10 @@ export function renderTokensAsVNodes(tokens: ReturnType<typeof parseComponentTag
 }
 
 /**
- * 将 Markdown 内容渲染为 Vue VNodes
- * 这是完整的渲染流程：Markdown -> HTML -> 解析组件标签 -> VNodes
- * @param content Markdown 内容
- * @returns VNode 数组
+ * Render Markdown content as Vue VNodes
+ * This is the complete rendering flow: Markdown -> HTML -> Parse component tags -> VNodes
+ * @param content Markdown content
+ * @returns VNode array
  */
 export function renderMarkdownToVNodes(content: string): VNode[] {
   const html = renderMarkdown(content)

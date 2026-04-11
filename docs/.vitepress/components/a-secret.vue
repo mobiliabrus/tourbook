@@ -28,7 +28,7 @@ const secretKey = ref(getSecret())
 const syncer = createOutlineSyncer()
 const extractedHeadings = ref<Heading[]>([])
 
-// 使用 Vite 的 import.meta.glob 预加载所有机密文件
+// Use Vite's import.meta.glob to preload all confidential files
 const confidentialModules = import.meta.glob('../../assets/confidential/*.md', { 
   query: '?raw',
   import: 'default'
@@ -37,7 +37,7 @@ const confidentialModules = import.meta.glob('../../assets/confidential/*.md', {
 const decrypt = () => {
   if (contentVNodes.value.length > 0) {
     visible.value = true
-    // 延迟注册 outline，确保 DOM 已更新
+    // Delay registering outline to ensure DOM is updated
     setTimeout(() => {
       syncer.registerHeadings(extractedHeadings.value)
     }, 0)
@@ -45,7 +45,7 @@ const decrypt = () => {
 }
 
 /**
- * 从 HTML 字符串中提取标题信息
+ * Extract heading information from HTML string
  */
 const extractHeadings = (html: string): Heading[] => {
   const headings: Heading[] = []
@@ -54,7 +54,7 @@ const extractHeadings = (html: string): Heading[] => {
   while ((match = regex.exec(html)) !== null) {
     const level = parseInt(match[1], 10)
     const id = match[2]
-    // 移除内部的 anchor 标签以获取纯文本
+    // Remove inner anchor tags to get plain text
     const text = match[3].replace(/<a[^>]*class="header-anchor"[^>]*>.*?<\/a>/g, '').trim()
     headings.push({ id, text, level })
   }
@@ -69,21 +69,21 @@ onMounted(async () => {
   loading.value = true
   
   try {
-    // 构建文件路径
+    // Build file path
     const filePath = `../../assets/confidential/${props.name}.md`
 
-    // 检查文件是否存在
+    // Check if file exists
     if (!confidentialModules[filePath]) {
       console.error(`Secret file not found: ${props.name}.md`)
       loading.value = false
       return
     }
     
-    // 动态导入文件内容
+    // Dynamically import file content
     const module = await confidentialModules[filePath]()
     rawContent.value = module as string
 
-    // 解密内容
+    // Decrypt content
     if (secretKey.value && rawContent.value) {
       const keylength = 16
       const keyorigin = secretKey.value.split('')
@@ -101,17 +101,17 @@ onMounted(async () => {
       )
       const decryptedText = CryptoJS.enc.Utf8.stringify(decrypted)
 
-      // 提取标题用于 Outline 同步
-      // 我们需要先渲染成 HTML 才能提取，或者修改 renderMarkdownToVNodes 返回中间结果
-      // 这里我们重新渲染一次 HTML 用于提取（性能开销较小）
+      // Extract headings for Outline synchronization
+      // We need to render to HTML first to extract, or modify renderMarkdownToVNodes to return intermediate results
+      // Here we re-render HTML once for extraction (small performance overhead)
       const { renderMarkdown } = await import('./markdown-render')
       const html = renderMarkdown(decryptedText)
       extractedHeadings.value = extractHeadings(html)
 
-      // 将解密后的 markdown 渲染为 Vue VNodes（支持自定义组件）
+      // Render decrypted markdown as Vue VNodes (supporting custom components)
       contentVNodes.value = renderMarkdownToVNodes(decryptedText)
       
-      // 如果设置了自动加载，则立即显示
+      // If autoload is set, display immediately
       if (props.autoload) {
         decrypt()
       }

@@ -17,7 +17,7 @@ const updateActiveOutline = () => {
   const hash = window.location.hash
   if (!hash) return
 
-  // 1. 移除所有动态 outline 的 active 状态
+  // 1. Remove active state from all dynamic outline items
   const dynamicLinks = document.querySelectorAll('.outline-link[data-vp-outline="true"]')
   let found = false
   dynamicLinks.forEach(link => {
@@ -29,7 +29,7 @@ const updateActiveOutline = () => {
     }
   })
 
-  // 2. 如果找到了动态项，移除原生项的 active（防止冲突）
+  // 2. If dynamic item is found, remove active from native items (prevent conflicts)
   if (found) {
     document.querySelectorAll('.VPDocOutlineItem.root > li > a.outline-link:not([data-vp-outline])').forEach(link => {
       link.classList.remove('active')
@@ -40,11 +40,11 @@ const updateActiveOutline = () => {
 const scrollToHash = () => {
   const hash = window.location.hash
   if (hash) {
-    // 增加延迟以确保动态内容（如 a-secret）已经渲染完成
+    // Increase delay to ensure dynamic content (like a-secret) has finished rendering
     setTimeout(() => {
       const element = document.getElementById(decodeURIComponent(hash.slice(1)))
       if (element) {
-        // 获取导航栏高度作为顶部间距
+        // Get navbar height as top spacing
         const navHeight = document.querySelector('.VPNav')?.clientHeight || 60;
         const elementPosition = element.getBoundingClientRect().top;
         const offsetPosition = elementPosition + window.pageYOffset - navHeight;
@@ -61,20 +61,20 @@ const scrollToHash = () => {
 onMounted(() => {
   scrollToHash()
   window.addEventListener('hashchange', handleHashChange)
-  // 监听滚动以更新 active 状态
+  // Listen to scroll to update active state
   window.addEventListener('scroll', updateActiveOutline, { passive: true })
 })
 
-// 监听路由变化，处理页面跳转时的 hash 定位
+// Listen to route changes to handle hash positioning during page navigation
 watch(() => route.path, () => {
-  // 页面切换时，等待新页面挂载后尝试滚动
+  // When switching pages, wait for new page to mount before attempting to scroll
   setTimeout(() => {
     scrollToHash()
     updateActiveOutline()
   }, 100)
 }, { flush: 'post' })
 
-// 由于 VitePress 的 Route 类型可能不包含 hash，我们直接监听 window.location
+// Since VitePress Route type may not include hash, we directly listen to window.location
 const handleHashChange = () => {
   scrollToHash()
   updateActiveOutline()

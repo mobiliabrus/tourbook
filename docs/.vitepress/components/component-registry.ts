@@ -1,6 +1,6 @@
 import type { App } from 'vue'
 
-// 导入所有自定义组件
+// Import all custom components
 import AImg from './a-img.vue'
 import AModal from './a-modal.vue'
 import AFlight from './a-flight.vue'
@@ -14,7 +14,7 @@ import APlaceholder from './a-placeholder.vue'
 import ALazyload from './a-lazyload.vue'
 import AGallery from './a-gallery.vue'
 
-// 定义组件映射表
+// Define component mapping table
 export const componentRegistry = {
   'AImg': AImg,
   'a-img': AImg,
@@ -45,8 +45,8 @@ export const componentRegistry = {
 } as const
 
 /**
- * 注册所有自定义组件到 Vue 应用实例
- * @param app Vue 应用实例
+ * Register all custom components to Vue app instance
+ * @param app Vue app instance
  */
 export function registerComponents(app: App) {
   Object.entries(componentRegistry).forEach(([name, component]) => {
@@ -55,9 +55,9 @@ export function registerComponents(app: App) {
 }
 
 /**
- * 根据组件名称获取组件定义
- * @param name 组件名称
- * @returns 组件定义或 undefined
+ * Get component definition by component name
+ * @param name Component name
+ * @returns Component definition or undefined
  */
 export function getComponentByName(name: string) {
   return componentRegistry[name as keyof typeof componentRegistry]

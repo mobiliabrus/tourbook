@@ -9,7 +9,7 @@ export interface Heading {
 const registeredHeadings = new Map<string, HTMLElement>()
 
 /**
- * 将动态内容的标题注册到 VitePress 的 Outline 中
+ * Register dynamic content headings to VitePress Outline
  */
 export function useOutlineSync() {
   const registerHeadings = (headings: Heading[]) => {
@@ -23,9 +23,9 @@ export function useOutlineSync() {
       link.className = `outline-link level-${heading.level}`
       link.href = `#${heading.id}`
       link.textContent = heading.text
-      link.dataset.vpOutline = 'true' // 标记为动态添加的链接
+      link.dataset.vpOutline = 'true' // Mark as dynamically added link
 
-      // 插入到容器末尾或根据层级插入
+      // Insert at the end of container or according to hierarchy
       outlineContainer.appendChild(link)
       registeredHeadings.set(heading.id, link)
     })
@@ -42,10 +42,10 @@ export function useOutlineSync() {
   }
 
   onUnmounted(() => {
-    // 组件卸载时清理所有由该实例注册的标题
+    // Clean up all headings registered by this instance when component unmounts
     const idsToRemove: string[] = []
-    // 这里需要一种方式知道哪些 ID 是当前组件注册的，简化起见，我们可以在 register 时记录
-    // 但由于 useOutlineSync 是单例逻辑，我们需要改进一下
+    // Here we need a way to know which IDs were registered by current component, for simplicity we can record during register
+    // But since useOutlineSync is singleton logic, we need to improve it
   })
 
   return {
@@ -54,7 +54,7 @@ export function useOutlineSync() {
   }
 }
 
-// 改进：使用一个更简单的全局管理，并在组件内部维护自己的 ID 列表
+// Improvement: Use a simpler global management and maintain own ID list within component
 export function createOutlineSyncer() {
   const myIds: string[] = []
 
@@ -78,7 +78,7 @@ export function createOutlineSyncer() {
 
       li.appendChild(link)
       
-      // 尝试按顺序插入：找到第一个在文档流中位于当前标题之后的元素
+      // Try to insert in order: find the first element that comes after current heading in document flow
       let inserted = false
       const targetEl = document.getElementById(heading.id)
       if (targetEl) {
@@ -91,10 +91,10 @@ export function createOutlineSyncer() {
               const existingId = existingHref.slice(1)
               const existingEl = document.getElementById(existingId)
               if (existingEl && targetEl.compareDocumentPosition(existingEl) & Node.DOCUMENT_POSITION_PRECEDING) {
-                // 如果现有元素在当前目标元素之前，则继续循环
+                // If existing element is before current target element, continue loop
                 continue
               } else {
-                // 找到了第一个在当前目标元素之后的现有元素，插在它前面
+                // Found the first existing element that comes after current target element, insert before it
                 outlineList.insertBefore(li, item)
                 inserted = true
                 break
