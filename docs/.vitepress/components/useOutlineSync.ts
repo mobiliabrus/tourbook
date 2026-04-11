@@ -59,20 +59,55 @@ export function createOutlineSyncer() {
   const myIds: string[] = []
 
   const registerHeadings = (headings: Heading[]) => {
-    const outlineContainer = document.querySelector('.VPDocAsideOutline .content') || 
-                             document.querySelector('.VPDocAsideOutline .outline-link')?.parentElement
-    if (!outlineContainer) return
+    const outlineList = document.querySelector('.VPDocAsideOutline .VPDocOutlineItem.root') as HTMLElement
+    if (!outlineList) return
 
     headings.forEach((heading) => {
       if (myIds.includes(heading.id)) return
       
+      const li = document.createElement('li')
+      li.setAttribute('data-v-0141d32b', '')
+      
       const link = document.createElement('a')
+      link.setAttribute('data-v-0141d32b', '')
       link.className = `outline-link level-${heading.level}`
       link.href = `#${heading.id}`
+      link.title = heading.text
       link.textContent = heading.text
       link.setAttribute('data-vp-outline', 'true')
 
-      outlineContainer.appendChild(link)
+      li.appendChild(link)
+      
+      // 尝试按顺序插入：找到第一个在文档流中位于当前标题之后的元素
+      let inserted = false
+      const targetEl = document.getElementById(heading.id)
+      if (targetEl) {
+        const existingItems = Array.from(outlineList.children) as HTMLElement[]
+        for (const item of existingItems) {
+          const existingLink = item.querySelector('a')
+          if (existingLink) {
+            const existingHref = existingLink.getAttribute('href')
+            if (existingHref) {
+              const existingId = existingHref.slice(1)
+              const existingEl = document.getElementById(existingId)
+              if (existingEl && targetEl.compareDocumentPosition(existingEl) & Node.DOCUMENT_POSITION_PRECEDING) {
+                // 如果现有元素在当前目标元素之前，则继续循环
+                continue
+              } else {
+                // 找到了第一个在当前目标元素之后的现有元素，插在它前面
+                outlineList.insertBefore(li, item)
+                inserted = true
+                break
+              }
+            }
+          }
+        }
+      }
+      
+      if (!inserted) {
+        outlineList.appendChild(li)
+      }
+      
       myIds.push(heading.id)
     })
   }
@@ -80,7 +115,10 @@ export function createOutlineSyncer() {
   const unregister = () => {
     myIds.forEach((id) => {
       const link = document.querySelector(`.outline-link[href="#${id}"][data-vp-outline="true"]`)
-      if (link) link.remove()
+      if (link) {
+        const li = link.parentElement
+        if (li) li.remove()
+      }
     })
     myIds.length = 0
   }
