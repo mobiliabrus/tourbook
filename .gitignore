@@ -4,3 +4,4 @@ node_modules
 *.mdx
 .DS_Store
 docs/.vitepress/cache/
+docs/.vitepress/dist/
