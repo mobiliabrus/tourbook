@@ -49,7 +49,7 @@ I talked to strangers even when my hands shook.
 I learned that some conversations go nowhere, and some lead to coffee, and one might lead to something more.
 
 I hope I can make it across the border.<br/>
-I hope to meet someone and shake their hand.<br/>
+I hope to meet someone and share an embrace.<br/>
 I hope the ocean is as blue as it has been in my dreams.
 
 I hope.
