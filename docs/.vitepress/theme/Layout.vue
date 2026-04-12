@@ -11,21 +11,14 @@ const route = useRoute()
 const secretModalVisible = ref(false)
 const secretValue = ref('')
 
-// Check if we're in browser environment
-const isBrowser = typeof window !== 'undefined'
-
 const handleSetSecret = () => {
-  if (isBrowser) {
-    secretValue.value = localStorage.getItem("lee6's-secret") || ''
-  }
+  secretValue.value = localStorage.getItem("lee6's-secret") || ''
   secretModalVisible.value = true
 }
 
 const handleOk = () => {
   if (secretValue.value.trim() !== '') {
-    if (isBrowser) {
-      localStorage.setItem("lee6's-secret", secretValue.value.trim())
-    }
+    localStorage.setItem("lee6's-secret", secretValue.value.trim())
   }
   secretModalVisible.value = false
 }
@@ -35,8 +28,6 @@ const handleCancel = () => {
 }
 
 const updateActiveOutline = () => {
-  if (!isBrowser) return
-  
   const hash = window.location.hash
   if (!hash) return
 
@@ -61,8 +52,6 @@ const updateActiveOutline = () => {
 }
 
 const scrollToHash = () => {
-  if (!isBrowser) return
-  
   const hash = window.location.hash
   if (hash) {
     // Increase delay to ensure dynamic content (like a-secret) has finished rendering

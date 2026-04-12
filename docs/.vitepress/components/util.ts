@@ -21,10 +21,4 @@ export const base64ToFile = (base64: string): File => {
   return new File([fileData], `${new Date().getTime()}`, { type: mime });
 };
 
-export const getSecret = () => {
-  // Check if we're in browser environment
-  if (typeof window === 'undefined') {
-    return ''
-  }
-  return localStorage.getItem("lee6's-secret") || ''
-}
+export const getSecret = () => localStorage.getItem("lee6's-secret");

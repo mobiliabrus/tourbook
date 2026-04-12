@@ -11,9 +11,7 @@ interface Props {
 
 const props = defineProps<Props>()
 
-// Check if we're in browser environment
-const isBrowser = typeof window !== 'undefined'
-const isLocal = isBrowser ? location.hostname === 'localhost' : false
+const isLocal = location.hostname === 'localhost'
 const secretKey = getSecret()
 
 const baseUrl = (localSuffix = 'docs/assets/') => {

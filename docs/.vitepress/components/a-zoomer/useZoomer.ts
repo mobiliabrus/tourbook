@@ -204,7 +204,7 @@ export function useZoomer(options: UseZoomerOptions = {}) {
 
   // Reactive handlers
   const onWindowResize = () => {
-    if (!root.value || typeof window === 'undefined') return
+    if (!root.value) return
     const styles = window.getComputedStyle(root.value)
     containerWidth.value = parseFloat(styles.width)
     containerHeight.value = parseFloat(styles.height)
@@ -220,7 +220,6 @@ export function useZoomer(options: UseZoomerOptions = {}) {
   }
 
   const loop = () => {
-    if (typeof window === 'undefined') return
     animScale.value = gainOn(animScale.value, scale.value)
     animTranslateX.value = gainOn(animTranslateX.value, translateX.value)
     animTranslateY.value = gainOn(animTranslateY.value, translateY.value)
@@ -327,7 +326,7 @@ export function useZoomer(options: UseZoomerOptions = {}) {
 
   // Lifecycle
   onMounted(() => {
-    if (!root.value || typeof window === 'undefined') return
+    if (!root.value) return
     
     tapDetector = new TapDetector()
     tapDetector.attach(root.value)
@@ -342,8 +341,6 @@ export function useZoomer(options: UseZoomerOptions = {}) {
   })
 
   onBeforeUnmount(() => {
-    if (typeof window === 'undefined') return
-    
     if (tapDetector && root.value) {
       tapDetector.detach(root.value)
     }

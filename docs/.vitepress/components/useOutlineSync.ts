@@ -13,8 +13,6 @@ const registeredHeadings = new Map<string, HTMLElement>()
  */
 export function useOutlineSync() {
   const registerHeadings = (headings: Heading[]) => {
-    if (typeof document === 'undefined') return
-    
     const outlineContainer = document.querySelector('.VPDocAsideOutline .outline-link')?.parentElement
     if (!outlineContainer) return
 
@@ -64,8 +62,6 @@ export function createOutlineSyncer() {
    * Get the scoped CSS hash from existing outline elements
    */
   const getScopedHash = (): string | null => {
-    if (typeof document === 'undefined') return null
-    
     // Find any existing outline link element
     const existingLink = document.querySelector('.outline-link')
     if (existingLink) {
@@ -84,8 +80,6 @@ export function createOutlineSyncer() {
    * Add heading link to a specific container
    */
   const addHeadingToContainer = (outlineList: HTMLElement, heading: Heading) => {
-    if (typeof document === 'undefined') return
-    
     // Check if already added to THIS specific container (not just registered)
     const existingLink = outlineList.querySelector(`a.outline-link[href="#${heading.id}"][data-vp-outline="true"]`)
     if (existingLink) return
@@ -146,8 +140,6 @@ export function createOutlineSyncer() {
    * Register headings to both desktop and mobile outlines
    */
   const registerHeadings = (headings: Heading[]) => {
-    if (typeof document === 'undefined') return
-    
     // 1. Desktop outline: VPDocAsideOutline
     const desktopOutlineList = document.querySelector('.VPDocAsideOutline .VPDocOutlineItem.root') as HTMLElement
     if (desktopOutlineList) {
@@ -198,8 +190,6 @@ export function createOutlineSyncer() {
   }
 
   const unregister = () => {
-    if (typeof document === 'undefined') return
-    
     myIds.forEach((id) => {
       const link = document.querySelector(`.outline-link[href="#${id}"][data-vp-outline="true"]`)
       if (link) {
