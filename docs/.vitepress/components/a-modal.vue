@@ -54,6 +54,7 @@ const transformStyle = computed(() => ({
   transform: `scale(${currentScale.value})`,
   transformOrigin: 'center center',
   transition: 'transform 0.3s ease',
+  height: '100%',
 }))
 </script>
 
