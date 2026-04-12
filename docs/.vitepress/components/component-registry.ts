@@ -1,7 +1,7 @@
 import type { App } from 'vue'
 
 // Import all custom components
-import AImg from './a-img/'
+import AImg from './a-img.vue'
 import AModal from './a-modal.vue'
 import AFlight from './a-flight.vue'
 import AHotel from './a-hotel.vue'

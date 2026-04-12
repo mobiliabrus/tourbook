@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { computed } from 'vue'
-import AImg from './a-img/'
+import AImg from './a-img.vue'
 import { getSecret } from './util'
 
 interface GalleryItem {

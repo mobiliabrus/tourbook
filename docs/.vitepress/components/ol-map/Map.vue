@@ -117,6 +117,7 @@ onBeforeUnmount(() => {
   max-height: 30vh;
   border: 1px solid #ccc;
   overflow: hidden;
+  margin: 16px 0;
 }
 
 .fullscreen-hint {
