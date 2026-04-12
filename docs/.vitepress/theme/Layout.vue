@@ -1,12 +1,11 @@
 <script setup lang="ts">
 import DefaultTheme from 'vitepress/theme'
-import { onMounted, onUnmounted, watch, ref, computed } from 'vue'
-import { useRoute, useData } from 'vitepress'
+import { onMounted, onUnmounted, watch, ref } from 'vue'
+import { useRoute } from 'vitepress'
 import { Modal, Input } from 'ant-design-vue'
 
 const { Layout } = DefaultTheme
 const route = useRoute()
-const { isDark } = useData()
 
 // State for the secret key modal
 const secretModalVisible = ref(false)
@@ -85,6 +84,8 @@ const scrollToHash = () => {
 }
 
 onMounted(() => {
+  if (!isBrowser) return
+  
   scrollToHash()
   window.addEventListener('hashchange', handleHashChange)
   // Listen to scroll to update active state
@@ -107,6 +108,8 @@ const handleHashChange = () => {
 }
 
 onUnmounted(() => {
+  if (!isBrowser) return
+  
   window.removeEventListener('hashchange', handleHashChange)
   window.removeEventListener('scroll', updateActiveOutline)
 })
