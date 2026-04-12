@@ -73,8 +73,6 @@ const scrollToHash = () => {
 }
 
 onMounted(() => {
-  if (!isBrowser) return
-  
   scrollToHash()
   window.addEventListener('hashchange', handleHashChange)
   // Listen to scroll to update active state
