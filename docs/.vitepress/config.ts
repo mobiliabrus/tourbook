@@ -17,10 +17,8 @@ export default defineConfig({
   ],
   
   vite: {
-    resolve: {
-      alias: {
-        'vue': 'vue/dist/vue.esm-bundler.js'
-      }
+    ssr: {
+      noExternal: ['@vue/server-renderer']
     }
   },
   

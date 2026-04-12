@@ -16,6 +16,7 @@
     "@types/node": "^25.5.2",
     "crypto-js": "^4.1.1",
     "katex": "^0.16.25",
+    "less": "^4.6.4",
     "ol": "^10.6.0",
     "ol-mapbox-style": "^13.1.0",
     "typescript": "^5.9.3",
