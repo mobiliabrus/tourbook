@@ -351,10 +351,6 @@ name: cat
 <a-flight flight="AK5323" departure="BKI" destination="PEN" departure-time="2014-01-13 13:20" arrive-time="2014-01-13 16:05"></a-flight>
 
 ```<a-img>
-name: gt-0
-```
-
-```<a-img>
 name: gt-1
 ```
 
