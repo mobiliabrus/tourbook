@@ -1,3 +1,9 @@
+---
+title: VII. Final Journey
+---
+
+# {{ $frontmatter.title }}
+
 ## Kota Kinabalu
 
 <a-times :times="2" location="Kota Kinabalu"></a-times>
@@ -28,8 +34,8 @@ Online resources indicated that minibus services to Mount Kinabalu departed from
 Despite arriving within the operating window, the "full passenger" requirement resulted in an indefinite wait. The minibus did not depart immediately, forcing a prolonged stay at the terminal as other passengers slowly accumulated.
 
 ```<a-map>
-points:116.0487216,5.9436606,KKIA Terminal 2|116.0763801,5.9809019,Airport Bus Station|116.5421188,6.0053195,Kinabalu National Park
-route:{"legs":[{"steps":[],"weight":434.7,"summary":"","duration":434.7,"distance":5915.7},{"steps":[],"weight":103.2,"summary":"","duration":103.2,"distance":757.3},{"steps":[],"weight":252.2,"summary":"","duration":252.2,"distance":2393.8},{"steps":[],"weight":4133.8,"summary":"","duration":4133.8,"distance":83481.1}],"weight_name":"routability","geometry":{"coordinates":[[116.048664,5.943653],[116.047424,5.948178],[116.06908,5.960142],[116.076408,5.980893],[116.078181,5.977649],[116.081515,5.973589],[116.081122,5.96801],[116.083912,5.969122],[116.084881,5.973828],[116.097233,5.977149],[116.110104,5.99217],[116.11799,5.9913],[116.122578,5.99871],[116.130385,6.002361],[116.151256,6.039517],[116.163372,6.046712],[116.181196,6.064106],[116.192067,6.085864],[116.201111,6.096951],[116.205571,6.115481],[116.213569,6.125842],[116.221809,6.146946],[116.236735,6.150241],[116.24439,6.14527],[116.269496,6.139995],[116.291816,6.144316],[116.295994,6.150382],[116.301981,6.148417],[116.309296,6.150317],[116.319389,6.142401],[116.330078,6.127365],[116.334786,6.125739],[116.345077,6.12886],[116.348309,6.125799],[116.34034,6.118168],[116.343818,6.109231],[116.348694,6.110424],[116.354704,6.107402],[116.36173,6.110807],[116.367149,6.10714],[116.375245,6.118385],[116.387228,6.120544],[116.403365,6.114586],[116.402426,6.10521],[116.408874,6.11147],[116.419512,6.110611],[116.423781,6.10438],[116.422795,6.097665],[116.437037,6.090765],[116.442113,6.075549],[116.441895,6.067778],[116.448571,6.052712],[116.452658,6.049748],[116.455557,6.051625],[116.452936,6.042021],[116.457969,6.037155],[116.457215,6.030186],[116.468999,6.02202],[116.471693,6.017031],[116.480378,6.013468],[116.494692,6.020092],[116.500244,6.017628],[116.497064,6.022864],[116.51338,6.017425],[116.514098,6.010832],[116.525863,6.004608],[116.542172,6.005282]],"type":"LineString"},"weight":4923.9,"duration":4923.9,"distance":92547.9}
+points: 116.0487216,5.9436606,KKIA Terminal 2|116.0763801,5.9809019,Airport Bus Station|116.5421188,6.0053195,Kinabalu National Park
+route: {"legs":[{"steps":[],"weight":434.7,"summary":"","duration":434.7,"distance":5915.7},{"steps":[],"weight":103.2,"summary":"","duration":103.2,"distance":757.3},{"steps":[],"weight":252.2,"summary":"","duration":252.2,"distance":2393.8},{"steps":[],"weight":4133.8,"summary":"","duration":4133.8,"distance":83481.1}],"weight_name":"routability","geometry":{"coordinates":[[116.048664,5.943653],[116.047424,5.948178],[116.06908,5.960142],[116.076408,5.980893],[116.078181,5.977649],[116.081515,5.973589],[116.081122,5.96801],[116.083912,5.969122],[116.084881,5.973828],[116.097233,5.977149],[116.110104,5.99217],[116.11799,5.9913],[116.122578,5.99871],[116.130385,6.002361],[116.151256,6.039517],[116.163372,6.046712],[116.181196,6.064106],[116.192067,6.085864],[116.201111,6.096951],[116.205571,6.115481],[116.213569,6.125842],[116.221809,6.146946],[116.236735,6.150241],[116.24439,6.14527],[116.269496,6.139995],[116.291816,6.144316],[116.295994,6.150382],[116.301981,6.148417],[116.309296,6.150317],[116.319389,6.142401],[116.330078,6.127365],[116.334786,6.125739],[116.345077,6.12886],[116.348309,6.125799],[116.34034,6.118168],[116.343818,6.109231],[116.348694,6.110424],[116.354704,6.107402],[116.36173,6.110807],[116.367149,6.10714],[116.375245,6.118385],[116.387228,6.120544],[116.403365,6.114586],[116.402426,6.10521],[116.408874,6.11147],[116.419512,6.110611],[116.423781,6.10438],[116.422795,6.097665],[116.437037,6.090765],[116.442113,6.075549],[116.441895,6.067778],[116.448571,6.052712],[116.452658,6.049748],[116.455557,6.051625],[116.452936,6.042021],[116.457969,6.037155],[116.457215,6.030186],[116.468999,6.02202],[116.471693,6.017031],[116.480378,6.013468],[116.494692,6.020092],[116.500244,6.017628],[116.497064,6.022864],[116.51338,6.017425],[116.514098,6.010832],[116.525863,6.004608],[116.542172,6.005282]],"type":"LineString"},"weight":4923.9,"duration":4923.9,"distance":92547.9}
 ```
 
 After an arduous eighteen-hour journey, I finally reached my accommodation. Once settled and having watched the sunset, I treated myself to a well-deserved dinner at Balsam Café within Mount Kinabalu Park.
@@ -37,18 +43,18 @@ After an arduous eighteen-hour journey, I finally reached my accommodation. Once
 <a-hotel name="Dormitory (Grace Hostel) at Kinabalu Park (1585M)" date="2017-04-02" nights="1"></a-hotel>
 
 ```<a-map>
-points:116.5421188,6.0053195,Kinabalu National Park;116.5393427365916,6.01042297268944,Grace hostel
-route:{"legs":[{"steps":[],"weight":70.37,"summary":"","duration":578.1,"distance":722.8}],"weight_name":"routability","geometry":{"coordinates":[[116.542422,6.005841],[116.542243,6.006101],[116.542259,6.006649],[116.542187,6.006838],[116.542093,6.006883],[116.541805,6.006874],[116.541693,6.006964],[116.541677,6.007045],[116.541816,6.007345],[116.54182,6.007521],[116.541477,6.008092],[116.541507,6.008461],[116.541397,6.008803],[116.540851,6.00945],[116.540549,6.009588],[116.540305,6.009781],[116.540264,6.009924],[116.540317,6.010171],[116.540066,6.010147],[116.539919,6.010203],[116.539773,6.010195],[116.539334,6.01035]],"type":"LineString"},"weight":70.37,"duration":578.1,"distance":722.8}
+points: 116.5421188,6.0053195,Kinabalu National Park;116.5393427365916,6.01042297268944,Grace hostel
+route: {"legs":[{"steps":[],"weight":70.37,"summary":"","duration":578.1,"distance":722.8}],"weight_name":"routability","geometry":{"coordinates":[[116.542422,6.005841],[116.542243,6.006101],[116.542259,6.006649],[116.542187,6.006838],[116.542093,6.006883],[116.541805,6.006874],[116.541693,6.006964],[116.541677,6.007045],[116.541816,6.007345],[116.54182,6.007521],[116.541477,6.008092],[116.541507,6.008461],[116.541397,6.008803],[116.540851,6.00945],[116.540549,6.009588],[116.540305,6.009781],[116.540264,6.009924],[116.540317,6.010171],[116.540066,6.010147],[116.539919,6.010203],[116.539773,6.010195],[116.539334,6.01035]],"type":"LineString"},"weight":70.37,"duration":578.1,"distance":722.8}
 ```
 
 However, a significant challenge lay ahead. The park regulations mandated that every climber hire a guide to ascend the sacred mountain. The costs were prohibitive for a solo traveler: besides the RM 15 entrance fee, RM 200 climbing permit, and RM 7 insurance, the guide fee alone was RM 230 for a group of one to five people. Since a single guide could accommodate up to six climbers, I needed to find companions to form a group and share the expenses. Consequently, I fashioned a sign to recruit fellow climbers.
 
 ```<a-img>
-name:team-0
+name: team-0
 ```
 
 ```<a-img>
-name:mkk1
+name: mkk1
 ```
 
 The following day, I arrived early at the park gate, hopeful of finding climbing partners. My morning was a series of near-misses and eventual success involving three distinct groups of Malaysians.
@@ -56,7 +62,7 @@ The following day, I arrived early at the park gate, hopeful of finding climbing
 First, I encountered a group of six ethnic Malays. They were friendly but informed me their team was already full. Next, I came across another full team, this time consisting of six Malaysian Chinese. Finally, I met a smaller group of three Malaysians, and this time, I successfully secured a spot. One of them, in particular, appeared to be an adept mountaineer.
 
 ```<a-img>
-name:mtkk-1
+name: mtkk-1
 ```
 
 The trek to Laban Rata covered a distance of 6 kilometers, involving an ascent from Timpohon Gate at 1,866 meters to an altitude of 3,273 meters—a climb estimated to take six hours.
@@ -65,34 +71,34 @@ In my preparation, I had overlooked a critical issue: my ten-kilogram backpack. 
 
 
 ```<a-map>
-points:116.5421188,6.0053195,Kinabalu National Park|116.5462398,6.0291003,Timpohon Gate|116.5651771,6.058994,Laban Rata Resthouse;116.558832,6.075277,Low's Peak
+points: 116.5421188,6.0053195,Kinabalu National Park|116.5470398,6.0297003,Timpohon Gate|116.5658471,6.058954,Laban Rata;116.558832,6.075277,Low's Peak
 ```
 
 Before reaching the first rest station, I unexpectedly encountered another group of six Malaysian climbers, all ethnic Malays. Despite having not met them at the gate, we shared a moment of camaraderie and even took a group photo together. The trek proved far more arduous than I had imagined. Scenic highlights were scarce; aside from some squirrels spotted at the initial stop, there were no remarkable sights to behold. Yet, the spirit of mutual support prevailed. Along the trail, we encountered fellow climbers, exchanging words of encouragement that fueled our determination.
 
 ```<a-img>
-name:team-1
+name: team-1
 ```
 
 As soon as we set off, the trail revealed its true nature: a relentless, steep ascent that seemed to go on forever. The path was flanked by dense, lush vegetation, typical of the tropical rainforest, creating a green tunnel that enclosed us. Shortly after we began, the sky opened up, and rain started to pour down. Undeterred, we pressed on through the downpour, our clothes quickly soaked. Amidst the grey mist and dripping leaves, we occasionally spotted squirrels darting along the branches or pausing on the wet trail, the only lively companions in the arduous climb.
 
 ```<a-img>
-name:mtkk-2
+name: mtkk-2
 ```
 
-### Laban Rata
+## Laban Rata
 
 By 15:00, we finally arrived at Laban Rata, situated at an altitude of 3,270 meters.
 
 <a-hotel name="Non-Heated Dormitory-Laban Rata Resthouse" date="2017-04-03" nights="1"></a-hotel>
 
 ```<a-img>
-name:raban-rata
+name: raban-rata
 ```
 
 ```<a-img>
-name:rabanrata
-dir:animation
+name: rabanrata
+dir: animation
 ```
 
 Dinner was served at the Panalaban Restaurant within the complex. Laban Rata itself was a sprawling mountain lodge accommodating climbers from all over. It was here, amidst the bustling dining hall, that I met Ailin and her boyfriend. To my astonishment, she revealed she was originally from Chongqing, China, though she now resided in Hong Kong with her partner. Having communicated exclusively in English up until that point, neither of us had realized we shared the same hometown. The moment we switched to our native dialect, the distance between strangers instantly vanished.
@@ -108,7 +114,7 @@ However, a more pressing issue emerged shortly after. I discovered that my passp
 
 The day ended abruptly. At 22:30, lights were turned off throughout the lodge. We needed to rest immediately, as we were scheduled to wake up before dawn the next day for the final summit push.
 
-### Low's Peak
+## Low's Peak
 
 _So close, yet so far._
 
@@ -129,30 +135,30 @@ All I remember about the next section was having to use both hands to grip the r
 As I approached the summit, dawn was breaking, and I could see a large pile of rocks that we needed to step on to climb higher. It was then that I realized how slippery my shoes were on these rocks; I stumbled and fell, hitting my knee against a rock. Although passersby encouraged me, I decided to give up on reaching the summit after resting for a while. Firstly, I was afraid of getting injured, as I had plans to go diving a few days later. Secondly, it was unlikely that we would be able to see the sunrise on such a rainy day.
 
 ```<a-img>
-name:mkk2
+name: mkk2
 ```
 
 ```<a-img>
-name:mkk3
+name: mkk3
 ```
 
 ```<a-img>
-name:mkk4
+name: mkk4
 ```
 
 It was only when I started walking back that I realized how treacherous the path was. Looking down the steep slope, I could see the plains at the foot of the mountain directly below. The most challenging part of the climb turned out to be a cliff, and I couldn't even imagine how I had managed to climb up there in the first place. Later, I used a near rappelling position to climb back down. There were also some rocky areas behind that offered beautiful scenery.
 
 
 ```<a-img>
-name:mkk5
+name: mkk5
 ```
 
 ```<a-img>
-name:mtkk-4
+name: mtkk-4
 ```
 
 ```<a-img>
-name:mtkk-3
+name: mtkk-3
 ```
 
 Descending the mountain was also a lengthy process, and my knee collided with rocks twice during the descent.
@@ -169,7 +175,7 @@ When I returned to Borneo Backpackers, it felt like visiting a ghost from my pas
 
 ## Semporna
 
-### Seaventure Rig
+## Seaventure Rig
 
 <a-times :times="2" location="Semporna"></a-times>
 
@@ -181,81 +187,177 @@ Scheduled boat transfer from Semporna to Rig at 1230hrs
 
 <a-hotel name="Seaventures Dive Rig" date="2017-04-06" nights="3"></a-hotel>
 
+```<a-divelog>
+no: 36
+date: 2017-4-6
+location: Mabul
+objective: Check Dive
+conditions: 28℃
+timein: 13:59
+time: 45min
+depth: 22
+comment: Avg 14.3, 5kg Weight
+```
+
+```<a-divelog>
+no: 37
+date: 2017-4-6
+location: Seaventures Reef
+objective: FD
+conditions: 28℃
+timein: 16:00
+time: 26in
+depth: 17.1
+```
+
+```<a-divelog>
+no: 38
+date: 2017-4-7
+objective: FD
+conditions: 31℃
+timein: 8:24
+time: 43min
+depth: 21
+comment: Avg 13.7m
+```
+
+```<a-divelog>
+no: 39
+date: 2017-4-7
+objective: FD
+conditions: 28℃
+timein: 10:35
+time: 47min
+depth: 18.9
+comment: Avg 13.1m
+```
+
+```<a-divelog>
+no: 40
+date: 2017-4-7
+objective: FD
+conditions: 29℃
+timein: 14:08
+time: 50min
+depth: 18
+comment: Avg 12.2m
+```
+
 Paradise but not Sipadan, located just off shore Mabul Island. Minutes away from the Rig, the dive site is made up of artificial house reef where old dive boats were sunk, man-made structure such as pyramids and crates are now home to abundance of marine life. The artificial reef is a collaboration work of resorts within and nearby Mabul.
 
 It named "Paradise 2".
 
 ```<a-map>
-points:118.63344342417173,4.253798859528792,Seaventures Dive Rig|118.68229942787646,4.233858799351027,Kapalai|118.6276134545917,4.124777700091974,Sipadan
-divesites:118.630882,4.250431,Paradise 2
+points: 118.63344342417173,4.253798859528792,Seaventures Dive Rig|118.68229942787646,4.233858799351027,Kapalai|118.627429,4.11749,Sipadan
+divesites: 118.630882,4.250431,Paradise 2
 ```
 
 <a-lazycontent><iframe src="https://player.xinpianchang.com/?aid=10216905&amp;mid=9POpZQXqRxV7Er5a" allowfullscreen="" allow="fullscreen" frameborder="0" style="border: none;"></iframe></a-lazycontent>
 
-### Band
+## Band
 
 ```<a-img>
-name:band-1
+name: band-1
 ```
 
 ```<a-img>
-name:band-2
+name: band-2
 ```
 
 ```<a-img>
-name:band-3
+name: band-3
 ```
 
 <a-lazycontent><iframe src="https://player.xinpianchang.com/?aid=10444190&amp;mid=5CE82A011B8FC" allowfullscreen="" allow="fullscreen" frameborder="0" style="border: none;"></iframe></a-lazycontent>
 
 ```<a-img>
-name:vivian
-dir:animation
+name: vivian
+dir: animation
 ```
 
-### Sipadan
+## Sipadan
 
 ```<a-img>
-name:sipandan-2
-```
-
-```<a-img>
-name:sipadan-1
+name: sipandan-2
 ```
 
 ```<a-img>
-name:seaventure-3
+name: sipadan-1
 ```
 
 ```<a-img>
-name:seaventure-4
+name: seaventure-3
 ```
 
 ```<a-img>
-name:sh1
+name: seaventure-4
 ```
 
 ```<a-img>
-name:sh2
-```
-
-
-### Kapalai
-
-```<a-img>
-name:seaventure-1
+name: sh1
 ```
 
 ```<a-img>
-name:seaventure-2
+name: sh2
+```
+
+```<a-map>
+points: 118.627429,4.11749,Sipadan
+divesites: 118.632327,4.12329,Barracuda Point
+```
+
+```<a-divelog>
+no: 41
+date: 2017-4-8
+objective: FD
+location: Sipadan
+conditions: 28℃
+timein: 6:56
+time: 49min
+depth: 31.4
+comment: Avg 11.6m
+```
+
+```<a-divelog>
+no: 42
+date: 2017-4-8
+objective: FD
+location: Sipadan
+conditions: 28℃
+timein: 8:56
+time: 49min
+depth: 26.2
+comment: Avg 14.3m
+```
+
+```<a-divelog>
+no: 43
+date: 2017-4-8
+objective: FD
+location: Barracuda Point, Sipadan
+conditions: 29℃
+timein: 10:55
+time: 50min
+depth: 30.8
+comment: Avg 14m
+```
+
+## Kapalai
+
+```<a-img>
+name: seaventure-1
 ```
 
 ```<a-img>
-name:seaventure-6
+name: seaventure-2
 ```
 
 ```<a-img>
-name:seaventure-5
+name: seaventure-6
+```
+
+```<a-img>
+name: seaventure-5
 ```
 
 Scheduled boat transfer from Rig to Semporna at 1100hrs
@@ -264,20 +366,20 @@ Scheduled land transfer from Semporna to Tawau Airport at 1200hrs
 
 <a-flight flight="AK5741" departure="TWU" destination="KUL" departure-time="2017-04-09 18:20" arrive-time="2017-04-09 21:45"></a-flight>
 
-### Sepang
+## Sepang
 
 As I walked down the street from the station, the crowds gradually thinned out. When I reached an intersection, I hesitated – should I take the dimly lit path in the distance or stick to the main road, even if it meant a longer detour? I chose the latter. However, this route proved to be much farther than I had anticipated, and it took me quite some time to reach the hotel.
 
 ```<a-map>
-points:101.68628171948798,2.745129256594095,KLIA Transit Station @ KLIA2|101.71326935291293,2.827310480585382,Salak Tinggi Station|101.71326935291293,2.827310480585382,Salak Tinggi Station|101.6941487,2.8210419,Hotel Zamburger Kota Warisan
-route:{"legs":[{"steps":[],"weight":281.37,"summary":"","duration":2201.7,"distance":2747}],"weight_name":"routability","geometry":{"coordinates":[[101.694024,2.821042],[101.694023,2.820907],[101.695904,2.82093],[101.696102,2.821444],[101.696486,2.821942],[101.697106,2.822455],[101.697983,2.822781],[101.698566,2.822827],[101.701144,2.822581],[101.701887,2.822679],[101.702492,2.822866],[101.703928,2.823456],[101.704184,2.823653],[101.704323,2.823895],[101.704396,2.824931],[101.704557,2.824923],[101.704613,2.824605],[101.708092,2.824503],[101.708091,2.824635],[101.708263,2.824567],[101.712907,2.824473],[101.712752,2.826124],[101.713048,2.826172],[101.712967,2.827287]],"type":"LineString"},"weight":281.37,"duration":2201.7,"distance":2747}
+points: 101.68628171948798,2.745129256594095,KLIA Transit Station @ KLIA2|101.71326935291293,2.827310480585382,Salak Tinggi Station|101.71326935291293,2.827310480585382,Salak Tinggi Station|101.6941487,2.8210419,Hotel Zamburger Kota Warisan
+route: {"legs":[{"steps":[],"weight":281.37,"summary":"","duration":2201.7,"distance":2747}],"weight_name":"routability","geometry":{"coordinates":[[101.694024,2.821042],[101.694023,2.820907],[101.695904,2.82093],[101.696102,2.821444],[101.696486,2.821942],[101.697106,2.822455],[101.697983,2.822781],[101.698566,2.822827],[101.701144,2.822581],[101.701887,2.822679],[101.702492,2.822866],[101.703928,2.823456],[101.704184,2.823653],[101.704323,2.823895],[101.704396,2.824931],[101.704557,2.824923],[101.704613,2.824605],[101.708092,2.824503],[101.708091,2.824635],[101.708263,2.824567],[101.712907,2.824473],[101.712752,2.826124],[101.713048,2.826172],[101.712967,2.827287]],"type":"LineString"},"weight":281.37,"duration":2201.7,"distance":2747}
 ```
 
 ```<a-hotel>
-name:Hotel Zamburger Kota Warisan
-date:2017-04-09
-nights:1
-point:101.6941487,2.8210419
+name: Hotel Zamburger Kota Warisan
+date: 2017-04-09
+nights: 1
+point: 101.6941487,2.8210419
 ```
 
 After waking up from my slumber, it was time to set off once again. With daylight on my side, I decided to take the shorter path this time. The newly constructed houses lined both sides of the narrow lane, creating a pleasant environment.
@@ -296,46 +398,46 @@ Eventually, I made my way back to the station, waiting for the next airport expr
 
 <a-times :times="3" location="Koh Phangan"></a-times>
 
-### Full Moon Party
+## Full Moon Party
 
 drunkards, goats, hookers, drugsters and tourists.
 
 ```<a-img>
-name:fullmmon3-1
+name: fullmmon3-1
 ```
 
 ```<a-img>
-name:fullmmon3-2
+name: fullmmon3-2
 ```
 
 ```<a-img>
-name:fullmmon3-3
+name: fullmmon3-3
 ```
 
 ```<a-img>
-name:fullmmon3-4
+name: fullmmon3-4
 ```
 
 ```<a-img>
-name:fullmmon3-5
+name: fullmmon3-5
 ```
 
 ```<a-img>
-name:fullmmon3-6
+name: fullmmon3-6
 ```
 
 ```<a-img>
-name:vicky-fish-1
+name: vicky-fish-1
 ```
 
 ```<a-img>
-name:vicky-fish-2
+name: vicky-fish-2
 ```
 
 "She's a sex bomb."
 
 ```<a-img>
-name:vicky-fish-3
+name: vicky-fish-3
 ```
 
 I found a camera in the sand. I asked around, it belongs to nobody. I danced and hang camera over my head. Later, a guy found me, it's his camera. I asked him to check photos in the camera. "Yes, they are!", These must be his important memories.
@@ -347,100 +449,100 @@ Maybe that's fitting. Some moments aren't meant to be kept. They're meant to be 
 After that I took speed boat back to Koh Samui. It was still early morning. The energy had drained out of me, the music fading into background noise. Maybe it was because I knew no one there. Or maybe it was because she wasn't there. Whatever the reason, the party felt hollow. I was done.
 
 ```<a-map>
-points:100.0639134,9.6742334,Haad Rin Pier|100.0610741,9.5713503,Bangrak Seatran Pier
+points: 100.0639134,9.6742334,Haad Rin Pier|100.0610741,9.5713503,Bangrak Seatran Pier
 ```
 
 ## Koh Samui
 
-### Songkran 2561
+## Songkran 2561
 
 ```<a-img>
-name:japanspa-1
+name: japanspa-1
 ```
 
 ```<a-img>
-name:japanspa-2
+name: japanspa-2
 ```
 
 ```<a-img>
-name:japanspa-3
+name: japanspa-3
 ```
 
 ```<a-img>
-name:songkran-boy
+name: songkran-boy
 ```
 
 ```<a-img>
-name:songkran-girl1
+name: songkran-girl1
 ```
 
 ```<a-img>
-name:songkran-girl2
+name: songkran-girl2
 ```
 
 <a-carousel :img="[{name:'songkran-girl3a'},{name:'songkran-girl3b'},{name:'songkran-girl3c'}]"></a-carousel>
 
 ```<a-img>
-name:songkran-rider
+name: songkran-rider
 ```
 
 ```<a-img>
-name:songkran-1
+name: songkran-1
 ```
 
 ```<a-img>
-name:songkran-2
+name: songkran-2
 ```
 
 ```<a-map>
-points:100.055656,9.5179429,Samui Hostel;100.05771003597145,9.522091422945849,Hot Nails;100.05890862420951,9.525159519903497,Stacked;100.06151346327881,9.530876786927479,Central Festival Samui;100.0645801139158,9.532138252683069,Bar
-route:{"legs":[{"steps":[],"weight":252.85,"summary":"","duration":1632.7,"distance":2040.7}],"weight_name":"routability","geometry":{"coordinates":[[100.055661,9.517959],[100.056448,9.517712],[100.05671,9.518318],[100.057453,9.520719],[100.05771,9.522242],[100.058485,9.523676],[100.058828,9.525128],[100.059309,9.525955],[100.060249,9.528912],[100.061441,9.530757],[100.062179,9.531454],[100.0631,9.531886],[100.064577,9.532146]],"type":"LineString"},"weight":252.85,"duration":1632.7,"distance":2040.7}
+points: 100.055656,9.5179429,Samui Hostel;100.05771003597145,9.522091422945849,Hot Nails;100.05890862420951,9.525159519903497,Stacked;100.06151346327881,9.530876786927479,Central Festival Samui;100.0645801139158,9.532138252683069,Bar
+route: {"legs":[{"steps":[],"weight":252.85,"summary":"","duration":1632.7,"distance":2040.7}],"weight_name":"routability","geometry":{"coordinates":[[100.055661,9.517959],[100.056448,9.517712],[100.05671,9.518318],[100.057453,9.520719],[100.05771,9.522242],[100.058485,9.523676],[100.058828,9.525128],[100.059309,9.525955],[100.060249,9.528912],[100.061441,9.530757],[100.062179,9.531454],[100.0631,9.531886],[100.064577,9.532146]],"type":"LineString"},"weight":252.85,"duration":1632.7,"distance":2040.7}
 ```
 
 stacked
 
 ```<a-img>
-name:songkran-girl1
-dir:animation
+name: songkran-girl1
+dir: animation
 ```
 
 ```<a-img>
-name:nails1.jpg
-dir:privacy
+name: nails1.jpg
+dir: privacy
 ```
 
 <a-gallery :img="[{name:'nails2.jpg',dir:'privacy'},{name:'nails3.jpg',dir:'privacy'}]"></a-gallery>
 
 ```<a-img>
-name:nails4.jpg
-dir:privacy
+name: nails4.jpg
+dir: privacy
 ```
 
 ```<a-img>
-name:nails5.jpg
-dir:privacy
+name: nails5.jpg
+dir: privacy
 ```
 
 ```<a-img>
-name:gabi1.jpg
-dir:privacy
+name: gabi1.jpg
+dir: privacy
 ```
 
 ```<a-img>
-name:gabi2.jpg
-dir:privacy
+name: gabi2.jpg
+dir: privacy
 ```
 
 <a-lazycontent><iframe src="https://player.xinpianchang.com/?aid=79799&amp;mid=29WxJ7l8aKk781kM" allowfullscreen="" allow="fullscreen" frameborder="0" style="border: none;"></iframe></a-lazycontent>
 
 ```<a-img>
-name:bitch.jpg
-dir:privacy
+name: bitch.jpg
+dir: privacy
 ```
 
 ```<a-img>
-name:bitch3.jpg
-dir:privacy
+name: bitch3.jpg
+dir: privacy
 ```
 
 green dreadlocks on party
@@ -458,8 +560,8 @@ green dreadlocks in dark
 <br />
 
 ```<a-map>
-points:100.055656,9.5179429,Samui Hostel|100.0567723,9.5256037,Irish Pub
-route:{"legs":[{"steps":[],"weight":98.69,"summary":"","duration":778.4,"distance":973.4}],"weight_name":"routability","geometry":{"coordinates":[[100.055661,9.517959],[100.054827,9.51815],[100.055069,9.519628],[100.055085,9.520691],[100.055384,9.52179],[100.056192,9.522507],[100.05663,9.524131],[100.05685,9.525594]],"type":"LineString"},"weight":98.69,"duration":778.4,"distance":973.4}
+points: 100.055656,9.5179429,Samui Hostel|100.0567723,9.5256037,Irish Pub
+route: {"legs":[{"steps":[],"weight":98.69,"summary":"","duration":778.4,"distance":973.4}],"weight_name":"routability","geometry":{"coordinates":[[100.055661,9.517959],[100.054827,9.51815],[100.055069,9.519628],[100.055085,9.520691],[100.055384,9.52179],[100.056192,9.522507],[100.05663,9.524131],[100.05685,9.525594]],"type":"LineString"},"weight":98.69,"duration":778.4,"distance":973.4}
 ```
 
 ```secret
@@ -485,15 +587,15 @@ route:{"legs":[{"steps":[],"weight":98.69,"summary":"","duration":778.4,"distanc
 ```
 
 ```<a-img>
-name:samuis
+name: samuis
 ```
 
 <br />
 
 ```<a-img>
-name:bitch2.jpg
-dir:privacy
-hide:true
+name: bitch2.jpg
+dir: privacy
+hide: true
 ```
 
 <a-flight flight="FD3232" departure="URT" destination="DMK" departure-time="2017-04-18 04:10" arrive-time="2017-04-18 05:20"></a-flight>

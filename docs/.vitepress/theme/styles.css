@@ -1,0 +1,17 @@
+:root {
+  --vp-nav-height: 46px;
+}
+
+.VPSidebarItem {
+  padding-bottom: 4px !important;
+}
+
+.VPNavBarHamburger.hamburger {
+  display: none;
+}
+
+/* 表格自适应宽度 */
+.vp-doc table {
+  width: 100%;
+  display: table;
+}

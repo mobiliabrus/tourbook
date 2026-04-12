@@ -1,3 +1,9 @@
+---
+title: III. The Three Trees
+---
+
+# {{ $frontmatter.title }}
+
 > _You are far from home._
 > _You meet a girl._
 > _It's exciting, why not?_
@@ -25,16 +31,16 @@ This journey originated from a simple thread I posted on a travel forum, detaili
 Upon my arrival in Chiang Mai on the first day, I joined two female companions from our group for an initial exploration of the Old City. However, our dynamic was quite reserved; we remained polite but somewhat distant, without establishing any deep rapport. Our walk through the ancient streets was largely aimless—a perfunctory loop around the major sites without a clear theme or shared passion. 
 
 ```<a-img>
-name:balake.jpg
-dir:privacy
+name: balake.jpg
+dir: privacy
 ```
 
 ```<a-img>
-name:balake2.jpg
-dir:privacy
+name: balake2.jpg
+dir: privacy
 ```
 
-### Tree Houses
+## Tree Houses
 
 The following morning marked the true beginning of our expedition. A van from the Treehouse Lodge set off to collect us, starting with the furthest point: Baan Thai on Nimmanhaeminda Road. Here, the first two members of our group boarded the empty van.
 
@@ -57,8 +63,8 @@ With the engine humming and the cityscape fading into the rearview mirror, repla
 <a-hotel name="Rabeang Pasak Treehouse Resort" date="2014-11-04" nights="1"></a-hotel>
 
 ```<a-map>
-points:98.9660400,18.7979829,Baan Thai Apartment|98.9970986,18.7842285,So Hostel|98.9838874,18.7963096,A Little Bird 2 Guest House|98.98652265355459,18.795304760190298,Chang Phuak Gate|99.124138,18.983908,Rabeang Pasak Treehouse Resort
-route:{"legs":[{"steps":[],"weight":2866.4,"summary":"","duration":2865.9,"distance":36398.2}],"weight_name":"routability","geometry":{"coordinates":[[98.986496,18.795306],[98.984153,18.795517],[98.986435,18.795956],[98.983956,18.812096],[99.011399,18.809712],[99.015372,18.807919],[99.018776,18.804256],[99.05463,18.831812],[99.078506,18.846471],[99.130574,18.870544],[99.137705,18.876339],[99.155283,18.884453],[99.148592,18.897476],[99.148981,18.913627],[99.143805,18.922162],[99.142326,18.934809],[99.140659,18.937073],[99.142085,18.938558],[99.139761,18.942216],[99.140833,18.944304],[99.139181,18.946814],[99.140074,18.94843],[99.137669,18.95264],[99.137811,18.951555],[99.134667,18.951823],[99.128271,18.962772],[99.126912,18.968169],[99.125057,18.968826],[99.125109,18.972248],[99.122886,18.974846],[99.12528,18.977995],[99.123797,18.983925]],"type":"LineString"},"weight":2866.4,"duration":2865.9,"distance":36398.2}
+points: 98.9660400,18.7979829,Baan Thai Apartment|98.9970986,18.7842285,So Hostel|98.9838874,18.7963096,A Little Bird 2 Guest House|98.98652265355459,18.795304760190298,Chang Phuak Gate|99.124138,18.983908,Rabeang Pasak Treehouse Resort
+route: {"legs":[{"steps":[],"weight":2866.4,"summary":"","duration":2865.9,"distance":36398.2}],"weight_name":"routability","geometry":{"coordinates":[[98.986496,18.795306],[98.984153,18.795517],[98.986435,18.795956],[98.983956,18.812096],[99.011399,18.809712],[99.015372,18.807919],[99.018776,18.804256],[99.05463,18.831812],[99.078506,18.846471],[99.130574,18.870544],[99.137705,18.876339],[99.155283,18.884453],[99.148592,18.897476],[99.148981,18.913627],[99.143805,18.922162],[99.142326,18.934809],[99.140659,18.937073],[99.142085,18.938558],[99.139761,18.942216],[99.140833,18.944304],[99.139181,18.946814],[99.140074,18.94843],[99.137669,18.95264],[99.137811,18.951555],[99.134667,18.951823],[99.128271,18.962772],[99.126912,18.968169],[99.125057,18.968826],[99.125109,18.972248],[99.122886,18.974846],[99.12528,18.977995],[99.123797,18.983925]],"type":"LineString"},"weight":2866.4,"duration":2865.9,"distance":36398.2}
 ```
 
 <a-carousel :img="[{name:'tree-house-me'},{name:'treehouse-1'}]"></a-carousel>
@@ -66,85 +72,85 @@ route:{"legs":[{"steps":[],"weight":2866.4,"summary":"","duration":2865.9,"dista
 We booked three treehouses — Tamarind House, Moon House, and Rimtarn House. We mainly gathered in the largest treehouse, Moon House. Sheyao stayed in Rimtarn House.
 
 ```<a-img>
-name:she-1
+name: she-1
 ```
 
 ```<a-img>
-name:qin-2.jpg
-dir:privacy
+name: qin-2.jpg
+dir: privacy
 ```
 
 ```<a-img>
-name:qin-1.jpg
-dir:privacy
+name: qin-1.jpg
+dir: privacy
 ```
 
 ```<a-img>
-name:treehouse-2.jpg
-dir:privacy
+name: treehouse-2.jpg
+dir: privacy
 ```
 
 ```<a-img>
-name:treehouse-7.jpg
-dir:privacy
+name: treehouse-7.jpg
+dir: privacy
 ```
 
 ```<a-img>
-name:yunt1.jpg
-dir:privacy
+name: yunt1.jpg
+dir: privacy
 ```
 
 ```<a-img>
-name:yunt2.jpg
-dir:privacy
+name: yunt2.jpg
+dir: privacy
 ```
 
 ```<a-img>
-name:yunt3
+name: yunt3
 ```
 
 ```<a-img>
-name:yunt4
+name: yunt4
 ```
 
 ```<a-img>
-name:treehouse-11
+name: treehouse-11
 ```
 
 ```<a-img>
-name:treehouse-12.jpg
-dir:privacy
+name: treehouse-12.jpg
+dir: privacy
 ```
 
 ```<a-img>
-name:treehouse-13.jpg
-dir:privacy
+name: treehouse-13.jpg
+dir: privacy
 ```
 
 ```<a-img>
-name:treehouse-14.jpg
-dir:privacy
+name: treehouse-14.jpg
+dir: privacy
 ```
 
 ```<a-img>
-name:treehouse-15
+name: treehouse-15
 ```
 
 <a-carousel :img="[{name:'treehouse-yuner'},{name:'treehouse-16'}]"></a-carousel>
 
 ```<a-img>
-name:treehouse-8.jpg
-dir:privacy
+name: treehouse-8.jpg
+dir: privacy
 ```
 
 ```<a-img>
-name:treehouse-9.jpg
-dir:privacy
+name: treehouse-9.jpg
+dir: privacy
 ```
 
 ```<a-img>
-name:treehouse-10.jpg
-dir:privacy
+name: treehouse-10.jpg
+dir: privacy
 ```
 
 ```secret
@@ -152,174 +158,174 @@ dir:privacy
 ```
 
 ```<a-img>
-name:treehouse-17.jpg
-dir:privacy
+name: treehouse-17.jpg
+dir: privacy
 ```
 
 ```<a-map>
-points:99.124138,18.983908,Rabeang Pasak Treehouse Resort|99.1186256,18.9869287,จุดชมวิวแผ่นดินหวิด|99.11609819407542,18.982546545449992,-
-route:{"legs":[{"steps":[],"weight":85.23,"summary":"","duration":652.6,"distance":737.2}],"weight_name":"routability","geometry":{"coordinates":[[99.123797,18.983925],[99.1238,18.983976],[99.123418,18.984009],[99.122036,18.983758],[99.12175,18.983772],[99.121512,18.983863],[99.121306,18.984016],[99.121098,18.984043],[99.120873,18.984139],[99.120617,18.984378],[99.119701,18.984969],[99.119178,18.98538],[99.118965,18.985663],[99.118866,18.985885],[99.118818,18.986189],[99.118652,18.986661],[99.118639,18.986927]],"type":"LineString"},"weight":85.23,"duration":652.6,"distance":737.2}
-theme:topo-v2
+points: 99.124138,18.983908,Rabeang Pasak Treehouse Resort|99.1186256,18.9869287,จุดชมวิวแผ่นดินหวิด|99.11609819407542,18.982546545449992,-
+route: {"legs":[{"steps":[],"weight":85.23,"summary":"","duration":652.6,"distance":737.2}],"weight_name":"routability","geometry":{"coordinates":[[99.123797,18.983925],[99.1238,18.983976],[99.123418,18.984009],[99.122036,18.983758],[99.12175,18.983772],[99.121512,18.983863],[99.121306,18.984016],[99.121098,18.984043],[99.120873,18.984139],[99.120617,18.984378],[99.119701,18.984969],[99.119178,18.98538],[99.118965,18.985663],[99.118866,18.985885],[99.118818,18.986189],[99.118652,18.986661],[99.118639,18.986927]],"type":"LineString"},"weight":85.23,"duration":652.6,"distance":737.2}
+theme: topo-v2
 ```
 
 ```<a-img>
-name:treehouse-6.jpg
-dir:privacy
+name: treehouse-6.jpg
+dir: privacy
 ```
 
 ```<a-img>
-name:treehouse-20.jpg
-dir:privacy
+name: treehouse-20.jpg
+dir: privacy
 ```
 
 ```<a-img>
-name:treehouse-20-2.jpg
-dir:privacy
+name: treehouse-20-2.jpg
+dir: privacy
 ```
 
 ```<a-img>
-name:treehouse-21
+name: treehouse-21
 ```
 
 ```<a-img>
-name:treehouse-18
+name: treehouse-18
 ```
 
 ```<a-img>
-name:treehouse-19
+name: treehouse-19
 ```
 
 <a-carousel :img="[{name:'treehouse-23.jpg',dir:'privacy'},{name:'treehouse-4.jpg',dir:'privacy'},{name:'treehouse-5.jpg',dir:'privacy'}]"></a-carousel>
 
 ```<a-img>
-name:treehouse-24.jpg
-dir:privacy
+name: treehouse-24.jpg
+dir: privacy
 ```
 
 ```<a-img>
-name:treehouse-25.jpg
-dir:privacy
+name: treehouse-25.jpg
+dir: privacy
 ```
 
 ```<a-img>
-name:treehouse-22.jpg
-dir:privacy
+name: treehouse-22.jpg
+dir: privacy
 ```
 
 ```<a-img>
-name:treehouseme
+name: treehouseme
 ```
 
 ```<a-img>
-name:treehouse-26.jpg
-dir:privacy
+name: treehouse-26.jpg
+dir: privacy
 ```
 
 ```<a-img>
-name:treehouse-3.jpg
-dir:privacy
+name: treehouse-3.jpg
+dir: privacy
 ```
 
 ```<a-img>
-name:treehouse-27.jpg
-dir:privacy
+name: treehouse-27.jpg
+dir: privacy
 ```
 
-### Swimming Pool
+## Swimming Pool
 
 ```<a-map>
-points:98.9660400,18.7979829,Baan Thai Apartment
+points: 98.9660400,18.7979829,Baan Thai Apartment
 zoom: 16
-theme:satellite
+theme: satellite
 ```
 
 Baan Thai Apartment
 
 ```<a-img>
-name:sheswim.jpg
-dir:privacy
+name: sheswim.jpg
+dir: privacy
 ```
 
-### Loy Krathong
+## Loy Krathong
 
 First, we went for a spa treatment, and by the time it concluded, the popular Water Lantern Festival had already begun, so we joined in the festivities.
 
 ```<a-img>
-name:spa.jpg
-dir:privacy
+name: spa.jpg
+dir: privacy
 ```
 
 ```<a-img>
-name:chiangmai-qin.jpg
-dir:privacy
+name: chiangmai-qin.jpg
+dir: privacy
 ```
 
 ```<a-img>
-name:cqin-3.jpg
-dir:privacy
+name: cqin-3.jpg
+dir: privacy
 ```
 
 ```<a-img>
-name:qin-3-2
-dir:privacy
+name: qin-3-2
+dir: privacy
 ```
 
 ```<a-img>
-name:deng
+name: deng
 ```
 
-### Old City
+## Old City
 
 11-6
 
 ```<a-img>
-name:dinger
+name: dinger
 ```
 
 ```<a-img>
-name:oldcity-1.jpg
-dir:privacy
+name: oldcity-1.jpg
+dir: privacy
 ```
 
 ```<a-img>
-name:oldcity-2.jpg
-dir:privacy
+name: oldcity-2.jpg
+dir: privacy
 ```
 
 ```<a-img>
-name:oldcity-3.jpg
-dir:privacy
+name: oldcity-3.jpg
+dir: privacy
 ```
 
 ```<a-img>
-name:dinger2.jpg
-dir:privacy
+name: dinger2.jpg
+dir: privacy
 ```
 
 ```<a-img>
-name:ll.jpg
-dir:privacy
+name: ll.jpg
+dir: privacy
 ```
 
 ```<a-img>
-name:oldcity-4
+name: oldcity-4
 ```
 
 11-7
 
 ```<a-img>
-name:chiang-1.jpg
-dir:privacy
+name: chiang-1.jpg
+dir: privacy
 ```
 
 <a-gallery :img="[{name:'chiang-2.jpg',dir:'privacy'},{name:'chiang-3.jpg',dir:'privacy'}]"></a-gallery>
 
 ```<a-map>
-points:98.9660400,18.7979829,Baan Thai Apartment|98.9547589,18.8083025,Chiang Mai University
-route:{"legs":[{"steps":[],"weight":143.1,"summary":"","duration":143.1,"distance":2047}],"weight_name":"routability","geometry":{"coordinates":[[98.966012,18.797801],[98.966534,18.797729],[98.967612,18.80062],[98.967771,18.801202],[98.967685,18.801386],[98.954757,18.808299]],"type":"LineString"},"weight":143.1,"duration":143.1,"distance":2047}
+points: 98.9660400,18.7979829,Baan Thai Apartment|98.9547589,18.8083025,Chiang Mai University
+route: {"legs":[{"steps":[],"weight":143.1,"summary":"","duration":143.1,"distance":2047}],"weight_name":"routability","geometry":{"coordinates":[[98.966012,18.797801],[98.966534,18.797729],[98.967612,18.80062],[98.967771,18.801202],[98.967685,18.801386],[98.954757,18.808299]],"type":"LineString"},"weight":143.1,"duration":143.1,"distance":2047}
 ```
 
-### Chiang Mai Airport
+## Chiang Mai Airport
 
 I saw she off at the airport.
 
@@ -332,8 +338,8 @@ Accident
 Sheyao had originally planned to come with us to Koh Tao to learn diving, but had to change her itinerary due to a friend visiting Chiang Mai.
 
 ```<a-img>
-name:she-mountain.jpg
-dir:privacy
+name: she-mountain.jpg
+dir: privacy
 ```
 
 <a-flight flight="FD3446" departure="CNX" destination="DMK" departure-time="2014-11-08 09:30" arrive-time="2014-11-08 10:50"></a-flight>
@@ -341,8 +347,8 @@ dir:privacy
 Qin and me met up on Khao San Road and went for a massage. After that, we were waiting for the bus.
 
 ```<a-map>
-points:100.498725,13.759380,Lomprayah Bangkok|99.267069,10.358415,Lomprayah Pier
-route:{"legs":[{"steps":[],"weight":22123.1,"summary":"","duration":22123.1,"distance":481528.5}],"weight_name":"routability","geometry":{"coordinates":[[100.498617,13.759461],[100.487862,13.684725],[100.361243,13.593678],[100.130263,13.507274],[100.11504,13.473115],[99.941983,13.358641],[99.831313,13.339399],[99.819603,13.274457],[99.841792,13.166457],[99.863584,13.132102],[99.930618,13.112938],[99.948257,13.075885],[99.897982,12.979891],[99.94361,12.808336],[99.926572,12.727936],[99.857689,12.631341],[99.925688,12.418388],[99.887379,12.374685],[99.844234,12.172034],[99.859228,12.061367],[99.790436,11.892021],[99.767075,11.756887],[99.684046,11.66572],[99.601224,11.482558],[99.559003,11.432049],[99.523346,11.421782],[99.437162,11.272675],[99.367168,11.109555],[99.365144,10.995082],[99.298152,10.945622],[99.190434,10.786345],[99.201829,10.664999],[99.166267,10.603222],[99.162541,10.498677],[99.212528,10.474308],[99.22288,10.426606],[99.254499,10.436978],[99.273853,10.420323],[99.26709,10.358422]],"type":"LineString"},"weight":22123.1,"duration":22123.1,"distance":481528.5}
+points: 100.498725,13.759380,Lomprayah Bangkok|99.267069,10.358415,Lomprayah Pier
+route: {"legs":[{"steps":[],"weight":22123.1,"summary":"","duration":22123.1,"distance":481528.5}],"weight_name":"routability","geometry":{"coordinates":[[100.498617,13.759461],[100.487862,13.684725],[100.361243,13.593678],[100.130263,13.507274],[100.11504,13.473115],[99.941983,13.358641],[99.831313,13.339399],[99.819603,13.274457],[99.841792,13.166457],[99.863584,13.132102],[99.930618,13.112938],[99.948257,13.075885],[99.897982,12.979891],[99.94361,12.808336],[99.926572,12.727936],[99.857689,12.631341],[99.925688,12.418388],[99.887379,12.374685],[99.844234,12.172034],[99.859228,12.061367],[99.790436,11.892021],[99.767075,11.756887],[99.684046,11.66572],[99.601224,11.482558],[99.559003,11.432049],[99.523346,11.421782],[99.437162,11.272675],[99.367168,11.109555],[99.365144,10.995082],[99.298152,10.945622],[99.190434,10.786345],[99.201829,10.664999],[99.166267,10.603222],[99.162541,10.498677],[99.212528,10.474308],[99.22288,10.426606],[99.254499,10.436978],[99.273853,10.420323],[99.26709,10.358422]],"type":"LineString"},"weight":22123.1,"duration":22123.1,"distance":481528.5}
 ```
 
 We sat in the first row on the second floor, and I even brought beer onto the bus; they don't usually allow eating or drinking on the bus. Later, when I was sleeping, the beer spilled, leaving the bus smelling of alcohol.
@@ -356,18 +362,18 @@ It's still the rainy season. As we were boarding the boat under the steel canopy
 <a-times :times="1" location="Koh Tao"></a-times>
 
 ```<a-img>
-name:qinx1.jpg
-dir:privacy
+name: qinx1.jpg
+dir: privacy
 ```
 
 We eventually got on the boat, and the sea was very rough; it felt like we were surfing as the boat rose and fell with the waves, dropping suddenly each time. Half of the passengers on board ended up seasick and vomiting. I couldn’t vomit though, which left me feeling miserable with nausea. Qin, however, was fine. I only felt better after forcing myself to sleep for a while; when I woke up, we could already see Koh Tao.
 
-### Crystal Dive
+## Crystal Dive
 
 When we first arrived on the island, it would often rain, and the ground was crawling with millipedes as thick as thumbs. The diving shop provided free accommodation, but Qin wasn’t satisfied with it and rented another room elsewhere. I, on the other hand, made do with what was provided.
 
 ```<a-img>
-name:crystal-desk
+name: crystal-desk
 ```
 
 <a-gallery :img="[{name:'kohtaorainny'},{name:'kohtaosunny'}]"></a-gallery>
@@ -375,12 +381,12 @@ name:crystal-desk
 Once the classes started, the weather gradually cleared up, and it didn’t rain after that.
 
 ```<a-img>
-name:crystal
+name: crystal
 ```
 
 ```<a-img>
-name:crystal-girl.jpg
-dir:privacy
+name: crystal-girl.jpg
+dir: privacy
 ```
 
 There was a girl among the trainees who I found very agreeable, so I asked her out for dinner. However, she already had plans with another guy, so the three of us went together. We went to an Italian restaurant where I ordered pizza and an additional dish to share with everyone. But this turned out to be unnecessary; in their culture, they don’t share food and didn’t partake in it. Their conversation mostly revolved around European landmarks they had visited, which left me unable to contribute much to the discussion.
@@ -388,151 +394,151 @@ There was a girl among the trainees who I found very agreeable, so I asked her o
 Later, when Qin finished her course, I took the opportunity to leave as well.
 
 ```<a-img>
-name:crystal-students
+name: crystal-students
 ```
 
 Crystal Dive Koh Tao with Nick Button, James Tomlinson, Vincent Teschel, Brittany Kalenderian, Tina Major and others
 
 ```<a-img>
-name:crystalqin.jpg
-dir:privacy
+name: crystalqin.jpg
+dir: privacy
 ```
 
 Qin and her dive instructor
 
-```<a-divelog
-no:1
-date:2014-11-11
-location:Japanese Gardens, Koh Tao
-objective:OWTD 1
-conditions: 30℃ 8mViz
-timein:13:09
-timeout:13:53
-depth:12m
-time:44min
-comment:Neon Damselfish, Cleaner Wrasse
-buddy:280960
-```
-
-```<a-divelog
-no:2
-date:2014-11-11
-location:Japanese Gardens, Koh Tao
-objective:OWTD 2
-conditions: 30℃ 8mViz
-timein:15:17
-timeout:16:01
-depth:12m
-time:44min
-comment:All Skill Complete
-buddy:280960
-```
-
-```<a-divelog
-no:3
-date:2014-11-12
-location:White Rock, Koh Tao
-objective:OWTD 3
-conditions: 30℃ 8-10mViz
-timein:08:13
-timeout:09:51
-depth:17m
-time:38min
-comment:All Skill Complete
-buddy:280960
-```
-
-```<a-divelog
-no:4
-date:2014-11-12
-location:Tao Tong, Koh Tao
-objective:OWTD 4
-conditions: 30℃ 10mViz
-timein:10:07
-timeout:10:48
-depth:10m
-time:39min
-comment:All Skill Complete
-buddy:280960
-```
-
 ```<a-map>
-points:99.825093,10.085696,Crystal Dive Resort
-divesites:99.81422,10.11937,Japanese Gardens|99.81525,10.10535,White Rock|99.8256,10.057116,Taa Toh Rock
+points: 99.825093,10.085696,Crystal Dive Resort
+divesites: 99.81422,10.11937,Japanese Gardens|99.81525,10.10535,White Rock|99.8256,10.057116,Taa Toh Rock
+```
+
+```<a-divelog>
+no: 1
+date: 2014-11-11
+location: Japanese Gardens, Koh Tao
+objective: OWTD 1
+conditions: 30℃ 8mViz
+timein: 13:09
+timeout: 13:53
+depth: 12m
+time: 44min
+comment: Neon Damselfish, Cleaner Wrasse
+buddy: 280960
+```
+
+```<a-divelog>
+no: 2
+date: 2014-11-11
+location: Japanese Gardens, Koh Tao
+objective: OWTD 2
+conditions: 30℃ 8mViz
+timein: 15:17
+timeout: 16:01
+depth: 12m
+time: 44min
+comment: All Skill Complete
+buddy: 280960
+```
+
+```<a-divelog>
+no: 3
+date: 2014-11-12
+location: White Rock, Koh Tao
+objective: OWTD 3
+conditions: 30℃ 8-10mViz
+timein: 08:13
+timeout: 09:51
+depth: 17m
+time: 38min
+comment: All Skill Complete
+buddy: 280960
+```
+
+```<a-divelog>
+no: 4
+date: 2014-11-12
+location: Tao Tong, Koh Tao
+objective: OWTD 4
+conditions: 30℃ 10mViz
+timein: 10:07
+timeout: 10:48
+depth: 10m
+time: 39min
+comment: All Skill Complete
+buddy: 280960
 ```
 
 ```<a-img>
-name:crystal-1
+name: crystal-1
 ```
 
 ```<a-img>
-name:crystal-2
+name: crystal-2
 ```
 
 ```<a-img>
-name:crystal-3
+name: crystal-3
 ```
 
 ```<a-img>
-name:crystal-4
+name: crystal-4
 ```
 
 ```<a-img>
-name:crystal-5
+name: crystal-5
 ```
 
-### Qin
+## Qin
 
 ```<a-img>
-name:qinx2.jpg
-dir:privacy
+name: qinx2.jpg
+dir: privacy
 ```
 
 After class, Qin and I often ate at the restaurant attached to the dive shop or at Praness's Kitchen, especially since Praness's Kitchen had a nicer atmosphere.
 
 ```<a-img>
-name:kohtao1.jpg
-dir:privacy
+name: kohtao1.jpg
+dir: privacy
 ```
 
 ```<a-img>
-name:seadog
+name: seadog
 ```
 
 ```<a-img>
-name:qin-3.jpg
-dir:privacy
+name: qin-3.jpg
+dir: privacy
 ```
 
 ```<a-img>
-name:qin-3-3.jpg
-dir:privacy
+name: qin-3-3.jpg
+dir: privacy
 ```
 
 ```<a-img>
-name:qin-4.jpg
-dir:privacy
+name: qin-4.jpg
+dir: privacy
 ```
 
 <a-secret name="qinkohtao" autoload></a-secret>
 
 ```<a-img>
-name:kohtaosunset
+name: kohtaosunset
 ```
 
-### Moondance
+## Moondance
 
 I had originally planned to go to this cliff house with her, but now I have to muster the courage to go alone. Qin was also left behind.
 
 <a-hotel name="Moondance Magicview Bungalow" date="2014-11-12" nights="1"></a-hotel>
 
 ```<a-map>
-points:99.825095,10.085781,Crystal Dive|99.8458561,10.0780687,Moondance Magic View Bungalow
-theme:topo-v2
+points: 99.825095,10.085781,Crystal Dive|99.8458561,10.0780687,Moondance Magic View Bungalow
+theme: topo-v2
 ```
 
 ```<a-img>
-name:TheBeach
+name: TheBeach
 ```
 
 _The room is in darkness. Moonlight penetrates the threadbare curtain. The bed is surrounded by a mosquito net._

@@ -1,10 +1,32 @@
 {
   "name": "tourbook",
   "version": "0.0.0",
+  "type": "module",
   "private": true,
   "scripts": {
-    "start": "node ../scripts/lib/watch",
-    "build": "node ../scripts/lib/encodeAll",
-    "revert": "node ../scripts/lib/decodeAll"
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "preview": "vitepress preview docs",
+    "start": "node ../scripts/lib/watch & vitepress dev docs",
+    "encode": "node ../scripts/lib/encodeAll",
+    "decode": "node ../scripts/lib/decodeAll",
+    "type-check": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@types/node": "^25.5.2",
+    "crypto-js": "^4.1.1",
+    "katex": "^0.16.25",
+    "ol": "^10.6.0",
+    "ol-mapbox-style": "^13.1.0",
+    "typescript": "^5.9.3",
+    "vitepress": "^1.6.4",
+    "vue": "^3.5.31"
+  },
+  "dependencies": {
+    "ant-design-vue": "^4.2.6",
+    "dayjs": "^1.11.20",
+    "markdown-it": "^14.1.1",
+    "markdown-it-anchor": "^9.2.0",
+    "markdown-it-macau": "^1.0.0"
   }
 }
