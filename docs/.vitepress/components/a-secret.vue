@@ -25,7 +25,9 @@ const loading = ref(false)
 const visible = ref(false)
 const rawContent = ref('')
 const contentVNodes = ref<VNode[]>([])
-const secretKey = ref(getSecret())
+// Check if we're in browser environment
+const isBrowser = typeof window !== 'undefined'
+const secretKey = ref(isBrowser ? getSecret() : '')
 const syncer = createOutlineSyncer()
 const extractedHeadings = ref<Heading[]>([])
 
@@ -63,7 +65,7 @@ const extractHeadings = (html: string): Heading[] => {
 }
 
 onMounted(async () => {
-  if (!secretKey.value) {
+  if (!isBrowser || !secretKey.value) {
     return
   }
 

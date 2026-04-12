@@ -28,12 +28,16 @@ const pop = () => {
   nextTick(() => {
     zoomIn(props.scale)
   })
-  document.body.style.overflowY = 'hidden'
+  if (typeof document !== 'undefined') {
+    document.body.style.overflowY = 'hidden'
+  }
 }
 
 const close = () => {
   visible.value = false
-  document.body.style.overflowY = 'auto'
+  if (typeof document !== 'undefined') {
+    document.body.style.overflowY = 'auto'
+  }
   reset()
 }
 

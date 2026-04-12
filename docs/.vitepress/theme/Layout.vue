@@ -1,24 +1,32 @@
 <script setup lang="ts">
 import DefaultTheme from 'vitepress/theme'
-import { onMounted, onUnmounted, watch, ref } from 'vue'
-import { useRoute } from 'vitepress'
+import { onMounted, onUnmounted, watch, ref, computed } from 'vue'
+import { useRoute, useData } from 'vitepress'
 import { Modal, Input } from 'ant-design-vue'
 
 const { Layout } = DefaultTheme
 const route = useRoute()
+const { isDark } = useData()
 
 // State for the secret key modal
 const secretModalVisible = ref(false)
 const secretValue = ref('')
 
+// Check if we're in browser environment
+const isBrowser = typeof window !== 'undefined'
+
 const handleSetSecret = () => {
-  secretValue.value = localStorage.getItem("lee6's-secret") || ''
+  if (isBrowser) {
+    secretValue.value = localStorage.getItem("lee6's-secret") || ''
+  }
   secretModalVisible.value = true
 }
 
 const handleOk = () => {
   if (secretValue.value.trim() !== '') {
-    localStorage.setItem("lee6's-secret", secretValue.value.trim())
+    if (isBrowser) {
+      localStorage.setItem("lee6's-secret", secretValue.value.trim())
+    }
   }
   secretModalVisible.value = false
 }
@@ -28,6 +36,8 @@ const handleCancel = () => {
 }
 
 const updateActiveOutline = () => {
+  if (!isBrowser) return
+  
   const hash = window.location.hash
   if (!hash) return
 
@@ -52,6 +62,8 @@ const updateActiveOutline = () => {
 }
 
 const scrollToHash = () => {
+  if (!isBrowser) return
+  
   const hash = window.location.hash
   if (hash) {
     // Increase delay to ensure dynamic content (like a-secret) has finished rendering
