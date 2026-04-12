@@ -2,7 +2,7 @@ import MarkdownIt from 'markdown-it'
 import macauPkg from 'markdown-it-macau'
 import anchorPlugin from 'markdown-it-anchor'
 import { h, type VNode } from 'vue'
-import { componentRegistry } from './component-registry'
+import { componentRegistry, normalizeComponentName } from './component-registry'
 
 const markdownItMacau = (macauPkg as any).default || macauPkg
 
@@ -159,8 +159,11 @@ export function renderTokensAsVNodes(tokens: ReturnType<typeof parseComponentTag
       // For plain text, return text node directly
       return h('span', { key: index, innerHTML: token.content })
     } else if (token.type === 'component' && token.componentName) {
+      // Normalize component name to kebab-case for lookup
+      const normalizedName = normalizeComponentName(token.componentName)
+      
       // Find registered component
-      const Component = componentRegistry[token.componentName as keyof typeof componentRegistry]
+      const Component = componentRegistry[normalizedName as keyof typeof componentRegistry]
       
       if (Component) {
         // If component is found, render it
@@ -168,7 +171,7 @@ export function renderTokensAsVNodes(tokens: ReturnType<typeof parseComponentTag
         return h(Component as any, { key: index, ...token.props })
       } else {
         // If component not found, return original HTML
-        console.warn(`Component "${token.componentName}" not found in registry`)
+        console.warn(`Component "${token.componentName}" (normalized: "${normalizedName}") not found in registry`)
         return h('span', { key: index, innerHTML: token.content })
       }
     }

@@ -18,7 +18,7 @@ import ADivelog from './a-divelog.vue'
 /**
  * Convert component name to kebab-case for consistent lookup
  */
-function normalizeComponentName(name: string): string {
+export function normalizeComponentName(name: string): string {
   return name.replace(/([a-z])([A-Z])/g, '$1-$2').toLowerCase()
 }
 
