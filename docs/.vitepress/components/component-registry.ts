@@ -14,6 +14,7 @@ import APlaceholder from './a-placeholder.vue'
 import ALazyload from './a-lazyload.vue'
 import AGallery from './a-gallery.vue'
 import ADivelog from './a-divelog.vue'
+import ClientOnly from './ClientOnly.vue'
 
 /**
  * Convert component name to kebab-case for consistent lookup
@@ -37,6 +38,7 @@ export const componentRegistry = {
   'a-lazyload': ALazyload,
   'a-gallery': AGallery,
   'a-divelog': ADivelog,
+  'client-only': ClientOnly,
 } as const
 
 /**

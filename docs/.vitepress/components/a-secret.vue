@@ -25,7 +25,9 @@ const loading = ref(false)
 const visible = ref(false)
 const rawContent = ref('')
 const contentVNodes = ref<VNode[]>([])
-const secretKey = ref(getSecret())
+// Client-side only flag to avoid hydration mismatch
+const isClient = ref(false)
+const secretKey = ref('')
 const syncer = createOutlineSyncer()
 const extractedHeadings = ref<Heading[]>([])
 
@@ -63,6 +65,12 @@ const extractHeadings = (html: string): Heading[] => {
 }
 
 onMounted(async () => {
+  // Mark as client-side mounted
+  isClient.value = true
+  
+  // Get secret key only on client side
+  secretKey.value = getSecret() || ''
+  
   if (!secretKey.value) {
     return
   }
@@ -125,34 +133,45 @@ onUnmounted(() => {
 </script>
 
 <template>
-  <div v-if="loading" class="a-secret-loading">
-    <div class="a-secret-skeleton">
-      <div class="skeleton-line"></div>
-      <div class="skeleton-line"></div>
-      <div class="skeleton-line short"></div>
+  <!-- Only render after client-side hydration to avoid mismatch -->
+  <template v-if="isClient">
+    <div v-if="loading" class="a-secret-loading">
+      <div class="a-secret-skeleton">
+        <div class="skeleton-line"></div>
+        <div class="skeleton-line"></div>
+        <div class="skeleton-line short"></div>
+      </div>
     </div>
-  </div>
-  
-  <span
-    v-else-if="!visible && (blackout || contentVNodes.length > 0)"
-    class="a-secret-blackout"
-    @click="decrypt"
-  >
-    {{ rawContent }}
-  </span>
-  
-  <template
-    v-else-if="visible"
-  >
-    <component
-      v-for="(vnode, index) in contentVNodes"
-      :key="index"
-      :is="vnode"
-    />
+    
+    <span
+      v-else-if="!visible && (blackout || contentVNodes.length > 0)"
+      class="a-secret-blackout"
+      @click="decrypt"
+    >
+      {{ rawContent }}
+    </span>
+    
+    <template
+      v-else-if="visible"
+    >
+      <component
+        v-for="(vnode, index) in contentVNodes"
+        :key="index"
+        :is="vnode"
+      />
+    </template>
   </template>
+  
+  <!-- SSR fallback: render empty placeholder to maintain consistent structure -->
+  <span v-else class="a-secret-ssr-placeholder"></span>
 </template>
 
 <style scoped>
+.a-secret-ssr-placeholder {
+  display: inline-block;
+  min-height: 1em;
+}
+
 .a-secret-loading {
   padding: 1rem 0;
 }
