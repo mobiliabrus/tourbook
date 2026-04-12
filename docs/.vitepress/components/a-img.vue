@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { ref, computed } from 'vue'
+import { ref, computed, watch, nextTick } from 'vue'
 import crypto from './crypto.js'
 import { base64ToFile, getSecret } from './util.js'
 
@@ -35,8 +35,24 @@ const onLoad = () => {
 
 const onImageLoad = (e: Event) => {
   img.value = e.target as HTMLImageElement
-  scaleIn()
+  // Only scale if modal is already open, otherwise wait for popover event
+  if (visible.value) {
+    scaleIn()
+  }
 }
+
+const handlePopoverOpen = () => {
+  nextTick(() => {
+    scaleIn()
+  })
+}
+
+// Watch for visibility changes to ensure scaling happens even if image was already loaded
+watch(visible, (isVisible: boolean) => {
+  if (isVisible && img.value) {
+    nextTick(scaleIn)
+  }
+})
 
 const onImageError = (e: Event) => {
   const target = e.target as HTMLImageElement
@@ -132,7 +148,7 @@ const load = async (suffix = '', t: 'src' | 'srcMin' = 'src') => {
 <template>
   <a-lazyload @load="onLoad" aria-hidden="true">
     <a-placeholder v-if="visible && (!src && !srcMin)"></a-placeholder>
-    <a-modal v-if="!loading || (src || srcMin)" :scale="scale">
+    <a-modal v-if="!loading || (src || srcMin)" :scale="scale" @popover="handlePopoverOpen">
       <template #action>
         <div style="display: flex; justify-content: space-between;">
           <div class="a-img-lefaction">
