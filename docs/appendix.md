@@ -1,6 +1,11 @@
 ---
 title: Appendix
+outline: deep
 ---
+
+<script setup>
+import FullmoonCalculator from './components/fullmoon-planner/index.vue'
+</script>
 
 So here I am—little dating experience, passive by nature, stuck in patterns of ambiguity. Yet I dream of traveling abroad to find a girlfriend across language and cultural barriers. I excel at "ideas" but fail at follow-through; my rigid itineraries create the illusion of opportunity while ensuring I miss it when it appears. To make matters worse, I want everything while committing to nothing.
 
@@ -8,7 +13,7 @@ So here I am—little dating experience, passive by nature, stuck in patterns of
 
 In 2019, following two years of economic stagnation and amidst emerging signs of recovery, a travel plan was formulated but ultimately not executed.
 
-The proposed pre-trip preparation and requirements were as follows:
+### Pre-trip Preparation
 
 **Grooming**
 - Textured crop hairstyle (**sides faded, top styled upward**)
@@ -39,6 +44,24 @@ The proposed pre-trip preparation and requirements were as follows:
   - Accept uncertainty: awkwardness and rejection are normal
   - Invest in your life: travels, photography, writing make you attractive
 - Master ice-breakers, follow-up questions, and emergency phrases through weekly practice
+
+### Itinerary
+
+<a-map points="98.810486,8.042807,Krabi|100.068051,9.676993,Haad Rin"></a-map>
+
+### Alternative: Koh Phangan Full Moon Party
+- **Timing**: 4 days before full moon to full moon day
+- **Options**: <FullmoonCalculator />
+- **Location**: Haad Rin Nok, Koh Phangan
+- **Accommodation Strategy**:
+  - [MBAR HOSTEL HAAD RIN](https://www.booking.com/hotel/th/mbar-hostel-haad-rin.en-gb.html) — Beachfront with bar, social hub
+  - [Hideout Hostel](https://www.booking.cn/hotel/th/hideout-hostel.en-gb.html) — Hillside retreat, peaceful escape
+
+### Alternative: Ao Nang, Krabi
+- **Why**: Railay Beach — climbing paradise, kayaking, sunset views, vibrant energy
+- **Location**: Ao Nang, Krabi
+- **Accommodation Strategy**:
+  - [K-Bunk AoNang Center](https://www.booking.cn/hotel/th/the-moment-hostel.en-gb.html) — Solo traveler hub, private rooms available
 
 ---
 
