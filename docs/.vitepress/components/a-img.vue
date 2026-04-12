@@ -11,8 +11,10 @@ interface Props {
 
 const props = defineProps<Props>()
 
-const isLocal = location.hostname === 'localhost'
-const secretKey = getSecret()
+// Check if we're in browser environment
+const isBrowser = typeof window !== 'undefined'
+const isLocal = isBrowser ? location.hostname === 'localhost' : false
+const secretKey = ref(isBrowser ? getSecret() : '')
 
 const baseUrl = (localSuffix = 'docs/assets/') => {
   const repo_name = (window as any).__img_repo_name__ || 'img'
@@ -27,7 +29,7 @@ const src = ref<string | undefined>(undefined)
 const srcMin = ref<string | undefined>(undefined)
 const scale = ref<number | undefined>(undefined)
 const loading = ref(false)
-const visible = computed(() => !props.dir?.includes('privacy') || !!secretKey)
+const visible = computed(() => !props.dir?.includes('privacy') || !!secretKey.value)
 
 const onLoad = () => {
   load('min', 'srcMin')
@@ -92,7 +94,7 @@ const requestEncrypted = async (url: string, t: 'src' | 'srcMin') => {
       reader.onload = function () {
         try {
           const secret = (reader.result as string).split('datatext/plainbase64')[1]
-          const base64 = crypto(secret, secretKey || '', 'decrypt')
+          const base64 = crypto(secret, secretKey.value || '', 'decrypt')
           const blobUrl = URL.createObjectURL(base64ToFile(base64))
           if (t === 'src') src.value = blobUrl
           else srcMin.value = blobUrl
@@ -114,7 +116,7 @@ const load = async (suffix = '', t: 'src' | 'srcMin' = 'src') => {
   const name = props.name.split('.')[0]
   
   if (props.dir === 'privacy' || props.dir === 'privacy-gif') {
-    if (!secretKey) return
+    if (!secretKey.value) return
     const ext = props.dir === 'privacy-gif' ? (suffix ? `${suffix}.g1f` : 'gif') : (suffix ? `${suffix}.webp` : 'webp')
     const filename = suffix ? `${name}.${ext}` : props.name
     const url = buildUrl('privacy/', filename)
