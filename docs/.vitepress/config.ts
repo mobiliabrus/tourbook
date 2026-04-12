@@ -8,6 +8,7 @@ export default defineConfig({
   lang: 'en-UK',
   title: 'Tourbook',
   description: 'Fragments of journeys, echoes of encounters.',
+  base: '/tourbook/',
   appearance: false,
 
   srcDir: './',
