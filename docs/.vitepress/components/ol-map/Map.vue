@@ -126,7 +126,7 @@ onBeforeUnmount(() => {
   width: 100%;
   height: 100%;
   background: transparent;
-  z-index: 9007199254740991;
+  z-index: 1;
 }
 
 .fullscreen-exit {

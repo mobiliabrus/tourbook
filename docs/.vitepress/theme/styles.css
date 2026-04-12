@@ -15,3 +15,7 @@
   width: 100%;
   display: table;
 }
+
+.VPSidebar.open {
+  z-index: 9007199254740991;
+}
