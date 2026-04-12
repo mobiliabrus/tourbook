@@ -172,9 +172,12 @@ export function createOutlineSyncer() {
       syncToMobile()
 
       // Observe for when the dropdown opens/closes (items element appears/disappears)
-      const observer = new MutationObserver(() => {
-        // When DOM changes, try to sync again
-        syncToMobile()
+      const observer = new MutationObserver((mutations) => {
+        // Check if any mutation added nodes that might contain our outline items
+        const hasAddedNodes = mutations.some(m => m.addedNodes.length > 0)
+        if (hasAddedNodes) {
+          syncToMobile()
+        }
       })
 
       observer.observe(mobileDropdown, { childList: true, subtree: true })

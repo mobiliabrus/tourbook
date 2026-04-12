@@ -15,37 +15,28 @@ import ALazyload from './a-lazyload.vue'
 import AGallery from './a-gallery.vue'
 import ADivelog from './a-divelog.vue'
 
-// Define component mapping table
+/**
+ * Convert component name to kebab-case for consistent lookup
+ */
+function normalizeComponentName(name: string): string {
+  return name.replace(/([a-z])([A-Z])/g, '$1-$2').toLowerCase()
+}
+
+// Define component mapping table (using standard kebab-case names)
 export const componentRegistry = {
-  'AImg': AImg,
   'a-img': AImg,
-  'A-img': AImg,
-  'AModal': AModal,
   'a-modal': AModal,
-  'AMap': Map,
   'a-map': Map,
-  'A-map': Map,
-  'AFlight': AFlight,
   'a-flight': AFlight,
-  'AHotel': AHotel,
   'a-hotel': AHotel,
-  'ATimes': ATimes,
   'a-times': ATimes,
-  'ASecret': ASecret,
   'a-secret': ASecret,
-  'ACarousel': ACarousel,
   'a-carousel': ACarousel,
-  'AClose': AClose,
   'a-close': AClose,
-  'APlaceholder': APlaceholder,
   'a-placeholder': APlaceholder,
-  'ALazyload': ALazyload,
   'a-lazyload': ALazyload,
-  'AGallery': AGallery,
   'a-gallery': AGallery,
-  'ADivelog': ADivelog,
   'a-divelog': ADivelog,
-  'A-divelog': ADivelog,
 } as const
 
 /**
@@ -54,7 +45,10 @@ export const componentRegistry = {
  */
 export function registerComponents(app: App) {
   Object.entries(componentRegistry).forEach(([name, component]) => {
+    // Register both kebab-case and PascalCase versions
     app.component(name, component)
+    const pascalName = name.split('-').map(part => part.charAt(0).toUpperCase() + part.slice(1)).join('')
+    app.component(pascalName, component)
   })
 }
 
@@ -64,7 +58,8 @@ export function registerComponents(app: App) {
  * @returns Component definition or undefined
  */
 export function getComponentByName(name: string) {
-  return componentRegistry[name as keyof typeof componentRegistry]
+  const normalizedName = normalizeComponentName(name)
+  return componentRegistry[normalizedName as keyof typeof componentRegistry]
 }
 
 export default componentRegistry

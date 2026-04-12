@@ -1,6 +1,5 @@
 <script setup lang="ts">
 import { ref, onMounted, onBeforeUnmount } from 'vue'
-import { debounce } from './util'
 
 const emit = defineEmits<{
   load: []
@@ -8,51 +7,34 @@ const emit = defineEmits<{
 
 const loaded = ref(false)
 const lazy = ref<HTMLElement | null>(null)
-let handler: (() => void) | null = null
-
-const listen = () => {
-  handler = debounce(onscroll, 100)
-  document.addEventListener('scroll', handler)
-}
-
-const dismiss = () => {
-  if (handler) {
-    document.removeEventListener('scroll', handler)
-    handler = null
-  }
-}
-
-const onscroll = () => {
-  shouldLoad()
-}
-
-const shouldLoad = (next?: () => void) => {
-  if (!lazy.value) return
-  
-  const clientHeight = document.documentElement.clientHeight
-  const preload = 0.5 * clientHeight
-  const { bottom, top } = lazy.value.getBoundingClientRect()
-  
-  if (!loaded.value && bottom - clientHeight < preload && top > 0 - preload) {
-    loaded.value = true
-    emit('load')
-    dismiss()
-    return
-  } else if (typeof next === 'function') {
-    next()
-  }
-}
+let observer: IntersectionObserver | null = null
 
 onMounted(() => {
-  setTimeout(() => {
-    shouldLoad(() => {
-      listen()
-    })
-  }, 100)
+  if (!lazy.value) return
+
+  observer = new IntersectionObserver(
+    (entries) => {
+      entries.forEach((entry) => {
+        if (entry.isIntersecting && !loaded.value) {
+          loaded.value = true
+          emit('load')
+          observer?.disconnect()
+        }
+      })
+    },
+    {
+      rootMargin: '50% 0px', // Preload when element is within 50% of viewport height
+    }
+  )
+
+  observer.observe(lazy.value)
 })
 
 onBeforeUnmount(() => {
-  dismiss()
+  if (observer) {
+    observer.disconnect()
+    observer = null
+  }
 })
 </script>
 

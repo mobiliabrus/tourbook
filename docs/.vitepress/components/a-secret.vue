@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import { ref, onMounted, onUnmounted, computed, type VNode } from 'vue'
+import { crypto, normalizeKey } from './crypto'
 import CryptoJS from 'crypto-js'
 import { getSecret } from './util'
 import { renderMarkdownToVNodes } from './markdown-render'
@@ -85,18 +86,13 @@ onMounted(async () => {
 
     // Decrypt content
     if (secretKey.value && rawContent.value) {
-      const keylength = 16
-      const keyorigin = secretKey.value.split('')
-      const key16 =
-        keyorigin.length < 16
-          ? [...keyorigin, ...Array.from(new Array(keylength - keyorigin.length)).map(() => '0')].join('')
-          : keyorigin.slice(0, 16).join('')
+      const normalizedKey = normalizeKey(secretKey.value)
+      const keyUtf = CryptoJS.enc.Utf8.parse(normalizedKey)
+      const iv = { iv: CryptoJS.enc.Base64.parse(normalizedKey) }
       
-      const keyutf = CryptoJS.enc.Utf8.parse(key16)
-      const iv = { iv: CryptoJS.enc.Base64.parse(key16) }
       const decrypted = CryptoJS.AES.decrypt(
         { ciphertext: CryptoJS.enc.Base64.parse(rawContent.value) },
-        keyutf,
+        keyUtf,
         iv
       )
       const decryptedText = CryptoJS.enc.Utf8.stringify(decrypted)
