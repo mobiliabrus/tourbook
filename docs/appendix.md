@@ -43,13 +43,12 @@ The proposed pre-trip preparation and requirements were as follows:
 
 ---
 
-I see the pattern now—preparation as procrastination, gear as armor, itineraries as escape routes.
-I started saying hello first.
-I talked to strangers even when my hands shook.
-I learned that some conversations go nowhere, and some lead to coffee, and one might lead to something more.
+I finally saw the pattern: preparation was just procrastination in disguise. So I put down the armor and said hello. My hands shook, but I spoke. Some conversations faded, others led to coffee, and one... one might lead to something more.
 
-I hope I can make it across the border.<br/>
-I hope to meet someone and share an embrace.<br/>
+I hope I can make it across the border.
+
+I hope to meet someone and share an embrace.
+
 I hope the ocean is as blue as it has been in my dreams.
 
 I hope.
