@@ -1,5 +1,5 @@
 import { ref, computed, onMounted, onBeforeUnmount, watch } from 'vue'
-import _debounce from './debounce.min.js'
+import { debounce } from '../util'
 import TapDetector from './TapDetector'
 
 export interface UseZoomerOptions {
@@ -141,7 +141,7 @@ export function useZoomer(options: UseZoomerOptions = {}) {
     pointerPosY.value = newMousePosY
   }
 
-  const onInteractionEnd = _debounce(() => {
+  const onInteractionEnd = debounce(() => {
     limit()
     panLocked.value = scale.value === 1
   }, 100)

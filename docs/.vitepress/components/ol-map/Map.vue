@@ -1,7 +1,7 @@
-<script setup>
+<script setup lang="ts">
 import { ref, watch, onMounted, onBeforeUnmount } from 'vue';
 import { useFullscreenWithScroll } from '../../composables/useFullscreenWithScroll';
-import { propsType } from './constant';
+import { propsType, type VectorStyle } from './constant';
 import VectorSource from 'ol/source/Vector';
 import VectorLayer from 'ol/layer/Vector';
 import Close from '../a-close.vue';
@@ -12,9 +12,11 @@ import { createFlights } from './sources/flights';
 import { style } from './style';
 import diveSiteIcon from './statics/divesite';
 import olms from 'ol-mapbox-style';
+import Map from 'ol/Map';
+import type LayerGroup from 'ol/layer/Group';
 
-const mapRef = ref(undefined);
-const mapInstance = ref(null);
+const mapRef = ref<HTMLElement | undefined>(undefined);
+const mapInstance = ref<Map | LayerGroup | null>(null);
 
 const { handleFullscreen, isFullscreen } = useFullscreenWithScroll();
 
@@ -28,19 +30,23 @@ const flightsData = parseFlights(props.flights);
 const diveSitesData = parsePoints(props.divesites);
 const pointsData = parsePoints(props.points);
 
-let fitView = () => {};
+const MAPTILER_KEY = import.meta.env.VITE_MAPTILER_KEY || 'K18uxgT9BWfvlkwGw6VG'
+
+let fitView = () => {}
 const initMap = () => {
+  if (!mapRef.value) return
   olms(
     mapRef.value,
-    `https://api.maptiler.com/maps/${theme}/style.json?key=K18uxgT9BWfvlkwGw6VG`
-  ).then((map) => {
-    mapInstance.value = map;
+    `https://api.maptiler.com/maps/${theme}/style.json?key=${MAPTILER_KEY}`
+  ).then((map: Map | LayerGroup) => {
+    if (map instanceof Map) {
+      mapInstance.value = map;
 
-    // Control
-    map.getControls().clear();
+      // Control
+      map.getControls().clear();
 
-    // View
-    const view = map.getView();
+      // View
+      const view = map.getView();
 
     // Vector
     const vectorSource = new VectorSource();
@@ -60,22 +66,27 @@ const initMap = () => {
 
     fitView = () => {
       const extent = vectorSource.getExtent();
-      view.fit(extent, {
-        padding: mapPadding,
-        maxZoom: maxZoom || 18,
-        duration: 0,
-      });
+      if (extent && extent.length === 4) {
+        view.fit(extent, {
+          padding: mapPadding,
+          maxZoom: maxZoom || 18,
+          duration: 0,
+        });
+      }
     };
 
     // Fit view
     if (routeJSON || flightsData || pointsData.length > 0 || diveSitesData.length > 0) {
       fitView();
     }
+    }
   });
 };
 
 const handleFullscreenClick = () => {
-  handleFullscreen(mapRef.value);
+  if (mapRef.value) {
+    handleFullscreen(mapRef.value);
+  }
 };
 
 watch(isFullscreen, () => {
@@ -87,8 +98,8 @@ onMounted(() => {
 });
 
 onBeforeUnmount(() => {
-  if (mapInstance.value) {
-    mapInstance.value.setTarget(null);
+  if (mapInstance.value && mapInstance.value instanceof Map) {
+    mapInstance.value.setTarget(undefined);
     mapInstance.value = null;
   }
 });

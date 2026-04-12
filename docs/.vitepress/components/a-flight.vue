@@ -1,29 +1,16 @@
-<script setup>
+<script setup lang="ts">
 import { computed } from 'vue'
 import dayjs from 'dayjs'
 
-const props = defineProps({
-  flight: {
-    type: String,
-    required: false,
-  },
-  departure: {
-    type: String,
-    required: true,
-  },
-  departureTime: {
-    type: String,
-    required: true,
-  },
-  destination: {
-    type: String,
-    required: true,
-  },
-  arriveTime: {
-    type: String,
-    required: true,
-  },
-})
+interface FlightProps {
+  flight?: string
+  departure: string
+  departureTime: string
+  destination: string
+  arriveTime: string
+}
+
+const props = defineProps<FlightProps>()
 
 const departureTimeLocale = computed(() => {
   return dayjs(props.departureTime).format('D MMM, HH:mm')

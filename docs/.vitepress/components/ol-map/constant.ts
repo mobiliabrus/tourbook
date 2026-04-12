@@ -15,6 +15,8 @@ type VectorStyle =
   | 'satellite'
   | string;
 
+export type { VectorStyle }
+
 export const propsType = {
   theme: {
     type: String as PropType<VectorStyle>,

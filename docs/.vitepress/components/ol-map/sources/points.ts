@@ -8,7 +8,7 @@ import { textBaseStyle } from '../style';
 
 interface IIconConfig {
   url: string;
-  size: [number, number];
+  size?: [number, number];
 }
 
 export const createPoints = (vectorSource: any, pointsData: any[], iconConfig?: IIconConfig) => {
