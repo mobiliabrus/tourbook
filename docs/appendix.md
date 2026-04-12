@@ -32,6 +32,11 @@ The proposed pre-trip preparation and requirements were as follows:
 - **sports camera** allocated for vlogging.
 - **compact camera** selected for still photography.
 
+**Communication Practice:**
+- **HelloTalk / Tandem** for daily language exchange with native speakers
+- **Models** by Mark Manson + *Modern Wisdom* podcast for authentic social dynamics
+- Master ice-breakers, follow-up questions, and emergency phrases through weekly practice
+
 ---
 
 I finally saw the pattern: preparation was just procrastination in disguise. So I put down the armor and said hello. My hands shook, but I spoke. Some conversations faded, others led to coffee, and one... one might lead to something more.
