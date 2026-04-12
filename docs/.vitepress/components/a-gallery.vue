@@ -20,10 +20,6 @@ const content = computed(() => {
   })
 })
 
-const width = computed(() => {
-  return `${100 / (content.value.length || 1)}%`
-})
-
 const visible = computed(() => {
   return content.value.length > 0
 })
@@ -31,7 +27,7 @@ const visible = computed(() => {
 
 <template>
   <div v-if="visible" class="gallery" aria-hidden="true">
-    <div v-for="(i, index) in content" :key="i.name" class="gallery-item" :style="{ width }">
+    <div v-for="(i, index) in content" :key="i.name">
       <AImg :name="i.name" :dir="i.dir" />
     </div>
   </div>
@@ -40,10 +36,8 @@ const visible = computed(() => {
 <style scoped>
 .gallery {
   display: flex;
-}
-
-.gallery-item {
-  display: inline-block;
-  padding: 1px;
+  gap: 4px;
+  justify-content: space-between;
+  align-items: center;
 }
 </style>

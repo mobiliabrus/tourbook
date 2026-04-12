@@ -122,13 +122,20 @@ onBeforeUnmount(() => {
 .map-container {
   position: relative;
   background-color: #f0f0f0;
-  width: 100%;
+  width: 100vw;
   height: 30vw;
   min-height: 160px;
   max-height: 30vh;
   border: 1px solid #ccc;
   overflow: hidden;
-  margin: 16px 0;
+  margin: 16px -24px;
+}
+
+@media (min-width: 640px) {
+  .map-container {
+    width: 100%;
+    margin: 16px 0;
+  }
 }
 
 .fullscreen-hint {
