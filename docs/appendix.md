@@ -35,6 +35,9 @@ The proposed pre-trip preparation and requirements were as follows:
 **Communication Practice:**
 - **HelloTalk / Tandem** for daily language exchange with native speakers
 - **Models** by Mark Manson + *Modern Wisdom* podcast for authentic social dynamics
+  - Direct expression: simple openers work best
+  - Accept uncertainty: awkwardness and rejection are normal
+  - Invest in your life: travels, photography, writing make you attractive
 - Master ice-breakers, follow-up questions, and emergency phrases through weekly practice
 
 ---
