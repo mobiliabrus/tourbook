@@ -28,7 +28,7 @@ In 2019, following two years of economic stagnation and amidst emerging signs of
 
 **Accommodation & Schedule:**
 - **Flexible** scheduling: book refundable rates, keep options open for spontaneous detours
-- Private room in **hostel** with active common areas
+- Single bed/private room in **hostel** with active common areas
 - Spend time in shared spaces
 
 **Photography as Social Bridge:**
