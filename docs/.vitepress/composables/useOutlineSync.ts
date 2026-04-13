@@ -57,6 +57,7 @@ export function useOutlineSync() {
 // Improvement: Use a simpler global management and maintain own ID list within component
 export function createOutlineSyncer() {
   const myIds: string[] = []
+  let mobileObserver: MutationObserver | null = null
 
   /**
    * Get the scoped CSS hash from existing outline elements
@@ -183,30 +184,28 @@ export function createOutlineSyncer() {
       observer.observe(mobileDropdown, { childList: true, subtree: true })
       
       // Store observer reference for cleanup
-      ;(mobileDropdown as any).__outlineObserver = observer
+      mobileObserver = observer
     }
 
     setupMobileObserver()
   }
 
   const unregister = () => {
+    // Clean up all dynamic outline links (both desktop and mobile)
     myIds.forEach((id) => {
-      const link = document.querySelector(`.outline-link[href="#${id}"][data-vp-outline="true"]`)
-      if (link) {
+      const links = document.querySelectorAll(`.outline-link[href="#${id}"][data-vp-outline="true"]`)
+      links.forEach(link => {
         const li = link.parentElement
         if (li) li.remove()
-      }
+      })
     })
     myIds.length = 0
 
-    // Clean up observers
-    document.querySelectorAll('.VPLocalNavOutlineDropdown').forEach(dropdown => {
-      const observer = (dropdown as any).__outlineObserver
-      if (observer) {
-        observer.disconnect()
-        delete (dropdown as any).__outlineObserver
-      }
-    })
+    // Clean up mobile observer
+    if (mobileObserver) {
+      mobileObserver.disconnect()
+      mobileObserver = null
+    }
   }
 
   return {
