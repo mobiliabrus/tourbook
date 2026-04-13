@@ -4,7 +4,7 @@ import { crypto, normalizeKey } from './crypto'
 import CryptoJS from 'crypto-js'
 import { getSecret } from './util'
 import { renderMarkdownToVNodes } from './markdown-render'
-import { createOutlineSyncer, type Heading } from './useOutlineSync'
+import { createOutlineSyncer, type Heading } from '../composables/useOutlineSync'
 
 const props = defineProps({
   name: {
