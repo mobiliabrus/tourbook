@@ -35,7 +35,7 @@ In 2019, following two years of economic stagnation and amidst emerging signs of
 - Use photography as a natural way to connect with people.
 - **Phone** designated for film recording;
 - **sports camera** allocated for vlogging.
-- **compact camera** selected for still photography.
+- ZV-E10 + SIGMA 18-50mm F2.8 **compact camera** selected for still photography.
 
 **Communication Practice:**
 - **HelloTalk / Tandem** for daily language exchange with native speakers
