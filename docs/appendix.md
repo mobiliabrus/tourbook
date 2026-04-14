@@ -37,6 +37,15 @@ In 2019, following two years of economic stagnation and amidst emerging signs of
 - **sports camera** allocated for vlogging.
 - ZV-E10 + SIGMA 18-50mm F2.8 **compact camera** selected for still photography.
 
+| Focal Length (Actual vs. Equivalent) | Subject vs. Environment | Core Keyword | Typical Scene Description | Action / Composition Tip |
+| :--- | :--- | :--- | :--- | :--- |
+| **18mm** (27mm equiv.) | **Environment >>> Subject** (Subject is small) | **Grandeur** (Visual Impact) | The person is a small element in a vast landscape (sea, mountains). Emphasizes "Where I am." | **Step back far.** Capture the full scene or use a low angle for long legs. |
+| **24mm** (36mm equiv.) | **Environment > Subject** (Full body context) | **Atmosphere** (Storytelling) | Shows the full outfit and the surrounding street or room layout. A balance of person and place. | **Step back 2-3 meters.** Frame the subject from head to toe to show the setting. |
+| **28mm** (42mm equiv.) | **Environment ≈ Subject** (Natural view) | **Documentary** (Daily Life) | A "natural eye" perspective. Captures the subject from the knees up, feeling like you are chatting with a friend. | **Stand 1.5 meters away.** Ideal for capturing candid moments or daily activities. |
+| **35mm** (52.5mm equiv.) | **Subject > Environment** (Focus on emotion) | **Intimacy** (Mood) | The background starts to blur, but is still recognizable. Focuses on facial expressions and upper body language. | **Move closer (1 meter).** Perfect for indoor portraits near windows or cozy cafes. |
+| **50mm** (75mm equiv.) | **Subject >>> Environment** (Isolation) | **Compression** (Bokeh) | The subject fills the frame. The background turns into soft, blurry colors (bokeh), removing distractions. | **Get close (0.5 meters).** Best for headshots or portraits where the background is messy. |
+
+
 **Communication Practice:**
 - **HelloTalk / Tandem** for daily language exchange with native speakers
 - **Models** by Mark Manson + *Modern Wisdom* podcast for authentic social dynamics
