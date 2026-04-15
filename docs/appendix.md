@@ -35,7 +35,7 @@ In 2019, following two years of economic stagnation and amidst emerging signs of
 - Use photography as a natural way to connect with people.
 - **Phone** designated for film recording;
 - **sports camera** allocated for vlogging.
-- X-E5‌ + XF 16-55mm F2.8 R LM WR II **compact camera** selected for still photography.
+- OM-5 + 12-40mm f/2.8 PRO **compact camera** selected for still photography.
 
 | FL                | Ratio          | Composition                                                        |
 | :---------------- | :------------- | :----------------------------------------------------------------- |
