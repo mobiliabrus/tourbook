@@ -34,7 +34,7 @@ In 2019, following two years of economic stagnation and amidst emerging signs of
 **Photography as Social Bridge:**
 - Use photography as a natural way to connect with people.
 - **Phone** designated for film recording;
-- **sports camera** allocated for vlogging.
+- DJI Osmo Nano **sports camera** allocated for vlogging.
 - OM-5 + 12-40mm f/2.8 PRO **compact camera** selected for still photography.
 
 | FL                | Ratio          | Composition                                                        |
