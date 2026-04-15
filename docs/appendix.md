@@ -44,7 +44,6 @@ In 2019, following two years of economic stagnation and amidst emerging signs of
 | **25mm** (50mm) | **Env ≥ Sub**  | **Standard Portraits**,<br/> Half-body w/ context / Close-ups. (40%)    |
 | **40mm** (80mm) | **Sub >> Env** | **Emotional Portraits**,<br/> Cluttered bg / Lock on emotion. (20%)     |
 
-
 **Communication Practice:**
 - **HelloTalk / Tandem** for daily language exchange with native speakers
 - **Models** by Mark Manson + *Modern Wisdom* podcast for authentic social dynamics
