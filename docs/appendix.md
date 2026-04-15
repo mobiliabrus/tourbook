@@ -35,15 +35,14 @@ In 2019, following two years of economic stagnation and amidst emerging signs of
 - Use photography as a natural way to connect with people.
 - **Phone** designated for film recording;
 - **sports camera** allocated for vlogging.
-- ZV-E10 + SIGMA 18-50mm F2.8 **compact camera** selected for still photography.
+- X-E5‌ + XF 16-55mm F2.8 R LM WR II **compact camera** selected for still photography.
 
-| FL              | Ratio          | Composition                                              | 
-| :-------------- | :------------- | :--------------------------------------------------------- | 
-| **18mm** (27mm) | **Env >> Sub** | **Small person** in vast landscape (sea, mountains).       |
-| **24mm** (36mm) | **Env > Sub**  | **Storytelling.** Balance of person and place.             |
-| **28mm** (42mm) | **Env ≈ Sub**  | **Documentary.** A "natural eye" perspective.              |
-| **35mm** (52mm) | **Sub > Env**  | **Mood.** Background blur. Facial and upper body language. |
-| **50mm** (75mm) | **Sub >> Env** | **Compression.** Fill the frame. blurry colors (bokeh).    |
+| FL                | Ratio          | Composition                                                        |
+| :---------------- | :------------- | :----------------------------------------------------------------- |
+| **16mm** (24mm)   | **Env >> Sub** | **Environmental Portraits**,<br/> Grand landscapes, tiny subject. (10%) |
+| **23mm** (34.5mm) | **Env ≈ Sub**  | **Storytelling**,<br/> Background mgmt, Sense of presence. (30%)        |
+| **35mm** (52.5mm) | **Env ≥ Sub**  | **Standard Portraits**,<br/> Half-body w/ context / Close-ups. (40%)    |
+| **55mm** (82.5mm) | **Sub >> Env** | **Emotional Portraits**,<br/> Cluttered bg / Lock on emotion. (20%)     |
 
 
 **Communication Practice:**
