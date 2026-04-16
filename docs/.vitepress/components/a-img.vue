@@ -35,6 +35,20 @@ const onLoad = () => {
   load('min', 'srcMin')
 }
 
+// Parse EXIF data from ArrayBuffer
+const readExif = async (data: ArrayBuffer | SharedArrayBuffer) => {
+  try {
+    // @ts-ignore - exifreader module resolution issue with bundler mode
+    const ExifReader = await import('exifreader')
+    const exifData = await ExifReader.load(data)
+    if (exifData) {
+      console.log('EXIF data:', exifData)
+    }
+  } catch (error) {
+    console.warn('Failed to parse EXIF data:', error)
+  }
+}
+
 const onImageLoad = (e: Event) => {
   img.value = e.target as HTMLImageElement
   // Only scale if modal is already open, otherwise wait for popover event
@@ -91,13 +105,18 @@ const requestEncrypted = async (url: string, t: 'src' | 'srcMin') => {
     const reader = new FileReader()
     
     return new Promise<void>((resolve, reject) => {
-      reader.onload = function () {
+      reader.onload = async function () {
         try {
           const secret = (reader.result as string).split('datatext/plainbase64')[1]
           const base64 = crypto(secret, secretKey.value || '', 'decrypt')
-          const blobUrl = URL.createObjectURL(base64ToFile(base64))
+          const decryptedBlob = base64ToFile(base64)
+          const blobUrl = URL.createObjectURL(decryptedBlob)
           if (t === 'src') src.value = blobUrl
           else srcMin.value = blobUrl
+          
+          // Parse EXIF data from decrypted image
+          readExif(await decryptedBlob.arrayBuffer())
+          
           resolve()
         } catch (e) {
           reject(e)
