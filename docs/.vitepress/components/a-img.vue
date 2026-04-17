@@ -43,7 +43,6 @@ const readExif = async (data: ArrayBuffer | SharedArrayBuffer) => {
     const ExifReader = await import('exifreader')
     const exifData = await ExifReader.load(data)
     if (exifData) {
-      console.log('EXIF data:', exifData)
       
       // Extract camera info
       exifInfo.value = {
@@ -54,8 +53,6 @@ const readExif = async (data: ArrayBuffer | SharedArrayBuffer) => {
         fNumber: exifData.FNumber?.description || '',
         exposureTime: exifData.ExposureTime?.description || ''
       }
-      
-      console.log('Camera info:', exifInfo.value)
     }
   } catch (error) {
     console.warn('Failed to parse EXIF data:', error)
@@ -74,11 +71,6 @@ const onImageLoad = async (e: Event) => {
     } catch (error) {
       console.warn('Failed to load image for EXIF parsing:', error)
     }
-  }
-  
-  // Only scale if modal is already open, otherwise wait for popover event
-  if (visible.value) {
-    scaleIn()
   }
 }
 

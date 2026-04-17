@@ -24,6 +24,10 @@ const {
   root,
   wrapperStyle,
   backgroundColor,
+  scale,
+  reset,
+  zoomIn,
+  zoomOut,
   onMouseWheel,
   onMouseDown,
   onMouseUp,
@@ -33,6 +37,13 @@ const {
   onTouchEnd,
   onTouchMove,
 } = useZoomer(props)
+
+defineExpose({
+  zoomIn,
+  zoomOut,
+  reset,
+  scale,
+})
 </script>
 
 <template>

@@ -1,6 +1,7 @@
 <script setup lang="ts">
-import { ref, watch, nextTick, computed } from 'vue'
+import { ref, watch, nextTick } from 'vue'
 import Close from './a-close.vue'
+import Zoomer from './a-zoomer/index.vue'
 
 const props = defineProps({
   scale: {
@@ -12,15 +13,7 @@ const props = defineProps({
 const emit = defineEmits(['popover'])
 
 const visible = ref(false)
-const currentScale = ref(1)
-
-const zoomIn = (s: number) => {
-  currentScale.value = s
-}
-
-const reset = () => {
-  currentScale.value = 1
-}
+const zoomerRef = ref<InstanceType<typeof Zoomer> | null>(null)
 
 const pop = () => {
   visible.value = true
@@ -37,6 +30,18 @@ const close = () => {
   reset()
 }
 
+const zoomIn = (s: number) => {
+  if (zoomerRef.value) {
+    zoomerRef.value.zoomIn(s)
+  }
+}
+
+const reset = () => {
+  if (zoomerRef.value) {
+    zoomerRef.value.reset()
+  }
+}
+
 watch(
   () => props.scale,
   () => {
@@ -49,13 +54,6 @@ watch(
     })
   }
 )
-
-const transformStyle = computed(() => ({
-  transform: `scale(${currentScale.value})`,
-  transformOrigin: 'center center',
-  transition: 'transform 0.3s ease',
-  height: '100%',
-}))
 </script>
 
 <template>
@@ -68,9 +66,9 @@ const transformStyle = computed(() => ({
         <div class="a-modal-actions">
           <slot name="action"></slot>
         </div>
-        <div class="a-modal-content" :style="transformStyle">
+        <Zoomer ref="zoomerRef" style="width:100%;height:100%;">
           <slot name="popover"></slot>
-        </div>
+        </Zoomer>
       </div>
       <div @click="pop">
         <slot name="default"></slot>
