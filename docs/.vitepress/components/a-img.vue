@@ -193,8 +193,8 @@ const load = async (suffix = '', t: 'src' | 'srcMin' = 'src') => {
           
           <!-- Camera info display -->
           <div v-if="exifInfo && (exifInfo.model || exifInfo.focalLength)" class="a-img-exif-info">
-            <span v-if="exifInfo.make || exifInfo.model" class="exif-item">
-              {{ [exifInfo.make, exifInfo.model].filter(Boolean).join(' ') }}
+            <span v-if="exifInfo.model" class="exif-item">
+              {{ exifInfo.model }}
             </span>
             <span v-if="exifInfo.focalLength" class="exif-item">
               {{ exifInfo.focalLength }}{{ exifInfo.focalLength35mm ? ` (${exifInfo.focalLength35mm})` : '' }}
