@@ -257,9 +257,13 @@ const load = async (suffix = '', t: 'src' | 'srcMin' = 'src') => {
   color: #fff;
   font-size: 12px;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-  padding: 0 8px;
+  padding: 4px 8px;
   max-width: calc(100vw - 120px);
   overflow: hidden;
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 4px;
+  backdrop-filter: blur(4px);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
 }
 
 .exif-item {
