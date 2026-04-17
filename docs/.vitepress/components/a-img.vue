@@ -249,22 +249,16 @@ const load = async (suffix = '', t: 'src' | 'srcMin' = 'src') => {
 .a-img-exif-info {
   display: flex;
   align-items: center;
-  gap: 12px;
+  gap: 6px;
   color: #fff;
-  font-size: 13px;
+  font-size: 12px;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-  white-space: nowrap;
   padding: 0 8px;
+  max-width: calc(100vw - 120px);
+  overflow: hidden;
 }
 
 .exif-item {
   opacity: 0.9;
 }
-
-.exif-item:not(:last-child)::after {
-  content: '·';
-  margin-left: 12px;
-  opacity: 0.5;
-}
-
 </style>
