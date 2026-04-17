@@ -15,8 +15,31 @@ export default defineConfig({
   
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],
-    ['meta', { name: 'viewport', content: 'width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no' }],
     ['script', {}, `
+      // Override default viewport to disable zooming
+      (function() {
+        function updateViewport() {
+          const viewport = document.querySelector('meta[name="viewport"]');
+          if (viewport) {
+            viewport.setAttribute('content', 'width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no');
+          } else {
+            // If viewport doesn't exist yet, create it
+            const meta = document.createElement('meta');
+            meta.name = 'viewport';
+            meta.content = 'width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no';
+            document.head.appendChild(meta);
+          }
+        }
+        
+        // Try immediately and on DOMContentLoaded
+        updateViewport();
+        if (document.readyState === 'loading') {
+          document.addEventListener('DOMContentLoaded', updateViewport);
+        }
+        // Also try after a short delay to ensure VitePress has rendered
+        setTimeout(updateViewport, 0);
+      })();
+      
       if ('serviceWorker' in navigator && window.location.hostname !== 'localhost') {
         window.addEventListener('load', () => {
           navigator.serviceWorker.register('/sw.js')
