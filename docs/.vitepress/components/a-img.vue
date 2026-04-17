@@ -62,8 +62,20 @@ const readExif = async (data: ArrayBuffer | SharedArrayBuffer) => {
   }
 }
 
-const onImageLoad = (e: Event) => {
+const onImageLoad = async (e: Event) => {
   img.value = e.target as HTMLImageElement
+  
+  // Parse EXIF data for non-encrypted images
+  if (!props.dir?.includes('privacy')) {
+    try {
+      const response = await fetch(img.value.src)
+      const arrayBuffer = await response.arrayBuffer()
+      await readExif(arrayBuffer)
+    } catch (error) {
+      console.warn('Failed to load image for EXIF parsing:', error)
+    }
+  }
+  
   // Only scale if modal is already open, otherwise wait for popover event
   if (visible.value) {
     scaleIn()
