@@ -204,7 +204,7 @@ const load = async (suffix = '', t: 'src' | 'srcMin' = 'src') => {
               {{ exifInfo.focalLength }}{{ exifInfo.focalLength35mm ? ` (${exifInfo.focalLength35mm})` : '' }}
             </span>
             <span v-if="exifInfo.fNumber" class="exif-item">{{ exifInfo.fNumber }}</span>
-            <span v-if="exifInfo.exposureTime" class="exif-item">{{ exifInfo.exposureTime }}s</span>
+            <!-- <span v-if="exifInfo.exposureTime" class="exif-item">{{ exifInfo.exposureTime }}s</span> -->
           </div>
           
           <div class="a-img-righaction">
@@ -260,10 +260,7 @@ const load = async (suffix = '', t: 'src' | 'srcMin' = 'src') => {
   padding: 4px 8px;
   max-width: calc(100vw - 120px);
   overflow: hidden;
-  background-color: rgba(0, 0, 0, 0.5);
-  border-radius: 4px;
-  backdrop-filter: blur(4px);
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+  text-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
 }
 
 .exif-item {
