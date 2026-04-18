@@ -514,7 +514,7 @@ name: bar
 ```
 
 > _Finally, I've been to a bar... Never in the early 20 years..._
-> <br/><div style="text-align:right">_Danni - 2014-01-14_</div>
+> <br/><span style="display: block; text-align: right;">_Danni - 2014-01-14_</span>
 
 It was only after we finally left the bar, buoyed by good spirits but mindful of the late hour, that a shadow of caution fell over me as we began our final walk back to the accommodation. During my trip preparations, I had read warnings about Penang’s safety, specifically regarding fly-by bag snatchers on motorcycles. Although the girls were not carrying backpacks, I instinctively positioned them on the inner side of the sidewalk, away from the road, as we navigated the quieter, dimly lit streets.
 
@@ -558,7 +558,7 @@ dir: privacy
 ```
 
 > _My jumping fail..._
-> <br/><div style="text-align:right">_Danni - 2014-01-15_</div>
+> <br/><span style="display: block; text-align: right;">_Danni - 2014-01-15_</span>
 
 ```<a-img>
 name: danni-2.jpg
@@ -631,7 +631,7 @@ As dusk fell rapidly, we descended the mountain. At the foot of the hill, near a
 The next day, Danni departed for Kota Kinabalu.
 
 > _The last day in Penang. Kota Kinabalu the next morning!_
-> <br/><div style="text-align:right">_Danni - 2014-01-16_</div>
+> <br/><span style="display: block; text-align: right;">_Danni - 2014-01-16_</span>
 
 ## George Town
 
@@ -644,7 +644,7 @@ name: drsun
 ```
 
 > _I feel bad. Isis came back and left again. I didn't go to airport to see her off. It like a huge whirling current. Finally everyone left. Just left me to follow Dr. Sun's step?_
-> <br/><div style="text-align:right">_- 2014-01-18_</div>
+> <br/><span style="display: block; text-align: right;">_- 2014-01-18_</span>
 
 ```<a-map>
 points: 100.3362171932171,5.418353144233365,Love Ln|100.3292899687321,5.414502158156836,Kompleks Tun Abdul Razak
