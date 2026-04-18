@@ -10,3 +10,15 @@
     float: left;
   }
 }
+
+/* Prevent swipe gestures from triggering browser navigation */
+html, body {
+  overscroll-behavior-x: none;
+}
+
+img {
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  user-select: none;
+  pointer-events: auto;
+}
