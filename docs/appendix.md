@@ -34,7 +34,7 @@ In 2019, following two years of economic stagnation and amidst emerging signs of
 **Photography as Social Bridge:**
 - Use photography as a natural way to connect with people.
 - **Phone** designated for film recording;
-- DJI Osmo Action 6 **sports camera** allocated for vlogging.
+- DJI Osmo Action 6 allocated for vlogging.
 - OM-5 Mark II + M.ZUIKO DIGITAL ED 12-40mm F2.8 PRO II for photography.
 
 | FL                | Ratio          | Composition                                                        |
