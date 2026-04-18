@@ -52,7 +52,7 @@ In 2019, following two years of economic stagnation and amidst emerging signs of
 
 ### Itinerary
 
-### Alternative: Koh Phangan Full Moon Party
+### Alternative: Koh Phangan & Full Moon Party
 - **Timing**: 4 days before full moon to full moon day
 - **Options**: <FullmoonCalculator />
 - **Location**: Haad Rin Nok, Koh Phangan
