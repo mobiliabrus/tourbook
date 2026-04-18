@@ -7,11 +7,11 @@ outline: deep
 import FullmoonCalculator from './components/fullmoon-planner/index.vue'
 </script>
 
-So here I am—little dating experience, passive by nature, stuck in patterns of ambiguity. Yet I dream of traveling abroad to find a girlfriend across language and cultural barriers. I excel at "ideas" but fail at follow-through; my rigid itineraries create the illusion of opportunity while ensuring I miss it when it appears. To make matters worse, I want everything while committing to nothing.
+So here I am—passive, inexperienced, trapped in ambiguity. I dream of crossing borders to find love, yet my rigid plans create illusions of opportunity while ensuring I miss it. I want everything, commit to nothing.
 
 ## Unfulfilled Journey
 
-In 2019, following two years of economic stagnation and amidst emerging signs of recovery, a travel plan was formulated but ultimately not executed.
+In 2019, a travel plan was formulated but never executed.
 
 ### Pre-trip Preparation
 
