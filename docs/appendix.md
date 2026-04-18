@@ -39,10 +39,10 @@ In 2019, following two years of economic stagnation and amidst emerging signs of
 
 | FL                | Ratio          | Composition                                                        |
 | :---------------- | :------------- | :----------------------------------------------------------------- |
-| **12mm** (24mm)   | **Env >> Sub** | **Environmental Portraits**,<br/> Grand landscapes, tiny subject. (10%) |
-| **18mm** (36mm) | **Env ≈ Sub**  | **Storytelling**,<br/> Background mgmt, Sense of presence. (30%)        |
-| **25mm** (50mm) | **Env ≥ Sub**  | **Standard Portraits**,<br/> Half-body w/ context / Close-ups. (40%)    |
-| **40mm** (80mm) | **Sub >> Env** | **Emotional Portraits**,<br/> Cluttered bg / Lock on emotion. (20%)     |
+| **12mm** (24mm)   | **Env>Sub** | Grand landscapes, tiny subject. (10%) |
+| **18mm** (36mm) | **Env≈Sub**  | **Storytelling**, Background mgmt, Sense of presence. (30%)        |
+| **25mm** (50mm) | **Env≥Sub**  | **Standard Portraits**, Half-body w/ context / Close-ups. (40%)    |
+| **40mm** (80mm) | **Sub>Env** | **Emotional Portraits**, Cluttered bg / Lock on emotion. (20%)     |
 
 **Communication Practice:**
 - **HelloTalk / Tandem** for daily language exchange with native speakers
