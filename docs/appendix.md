@@ -27,15 +27,13 @@ In 2019, following two years of economic stagnation and amidst emerging signs of
 - *Avoid: Baggy fits, tight polos, worn-out shoes*
 
 **Accommodation & Schedule:**
-- **Flexible** scheduling: book refundable rates, keep options open for spontaneous detours
-- Single bed/private room in **hostel** with active common areas
-- Spend time in shared spaces
+- **Backpacking** with **flexible** scheduling
+- Single bed or private room in **hostel** with active common areas
 
 **Photography as Social Bridge:**
-- Use photography as a natural way to connect with people.
-- **Phone** for casual shooting.
-- **DJI Osmo Action 6** for action scenarios.
-- **E-P7** <!--337g, 118mm × 68mm × 38mm--> + **M.Zuiko 12-40mm f/2.8 PRO II** <!--382g, 84mm--> dedicated for portraits.
+- **Phone** for casual shooting
+- **DJI Osmo Action 6** for action scenarios
+- **E-P7** <!--337g, 118mm × 68mm × 38mm--> + **M.Zuiko 12-40mm f/2.8 PRO II** <!--382g, 84mm--> dedicated for portraits
 
 | FL                | Ratio          | Composition                                                        |
 | :---------------- | :------------- | :----------------------------------------------------------------- |
