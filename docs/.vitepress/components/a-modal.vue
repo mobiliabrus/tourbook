@@ -92,8 +92,8 @@ watch(
 
 .a-modal-close {
   position: absolute;
-  right: 15px;
-  top: 15px;
+  right: 12px;
+  top: 12px;
   z-index: 2147483646;
 }
 
@@ -103,7 +103,7 @@ watch(
   width: 100%;
   bottom: 0;
   margin-bottom: 24px;
-  padding: 15px 15px;
+  padding: 12px 12px;
   z-index: 2147483646;
 }
 </style>

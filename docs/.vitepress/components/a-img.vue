@@ -197,7 +197,7 @@ const load = async (suffix = '', t: 'src' | 'srcMin' = 'src') => {
           
           <!-- Camera info display -->
           <div v-if="exifInfo && (exifInfo.model || exifInfo.focalLength)" class="a-img-exif-info">
-            <span v-if="exifInfo.model" class="exif-item">
+            <span v-if="exifInfo.model" class="exif-item" style="max-width: 88px; overflow: hidden; text-overflow: ellipsis;">
               {{ exifInfo.model }}
             </span>
             <span v-if="exifInfo.focalLength" class="exif-item">
@@ -258,7 +258,8 @@ const load = async (suffix = '', t: 'src' | 'srcMin' = 'src') => {
   font-size: 12px;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
   padding: 4px 8px;
-  max-width: calc(100vw - 120px);
+  max-width: calc(100vw - 114px);
+  white-space: nowrap;
   overflow: hidden;
   text-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
 }
