@@ -71,17 +71,6 @@ points: 100.068051,9.676993,Haad Rin|100.0655156,9.6756875,MBAR HOSTEL HAAD RIN
 zoom: 15
 ```
 
-### Ao Nang, Krabi
-- **Why**: Railay Beach — climbing paradise, kayaking, sunset views, vibrant energy
-- **Location**: Ao Nang, Krabi
-- **Accommodation Strategy**:
-  - [K-Bunk AoNang Center](https://www.booking.cn/hotel/th/the-moment-hostel.en-gb.html) — Solo traveler hub, private rooms available
-
-```<a-map>
-points: 98.8279995919584,8.03314201709285,K-Bunk AoNang Center|98.83798331022263,8.011269823806895,Railay Beach
-zoom: 11
-```
-
 ---
 
 I finally saw the pattern: preparation was just procrastination in disguise. So I put down the armor and said hello. My hands shook, but I spoke. Some conversations faded, others led to coffee, and one... one might lead to something more.
