@@ -3,13 +3,15 @@ title: Appendix
 outline: deep
 ---
 
-So here I am—passive, inexperienced, trapped in ambiguity. I dream of crossing borders to find love, yet my rigid plans create illusions of opportunity while ensuring I miss it. I want everything, commit to nothing.
+# Unfulfilled Journey
 
-## Unfulfilled Journey
+So here I am—passive, inexperienced, trapped in ambiguity. I dream of crossing borders to find love, yet my rigid plans create illusions of opportunity while ensuring I miss it. I want everything, commit to nothing.
 
 In 2019, a travel plan was formulated but never executed.
 
-### Pre-trip Preparation
+## Pre-trip Preparation
+
+### Personal Style
 
 **Grooming**
 - Textured crop hairstyle (**sides faded, top styled upward**)
@@ -22,21 +24,29 @@ In 2019, a travel plan was formulated but never executed.
 - Leather sandals or minimalist white sneakers
 - *Avoid: Baggy fits, tight polos, worn-out shoes*
 
+### Travel Style
+
 **Accommodation & Schedule:**
 - **Backpacking** with **flexible** scheduling
 - Single bed or private room in **hostel** with active common areas
+
+### Photography
 
 **Photography as Social Bridge:**
 - **Phone** for casual shooting
 - **DJI Osmo Action 6** for action scenarios
 - **OM-5** <!--337g, 118mm × 68mm × 38mm--> + **M.Zuiko 12-40mm f/2.8 PRO II** <!--382g, 84mm--> dedicated for portraits
 
-| FL                | Ratio          | Composition                                                        |
-| :---------------- | :------------- | :----------------------------------------------------------------- |
-| **12mm** (24mm)   | **Env>Sub** | Grand landscapes, tiny subject. (10%) |
-| **18mm** (36mm) | **Env≈Sub**  | **Storytelling**, Background mgmt, Sense of presence. (30%)        |
-| **25mm** (50mm) | **Env≥Sub**  | **Standard Portraits**, Half-body w/ context / Close-ups. (40%)    |
-| **40mm** (80mm) | **Sub>Env** | **Emotional Portraits**, Cluttered bg / Lock on emotion. (20%)     |
+Define **intent**, preset **focal length** and **aperture**; seek **light**, lock perspective with **steps**; fine-tune composition via zoom.
+
+| FL              | Ratio       | Composition                                                     |
+| :-------------- | :---------- | :-------------------------------------------------------------- |
+| **12mm** (24mm) | **Env>Sub** | Grand landscapes, tiny subject. (10%)                           |
+| **18mm** (36mm) | **Env≈Sub** | **Storytelling**, Background mgmt, Sense of presence. (20%)     |
+| **25mm** (50mm) | **Env≥Sub** | **Standard Portraits**, Half-body w/ context / Close-ups. (40%) |
+| **40mm** (80mm) | **Sub>Env** | **Emotional Portraits**, Cluttered bg / Lock on emotion. 30%)  |
+
+### Communication
 
 **Communication Practice:**
 - **HelloTalk / Tandem** for daily language exchange with native speakers
@@ -46,11 +56,11 @@ In 2019, a travel plan was formulated but never executed.
   - Invest in your life: travels, photography, writing make you attractive
 - Master ice-breakers, follow-up questions, and emergency phrases through weekly practice
 
-### Itinerary
+## Itinerary
 
 **Timing**: December – April
 
-### Alternative: Koh Phangan & Full Moon Party
+### Koh Phangan & Full Moon Party
 - **Location**: Haad Rin Nok, Koh Phangan
 - **Accommodation Strategy**:
   - [MBAR HOSTEL HAAD RIN](https://www.booking.com/hotel/th/mbar-hostel-haad-rin.en-gb.html) — Beachfront with bar, social hub
@@ -61,7 +71,7 @@ points: 100.068051,9.676993,Haad Rin|100.0655156,9.6756875,MBAR HOSTEL HAAD RIN
 zoom: 15
 ```
 
-### Alternative: Ao Nang, Krabi
+### Ao Nang, Krabi
 - **Why**: Railay Beach — climbing paradise, kayaking, sunset views, vibrant energy
 - **Location**: Ao Nang, Krabi
 - **Accommodation Strategy**:
