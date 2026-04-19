@@ -53,14 +53,16 @@ In 2019, a travel plan was formulated but never executed.
 ### Itinerary
 
 ### Alternative: Koh Phangan & Full Moon Party
-- **Timing**: 4 days before full moon to full moon day
-- **Options**: <FullmoonCalculator />
+- **Timing**: December – April
 - **Location**: Haad Rin Nok, Koh Phangan
 - **Accommodation Strategy**:
   - [MBAR HOSTEL HAAD RIN](https://www.booking.com/hotel/th/mbar-hostel-haad-rin.en-gb.html) — Beachfront with bar, social hub
   - [Hideout Hostel](https://www.booking.cn/hotel/th/hideout-hostel.en-gb.html) — Hillside retreat, peaceful escape
 
-<a-map points="100.068051,9.676993,Haad Rin|100.0655156,9.6756875,MBAR HOSTEL HAAD RIN|100.0648097811394,9.675251996416877,Hideout Hostel"></a-map>
+```<a-map>
+points: 100.068051,9.676993,Haad Rin|100.0655156,9.6756875,MBAR HOSTEL HAAD RIN|100.0648097811394,9.675251996416877,Hideout Hostel
+zoom: 15
+```
 
 ### Alternative: Ao Nang, Krabi
 - **Why**: Railay Beach — climbing paradise, kayaking, sunset views, vibrant energy
@@ -68,7 +70,10 @@ In 2019, a travel plan was formulated but never executed.
 - **Accommodation Strategy**:
   - [K-Bunk AoNang Center](https://www.booking.cn/hotel/th/the-moment-hostel.en-gb.html) — Solo traveler hub, private rooms available
 
-<a-map points="98.8279995919584,8.03314201709285,K-Bunk AoNang Center|98.83798331022263,8.011269823806895,Railay Beach"></a-map>
+```<a-map>
+points: 98.8279995919584,8.03314201709285,K-Bunk AoNang Center|98.83798331022263,8.011269823806895,Railay Beach
+zoom: 11
+```
 
 ---
 
