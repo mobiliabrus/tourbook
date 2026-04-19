@@ -65,9 +65,14 @@ Define **intent**, preset **focal length** and **aperture**; seek **light**, loc
 - **Accommodation Strategy**:
   - [MBAR HOSTEL HAAD RIN](https://www.booking.com/hotel/th/mbar-hostel-haad-rin.en-gb.html) — Beachfront with bar, social hub
   - [Hideout Hostel](https://www.booking.cn/hotel/th/hideout-hostel.en-gb.html) — Hillside retreat, peaceful escape
+  - [Phangan Arena Hostel](https://www.booking.cn/hotel/th/hard-road-cafe.en-gb.html) — Festive lodge, active hub
+  - [LEO HOSTEL](https://www.booking.cn/hotel/th/majestic-koh-phangan.en-gb.html)
+  - [Blessings Home & Café](https://www.booking.cn/hotel/th/majestic-koh-phangan.en-gb.html) — Yoga & Culinary
+  - [Phangan Barsay Hostel](https://www.booking.cn/hotel/th/majestic-koh-phangan.en-gb.html) — Yoga
+  - [Echo Beach Hostel](https://www.hostelworld.com/pwa/hosteldetails.php/Echo-Beach-Hostel/Koh-Phangan/67962)
 
 ```<a-map>
-points: 100.068051,9.676993,Haad Rin|100.0655156,9.6756875,MBAR HOSTEL HAAD RIN
+points: 100.068051,9.676993,Haad Rin|100.0655156,9.6756875,MBAR HOSTEL HAAD RIN|100.01103401184074,9.70524998756663,Phangan Arena Hostel｜100.0113492,9.704664,LEO HOSTEL|99.99063343079379,9.709056265733093,Blessings Home & Café|99.99080424970609,9.713660623992743,Phangan Barsay Hostel|100.00213913902732,9.706949269748547,Echo Beach Hostel|100.00496723229567,9.708543349624225,The Wanderlust Hostel|100.02042410788702,9.70023103200823,Echo Beach Hostel
 zoom: 15
 ```
 
