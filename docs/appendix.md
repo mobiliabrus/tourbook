@@ -3,10 +3,6 @@ title: Appendix
 outline: deep
 ---
 
-<script setup>
-import FullmoonCalculator from './components/fullmoon-planner/index.vue'
-</script>
-
 So here I am—passive, inexperienced, trapped in ambiguity. I dream of crossing borders to find love, yet my rigid plans create illusions of opportunity while ensuring I miss it. I want everything, commit to nothing.
 
 ## Unfulfilled Journey
@@ -52,15 +48,16 @@ In 2019, a travel plan was formulated but never executed.
 
 ### Itinerary
 
+**Timing**: December – April
+
 ### Alternative: Koh Phangan & Full Moon Party
-- **Timing**: December – April
 - **Location**: Haad Rin Nok, Koh Phangan
 - **Accommodation Strategy**:
   - [MBAR HOSTEL HAAD RIN](https://www.booking.com/hotel/th/mbar-hostel-haad-rin.en-gb.html) — Beachfront with bar, social hub
   - [Hideout Hostel](https://www.booking.cn/hotel/th/hideout-hostel.en-gb.html) — Hillside retreat, peaceful escape
 
 ```<a-map>
-points: 100.068051,9.676993,Haad Rin|100.0655156,9.6756875,MBAR HOSTEL HAAD RIN|100.0648097811394,9.675251996416877,Hideout Hostel
+points: 100.068051,9.676993,Haad Rin|100.0655156,9.6756875,MBAR HOSTEL HAAD RIN
 zoom: 15
 ```
 
