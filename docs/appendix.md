@@ -44,7 +44,7 @@ Define **intent**, preset **focal length** and **aperture**; seek **light**, loc
 | **12mm** (24mm) | **Env>Sub** | Grand landscapes, tiny subject. (10%)                           |
 | **18mm** (36mm) | **Env≈Sub** | **Storytelling**, Background mgmt, Sense of presence. (20%)     |
 | **25mm** (50mm) | **Env≥Sub** | **Standard Portraits**, Half-body w/ context / Close-ups. (40%) |
-| **40mm** (80mm) | **Sub>Env** | **Emotional Portraits**, Cluttered bg / Lock on emotion. 30%)  |
+| **40mm** (80mm) | **Sub>Env** | **Emotional Portraits**, Cluttered bg / Lock on emotion. (30%)  |
 
 ### Communication
 
