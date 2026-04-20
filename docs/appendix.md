@@ -5,8 +5,6 @@ outline: deep
 
 # Unfulfilled Journey
 
-So here I am—passive, inexperienced, trapped in ambiguity. I dream of crossing borders to find love, yet my rigid plans create illusions of opportunity while ensuring I miss it. I want everything, commit to nothing.
-
 In 2019, a travel plan was formulated but never executed.
 
 ## Pre-trip Preparation
@@ -56,22 +54,32 @@ Define **intent**, preset **focal length** and **aperture**; seek **light**, loc
   - Invest in your life: travels, photography, writing make you attractive
 - Master ice-breakers, follow-up questions, and emergency phrases through weekly practice
 
-## Itinerary
-
+## Koh Phangan
 **Timing**: December – April
 
-### Koh Phangan & Full Moon Party
-- **Location**: Haad Rin Nok, Koh Phangan
-- **Accommodation Strategy**:
-  - [MBAR HOSTEL HAAD RIN](https://www.booking.com/hotel/th/mbar-hostel-haad-rin.en-gb.html) — Beachfront with bar, social hub
-  - [Hideout Hostel](https://www.booking.cn/hotel/th/hideout-hostel.en-gb.html) — Hillside retreat, peaceful escape
-  - [Phangan Arena Hostel](https://www.booking.cn/hotel/th/hard-road-cafe.en-gb.html) — Festive lodge, active hub
-  - [LEO HOSTEL](https://www.booking.cn/hotel/th/majestic-koh-phangan.en-gb.html)
-  - [Blessings Home & Café](https://www.booking.cn/hotel/th/majestic-koh-phangan.en-gb.html) — Yoga & Culinary
-  - [Echo Beach Hostel](https://www.hostelworld.com/pwa/hosteldetails.php/Echo-Beach-Hostel/Koh-Phangan/67962) — Beachside
+```<a-map>
+points: 100.068051,9.676993,Haad Rin|99.9878965518694,9.71032265056,Thong Sala|100.07744839839131,9.69621096203858,Haad Thian|100.07607005951179,9.720344309939257,Haad Yang|100.01740723177416,9.701540222237126,Ao Ban Tai|100.03753763464972,9.790870998608987,Bottle Beach View Point Jungle Track|99.96121092661207,9.75723005429061,Zen Beach party|100.07599040963497,9.69326803192794,Eden Garden|99.9800964371463,9.798567331029812,Mae Haad Beach|99.9660854381681,9.775298302391706,Haad Yao|100.00539298965062,9.78676275496685,Chalok Lam Beach|100.05579987276515,9.778364179762809,Thong Nai Pan Beach
+zoom: 15
+```
+
+**Events**:
+- Haad Rin — Fullmoon Party
+- Zen Beach party — Drum Circle, around 6 PM
+- Eden Garden — Party at Haad Yuan
+
+**Accommodation**:
+  - Thong Sala:
+    - [Blessings Home & Café](https://www.booking.cn/hotel/th/majestic-koh-phangan.en-gb.html) — Yoga & Culinary
+    - [Phangan Arena Hostel](https://www.booking.cn/hotel/th/hard-road-cafe.en-gb.html) — Festive lodge, active hub
+    - [LEO HOSTEL](https://www.booking.cn/hotel/th/majestic-koh-phangan.en-gb.html)
+  - Ao Ban Tai
+    - [Echo Beach Hostel](https://www.hostelworld.com/pwa/hosteldetails.php/Echo-Beach-Hostel/Koh-Phangan/67962) — Beachside
+  - Haad Rin
+    - [MBAR HOSTEL HAAD RIN](https://www.booking.com/hotel/th/mbar-hostel-haad-rin.en-gb.html) — Beachfront with bar, social hub
+    - [Hideout Hostel](https://www.booking.cn/hotel/th/hideout-hostel.en-gb.html) — Hillside retreat, peaceful escape
 
 ```<a-map>
-points: 100.068051,9.676993,Haad Rin|100.0655156,9.6756875,MBAR HOSTEL HAAD RIN|100.01103401184074,9.70524998756663,Phangan Arena Hostel|100.0113492,9.704664,LEO HOSTEL|99.99063343079379,9.709056265733093,Blessings Home & Café|100.00496723229567,9.708543349624225,The Wanderlust Hostel|100.0203730036591,9.70015887952461,Echo Beach Hostel
+points: 100.0655156,9.6756875,MBAR HOSTEL HAAD RIN|100.01103401184074,9.70524998756663,Phangan Arena Hostel|100.0113492,9.704664,LEO HOSTEL|99.99063343079379,9.709056265733093,Blessings Home & Café|100.0203730036591,9.70015887952461,Echo Beach Hostel
 zoom: 15
 ```
 
