@@ -58,7 +58,7 @@ watch(
 
 <template>
   <Teleport :disabled="!visible" to="body">
-    <div style="line-height:initial" aria-hidden="true">
+    <div style="line-height: initial; margin: 12px 0" aria-hidden="true">
       <div v-if="visible" class="a-modal-wrapper">
         <div class="a-modal-close" @click="close">
           <Close />
