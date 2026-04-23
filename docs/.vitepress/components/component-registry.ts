@@ -12,6 +12,7 @@ import Map from './ol-map/index.vue'
 import AClose from './a-close.vue'
 import APlaceholder from './a-placeholder.vue'
 import ALazyload from './a-lazyload.vue'
+import ALazycontent from './a-lazycontent.vue'
 import AGallery from './a-gallery.vue'
 import ADivelog from './a-divelog.vue'
 
@@ -35,6 +36,7 @@ export const componentRegistry = {
   'a-close': AClose,
   'a-placeholder': APlaceholder,
   'a-lazyload': ALazyload,
+  'a-lazycontent': ALazycontent,
   'a-gallery': AGallery,
   'a-divelog': ADivelog,
 } as const
