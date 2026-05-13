@@ -11,6 +11,8 @@ declare module '*.vue' {
 
 interface ImportMetaEnv {
   readonly VITE_APP_TITLE: string
+  readonly DEV: boolean
+  readonly PROD: boolean
   // 更多环境变量...
 }
 
