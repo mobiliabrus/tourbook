@@ -33,16 +33,7 @@ In 2019, a travel plan was formulated but never executed.
 **Photography as Social Bridge:**
 - **Phone** for casual shooting
 - **DJI Osmo Action 6** for action scenarios
-- **OM-5** <!--337g, 118mm × 68mm × 38mm--> + **M.Zuiko 12-40mm f/2.8 PRO II** <!--382g, 84mm--> dedicated for portraits
-
-Define **intent**, preset **focal length** and **aperture**; seek **light**, lock perspective with **steps**; fine-tune composition via zoom.
-
-| FL              | Ratio       | Composition                                                     |
-| :-------------- | :---------- | :-------------------------------------------------------------- |
-| **12mm** (24mm) | **Env>Sub** | Grand landscapes, tiny subject. (10%)                           |
-| **18mm** (36mm) | **Env≈Sub** | **Storytelling**, Background mgmt, Sense of presence. (20%)     |
-| **25mm** (50mm) | **Env≥Sub** | **Standard Portraits**, Half-body w/ context / Close-ups. (40%) |
-| **40mm** (80mm) | **Sub>Env** | **Emotional Portraits**, Cluttered bg / Lock on emotion. (30%)  |
+- **OM-5** <!--337g, 118mm × 68mm × 38mm--> + **M.Zuiko 20mm f/1.4 PRO** <!--247g, 61.7mm--> dedicated for portraits
 
 ### Communication
 
