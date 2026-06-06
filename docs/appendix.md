@@ -33,7 +33,7 @@ In 2019, a travel plan was formulated but never executed.
 **Photography as Social Bridge:**
 - **Phone** for casual shooting
 - **DJI Osmo Action 6** for action scenarios
-- **OM-5** <!--337g, 118mm × 68mm × 38mm--> + **M.Zuiko 20mm f/1.4 PRO** <!--247g, 61.7mm--> dedicated for portraits
+- **OM-5** <!--337g, 118mm × 68mm × 38mm--> + **M.Zuiko 12-40mm F2.8 PRO II** <!--382g, 84mm--> dedicated for portraits
 
 ### Communication
 
