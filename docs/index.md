@@ -2,13 +2,7 @@
 title: Intro
 ---
 
-<h1 style="color:rgb(52, 81, 178);font-size:48px;font-weight:700;padding:0 0 32px; 0">
-Tourbook
-</h1>
-
-<div style="font-size:18px;padding:0 0 32px;">
-Confidence, Strong and Handsome.
-</div>
+# {{ $frontmatter.title }}
 
 Friends often ask me why I travel alone. For me, it was about seeking new experiences. Traveling alone offered a deeper, more personal connection with the places I visited. So never refuse an invitation. Never resist the unfamiliar. Never fail to be polite. And never outstay your welcome. Just keep your mind open and suck in the experience. And as no girl wants to go with me,... that's the way it is.
 

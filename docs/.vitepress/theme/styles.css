@@ -21,6 +21,11 @@ iframe {
   display: table;
 }
 
+.vp-doc h1 {
+  font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  letter-spacing: -0.011em;
+}
+
 .VPSidebar.open {
   z-index: 9007199254740991;
 }
