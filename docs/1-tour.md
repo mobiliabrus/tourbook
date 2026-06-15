@@ -68,8 +68,6 @@ The next day, the journey to Chinatown was not without challenges. Initially, I 
 
 Clearly, Chinatown did not leave a favorable impression on me.
 
-<a-secret name="body2body"></a-secret>
-
 ## Sukhothai
 
 <a-times :times="1" location="Sukhothai"></a-times>
