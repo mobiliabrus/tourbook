@@ -4,9 +4,11 @@ An English-language travel memoir published as a VitePress site. Seven overseas
 journeys (2013–2017) framed as a record of self-disillusionment, plus two
 prologue episodes covering 2010–2013.
 
-**Language policy**: site content is English (`lang: 'en-UK'`). Explanations,
-questions, and review feedback to the author are in Chinese. Never translate
-the memoir itself into Chinese.
+**Language policy**: everything in this repository is English — site content
+(`lang: 'en-UK'`), config files, rules, skill files, and review feedback to the
+author. Do not write Chinese into any committed file, and never translate the
+memoir itself. Chinese only ever appears as *input*: a note the author supplies
+about a passage, which the editor folds into English prose.
 
 ## Commands
 

@@ -20,7 +20,7 @@ the full voice and component rules; this skill is the editing procedure.
    syntax) from **choices** (register, pacing, imagery). Only errors get fixed
    silently; choices get raised as questions.
 3. Apply the smallest edit that resolves each error.
-4. Report in Chinese, revised text in English.
+4. Report in English, using the output sections below.
 
 ## Input
 
@@ -70,22 +70,22 @@ domineering or cynical.
 
 ## Output
 
-Respond in Chinese using these sections:
+Use these sections:
 
 ```markdown
-## 问题分析
-### 语法问题
-1. [具体错误 + 行号]
-### 结构问题
-1. [具体问题 + 行号]
+## Issues found
+### Grammar
+1. [specific error + line number]
+### Structure
+1. [specific issue + line number]
 
-## 修改建议
-[每处改动的理由；说明它如何影响情感基调]
+## Suggested edits
+[rationale for each change; state how it affects the emotional tone]
 
-## 疑问（如有）
-[需要作者澄清的地方]
+## Questions (if any)
+[anything the author needs to clarify]
 
-## 修改后内容
+## Revised text
 [Revised English — minimal necessary changes only]
 ```
 

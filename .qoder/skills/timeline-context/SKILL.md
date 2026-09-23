@@ -79,15 +79,15 @@ encrypted file would have it, say so and move on.
 
 ## Answering
 
-Reply in Chinese. Give the date, the chapter, and the neighbouring events so the
-author can place it:
+Give the date, the chapter, and the neighbouring events so the author can place
+it:
 
 ```markdown
-**事件**: [name]
-**时间**: [date]
-**章节**: [file.md] — [journey title]
-**前**: [preceding event, date]
-**后**: [following event, date]
+**Event**: [name]
+**Date**: [date]
+**Chapter**: [file.md] — [journey title]
+**Before**: [preceding event, date]
+**After**: [following event, date]
 ```
 
 When two sources disagree, show both with `file:line` and ask which is
