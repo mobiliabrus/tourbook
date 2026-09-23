@@ -4,7 +4,7 @@ title: II. The Backpacker
 
 # {{ $frontmatter.title }}
 
-## Kuala Lumpur 
+## Kuala Lumpur
 
 <a-times :times="1" location="Kuala Lumpur "></a-times>
 
@@ -215,7 +215,7 @@ However, the atmosphere was tense. The Brazilian man was extremely abrasive, dec
 
 The following morning, as I prepared to depart, the Brazilian man approached me. He looked different from the night before—quieter, almost sheepish. Perhaps he had spent the night wondering where I'd slept, or maybe he realized I'd quietly yielded without argument. Whatever the reason, his arrogance had melted into something resembling guilt. We shared a brief hug, and he offered a sincere apology for his behavior the previous night. With that matter resolved, I boarded Uncle Chang's boat.
 
-## ‌Pulau Mabul
+## Pulau Mabul
 
 
 ```<a-img>
@@ -270,7 +270,7 @@ Suddenly, urgent shouts from the crew pierced the air, signaling all snorkelers 
 It was a wondrous and intimate sensation. As I stroked upward with rhythmic effort, keeping us afloat, Butterfly clung to my hand, her gaze fixed downward like a timid child mesmerized by the ocean floor below. In that moment, with the vast sea surrounding us and our hands tightly linked, a subtle, unspoken current of affection flowed between us. We parted ways that day, never to meet again in person, but the existence of this ambiguous connection was confirmed in the weeks that followed through late-night online conversations that stretched into early morning.
 
 
-## ‌Pulau Mabul
+## Pulau Mabul
 
 A favorite pastime on the platform involved a simple yet challenging game: swinging a small iron ring suspended from a string to hook it onto a stationary metal peg positioned opposite. It was an addictive diversion that initially frustrated most players, as the ring would stubbornly swing back and forth, eluding capture time and again. I spent a solid hour mastering it before finally discerning the trick: one must guide the ring in an elliptical trajectory and apply a subtle spinning force, which stabilizes its path and allows it to latch onto the hook with satisfying precision.
 
