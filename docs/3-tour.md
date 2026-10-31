@@ -20,7 +20,7 @@ This trip was different from the two before it in one way: I had posted a thread
 
 <a-hotel name="So Hostel" date="2014-11-03" nights="5" points="98.9970986,18.7842285"></a-hotel>
 
-On my first day in Chiang Mai I met two women from the thread. They were not part of the six. We walked around the Old City, and I did not see them again.
+On 3 November, my first day in Chiang Mai, I met two women from the thread. They were not part of the six. We walked around the old town, and I did not see them again.
 
 ```<a-img>
 name: balake.jpg
@@ -34,7 +34,7 @@ dir: privacy
 
 ## Tree Houses
 
-We were staying at different hostels, so the driver had to pick us up one by one. He started at the far end of the city, on Nimmanhaeminda Road, where the first two were already waiting. Then he came back into the Old City for me. Two more joined at A Little Bird. The last one we picked up at the roadside, by Chang Phuak Gate.
+We were staying at different hostels, so on the morning of 4 November the driver had to pick us up one by one. He started at the far end of the city, on Nimmanhaeminda Road, where the first two were already waiting. Then he came back into the old town for me. Two more joined at A Little Bird. The last one we picked up at the roadside, by Chang Phuak Gate.
 
 The engine started and the city went behind us. The road began to climb north. The day before had been sightseeing; this was the part I had posted the thread for.
 
@@ -47,7 +47,9 @@ route: {"legs":[{"steps":[],"weight":2866.4,"summary":"","duration":2865.9,"dist
 
 <a-carousel :img="[{name:'tree-house-me'},{name:'treehouse-1'}]"></a-carousel>
 
-We booked three treehouses — Tamarind House, Moon House, and Rimtarn House. We mainly gathered in the largest treehouse, Moon House. Sheyao and her friend stayed in Rimtarn House.
+We booked three treehouses — Tamarind House, Moon House, and Rimtarn House. Moon House was the largest, with a big open platform and a small sleeping hut on the third floor. It was open and comfortable, so we spent the days there. Rimtarn House was a small hut by the stream; Sheyao and her friend slept there. Tamarind House was the tallest and the oldest of the three. You climbed stairs to the top of the tree, and the shower and the toilet were up there too. The room was very small, with one bunk bed. I slept there. The other three women made do in the hut of Moon House.
+
+But Tamarind House was really high, and really plain. Alone up there I was scared. In the end I carried my quilt down and slept one night on the platform of Moon House.
 
 ```<a-img>
 name: she-1
@@ -72,6 +74,8 @@ dir: privacy
 name: treehouse-7.jpg
 dir: privacy
 ```
+
+We only stayed one day. I took a lot of photos with Yun'er, and the six of us walked around the area for a while. The time was short and there was nothing much to do, but it felt good.
 
 ```<a-img>
 name: yunt1.jpg
@@ -211,50 +215,26 @@ dir: privacy
 
 ## Swimming Pool
 
+Sheyao rented an apartment in the new city, near the airport. Planes roared over it often. It had a shared pool.
+
 ```<a-map>
 points: 98.9660400,18.7979829,Baan Thai Apartment
 zoom: 16
 theme: satellite
 ```
 
-Baan Thai Apartment
+She had found my thread on the forum, and I introduced her to the other girls there. Sheyao, Qin and I were going to learn diving on Koh Tao together; we planned it before we ever met. She was warm and optimistic, and she seemed to have a great many friends.
+
+We came back from the treehouses at noon on 5 November. The other girls went shopping. Sheyao wanted to practise swimming, so the two of us went back to her apartment. We swam together.
 
 ```<a-img>
 name: sheswim.jpg
 dir: privacy
 ```
 
-## Loy Krathong
+## Old Town
 
-First, we went for a spa treatment, and by the time it concluded, the popular Water Lantern Festival had already begun, so we joined in the festivities.
-
-```<a-img>
-name: spa.jpg
-dir: privacy
-```
-
-```<a-img>
-name: chiangmai-qin.jpg
-dir: privacy
-```
-
-```<a-img>
-name: cqin-3.jpg
-dir: privacy
-```
-
-```<a-img>
-name: qin-3-2
-dir: privacy
-```
-
-```<a-img>
-name: deng
-```
-
-## Old City
-
-11-6
+On the morning of 6 November I walked around the old town with Yun'er and Ding'er.
 
 ```<a-img>
 name: dinger
@@ -289,7 +269,43 @@ dir: privacy
 name: oldcity-4
 ```
 
-11-7
+## Loy Krathong
+
+That afternoon, we went for a spa treatment, and by the time it concluded, the popular Water Lantern Festival had already begun, so we joined in the festivities.
+
+```<a-img>
+name: spa.jpg
+dir: privacy
+```
+
+```<a-img>
+name: chiangmai-qin.jpg
+dir: privacy
+```
+
+```<a-img>
+name: cqin-3.jpg
+dir: privacy
+```
+
+```<a-img>
+name: qin-3-2
+dir: privacy
+```
+
+```<a-img>
+name: deng
+```
+
+## Farewell
+
+Yun'er was from Guangdong. She was pretty and gentle, and I introduced her to the other girls as well. On the morning of 7 November she was leaving Chiang Mai, and I insisted on seeing her off. We went to the airport early and ate McDonald's there. Then I saw her onto the plane.
+
+We met for the first time on this trip, and for the last. I took a songthaew back to the city alone.
+
+## Accident
+
+Later that day Sheyao, her friend and I went to Chiang Mai University, but we could not get in. So we went to the old town and rode bicycles. Then her friend had an accident.
 
 ```<a-img>
 name: chiang-1.jpg
@@ -303,13 +319,7 @@ points: 98.9660400,18.7979829,Baan Thai Apartment|98.9547589,18.8083025,Chiang M
 route: {"legs":[{"steps":[],"weight":143.1,"summary":"","duration":143.1,"distance":2047}],"weight_name":"routability","geometry":{"coordinates":[[98.966012,18.797801],[98.966534,18.797729],[98.967612,18.80062],[98.967771,18.801202],[98.967685,18.801386],[98.954757,18.808299]],"type":"LineString"},"weight":143.1,"duration":143.1,"distance":2047}
 ```
 
-## Chiang Mai Airport
-
-I saw she off at the airport.
-
-Accident
-
-## Bangkok
+## Khao San Road
 
 <a-times :times="2" location="Bangkok"></a-times>
 
@@ -464,8 +474,6 @@ name: crystal-4
 ```<a-img>
 name: crystal-5
 ```
-
-## Qin
 
 ```<a-img>
 name: qinx2.jpg
