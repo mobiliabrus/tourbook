@@ -4,21 +4,13 @@ title: III. The Three Trees
 
 # {{ $frontmatter.title }}
 
-> _You are far from home._
-> _You meet a girl._
-> _It's exciting, why not?_
-> _You are attracted to her - it's in your eyes._
-> _Perhaps in hers as well._
-> _So you think something might happen; it's easy to believe, it's exciting._
-> _But she has a boyfriend so you are jealous._
-
-The genesis of this journey lay in a thread I posted on a travel forum, where I outlined my itinerary for Chiang Mai. To my delight, this initiative attracted numerous fellow travelers with matching schedules, and we successfully arranged to meet up and explore the region together.
+> You are far from home. You meet a girl. It's exciting, why not? You are attracted to her - it's in your eyes. Perhaps in hers as well. So you think something might happen; it's easy to believe, it's exciting. But she has a boyfriend so you are jealous.
 
 ## Bangkok
 
 <a-flight flight="FD553" departure="CKG" destination="DMK" departure-time="2014-11-02 19:55" arrive-time="2014-11-02 22:05"></a-flight>
 
-This journey originated from a simple thread I posted on a travel forum, detailing my proposed itinerary for Chiang Mai. To my unexpected delight, the post resonated with a group of fellow travelers whose schedules aligned perfectly with mine. Interestingly, most of them hailed from my hometown, Chongqing, and, to my secret anticipation as a single man hoping for a romantic encounter, the group was predominantly female. We quickly arranged to converge in Chiang Mai, eager to explore the region together. Little did I know that this gathering of strangers would soon mirror the very scene from the movie: excitement, attraction, and the potential for something more.
+This trip was different from the two before it in one way: I had posted a thread on a travel forum, with my itinerary for Chiang Mai. More than ten of us turned out to be in the city on the same days, and almost none of us had met. Most were from Chongqing, and most were women. Six of us agreed on the treehouses.
 
 ## Chiang Mai
 
@@ -28,7 +20,7 @@ This journey originated from a simple thread I posted on a travel forum, detaili
 
 <a-hotel name="So Hostel" date="2014-11-03" nights="5" points="98.9970986,18.7842285"></a-hotel>
 
-Upon my arrival in Chiang Mai on the first day, I joined two female companions from our group for an initial exploration of the Old City. However, our dynamic was quite reserved; we remained polite but somewhat distant, without establishing any deep rapport. Our walk through the ancient streets was largely aimless—a perfunctory loop around the major sites without a clear theme or shared passion. 
+On my first day in Chiang Mai I met two women from the thread. They were not part of the six. We walked around the Old City, and I did not see them again.
 
 ```<a-img>
 name: balake.jpg
@@ -42,23 +34,9 @@ dir: privacy
 
 ## Tree Houses
 
-The following morning marked the true beginning of our expedition. A van from the Treehouse Lodge set off to collect us, starting with the furthest point: Baan Thai on Nimmanhaeminda Road. Here, the first two members of our group boarded the empty van.
+We were staying at different hostels, so the driver had to pick us up one by one. He started at the far end of the city, on Nimmanhaeminda Road, where the first two were already waiting. Then he came back into the Old City for me. Two more joined at A Little Bird. The last one we picked up at the roadside, by Chang Phuak Gate.
 
-[Insert Description Here: Focus on these two. If the special girl is here, describe her initial impression. Did she sit by the window? Did she offer a greeting that felt different? Since you would be the next to join, this sets the stage for your first interaction.]
-
-The driver then navigated back towards the Old City to pick me up at So Hotel. Stepping into the van, I joined the two strangers from Nimman, turning the solitary front row into a small cluster of three.
-
-[Insert Description Here: How did you greet them? Was the atmosphere still polite and reserved, or did the new arrival shift the energy? Briefly mention your own state of mind—perhaps a mix of nervousness and hope.]
-
-Our route continued to A Little Bird Guest House, where two more travelers emerged, filling the middle row. The van was becoming a mosaic of different backgrounds and personalities.
-
-[Insert Description Here: Describe this pair briefly. Were they loud? Quiet? Did they immediately start chatting with the first two, or did everyone remain in their own bubbles?]
-
-We made a quick stop near the night market to pick up a solo traveler from 9 Hostel, squeezing them into the remaining space. Finally, the driver pulled over at a roadside spot to collect the last member of our party. With the sliding door closing, our team of seven strangers was finally complete.
-
-[Insert Description Here: A brief mention of the last two. Maybe the roadside pickup felt spontaneous or rushed. Now, emphasize the feeling of "fullness"—the van is physically full, and the social dynamic is now locked in.]
-
-With the engine humming and the cityscape fading into the rearview mirror, replaced by the winding roads leading north, a fresh sense of anticipation filled the air. The perfunctory sightseeing of the previous day was now behind us. As the van accelerated towards the mountains, the real adventure—and the unpredictable dynamics of this newly formed group of seven—was about to commence.
+The engine started and the city went behind us. The road began to climb north. The day before had been sightseeing; this was the part I had posted the thread for.
 
 <a-hotel name="Rabeang Pasak Treehouse Resort" date="2014-11-04" nights="1"></a-hotel>
 
@@ -69,7 +47,7 @@ route: {"legs":[{"steps":[],"weight":2866.4,"summary":"","duration":2865.9,"dist
 
 <a-carousel :img="[{name:'tree-house-me'},{name:'treehouse-1'}]"></a-carousel>
 
-We booked three treehouses — Tamarind House, Moon House, and Rimtarn House. We mainly gathered in the largest treehouse, Moon House. Sheyao stayed in Rimtarn House.
+We booked three treehouses — Tamarind House, Moon House, and Rimtarn House. We mainly gathered in the largest treehouse, Moon House. Sheyao and her friend stayed in Rimtarn House.
 
 ```<a-img>
 name: she-1

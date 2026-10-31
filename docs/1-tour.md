@@ -10,11 +10,11 @@ title: I. Long, Solitary Tour
 
 <a-flight flight="FD2557" departure="CKG" departure-time="2013-10-08 11:10" destination="DMK" arrive-time="2013-10-08 13:20"></a-flight>
 
-Having secured my visa, I deliberately chose not to tuck any money into my passport as some online guides suggested; I believed such practices should not be encouraged. The initial customs check proceeded smoothly, and I finally set foot in Bangkok. Following the guidebook's advice, I located an ATM on the second floor to withdraw some Thai Baht. With cash in hand, I was ready to embark on my journey.
+Having secured my visa, I deliberately chose not to tuck any money into my passport as some online guides suggested; I believed such practices should not be encouraged. The initial customs check proceeded smoothly, and I finally set foot in Bangkok. Following the guidebook's advice, I located an ATM on the second floor to withdraw some Thai Baht.
 
 ## Don Mueang
 
-As the terminal doors slid open, a wall of heat instantly enveloped me. Navigating through the humid air, I made my way to the bus stop. The bus pulled up, turning right, while I boarded from the left. I took the A1 bus to Mo Chit, planning to transfer to the BTS to reach my final destination.
+As the doors of A6 Gate opened, a wall of heat instantly enveloped me. Navigating through the humid air, I found the A1 bus stop. The bus pulled up, turning right, while I boarded from the left. I ride to Mo Chit, then transfer to the BTS to hostel.
 
 <a-map points="100.60039043426515,13.917301445032487,A1 Bus|100.5545711,13.802285,Mo Chit" route='{"legs":[{"steps":[],"weight":863,"summary":"","duration":775,"distance":14117.8}],"weight_name":"routability","geometry":{"coordinates":[[100.600384,13.917308],[100.55846,13.841454],[100.557303,13.834878],[100.559839,13.811459],[100.554462,13.802345]],"type":"LineString"},"weight":863,"duration":775,"distance":14117.8}'></a-map>
 
