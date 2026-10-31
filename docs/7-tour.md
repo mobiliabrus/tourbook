@@ -368,6 +368,8 @@ Scheduled land transfer from Semporna to Tawau Airport at 1200hrs
 
 ## Sepang
 
+<a-times :times="1" location="Sepang"></a-times>
+
 As I walked down the street from the station, the crowds gradually thinned out. When I reached an intersection, I hesitated – should I take the dimly lit path in the distance or stick to the main road, even if it meant a longer detour? I chose the latter. However, this route proved to be much farther than I had anticipated, and it took me quite some time to reach the hotel.
 
 ```<a-map>
@@ -597,6 +599,10 @@ name: bitch2.jpg
 dir: privacy
 hide: true
 ```
+
+## Bangkok
+
+<a-times :times="6" location="Bangkok"></a-times>
 
 <a-flight flight="FD3232" departure="URT" destination="DMK" departure-time="2017-04-18 04:10" arrive-time="2017-04-18 05:20"></a-flight>
 

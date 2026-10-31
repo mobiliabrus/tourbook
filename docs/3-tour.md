@@ -8,6 +8,8 @@ title: III. The Three Trees
 
 ## Bangkok
 
+<a-times :times="2" location="Bangkok"></a-times>
+
 <a-flight flight="FD553" departure="CKG" destination="DMK" departure-time="2014-11-02 19:55" arrive-time="2014-11-02 22:05"></a-flight>
 
 This trip was different from the two before it in one way: I had posted a thread on a travel forum, with my itinerary for Chiang Mai. More than ten of us turned out to be in the city on the same days, and almost none of us had met. Most were from Chongqing, and most were women. Six of us agreed on the treehouses.
@@ -320,8 +322,6 @@ route: {"legs":[{"steps":[],"weight":143.1,"summary":"","duration":143.1,"distan
 ```
 
 ## Khao San Road
-
-<a-times :times="2" location="Bangkok"></a-times>
 
 Sheyao had originally planned to come with us to Koh Tao to learn diving, but had to change her itinerary due to a friend visiting Chiang Mai.
 

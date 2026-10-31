@@ -6,7 +6,7 @@ title: II. The Backpacker
 
 ## Kuala Lumpur
 
-<a-times :times="1" location="Kuala Lumpur "></a-times>
+<a-times :times="1" location="Kuala Lumpur"></a-times>
 
 <a-flight flight="3U8722" departure="CKG" destination="KMG" departure-time="2014-01-04 12:50" arrive-time="2014-01-04 14:05"></a-flight>
 

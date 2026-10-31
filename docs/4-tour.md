@@ -573,9 +573,9 @@ _pre-flight surface interval_
 
 <a-flight flight="UO764" departure="HKT" destination="HKG" departure-time="2015-04-21 02:55" arrive-time="2015-04-21 07:30"></a-flight>
 
-## Hongkong
+## Hong Kong
 
-<a-times :times="1" location="Hongkong"></a-times>
+<a-times :times="1" location="Hong Kong"></a-times>
 
 ```<a-img>
 name: hk
