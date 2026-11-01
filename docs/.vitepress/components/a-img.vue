@@ -7,6 +7,7 @@ interface Props {
   name: string
   dir?: string
   hide?: boolean
+  alt?: string
 }
 
 const props = defineProps<Props>()
@@ -223,6 +224,7 @@ const load = async (suffix = '', t: 'src' | 'srcMin' = 'src') => {
       <template #default>
         <img v-if="visible && hide && (src || srcMin)" src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" style="width:100vw;height:56.25vw;max-height:30vh" />
         <img v-if="visible && !hide && (src || srcMin)" :src="src || srcMin" :alt="name" @load="onImageLoad" @error="onImageError" style="width:100%" />
+        <div v-if="alt && visible && (src || srcMin)" class="a-img-caption">{{ alt }}</div>
       </template>
     </a-modal>
   </a-lazyload>
@@ -266,5 +268,13 @@ const load = async (suffix = '', t: 'src' | 'srcMin' = 'src') => {
 
 .exif-item {
   opacity: 0.9;
+}
+
+.a-img-caption {
+  margin-top: 6px;
+  font-size: 12px;
+  line-height: 1.5;
+  text-align: center;
+  color: var(--vp-c-text-3);
 }
 </style>
