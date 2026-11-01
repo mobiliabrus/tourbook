@@ -8,7 +8,7 @@ title: V. Interlude
 
 <a-times :times="4" location="Bangkok"></a-times>
 
-In the past, to secure the most favorable fares, I would typically book my tickets a year in advance and allocate at least a fortnight for my vacation. In stark contrast, this time I made no advance bookings nor reserved any specific leave; I simply embarked on a spontaneous weekend getaway.
+I could not stand the ache inside any more. I could not buy a ticket a year in advance and wait, the way I had always done. I bought a ticket for the weekend and left straight away, even if it was only a weekend.
 
 <a-hotel name="Novotel Bangkok Platinum Pratunam" date="2015-10-27" nights="2"></a-hotel>
 

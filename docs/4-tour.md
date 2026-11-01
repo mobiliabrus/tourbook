@@ -226,13 +226,11 @@ name: draw
 
 <a-hotel name="Deevana Plaza Krabi Aonang" date="2015-04-9" nights="2"></a-hotel>
 
-And as for traveling alone, fuck it. If that's the way it has to be, then that's the way it is.
+> And as for traveling alone, fuck it. If that's the way it has to be, then that's the way it is.
 
 ## Phuket
 
 <a-times :times="2" location="Phuket"></a-times>
-
-## Karon
 
 <a-hotel name="Woraburi Phuket Resort & Spa" date="2015-04-11" nights="4"></a-hotel>
 
