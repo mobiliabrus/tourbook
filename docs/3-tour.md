@@ -301,6 +301,8 @@ dir: privacy
 
 On the morning of 6 November I walked around the old town with Yun'er and Ding'er.
 
+Yun'er had stayed at a guesthouse in China on a trip of her own, and Ding'er was the owner's daughter. They became friends. Yun'er told her the itinerary, and she came to Chiang Mai.
+
 ```<a-img>
 name: dinger
 ```
