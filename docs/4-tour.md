@@ -21,14 +21,11 @@ dir: privacy
 
 <a-times :times="2" location="Koh Tao"></a-times>
 
-You think I waste time taking photographs of the sky.
-One night I will get the perfect photograp
-
 <a-hotel name="Ananda Villa" date="2015-04-03" nights="2"></a-hotel>
 
 ```<a-divelog>
 no: 5
-date: 2015-4-5
+date: 2015-04-05
 location: Twins, Koh Tao
 objective: AOWPPB
 conditions: 30℃
@@ -41,7 +38,7 @@ buddy: 285136
 
 ```<a-divelog>
 no: 6
-date: 2015-4-5
+date: 2015-04-05
 location: Twins, Koh Tao
 objective: AOW
 conditions: 30℃
@@ -54,7 +51,7 @@ buddy: 285136
 
 ```<a-divelog>
 no: 7
-date: 2015-4-5
+date: 2015-04-05
 location: Twins, Koh Tao
 objective: AOW
 conditions: 30℃
@@ -67,7 +64,7 @@ buddy: 285136
 
 ```<a-divelog>
 no: 8
-date: 2015-4-5
+date: 2015-04-05
 location: White Rock, Koh Tao
 objective: AOW
 conditions: 30℃
@@ -80,7 +77,7 @@ buddy: 285136
 
 ```<a-divelog>
 no: 9
-date: 2015-4-6
+date: 2015-04-06
 location: Chumphon Pinnacle
 objective: AOW
 conditions: 29℃
@@ -93,7 +90,7 @@ buddy: 285136
 
 ```<a-divelog>
 no: 10
-date: 2015-4-6
+date: 2015-04-06
 location: HTMS Sattakut
 objective: AOW
 conditions: 31℃
@@ -224,7 +221,7 @@ route: {"legs":[{"steps":[],"weight":9821.1,"summary":"","duration":9821.1,"dist
 name: draw
 ```
 
-<a-hotel name="Deevana Plaza Krabi Aonang" date="2015-04-9" nights="2"></a-hotel>
+<a-hotel name="Deevana Plaza Krabi Aonang" date="2015-04-09" nights="2"></a-hotel>
 
 > And as for traveling alone, fuck it. If that's the way it has to be, then that's the way it is.
 
@@ -270,7 +267,7 @@ divesites: 97.645576,8.573707,Anita's Reef|97.635619,8.599783,Deep Six|97.616323
 
 ```<a-divelog>
 no: 11
-date: 2015-4-16
+date: 2015-04-16
 location: Anita Reef
 objective: FD
 conditions: 30℃
@@ -282,7 +279,7 @@ buddy: 205326
 
 ```<a-divelog>
 no: 12
-date: 2015-4-16
+date: 2015-04-16
 location: Anita Reef
 objective: FD
 conditions: 30℃
@@ -294,7 +291,7 @@ buddy: 205326
 
 ```<a-divelog>
 no: 13
-date: 2015-4-16
+date: 2015-04-16
 location: West of Eden
 objective: FD
 conditions: 30℃
@@ -306,7 +303,7 @@ buddy: 205326
 
 ```<a-divelog>
 no: 15
-date: 2015-4-16
+date: 2015-04-16
 location: Nam Chai Bay
 objective: FD
 conditions: 31℃
@@ -318,7 +315,7 @@ buddy: 205326
 
 ```<a-divelog>
 no: 16
-date: 2015-4-17
+date: 2015-04-17
 location: Elephant Head Rock
 objective: FD
 conditions: 28℃
@@ -330,7 +327,7 @@ buddy: 205326
 
 ```<a-divelog>
 no: 17
-date: 2015-4-17
+date: 2015-04-17
 location: Three Trees
 objective: FD
 conditions: 30℃
@@ -342,7 +339,7 @@ buddy: 205326
 
 ```<a-divelog>
 no: 18
-date: 2015-4-17
+date: 2015-04-17
 location: West Ridge
 objective: FD
 conditions: 32℃
@@ -354,7 +351,7 @@ buddy: 205326
 
 ```<a-divelog>
 no: 19
-date: 2015-4-17
+date: 2015-04-17
 location: The Dome
 objective: FD
 conditions: 29℃
@@ -366,7 +363,7 @@ buddy: 205326
 
 ```<a-divelog>
 no: 20
-date: 2015-4-18
+date: 2015-04-18
 location: Richelieu Rock
 objective: FD
 conditions: 29℃
@@ -378,7 +375,7 @@ buddy: 205326
 
 ```<a-divelog>
 no: 21
-date: 2015-4-18
+date: 2015-04-18
 location: Richelieu Rock
 objective: FD
 conditions: 29℃
@@ -390,7 +387,7 @@ buddy: 205326
 
 ```<a-divelog>
 no: 22
-date: 2015-4-18
+date: 2015-04-18
 location: Richelieu Rock
 objective: FD
 conditions: 30℃
@@ -402,7 +399,7 @@ buddy: 205326
 
 ```<a-divelog>
 no: 23
-date: 2015-4-18
+date: 2015-04-18
 location: The Dome
 objective: FD
 conditions: 30℃
@@ -414,7 +411,7 @@ buddy: 205326
 
 ```<a-divelog>
 no: 24
-date: 2015-4-19
+date: 2015-04-19
 location: West Ridge
 objective: FD
 conditions: 31℃
@@ -426,7 +423,7 @@ buddy: 205326
 
 ```<a-divelog>
 no: 25
-date: 2015-4-19
+date: 2015-04-19
 location: Boonsung Wreck
 objective: FD
 conditions: 31℃
@@ -438,7 +435,7 @@ buddy: 205326
 
 ```<a-divelog>
 no: 26
-date: 2015-4-19
+date: 2015-04-19
 location: Premchai Wreck
 objective: FD
 conditions: 31℃

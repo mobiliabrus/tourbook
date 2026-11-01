@@ -35,7 +35,7 @@ points: 101.69091652316015,3.1314496300435706,KL Sentral|101.70906525342374,3.14
 route: {"legs":[{"steps":[],"weight":254.9,"summary":"","duration":254.9,"distance":3320.6}],"weight_name":"routability","geometry":{"coordinates":[[101.69092,3.131449],[101.691004,3.13169],[101.691468,3.131558],[101.691824,3.131963],[101.692329,3.13229],[101.693301,3.132496],[101.693798,3.132713],[101.694223,3.133045],[101.694644,3.133645],[101.694884,3.134409],[101.695303,3.138099],[101.695282,3.138597],[101.695102,3.139427],[101.695119,3.140112],[101.694981,3.140333],[101.695094,3.14059],[101.695351,3.140637],[101.69572,3.140388],[101.696897,3.14009],[101.69727,3.14021],[101.698049,3.140193],[101.698238,3.140013],[101.698498,3.139458],[101.700391,3.137844],[101.701843,3.13729],[101.702889,3.136958],[101.70324,3.136922],[101.703693,3.137045],[101.703854,3.137348],[101.704361,3.137848],[101.704952,3.138708],[101.705127,3.139062],[101.705312,3.139911],[101.705606,3.140381],[101.707591,3.141966],[101.708459,3.142534],[101.709072,3.142754]],"type":"LineString"},"weight":254.9,"duration":254.9,"distance":3320.6}
 ```
 
-<a-hotel name="Irsia BnB Guesthouse" date="2014-1-4" nights="2" points="101.7100106,3.1413875"></a-hotel>
+<a-hotel name="Irsia BnB Guesthouse" date="2014-01-04" nights="2" points="101.7100106,3.1413875"></a-hotel>
 
 That night, I finally arrived at Times Square, where my hostel was nestled.
 The dormitory was steeped in silence, broken only by a chorus of loud snoring from the other guests.
@@ -211,7 +211,7 @@ route: {"legs":[{"steps":[],"weight":4411.4,"summary":"","duration":4411.4,"dist
 
 Upon checking into our accommodation—a modest dive lodge—we discovered to our surprise that we had been assigned to the same room. Also staying there were Feng Cheche, the very partner I had missed at the airport, and another girl who had just signed up for scuba diving lessons. Once we began talking, Feng Cheche and I realized we had both planned to travel to Penang in a few days.
 
-However, the atmosphere was tense. The Brazilian man was extremely abrasive, declaring that he refused to let anyone sleep on the top bunk of his bunk bed. Unwilling to argue, and since my itinerary allowed for only a single night here, I simply found an empty dormitory nextdoor and settled on one of the beds. I stayed there fully clothed and without a blanket, just making do until morning.
+However, the atmosphere was tense. The Brazilian man was extremely abrasive, declaring that he refused to let anyone sleep on the top bunk of his bunk bed. Unwilling to argue, and since my itinerary allowed for only a single night here, I simply found an empty dormitory next door and settled on one of the beds. I stayed there fully clothed and without a blanket, just making do until morning.
 
 The following morning, as I prepared to depart, the Brazilian man approached me. He looked different from the night before—quieter, almost sheepish. Perhaps he had spent the night wondering where I'd slept, or maybe he realized I'd quietly yielded without argument. Whatever the reason, his arrogance had melted into something resembling guilt. We shared a brief hug, and he offered a sincere apology for his behavior the previous night. With that matter resolved, I boarded Uncle Chang's boat.
 
@@ -324,8 +324,6 @@ After checking into my accommodation, I decided to take a leisurely stroll throu
 Upon my return to Kota Kinabalu, the hostel room was deserted. As evening fell, I reunited with Marilyn, and we promptly made plans for dinner. Afterward, she suggested visiting a nearby spot for a nightcap.
 
 ## Salty Dog
-
-I followed her to an open-air bar. We talked about some things, such as her experience in China and why she wanted to go back to France. She recommended a wine that was soaked in salt, and she was surprised that I finished it so quickly and ordered another one. Afterwards, we walked back to the hostel along the road. When I entered the room, she was video chatting with her boyfriend on the bed, and I said hello.
 
 I followed her to a lively open-air bar. Our conversation drifted across various topics, ranging from her experiences in China to her reasons for returning to France. She recommended a local wine infused with a distinct salty note. To her surprise, I finished the glass swiftly and ordered another. Later, we strolled back to the hostel along the quiet streets. Upon entering the room, I found her lying on the upper bed, video-chatting with her boyfriend; I offered a polite greeting before settling in.
 
@@ -569,7 +567,7 @@ dir: privacy
 
 Later, Feng Cheche departed as her itinerary required.
 
-## Penang HILL
+## Penang Hill
 
 2014-01-16
 
@@ -651,13 +649,11 @@ points: 100.3362171932171,5.418353144233365,Love Ln|100.3292899687321,5.41450215
 route: {"legs":[{"steps":[],"weight":31.3,"summary":"","duration":31.3,"distance":473.2},{"steps":[],"weight":84.6,"summary":"","duration":84.6,"distance":1019.6}],"weight_name":"routability","geometry":{"coordinates":[[100.336226,5.41837],[100.332908,5.419838],[100.332709,5.419885],[100.33249,5.419865],[100.332325,5.419732],[100.330663,5.417365],[100.330408,5.417068],[100.330359,5.416919],[100.330381,5.416767],[100.330818,5.416304],[100.331398,5.41558],[100.331403,5.415411],[100.331287,5.415247],[100.330482,5.414534],[100.330389,5.414521],[100.329394,5.41372],[100.328983,5.413921],[100.328877,5.414085],[100.328868,5.414501],[100.328918,5.414638]],"type":"LineString"},"weight":115.9,"duration":115.9,"distance":1492.8}
 ```
 
-## Kuala Lumpur 
+## Kuala Lumpur
 
 I traveled back to Kuala Lumpur by bus and checked into a hostel on the famous Jalan Alor. To my surprise, the atmosphere was desolate. There were only two other foreign travelers in the entire building, deeply engrossed in a discussion about how to find accommodations that were merely five dollars cheaper. True to their frugal words, they moved out the following day, leaving me as the sole guest in the vast, empty hostel.
 
 <a-hotel name="Hotel Budget Inn Jalan Alor" date="2014-01-19" nights="2"></a-hotel>
-
-Subsequently, I spent my time wandering around Kuala Lumpur and engaging in some mundane activities.
 
 Subsequently, I spent my days wandering aimlessly around Kuala Lumpur, engaging in mundane activities that offered little joy. A profound sense of listlessness washed over me, mirroring the intense discomfort and alienation I had felt upon my initial arrival in the city.
 

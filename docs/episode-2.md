@@ -100,8 +100,6 @@ nights: 1
 points: 118.06267167432208,24.45217298291665
 ```
 
-紫藤&鱼欢
-
 ```<a-img>
 name: gly-1.jpg
 dir: privacy
@@ -111,16 +109,16 @@ dir: privacy
 
 ## Western Sichuan
 
-Having returned from Gulangyu a mere fortnight ago, I received another invitation to travel to Western Sichuan. Although travel had recently become a frequent occurrence for me, I accepted the offer.
+Having returned from Gulangyu a mere days before, I received another invitation to travel to Western Sichuan. Although travel had recently become a frequent occurrence for me, I accepted the offer.
 
 My plan was to fly directly to Shangri-La, then retrace my route along National Highway 318. The itinerary included stops at Daocheng Yading along the way, with the ultimate destination being Minya Kongka.
 
 ```<a-flight>
-flight: 3U8630
+flight: CZ8129
 departure: CKG
 destination: DIG
-departure-time: 2013-07-03 08:40
-arrive-time: 2013-07-03 09:40
+departure-time: 2013-06-24 15:25
+arrive-time: 2013-06-24 17:16
 ```
 
 ```<a-map>
@@ -128,11 +126,11 @@ points: 99.6831596,27.7932316,Shangri-La Airport|99.7053845,27.811842,Dukezong|1
 ```
 
 ```<a-flight>
-flight: CZ8129
+flight: 3U8630
 departure: KGT
 destination: CKG
-departure-time: 2013-06-24 15:25
-arrive-time: 2013-06-24 17:05
+departure-time: 2013-07-03 08:40
+arrive-time: 2013-07-03 09:43
 ```
 
 <a-secret name="hq" autoload></a-secret>

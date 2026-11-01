@@ -14,7 +14,7 @@ Having secured my visa, I deliberately chose not to tuck any money into my passp
 
 ## Don Mueang
 
-As the doors of A6 Gate opened, a wall of heat instantly enveloped me. Navigating through the humid air, I found the A1 bus stop. The bus pulled up, turning right, while I boarded from the left. I ride to Mo Chit, then transfer to the BTS to hostel.
+As the doors of A6 Gate opened, a wall of heat instantly enveloped me. Navigating through the humid air, I found the A1 bus stop. The bus pulled up, turning right, while I boarded from the left. I rode to Mo Chit, then transferred to the BTS to the hostel.
 
 <a-map points="100.60039043426515,13.917301445032487,A1 Bus|100.5545711,13.802285,Mo Chit" route='{"legs":[{"steps":[],"weight":863,"summary":"","duration":775,"distance":14117.8}],"weight_name":"routability","geometry":{"coordinates":[[100.600384,13.917308],[100.55846,13.841454],[100.557303,13.834878],[100.559839,13.811459],[100.554462,13.802345]],"type":"LineString"},"weight":863,"duration":775,"distance":14117.8}'></a-map>
 
@@ -24,7 +24,7 @@ On that first day, I was overwhelmed by Foreign Language Anxiety and completely 
 
 My hostel room felt like a cramped cell. Beyond its window, Bangkok erupted into life at night. Tuk-tuks blared music, and the air buzzed with drunken laughter and heated arguments. Sleep came in fragmented bursts, constantly interrupted by the pandemonium outside. I glanced at my watch; it read midnight. Yet, this city never rested. Its energy pulsed as if it were a living organism.
 
-> This is it—Bangkok, good-time city. Gateway to Southeast Asia. Where dollars and Deutsche Mark get turned into counterfeit watches and genuine scars.
+> This is it—Bangkok, good-time city. Gateway to Southeast Asia. Where dollars and Deutschmarks get turned into counterfeit watches and genuine scars.
 
 ## Pratunam
 
@@ -38,7 +38,9 @@ name: bk2
 
 During the day, however, I found myself confined to the hotel, unsure of where to go. The honking of car horns, traffic whistles, cooing doves, the hum of air conditioners, slamming doors, and the elevator's beep all contributed to a cacophony that filled the room. Certain noises transported me back to similar sounds I had once heard on Gulangyu Island, stirring up feelings of confusion and unease within me.
 
-"What do you want? Take a ride? Spots? You want silk? I'll take you to the best silk place? Diamonds? Come with me, get presents for girlfriend. Maybe no girlfriend. You want a girl, no problem. Good time. Boy girl fucking no problem..." Walking down the street, it was common to encounter people from various backgrounds trying to engage you with such pitches.
+> "What do you want? Take a ride? Spots? You want silk? I'll take you to the best silk place? Diamonds? Come with me, get presents for girlfriend. Maybe no girlfriend. You want a girl, no problem. Good time. Boy girl fucking no problem..."
+
+Walking down the street, it was common to encounter people from various backgrounds trying to engage you with such pitches.
 
 ```<a-img>
 name: bkk
@@ -56,9 +58,9 @@ dir: animation
 
 ## Cowboy
 
-In the evening, I visited Cowboy Street, a small red-light district. After finding a seat and ordering a bottle of beer, a Caucasian man sat across from me and offered a greeting. We began chatting, and to my surprise, he worked in Chongqing. However, as soon as his "Thai wife" arrived, he excused himself and left.
+In the evening, I visited Cowboy Street, a small red-light district. I had found a seat and ordered a bottle of beer when a Caucasian man sat down across from me and offered a greeting. We began chatting, and to my surprise, he worked in Chongqing. However, as soon as his "Thai wife" arrived, he excused himself and left.
 
-## China Town
+## Chinatown
 
 The next day, the journey to Chinatown was not without challenges. Initially, I took the subway heading to Hua Lamphong but mistakenly alighted at the train station. With no better option, I opted for a motorcycle taxi. Not particularly comfortable on motorcycles, I instinctively placed my hand on the driver's shoulder when we turned corners, which seemed to bother him. Fortunately, the destination was nearby, and we arrived swiftly.
 
@@ -170,7 +172,7 @@ name: cmn
 
 <a-secret name="lucky" autoload></a-secret>
 
-I changed hotels twice. One of them was located right next to Wat Buppharam, the very temple where the character "Old Zhou" stayed in the hit movie Lost in Thailand.
+I changed hotels twice. One of them was located right next to Wat Buppharam, the very temple where the character "Old Zhou" stayed in the hit movie *Lost in Thailand*.
 
 ```<a-img>
 name: tj
@@ -190,7 +192,7 @@ name: tj3
 
 <a-times :times="1" location="Phuket"></a-times>
 
-> _What are you doing in thailand? Tourist? You go to Patpong? See smoke from pussy, ping pong ball from pussy, razor blade from pussy; bird from pussy. Why not? Thai girls best in the world. Thai food best in the world. Thai dope best in the world._
+> What are you doing in Thailand? Tourist? You go to Patpong? See smoke from pussy, ping pong ball from pussy, razor blade from pussy; bird from pussy. Why not? Thai girls best in the world. Thai food best in the world. Thai dope best in the world.
 
 ## Patong
 

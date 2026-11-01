@@ -26,7 +26,7 @@ departure-time: 2010-04-16
 arrive-time: 2010-04-16
 ```
 
-Traveling as part of a tour group, we were offered an optional excursion to sites along the 38th Parallel for an extra fee. My fellow traveler, Wenwen, and I opted out. Consequently, we were left behind at a rest stop while the rest of the group continued their tour. Initially feeling somewhat isolated, we wandered into a nearby convenience store for coffee. There, we met the owner’s child, whose endearing nature and eagerness to play instantly bridged the language barrier. What began as a moment of abandonment turned into a delightful encounter, reminding us that human connection transcends spoken words.
+Traveling as part of a tour group, we were offered an optional excursion to sites along the 38th Parallel for an extra fee. Wenwen, another member of our tour group, and I opted out. Consequently, we were left behind at a rest stop while the rest of the group continued their tour. Initially feeling somewhat isolated, we wandered into a nearby convenience store for coffee. There, we met the owner’s child, whose endearing nature and eagerness to play instantly bridged the language barrier. What began as a moment of abandonment turned into a delightful encounter, reminding us that human connection transcends spoken words.
 
 ```<a-map>
 points: 127.03588586216844,37.51402948996639,Imperial Palace Seoul|126.98449333522179,37.56382942746806,Myeong-dong|126.98115396433205,37.55370946055917,Namsan|127.0855585,37.5690015,Siloam|126.68362613171828,37.778494623724804,Pilseung-ro|127.0244706,37.5219876,Hotel Sunshine
@@ -53,19 +53,27 @@ dir: privacy
 ```
 
 ```<a-flight>
+flight:
+departure: CJU
+destination: GMP
+departure-time: 2010-04-18
+arrive-time: 2010-04-18
+```
+
+```<a-flight>
 flight: 
 departure: ICN
 destination: PEK
-departure-time: 2010-04-17 08:30
-arrive-time: 2010-04-17 11:30
+departure-time: 2010-04-19 08:30
+arrive-time: 2010-04-19 11:30
 ```
 
 ```<a-flight>
 flight: 
 departure: PEK
 destination: CKG
-departure-time: 2010-04-17 21:20
-arrive-time: 2010-04-17 23:50
+departure-time: 2010-04-19 21:20
+arrive-time: 2010-04-19 23:50
 ```
 
 <a-secret name="lxx" autoload></a-secret>

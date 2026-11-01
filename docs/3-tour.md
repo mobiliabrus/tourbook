@@ -397,7 +397,7 @@ So we went to the old town and rode bicycles. Then her friend had an accident. W
 
 <a-flight flight="FD3446" departure="CNX" destination="DMK" departure-time="2014-11-08 09:30" arrive-time="2014-11-08 10:50"></a-flight>
 
-Qin and me met up on Khao San Road and went for a massage. After that, we were waiting for the bus.
+Qin and I met up on Khao San Road and went for a massage. After that, we were waiting for the bus.
 
 ```<a-map>
 points: 100.498725,13.759380,Lomprayah Bangkok|99.267069,10.358415,Lomprayah Pier
@@ -466,7 +466,7 @@ no: 1
 date: 2014-11-11
 location: Japanese Gardens, Koh Tao
 objective: OWTD 1
-conditions: 30℃ 8mViz
+conditions: 30℃ 8 m viz
 timein: 13:09
 timeout: 13:53
 depth: 12m
@@ -480,7 +480,7 @@ no: 2
 date: 2014-11-11
 location: Japanese Gardens, Koh Tao
 objective: OWTD 2
-conditions: 30℃ 8mViz
+conditions: 30℃ 8 m viz
 timein: 15:17
 timeout: 16:01
 depth: 12m
@@ -494,7 +494,7 @@ no: 3
 date: 2014-11-12
 location: White Rock, Koh Tao
 objective: OWTD 3
-conditions: 30℃ 8-10mViz
+conditions: 30℃ 8-10 m viz
 timein: 08:13
 timeout: 09:51
 depth: 17m
@@ -508,7 +508,7 @@ no: 4
 date: 2014-11-12
 location: Tao Tong, Koh Tao
 objective: OWTD 4
-conditions: 30℃ 10mViz
+conditions: 30℃ 10 m viz
 timein: 10:07
 timeout: 10:48
 depth: 10m
@@ -542,7 +542,7 @@ name: qinx2.jpg
 dir: privacy
 ```
 
-After class, we often ate at the restaurant attached to the dive shop or at Praness's Kitchen, especially since Praness's Kitchen had a nicer atmosphere.
+After class, we often ate at the restaurant attached to the dive shop or at Praness's Kitchen, which had a nicer atmosphere.
 
 ```<a-img>
 name: kohtao1.jpg
@@ -596,7 +596,7 @@ name: TheBeach
 
 > The room is in darkness. Moonlight penetrates the threadbare curtain. The bed is surrounded by a mosquito net. Just visible through the net is the outline of two human forms entwined.
 
-The house stood perched atop a cliff, facing the vast expanse of the ocean. Constructed from bamboo, it consisted of a single room and a spacious veranda, with walls woven from the same material that allowed glimpses of the outside world through its many gaps. Inside, there was a large bed, draped in mosquito netting, reminiscent of the one depicted in the film "The Beach."
+The house stood perched atop a cliff, facing the vast expanse of the ocean. Constructed from bamboo, it consisted of a single room and a spacious veranda, with walls woven from the same material that allowed glimpses of the outside world through its many gaps. Inside, there was a large bed, draped in mosquito netting, reminiscent of the one depicted in the film *The Beach*.
 
 Behind the house stretched a large courtyard enclosed by stone walls, featuring a washbasin and an open-air toilet.
 
@@ -608,6 +608,6 @@ In retrospect, I wonder what compelled me to traverse half of Koh Tao, from one 
 
 ## Bangkok
 
-<a-hotel name="48 ville" date="2014-11-2" nights="1"></a-hotel>
+<a-hotel name="48 ville" date="2014-11-13" nights="1"></a-hotel>
 
 <a-flight flight="FD552" departure="DMK" destination="CKG" departure-time="2014-11-14 14:55" arrive-time="2014-11-14 19:05"></a-flight>

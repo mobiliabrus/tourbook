@@ -101,7 +101,7 @@ name: rabanrata
 dir: animation
 ```
 
-Dinner was served at the Panalaban Restaurant within the complex. Laban Rata itself was a sprawling mountain lodge accommodating climbers from all over. It was here, amidst the bustling dining hall, that I met Ailin and her boyfriend. To my astonishment, she revealed she was originally from Chongqing, China, though she now resided in Hong Kong with her partner. Having communicated exclusively in English up until that point, neither of us had realized we shared the same hometown. The moment we switched to our native dialect, the distance between strangers instantly vanished.
+Dinner was served at the Panalaban Restaurant within the complex. Laban Rata itself was a sprawling mountain lodge accommodating climbers from all over. It was here, amidst the bustling dining hall, that I met Ailin and her boyfriend. To my astonishment, she revealed she was originally from Chongqing, though she now resided in Hong Kong with her partner. Having communicated exclusively in English up until that point, neither of us had realized we shared the same hometown. The moment we switched to our native dialect, the distance between strangers instantly vanished.
 
 During the meal, a humorous incident occurred involving yet another group of six hikers, this time consisting entirely of Malaysian Chinese. As I walked through the restaurant, clutching my OnePlus 3 with its distinctive red charging cable dangling from it, I bumped into one of the men from this group whom I had briefly exchanged greetings with earlier. He glanced at my phone and the cable, a look of confusion crossing his face, seemingly wondering if I had mistakenly picked up his charger.
 
@@ -121,7 +121,7 @@ _So close, yet so far._
 - 00:29 Moon Set
 - 02:00 Early Supper - Panalaban
 - 2.5KM(825M) to Low's Peak (4095.2M)
-- early than 06:13 Sunrise
+- earlier than 06:13 Sunrise
 - Breakfast at Laban Rata Restaurant – Panalaban
 - descent
 - Lunch at Balsam Café – Kinabalu Park
@@ -189,7 +189,7 @@ Scheduled boat transfer from Semporna to Rig at 1230hrs
 
 ```<a-divelog>
 no: 36
-date: 2017-4-6
+date: 2017-04-06
 location: Mabul
 objective: Check Dive
 conditions: 28℃
@@ -201,7 +201,7 @@ comment: Avg 14.3, 5kg Weight
 
 ```<a-divelog>
 no: 37
-date: 2017-4-6
+date: 2017-04-06
 location: Seaventures Reef
 objective: FD
 conditions: 28℃
@@ -212,7 +212,7 @@ depth: 17.1
 
 ```<a-divelog>
 no: 38
-date: 2017-4-7
+date: 2017-04-07
 objective: FD
 conditions: 31℃
 timein: 8:24
@@ -223,7 +223,7 @@ comment: Avg 13.7m
 
 ```<a-divelog>
 no: 39
-date: 2017-4-7
+date: 2017-04-07
 objective: FD
 conditions: 28℃
 timein: 10:35
@@ -234,7 +234,7 @@ comment: Avg 13.1m
 
 ```<a-divelog>
 no: 40
-date: 2017-4-7
+date: 2017-04-07
 objective: FD
 conditions: 29℃
 timein: 14:08
@@ -243,9 +243,9 @@ depth: 18
 comment: Avg 12.2m
 ```
 
-Paradise but not Sipadan, located just off shore Mabul Island. Minutes away from the Rig, the dive site is made up of artificial house reef where old dive boats were sunk, man-made structure such as pyramids and crates are now home to abundance of marine life. The artificial reef is a collaboration work of resorts within and nearby Mabul.
+Paradise but not Sipadan, located just offshore of Mabul Island. Minutes away from the Rig, the dive site is made up of an artificial house reef where old dive boats were sunk, man-made structures such as pyramids and crates are now home to an abundance of marine life. The artificial reef is a collaboration work of resorts within and nearby Mabul.
 
-It named "Paradise 2".
+It is named "Paradise 2".
 
 ```<a-map>
 points: 118.63344342417173,4.253798859528792,Seaventures Dive Rig|118.68229942787646,4.233858799351027,Kapalai|118.627429,4.11749,Sipadan
@@ -308,7 +308,7 @@ divesites: 118.632327,4.12329,Barracuda Point
 
 ```<a-divelog>
 no: 41
-date: 2017-4-8
+date: 2017-04-08
 objective: FD
 location: Sipadan
 conditions: 28℃
@@ -320,7 +320,7 @@ comment: Avg 11.6m
 
 ```<a-divelog>
 no: 42
-date: 2017-4-8
+date: 2017-04-08
 objective: FD
 location: Sipadan
 conditions: 28℃
@@ -332,7 +332,7 @@ comment: Avg 14.3m
 
 ```<a-divelog>
 no: 43
-date: 2017-4-8
+date: 2017-04-08
 objective: FD
 location: Barracuda Point, Sipadan
 conditions: 29℃
@@ -442,13 +442,13 @@ name: vicky-fish-2
 name: vicky-fish-3
 ```
 
-I found a camera in the sand. I asked around, it belongs to nobody. I danced and hang camera over my head. Later, a guy found me, it's his camera. I asked him to check photos in the camera. "Yes, they are!", These must be his important memories.
+I found a camera in the sand. I asked around, but nobody claimed it. I kept dancing and held the camera over my head. Later, a guy found me—it was his camera. I asked him to check the photos in the camera. "Yes, they are!" These must be his important memories.
 
-Middle night, where the music from the beach party is audible, a couple that we should be danced in the party found me. "It's him...a good guy who found a camera..." The guy told her girlfriend. We took photos, and they should uploaded. Unfortunately, I never found it.
+At midnight, where the music from the beach party was still audible, a couple that we should be danced in the party found me. "It's him... a good guy who found a camera..." The guy told his girlfriend. We took photos, and they were supposed to be uploaded. Unfortunately, I never found it.
 
 Maybe that's fitting. Some moments aren't meant to be kept. They're meant to be lived, then released.
 
-After that I took speed boat back to Koh Samui. It was still early morning. The energy had drained out of me, the music fading into background noise. Maybe it was because I knew no one there. Or maybe it was because she wasn't there. Whatever the reason, the party felt hollow. I was done.
+After that I took a speed boat back to Koh Samui. It was still early morning. The energy had drained out of me, the music fading into background noise. Maybe it was because I knew no one there. Or maybe it was because she wasn't there. Whatever the reason, the party felt hollow. I was done.
 
 ```<a-map>
 points: 100.0639134,9.6742334,Haad Rin Pier|100.0610741,9.5713503,Bangrak Seatran Pier
@@ -564,7 +564,6 @@ route: {"legs":[{"steps":[],"weight":98.69,"summary":"","duration":778.4,"distan
 name: samuis
 ```
 
-<br />
 
 ```<a-img>
 name: bitch2.jpg

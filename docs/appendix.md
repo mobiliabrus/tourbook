@@ -5,8 +5,6 @@ outline: deep
 
 # Unfulfilled Journey
 
-In 2019, a travel plan was formulated but never executed.
-
 ## Pre-trip Preparation
 
 ### Personal Style
