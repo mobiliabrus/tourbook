@@ -12,13 +12,6 @@ title: IV. Lonely Soul
 
 <a-hotel name="Baiyoke Sky Hotel" date="2015-03-31" nights="1"></a-hotel>
 
-```hotel
-
-2015-04-01,1
-```
-
-100.5421587,13.7537798
-
 ```<a-img>
 name: she-1.jpg
 dir: privacy

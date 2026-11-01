@@ -22,7 +22,7 @@ This trip was different from the two before it in one way: I had posted a thread
 
 <a-hotel name="So Hostel" date="2014-11-03" nights="5" points="98.9970986,18.7842285"></a-hotel>
 
-On 3 November, my first day in Chiang Mai, I met two women from the thread. They were not part of the six. We walked around the old town, and I did not see them again.
+My first day in Chiang Mai, I met two girls from the thread. They were not part of the six. We walked around the old town, and I did not see them again.
 
 ```<a-img>
 name: balake.jpg
@@ -38,7 +38,7 @@ dir: privacy
 
 We were staying at different hostels, so on the morning of 4 November the driver had to pick us up one by one. He started at the far end of the city, on Nimmanhaeminda Road, where the first two were already waiting. Then he came back into the old town for me. Two more joined at A Little Bird. The last one we picked up at the roadside, by Chang Phuak Gate.
 
-The engine started and the city went behind us. The road began to climb north. The day before had been sightseeing; this was the part I had posted the thread for.
+The engine started and the city went behind us. Halfway there we turned off the main road onto a small one that began to climb north, with trees on both sides. It was a completely new experience.
 
 <a-hotel name="Rabeang Pasak Treehouse Resort" date="2014-11-04" nights="1"></a-hotel>
 
@@ -49,9 +49,7 @@ route: {"legs":[{"steps":[],"weight":2866.4,"summary":"","duration":2865.9,"dist
 
 <a-carousel :img="[{name:'tree-house-me'},{name:'treehouse-1'}]"></a-carousel>
 
-We booked three treehouses — Tamarind House, Moon House, and Rimtarn House. Moon House was the largest, with a big open platform and a small sleeping hut on the third floor. It was open and comfortable, so we spent the days there. Rimtarn House was a small hut by the stream; Sheyao and her friend slept there. Tamarind House was the tallest and the oldest of the three. You climbed stairs to the top of the tree, and the shower and the toilet were up there too. The room was very small, with one bunk bed. I slept there. The other three women made do in the hut of Moon House.
-
-But Tamarind House was really high, and really plain. Alone up there I was scared. In the end I carried my quilt down and slept one night on the platform of Moon House.
+We booked three treehouses — Tamarind House, Moon House, and Rimtarn House. Moon House was the largest, with a big open platform and a small sleeping hut on the third floor. It was open and comfortable, so we spent the days there. Rimtarn House was a small hut by the stream; Sheyao and her friend slept there. Tamarind House was the tallest and the oldest of the three. You climbed stairs to the top of the tree, and the shower and the toilet were up there too.
 
 ```<a-img>
 name: she-1
@@ -72,12 +70,12 @@ name: treehouse-2.jpg
 dir: privacy
 ```
 
+Sheyao was not feeling well and went back to her room to rest. So I did as I had promised and took photos of Yun'er. She was from Guangdong, pretty and gentle, and I introduced her to the other girls.
+
 ```<a-img>
-name: treehouse-7.jpg
+name: yuner0.jpg
 dir: privacy
 ```
-
-We only stayed one day. I took a lot of photos with Yun'er, and the six of us walked around the area for a while. The time was short and there was nothing much to do, but it felt good.
 
 ```<a-img>
 name: yunt1.jpg
@@ -98,11 +96,66 @@ name: yunt4
 ```
 
 ```<a-img>
+name: treehouse-7.jpg
+dir: privacy
+```
+
+```<a-img>
+name: treehouse-8.jpg
+dir: privacy
+```
+
+```<a-img>
+name: yuner7.jpg
+dir: privacy
+```
+
+```<a-img>
+name: yuner5.jpg
+dir: privacy
+```
+
+```<a-img>
+name: yuner6.jpg
+dir: privacy
+```
+
+```<a-img>
+name: treehouse-9.jpg
+dir: privacy
+```
+
+```<a-img>
 name: treehouse-11
 ```
 
 ```<a-img>
+name: treehouse-10.jpg
+dir: privacy
+```
+
+```<a-img>
+name: yuner2.jpg
+dir: privacy
+```
+
+```<a-img>
+name: yuner3.jpg
+dir: privacy
+```
+
+```<a-img>
+name: yuner4.jpg
+dir: privacy
+```
+
+```<a-img>
 name: treehouse-12.jpg
+dir: privacy
+```
+
+```<a-img>
+name: yuner1.jpg
 dir: privacy
 ```
 
@@ -120,29 +173,23 @@ dir: privacy
 name: treehouse-15
 ```
 
-<a-carousel :img="[{name:'treehouse-yuner'},{name:'treehouse-16'}]"></a-carousel>
-
 ```<a-img>
-name: treehouse-8.jpg
-dir: privacy
+name: treehouse-yuner
 ```
 
 ```<a-img>
-name: treehouse-9.jpg
-dir: privacy
+name: treehouse-16
 ```
 
-```<a-img>
-name: treehouse-10.jpg
-dir: privacy
-```
-
-```secret
-2920eedff78d53ae0b4d6058bc9d877879aef23b5fdd440f4d80968dcb9e8eb868516f3ae045c663963c2a8b900798c25ae142fae5
-```
+Later in the day we went out for a walk. We had not gone far when we saw chickens standing high up in the trees. We were city people; we had never seen anything like it. Then we explored a small path, and a little black dog appeared out of nowhere. It walked ahead and showed us the way, and stopped to look back at us whenever we fell behind. We called it the god dog. It led us to a viewpoint, and from there you could see a long way.
 
 ```<a-img>
 name: treehouse-17.jpg
+dir: privacy
+```
+
+```<a-img>
+name: doggy.jpg
 dir: privacy
 ```
 
@@ -181,6 +228,14 @@ name: treehouse-19
 
 <a-carousel :img="[{name:'treehouse-23.jpg',dir:'privacy'},{name:'treehouse-4.jpg',dir:'privacy'},{name:'treehouse-5.jpg',dir:'privacy'}]"></a-carousel>
 
+After that we took another path, down into the basin below the viewpoint.
+
+```<a-map>
+points: 99.124138,18.983908,Rabeang Pasak Treehouse Resort|99.11609819407542,18.982546545449992,-
+route: {"legs":[{"steps":[],"weight":234.15,"summary":"","duration":1760.8,"distance":2201.2}],"weight_name":"routability","geometry":{"coordinates":[[99.123797,18.983925],[99.12389,18.983344],[99.124182,18.9825],[99.124285,18.981355],[99.124551,18.980292],[99.124963,18.979521],[99.125049,18.978466],[99.12528,18.977995],[99.124379,18.976867],[99.124104,18.976315],[99.123555,18.975859],[99.12325,18.975908],[99.12262,18.975795],[99.122131,18.976136],[99.121654,18.976344],[99.12131,18.97644],[99.120924,18.976395],[99.120516,18.97645],[99.119497,18.977024],[99.119122,18.977526],[99.118676,18.977922],[99.118312,18.978454],[99.11758,18.978988],[99.116915,18.979632],[99.116547,18.980504],[99.116625,18.981585],[99.116122,18.982559]],"type":"LineString"},"weight":234.15,"duration":1760.8,"distance":2201.2}
+theme: topo-v2
+```
+
 ```<a-img>
 name: treehouse-24.jpg
 dir: privacy
@@ -191,13 +246,15 @@ name: treehouse-25.jpg
 dir: privacy
 ```
 
-```<a-img>
-name: treehouse-22.jpg
-dir: privacy
-```
+Then we went back to the resort for a big dinner.
 
 ```<a-img>
 name: treehouseme
+```
+
+```<a-img>
+name: treehouse-22.jpg
+dir: privacy
 ```
 
 ```<a-img>
@@ -210,10 +267,16 @@ name: treehouse-3.jpg
 dir: privacy
 ```
 
+After dinner we went back to the platform and talked about everything. It was late before we each went to our room.
+
 ```<a-img>
 name: treehouse-27.jpg
 dir: privacy
 ```
+
+The room in Tamarind House was very small, with one bunk bed. It was mine for the night. The other three women made do in the hut of Moon House.
+
+But Tamarind House was really high, and really plain. Alone up there I was scared. In the end I carried my quilt down and slept on the platform of Moon House.
 
 ## Swimming Pool
 
@@ -253,6 +316,16 @@ dir: privacy
 ```
 
 ```<a-img>
+name: oldtown1.jpg
+dir: privacy
+```
+
+```<a-img>
+name: oldtown2.jpg
+dir: privacy
+```
+
+```<a-img>
 name: oldcity-3.jpg
 dir: privacy
 ```
@@ -262,23 +335,20 @@ name: dinger2.jpg
 dir: privacy
 ```
 
-```<a-img>
-name: ll.jpg
-dir: privacy
-```
+That afternoon, we went for a spa treatment.
 
 ```<a-img>
 name: oldcity-4
 ```
 
-## Loy Krathong
-
-That afternoon, we went for a spa treatment, and by the time it concluded, the popular Water Lantern Festival had already begun, so we joined in the festivities.
-
 ```<a-img>
 name: spa.jpg
 dir: privacy
 ```
+
+## Loy Krathong
+
+By the time we finished, the Water Lantern Festival had already begun, so we joined in.
 
 ```<a-img>
 name: chiangmai-qin.jpg
@@ -301,13 +371,18 @@ name: deng
 
 ## Farewell
 
-Yun'er was from Guangdong. She was pretty and gentle, and I introduced her to the other girls as well. On the morning of 7 November she was leaving Chiang Mai, and I insisted on seeing her off. We went to the airport early and ate McDonald's there. Then I saw her onto the plane.
+On the morning of 7 November Yun'er was leaving Chiang Mai, and I insisted on seeing her off. We went to the airport early and ate McDonald's there. Then I saw her onto the plane.
 
 We met for the first time on this trip, and for the last. I took a songthaew back to the city alone.
 
 ## Accident
 
-Later that day Sheyao, her friend and I went to Chiang Mai University, but we could not get in. So we went to the old town and rode bicycles. Then her friend had an accident.
+Later that day Sheyao, her friend and I went to Chiang Mai University, but we could not get in.
+
+```<a-map>
+points: 98.9660400,18.7979829,Baan Thai Apartment|98.9547589,18.8083025,Chiang Mai University
+route: {"legs":[{"steps":[],"weight":143.1,"summary":"","duration":143.1,"distance":2047}],"weight_name":"routability","geometry":{"coordinates":[[98.966012,18.797801],[98.966534,18.797729],[98.967612,18.80062],[98.967771,18.801202],[98.967685,18.801386],[98.954757,18.808299]],"type":"LineString"},"weight":143.1,"duration":143.1,"distance":2047}
+```
 
 ```<a-img>
 name: chiang-1.jpg
@@ -316,19 +391,9 @@ dir: privacy
 
 <a-gallery :img="[{name:'chiang-2.jpg',dir:'privacy'},{name:'chiang-3.jpg',dir:'privacy'}]"></a-gallery>
 
-```<a-map>
-points: 98.9660400,18.7979829,Baan Thai Apartment|98.9547589,18.8083025,Chiang Mai University
-route: {"legs":[{"steps":[],"weight":143.1,"summary":"","duration":143.1,"distance":2047}],"weight_name":"routability","geometry":{"coordinates":[[98.966012,18.797801],[98.966534,18.797729],[98.967612,18.80062],[98.967771,18.801202],[98.967685,18.801386],[98.954757,18.808299]],"type":"LineString"},"weight":143.1,"duration":143.1,"distance":2047}
-```
+So we went to the old town and rode bicycles. Then her friend had an accident. We took her to hospital for a check-up, and luckily it was nothing serious. Sheyao had originally planned to come with us to Koh Tao to learn diving, but between the accident and a friend's invitation, she decided not to come this time.
 
 ## Khao San Road
-
-Sheyao had originally planned to come with us to Koh Tao to learn diving, but had to change her itinerary due to a friend visiting Chiang Mai.
-
-```<a-img>
-name: she-mountain.jpg
-dir: privacy
-```
 
 <a-flight flight="FD3446" departure="CNX" destination="DMK" departure-time="2014-11-08 09:30" arrive-time="2014-11-08 10:50"></a-flight>
 
@@ -354,11 +419,11 @@ name: qinx1.jpg
 dir: privacy
 ```
 
-We eventually got on the boat, and the sea was very rough; it felt like we were surfing as the boat rose and fell with the waves, dropping suddenly each time. Half of the passengers on board ended up seasick and vomiting. I couldn’t vomit though, which left me feeling miserable with nausea. Qin, however, was fine. I only felt better after forcing myself to sleep for a while; when I woke up, we could already see Koh Tao.
+We eventually got on the boat, and the sea was very rough; it felt like we were surfing as the boat rose and fell with the waves, dropping suddenly each time. Half of the passengers on board ended up seasick and vomiting. I couldn’t vomit though, which left me feeling miserable with nausea. My friend, however, was fine. I only felt better after forcing myself to sleep for a while; when I woke up, we could already see Koh Tao.
 
 ## Crystal Dive
 
-When we first arrived on the island, it would often rain, and the ground was crawling with millipedes as thick as thumbs. The diving shop provided free accommodation, but Qin wasn’t satisfied with it and rented another room elsewhere. I, on the other hand, made do with what was provided.
+When we first arrived on the island, it would often rain, and the ground was crawling with millipedes as thick as thumbs. The diving shop provided free accommodation, but my friend wasn’t satisfied with it and rented another room elsewhere. I, on the other hand, made do with what was provided.
 
 ```<a-img>
 name: crystal-desk
@@ -379,20 +444,17 @@ dir: privacy
 
 There was a girl among the trainees who I found very agreeable, so I asked her out for dinner. However, she already had plans with another guy, so the three of us went together. We went to an Italian restaurant where I ordered pizza and an additional dish to share with everyone. But this turned out to be unnecessary; in their culture, they don’t share food and didn’t partake in it. Their conversation mostly revolved around European landmarks they had visited, which left me unable to contribute much to the discussion.
 
-Later, when Qin finished her course, I took the opportunity to leave as well.
+Later, when my friend finished her course, I took the opportunity to leave as well.
 
 ```<a-img>
 name: crystal-students
+alt: Crystal Dive Koh Tao with Nick Button, James Tomlinson, Vincent Teschel, Brittany Kalenderian, Tina Major and others.
 ```
-
-Crystal Dive Koh Tao with Nick Button, James Tomlinson, Vincent Teschel, Brittany Kalenderian, Tina Major and others
 
 ```<a-img>
 name: crystalqin.jpg
 dir: privacy
 ```
-
-Qin and her dive instructor
 
 ```<a-map>
 points: 99.825093,10.085696,Crystal Dive Resort
@@ -480,7 +542,7 @@ name: qinx2.jpg
 dir: privacy
 ```
 
-After class, Qin and I often ate at the restaurant attached to the dive shop or at Praness's Kitchen, especially since Praness's Kitchen had a nicer atmosphere.
+After class, we often ate at the restaurant attached to the dive shop or at Praness's Kitchen, especially since Praness's Kitchen had a nicer atmosphere.
 
 ```<a-img>
 name: kohtao1.jpg
@@ -514,7 +576,12 @@ name: kohtaosunset
 
 ## Moondance
 
-I had originally planned to go to this cliff house with her, but now I have to muster the courage to go alone. Qin was also left behind.
+I had originally planned to go to this cliff house with a girl, but now I had to muster the courage to go alone.
+
+```<a-img>
+name: she-mountain.jpg
+dir: privacy
+```
 
 <a-hotel name="Moondance Magicview Bungalow" date="2014-11-12" nights="1"></a-hotel>
 
@@ -527,11 +594,7 @@ theme: topo-v2
 name: TheBeach
 ```
 
-_The room is in darkness. Moonlight penetrates the threadbare curtain. The bed is surrounded by a mosquito net._
-
-_Just visible through the net is the outline of two human forms entwined._
-
-_#THE Beach#_
+> The room is in darkness. Moonlight penetrates the threadbare curtain. The bed is surrounded by a mosquito net. Just visible through the net is the outline of two human forms entwined.
 
 The house stood perched atop a cliff, facing the vast expanse of the ocean. Constructed from bamboo, it consisted of a single room and a spacious veranda, with walls woven from the same material that allowed glimpses of the outside world through its many gaps. Inside, there was a large bed, draped in mosquito netting, reminiscent of the one depicted in the film "The Beach."
 
