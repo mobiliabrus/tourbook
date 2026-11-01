@@ -106,6 +106,22 @@ the decode script is missing — so this content is **not readable** here.
 - These are real people. Do not quote, summarize, or paraphrase private stories
   into public chapters, and never suggest making them public.
 
+### Asking before access
+
+Consent is per request, not per project. A go-ahead given in an earlier session
+does not carry over — ask again even if the same file was read before.
+
+1. Stop before reading. Do not open the body to decide whether it is relevant.
+2. Name every file the task needs and ask once for all of them:
+   "This is confidential content. May I access `<filename>`?"
+3. Wait for an explicit yes. Silence, or an answer about something else, is not
+   consent. Read only the files named, not their siblings.
+4. If the author declines, stop that line of work. Do not re-ask, and do not
+   route around the refusal by inferring the content from elsewhere.
+
+If a confidential body is read without consent, say so immediately, stop using
+that content, and wait for the author's instruction.
+
 ## Writing conventions
 
 ### Voice
