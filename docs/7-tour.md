@@ -128,7 +128,7 @@ _So close, yet so far._
 
 To reach Low's Peak at 4,095.2 meters, one had to wake up at 3 am, eat a snack, and set off. A long line of people snaked its way up the mountain, illuminated only by faint headlamps, stretching far into the distance.
 
-Halfway through, I suddenly heard a voice saying, "Jiawei, we're not going any further; you keep going." It was pitch black, so I couldn't see who it was, but it must have been Ailin's voice. The path ahead was too difficult, so she and her boyfriend decided not to continue.
+Halfway through, I suddenly heard a voice call my name: "We're not going any further; you keep going." It was pitch black, so I couldn't see who it was, but it must have been Ailin's voice. The path ahead was too difficult, so she and her boyfriend decided not to continue.
 
 All I remember about the next section was having to use both hands to grip the rope and push myself up with my feet. After that, there was another long uphill stretch, which was extremely tiring.
 
