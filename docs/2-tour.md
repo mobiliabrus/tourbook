@@ -261,13 +261,13 @@ As I gazed up at the rig, I couldn't help but wonder how intriguing it must be t
 name: mabul-2
 ```
 
-Upon arriving at Kapalai, a resort renowned for its crystalline waters and stilt villas built entirely over the sea, we immediately donned our snorkeling gear. The three girls from Guangdong and I ventured further out than the rest, swimming until we reached the most distant water villa on the edge of the reef. The scenery was breathtaking, but our isolation soon became a concern.
+Upon arriving at Kapalai, a resort renowned for its crystalline waters and stilt villas built entirely over the sea, we immediately donned our snorkeling gear. The three girls from Guangdong and I ventured further out than the rest, swimming until we reached the most distant water villa on the edge of the reef.
 
 <a-gallery :img="[{name:'kapalai-1'},{name:'kapalai-2'},{name:'kapalai-3'}]"></a-gallery>
 
-Suddenly, urgent shouts from the crew pierced the air, signaling all snorkelers to return to the boat immediately. I scanned the surface and realized Butterfly was the furthest away, struggling against a strengthening current. Without hesitation, I swam to her side, grasped her hand firmly, and rolled onto my back. Adopting a steady backstroke, I began to pull us both towards the boat.
+The crew called everyone back to the boat. I looked around. Butterfly was the furthest out. There was a little current. I swam to her, took her hand, and rolled onto my back.
 
-It was a wondrous and intimate sensation. As I stroked upward with rhythmic effort, keeping us afloat, Butterfly clung to my hand, her gaze fixed downward like a timid child mesmerized by the ocean floor below. In that moment, with the vast sea surrounding us and our hands tightly linked, a subtle, unspoken current of affection flowed between us. We parted ways that day, never to meet again in person, but the existence of this ambiguous connection was confirmed in the weeks that followed through late-night online conversations that stretched into early morning.
+Butterfly held my hand. We were both a little shy. I told her to keep looking at the water below, and I swam hard for the boat. We parted ways that day, never to meet again in person.
 
 
 ## Pulau Mabul

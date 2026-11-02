@@ -114,6 +114,6 @@ dir: privacy
 
 <a-carousel :img="[{name:'gb2.jpg',dir:'privacy'},{name:'gb3.jpg',dir:'privacy'}]"></a-carousel>
 
-Inspired by the island's moments and characters, I resolved shortly after this trip to take the plunge and purchase my first camera.
+After this trip, I made up my mind to purchase my first DSLR camera.
 
 <a-secret name="zwd" autoload></a-secret>

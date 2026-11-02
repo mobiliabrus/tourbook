@@ -111,7 +111,7 @@ dir: privacy
 
 Having returned from Gulangyu a mere days before, I received another invitation to travel to Western Sichuan. Although travel had recently become a frequent occurrence for me, I accepted the offer.
 
-My plan was to fly directly to Shangri-La, then retrace my route along National Highway 318. The itinerary included stops at Daocheng Yading along the way, with the ultimate destination being Minya Kongka.
+My plan was to fly directly to Shangri-La, then follow National Highway 318. The itinerary included stops at Daocheng Yading along the way, with the ultimate destination being Minya Kongka.
 
 ```<a-flight>
 flight: CZ8129

@@ -330,8 +330,6 @@ They were reaching the climax of their activity.
 That's OK, they are on holiday.
 Instead of recording it, I turned on the air conditioning and television. I really enjoyed a moment of "silence".
 
-Along this journey, loneliness had been my constant companion, whispering doubts into my ear at every turn. But now, standing at the end of it all, I felt something else—a strange sense of release. Let them have their moment. Let me have mine. Just leave it be.
-
 ```<a-img>
 name: a1
 ```
