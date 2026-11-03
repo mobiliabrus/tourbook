@@ -129,12 +129,15 @@ const CAPS = [
 // Re-frozen 2026-11-03 when the P class (manufactured retrospection) entered CONS_HARD: 1-tour
 // hard 1→2, 2-tour 5→7, tell counts unchanged. A ratchet may only move on a reviewed change to
 // the detector or an approved fix — never to make a red gate green.
+// Moved again 2026-11-03 after the A/B/C batches: episode-2 tell 1→0 and 1-tour 6→2 (author's
+// picks applied to 7 passages), then 1-tour 2→0 and 2-tour 31→29 / 7→6 as `style-keeps.json`
+// began excluding lines the author chose to keep.
 const BASELINE = {
   'index.md': { tell: 1, hard: 0, wps: 10.1 },
   'episode-1.md': { tell: 1, hard: 0, wps: 17.1 },
-  'episode-2.md': { tell: 1, hard: 0, wps: 17.2 },
-  '1-tour.md': { tell: 6, hard: 2, wps: 13.7 },
-  '2-tour.md': { tell: 31, hard: 7, wps: 16.6 },
+  'episode-2.md': { tell: 0, hard: 0, wps: 17.2 },
+  '1-tour.md': { tell: 0, hard: 1, wps: 13.7 },
+  '2-tour.md': { tell: 29, hard: 5, wps: 16.6 },
   '3-tour.md': { tell: 0, hard: 0, wps: 13.6 },
   '4-tour.md': { tell: 2, hard: 0, wps: 16.1 },
   '5-tour.md': { tell: 0, hard: 0, wps: 13.8 },
@@ -397,11 +400,29 @@ if (process.argv.includes('--attested')) {
 
 const all = [];
 const missing = [];
+// Author keeps: lines the author has chosen to keep after seeing the flagged item. They are
+// not open breaches — a future pass must not "fix" them, and the ratchet must not hold them
+// against the book. Matched by the start of the line, because line numbers move as prose is
+// restored. A keep whose anchor matches nothing is reported, not silently dropped.
+const KEEPS = existsSync(join(ROOT, 'scripts', 'style-keeps.json'))
+  ? JSON.parse(readFileSync(join(ROOT, 'scripts', 'style-keeps.json'), 'utf8')) : [];
+const keepHits = new Set();
 for (const f of FILES) {
   const p = join(ROOT, 'docs', f);
-  if (existsSync(p)) all.push({ f, m: measure(proseLines(readFileSync(p, 'utf8'))) });
-  else missing.push(f);
+  if (!existsSync(p)) { missing.push(f); continue; }
+  const lines = proseLines(readFileSync(p, 'utf8'));
+  // A keep is "placed" when its anchor matches a prose line — even if that line carries no
+  // tier-1 hit (a rate item like `upon` is kept the same way, and --where has to say so).
+  const keptN = new Set();
+  lines.forEach((l) => KEEPS.forEach((k, i) => {
+    if (k.file === f && l.s.startsWith(k.anchor)) { keptN.add(l.n); keepHits.add(i); }
+  }));
+  const m = measure(lines);
+  m.tell = m.tell.filter((t) => !keptN.has(t.n));
+  m.hard = m.hard.filter((h) => !keptN.has(h.n));
+  all.push({ f, lines, m, keptN });
 }
+const unplaced = KEEPS.filter((k, i) => !keepHits.has(i));
 // Reading nothing is never a pass: an empty extract must fail, not print "OK".
 if (missing.length || all.reduce((n, a) => n + a.m.words, 0) === 0) {
   console.error('FATAL: measured ' + all.length + '/' + FILES.length + ' chapters'
@@ -459,6 +480,29 @@ for (const { f, m } of all) {
 }
 if (caps.some((c) => c.over) && !process.argv.includes('--ratchet-only')) fail++;
 
+// --where: every breach with its real file:line, as JSON. The counts above say a
+// chapter is sick; this says which lines. Rate items are listed only when the whole
+// book is over that cap — at or below his own rate the same word is legal, per line too.
+if (process.argv.includes('--where')) {
+  const out = [];
+  const over = new Set(caps.filter((c) => c.over).map((c) => c.note));
+  for (const { f, lines, m, keptN } of all) {
+    const K = (n) => (keptN.has(n) ? { kept: true } : {});
+    for (const t of m.tell) out.push({ f, line: t.n, cls: 't1-word', tags: t.tags, ...K(t.n) });
+    for (const h of m.hard) out.push({ f, line: h.n, cls: 't1-syntax', tags: h.tags, ...K(h.n) });
+    for (const [re, , note] of CAPS) {
+      if (!over.has(note)) continue;
+      for (const { n, s } of lines) {
+        const hits = s.match(re);
+        if (hits) out.push({ f, line: n, cls: 't2-cap', tags: [note.split(' (')[0]],
+                             times: hits.length, ...K(n) });
+      }
+    }
+  }
+  console.log(JSON.stringify(out));
+  process.exit(0);
+}
+
 if (process.argv.includes('--json')) {
   console.log(JSON.stringify({ fail, bookWords, bookSentences, caps, chapters: rows }, null, 2));
 } else {
@@ -468,6 +512,11 @@ if (process.argv.includes('--json')) {
       ' ' + String(r.wps).padStart(5) + '   ' + (r.over.length ? '⚠ ' + r.over.join(', ') : 'ok'));
   }
   console.log(`\ntier-1 totals: ${rows.reduce((a, r) => a + r.tell, 0)} diction lines, ${rows.reduce((a, r) => a + r.hard, 0)} agency/cleft lines (book: ${bookWords} prose words, ${bookSentences} sentences)`);
+  if (KEEPS.length) {
+    console.log(`author-kept: ${keepHits.size}/${KEEPS.length} rulings applied (scripts/style-keeps.json) —`
+      + ' chosen to stay, excluded from the counts above, and not editable by a style pass');
+    for (const k of unplaced) console.log('  ⚠ keep matches no line: ' + k.file + ' ' + JSON.stringify(k.anchor));
+  }
   console.log('\ntier-2 rates (cap = his own 2023-24 rate):');
   for (const c of caps) console.log(`  ${c.over ? '⚠' : ' '} ${c.note} — ${c.count} uses, ${c.rate}${c.unit} vs cap ${c.cap}`);
   if (fail) {
@@ -478,7 +527,8 @@ if (process.argv.includes('--json')) {
         + ' appeared or increased. This is the mode meant for CI.'
       : '  If the only breach is tier-2 rates, the manuscript is merely still sick —'
         + ' run with --ratchet-only to fail on regressions instead.');
-    console.log('  Line-level list: notes/review/2026-11-style-worklist.md §9/§10; remediation §1-§4.');
+    console.log('  Per line: `--inflation` lists the padded ones here; the tier history and the')
+    console.log('  restore rules live in .qoder/skills/autobiography-editor/style-standard.md.');
     process.exit(1);
   }
   console.log('\nOK — clean.');

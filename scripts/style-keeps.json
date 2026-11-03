@@ -1,0 +1,32 @@
+[
+  {
+    "file": "1-tour.md",
+    "anchor": "The next day, the journey to Chinatown was not without challenges.",
+    "kept": "not without",
+    "ruling": "author picked A at 1-tour.md:65 (2026-11-03, batch 1); fact of the same line corrected separately"
+  },
+  {
+    "file": "1-tour.md",
+    "anchor": "On my first evening in Chiang Mai, I decided to explore the city on foot.",
+    "kept": "vibrant",
+    "ruling": "author picked A at 1-tour.md:162 (2026-11-03, item 8)"
+  },
+  {
+    "file": "2-tour.md",
+    "anchor": "My original plan was straightforward:",
+    "kept": "fate had other plans / circumstance as subject / I was forced to stand",
+    "ruling": "author picked A at 2-tour.md:18-20 (2026-11-03, item 9)"
+  },
+  {
+    "file": "2-tour.md",
+    "anchor": "Two hours later, I finally touched down in Kunming.",
+    "kept": "I was forced to stand / separate tickets rather than a connected itinerary",
+    "ruling": "author picked A at 2-tour.md:20 with :18 (2026-11-03, item 9)"
+  },
+  {
+    "file": "2-tour.md",
+    "anchor": "Upon landing at LCCT in Kuala Lumpur past midnight,",
+    "kept": "upon",
+    "ruling": "author picked A at 2-tour.md:31 (2026-11-03, item 10)"
+  }
+]

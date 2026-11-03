@@ -24,7 +24,9 @@ the full voice and component rules; this skill is the editing procedure.
    Use `timeline-context` if the chronology matters.
 2. Diagnose before editing. Separate **errors** (grammar, spelling, broken
    syntax) from **choices** (register, pacing, imagery). Only errors get fixed
-   silently; choices get raised as questions.
+   silently; choices get raised as questions. Before raising one, check
+   `scripts/style-keeps.json`: a line the author chose to keep is closed for good, and
+   re-proposing it is a defect in the pass, not in the manuscript.
 3. Apply the smallest edit that resolves each error.
 4. After editing `docs/*.md`, run `pnpm check-style`. It must not report a chapter
    above its frozen baseline. If a word you added is flagged, remove it rather than
@@ -83,6 +85,31 @@ fragments, truncated words.
 - Do not touch `<a-*>` component syntax unless it is genuinely broken.
 - Do not reorder, merge, or split sections without asking.
 - Do not read `docs/assets/confidential/*` for context. See `AGENTS.md`.
+
+## Write-as (new prose, or a passage he asks you to draft)
+
+The bans above do not produce his voice; these numbers do (R19, measured from his own 2026-11 edits):
+about **13 words a sentence**, **`I` opening one sentence in four**, **no trailing `, -ing` clause**,
+**no em-dash**, **hedge about 12 times per 100 sentences** (`perhaps`, `maybe`, `seemed`, `rather` —
+he hedges three times as often as the polish batch), one fact per sentence. Never close a paragraph
+with a theme sentence, a reflection or a transition. Plain words, precisely chosen, is the whole ask.
+
+## Working the queue (A/B/C)
+
+`pnpm check-style --where` gives every open breach with its real line; `notes/review/_work/style_units.py`
+clusters them into passages in reading order (regenerated scratch, gitignored). Serve one passage at a
+time, three options, each shown in **full text** — he cannot choose from a summary:
+
+- **A** the passage as it stands.
+- **B** zero creation: repair only the flagged item, or restore his antecedent **whole** (R16 — all of
+  his merged paragraphs, tense shifted to the chapter's, spelling and articles fixed, nothing else).
+- **C** his facts rebuilt to the Write-as numbers. Say plainly when B is unavailable because no
+  antecedent of his exists for that passage — and prove it by searching the whole chapter (word form
+  **or** stem) first: most of chapter II's KL paragraphs looked invention-free until the 2024 layer
+  was read in order, where four of five served paragraphs turned out to be his.
+
+Record every answer in `scripts/style-keeps.json` (A) or apply it to `docs/` (B/C) in the same turn,
+then re-run the gate and move the baseline down. Never serve a line he has already answered.
 
 ## Guarding the dual gaze
 

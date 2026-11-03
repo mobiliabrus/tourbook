@@ -59,7 +59,7 @@ route: {"legs":[{"steps":[],"weight":532.6,"summary":"","duration":517.2,"distan
 
 I rested for a night at Leidongping, where snow had already blanketed the ground. It was there that I realized I had made a critical error: I had forgotten the quick-release plate for my tripod, and no replacement was available in the vicinity.
 
-Despite this significant setback, I woke before dawn the next day and took the cable car to the summit, where I intended to stay throughout the day. As darkness fell and snow began to swirl again, I initially planned to camp in my tent. However, upon inspection, the designated area turned out to be nothing more than a makeshift changing room. With absolutely no camping experience under my belt, I inevitably opted for a hotel room instead.
+Despite this setback, I woke before dawn and took the cable car to the summit. I meant to stay there the whole day. Darkness fell and the snow started again. I had planned to camp in my tent, but the site turned out to be nothing more than a makeshift changing room. I had zero camping experience, so I checked into a hotel instead.
 
 My alarm chimed at 3:00 AM. Stepping outside, I found the ground glazed with a pristine layer of ice, unmarked by a single footprint. I located an ideal vantage point and set up my tripod. Yet, without the quick-release plate, I could not securely mount my camera. Resigned to the situation, I had to hold the heavy equipment manually throughout the entire shoot. In the biting cold of double-digit sub-zero temperatures, the wind stung my face like needles. I could only endure by constantly shifting my stance to shield myself from the gale, my hands numb but determined.
 

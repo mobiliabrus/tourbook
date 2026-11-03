@@ -1,4 +1,4 @@
-# Style standard — evidence and rules R1–R17
+# Style standard — evidence and rules R1–R19
 
 Loaded on demand when editing the memoir's English prose. `AGENTS.md` carries the short version;
 `scripts/check-style.mjs` is the executable form of the word lists, rate caps and construction
@@ -143,8 +143,23 @@ failing to match: three such accusations were made this session and all three we
 cover the same content, the newer layer wins; a de-merge must not reintroduce phrasing he had
 already revised away.
 
-## Frozen, not decided
+**R18 — An author keep is permanent, and it is per line.** When the author answers "leave it" (option
+A), the line goes into `scripts/style-keeps.json` keyed by its opening words, because line numbers
+move as prose is restored. The gate then excludes it from the counts, prints it as
+`author-kept: n/N rulings applied`, and warns if an anchor matches no line — a keep that silently
+stops matching is a lost decision. `vibrant` kept at `1-tour.md:162` does not make `vibrant` legal on
+any other line, and a keep is never a reason to widen a tier.
 
+**R19 — The profile is used forward, not only as a ban.** Prohibition lists alone do not produce his
+voice: measured against his own 2026-11 edits, new prose should run about **13 words a sentence**,
+open sentences with `I` about **once every four** (his live edits: 23.5 per 100), use **no trailing
+`, -ing` clauses**, **no em-dash**, and hedge (`perhaps`, `maybe`, `seemed`, `rather`) about
+**12 times per 100 sentences** — he hedges three times as often as the polish batch does, which is
+the difference between "it seemed quiet" and "an oppressive silence descended". One fact per
+sentence. Do not add a closing reflection, a theme sentence or a transition: absence of glue is his
+voice (R15, and `AGENTS.md` § Structure).
+
+## Frozen, not decided
 Closing-reflection lines (`looking back`, `in hindsight`, `reminding me that…`, standalone
 aphorisms) are **frozen**: the gate keeps counting them, so the ratchet still forbids adding new
 ones, but no style pass may edit or delete them, and nothing may be added — the author answered

@@ -207,12 +207,21 @@ Four clauses, in priority order:
 Closing-reflection lines (`looking back`, `in hindsight`, `reminding me that…`) are **frozen**:
 counted by the gate, never edited by a style pass, and not added — the author has not decided them.
 
-Full evidence and rules R1–R17: `.qoder/skills/autobiography-editor/style-standard.md`.
-Commands: `pnpm check-style` (ratchet — counts may only fall), `--inflation` (lists length-inflated
-lines, always exits 0 — it is a reading list, not a gate), `--attested <word>` (is that word his at
-all?), `--guard <rev>` (re-test the tier lists against the hand-typed revisions), `--update-baseline`
-after an approved fix, `--ratchet-only` in CI. A `FATAL` means the tool read nothing: never treat it
-as clean.
+Full evidence and rules R1–R19: `.qoder/skills/autobiography-editor/style-standard.md`.
+Commands: `pnpm check-style` (ratchet — counts may only fall), `--where` (every breach with its
+real `file:line`, as JSON), `--inflation` (lists length-inflated lines, always exits 0 — it is a
+reading list, not a gate), `--attested <word>` (is that word his at all?), `--guard <rev>` (re-test
+the tier lists against the hand-typed revisions), `--update-baseline` after an approved fix,
+`--ratchet-only` in CI. A `FATAL` means the tool read nothing: never treat it as clean.
+
+**Author keeps** (`scripts/style-keeps.json`): a line the author chose to keep after seeing its
+flagged item is recorded there by its opening words, is excluded from the gate's counts, and must
+never be edited by a later pass. A keep is per line — it does not legalise the word elsewhere.
+**Writing new prose** (R19): about 13 words a sentence, `I` opening roughly one sentence in four, no
+trailing `, -ing`, no em-dash, hedging (`perhaps`, `maybe`, `seemed`) about 12 times per 100
+sentences, one fact per sentence, and no closing reflection or theme sentence to round a paragraph
+off. The remediation runs as A/B/C passages in reading order — A as it stands, B zero-creation
+(minimal repair, or his antecedent restored whole per R16), C his facts rebuilt to that profile.
 
 ### Known state issues
 

@@ -10,25 +10,25 @@ title: I. Long, Solitary Tour
 
 <a-flight flight="FD2557" departure="CKG" departure-time="2013-10-08 11:10" destination="DMK" arrive-time="2013-10-08 13:20"></a-flight>
 
-Having secured my visa, I deliberately chose not to tuck any money into my passport as some online guides suggested; I believed such practices should not be encouraged. The initial customs check proceeded smoothly, and I finally set foot in Bangkok. Following the guidebook's advice, I located an ATM on the second floor to withdraw some Thai Baht.
+I secured my visa. I deliberately chose not to tuck any money into my passport, as some online guides suggested; I believed such practices should not be encouraged. The first customs check went smoothly and I finally set foot in Bangkok. The guidebook said to find an ATM on the second floor, so I went there and withdrew some Thai Baht.
 
 ## Don Mueang
 
-As the doors of A6 Gate opened, a wall of heat instantly enveloped me. Navigating through the humid air, I found the A1 bus stop. The bus pulled up, turning right, while I boarded from the left. I rode to Mo Chit, then transferred to the BTS to the hostel.
+The doors of A6 Gate opened and a wall of heat enveloped me. I found the A1 bus stop. The bus turned right, so I boarded from the left. I took the A1 to Mo Chit, then the BTS to the hostel.
 
 <a-map points="100.60039043426515,13.917301445032487,A1 Bus|100.5545711,13.802285,Mo Chit" route='{"legs":[{"steps":[],"weight":863,"summary":"","duration":775,"distance":14117.8}],"weight_name":"routability","geometry":{"coordinates":[[100.600384,13.917308],[100.55846,13.841454],[100.557303,13.834878],[100.559839,13.811459],[100.554462,13.802345]],"type":"LineString"},"weight":863,"duration":775,"distance":14117.8}'></a-map>
 
 ## First Day
 
-On that first day, I was overwhelmed by Foreign Language Anxiety and completely avoided speaking to anyone. It was not until the second day that this anxiety began to subside. The city presented a somewhat dilapidated appearance, with numerous street vendors pushing carts along the roadsides. White-collar workers commuted on "motos," a local taxi service where uniformed drivers operate motorcycles, allowing passengers to ride pillion.
+On that first day, Foreign Language Anxiety kept me from speaking to anyone at all. It began to fade on the second day. The city looked run-down, and street vendors pushed carts along the roads. White-collar workers rode "motos": a uniformed driver on a motorcycle, and you rode pillion behind him.
 
-My hostel room felt like a cramped cell. Beyond its window, Bangkok erupted into life at night. Tuk-tuks blared music, and the air buzzed with drunken laughter and heated arguments. Sleep came in fragmented bursts, constantly interrupted by the pandemonium outside. I glanced at my watch; it read midnight. Yet, this city never rested. Its energy pulsed as if it were a living organism.
+My hostel room was a cramped cell. Outside the window Bangkok came alive at night. Tuk-tuks blasted music. Drunk laughter and arguments filled the air. I slept in fits and starts, interrupted by the chaos outside. I checked my watch: midnight. The city never slept, and its energy pulsed like a living thing.
 
-> This is it—Bangkok, good-time city. Gateway to Southeast Asia. Where dollars and Deutschmarks get turned into counterfeit watches and genuine scars.
+> This is it. Bangkok, good-time city. Gateway to Southeast Asia. Where dollars and Deutschmarks get turned into counterfeit watches and genuine scars.
 
 ## Pratunam
 
-The following morning, I relocated to a hotel near Pratunam. Nestled on a bustling street, the hotel overlooked a lively market teeming with activity. A steady stream of people flowed through the narrow lanes, weaving between vendors peddling diverse goods. Maneuvering through this vibrant maze required both patience and agility, as one had to navigate the crowds and find paths amidst the stalls. The dynamic atmosphere was captivating yet slightly overwhelming, perfectly encapsulating the energetic spirit of the area.
+Early the next morning, I moved to a hotel near Pratunam. The hotel was located on a busy street with a market below. There were crowds of people constantly walking by, and the road was filled with vendors selling their wares. You had to navigate through the crowds and gaps in between to get around.
 
 <a-hotel name="Baiyoke Suite Hotel" date="2013-10-09" nights="3" points="100.53985634597014,13.752907383951737"></a-hotel>
 
@@ -62,7 +62,7 @@ In the evening, I visited Cowboy Street, a small red-light district. I had found
 
 ## Chinatown
 
-The next day, the journey to Chinatown was not without challenges. Initially, I took the subway heading to Hua Lamphong but mistakenly alighted at the train station. With no better option, I opted for a motorcycle taxi. Not particularly comfortable on motorcycles, I instinctively placed my hand on the driver's shoulder when we turned corners, which seemed to bother him. Fortunately, the destination was nearby, and we arrived swiftly.
+The next day, the journey to Chinatown was not without challenges. I took the subway to Hua Lamphong, but after leaving the station I headed the wrong way. With no better option, I opted for a motorcycle taxi. Not particularly comfortable on motorcycles, I instinctively placed my hand on the driver's shoulder when we turned corners, which seemed to bother him. Fortunately, the destination was nearby, and we arrived swiftly.
 
 <a-map points="100.5171146,13.7377986,Hua Lamphong|100.5175149,13.7408755,Wrong Way|100.5064562,13.7423625,Chinatown" route='{"legs":[{"steps":[],"weight":42.77,"summary":"","duration":331.3,"distance":414.1},{"steps":[],"weight":186.29,"summary":"","duration":1460.3,"distance":1825.5}],"weight_name":"routability","geometry":{"coordinates":[[100.517163,13.737799],[100.517044,13.737918],[100.516681,13.738043],[100.516959,13.738238],[100.516892,13.73833],[100.517092,13.738483],[100.51752,13.740866],[100.517092,13.738483],[100.516892,13.73833],[100.516959,13.738238],[100.516607,13.738001],[100.516565,13.737839],[100.516365,13.737807],[100.516284,13.737658],[100.515838,13.737699],[100.515449,13.737894],[100.515427,13.73798],[100.515157,13.73806],[100.513404,13.739512],[100.511958,13.739068],[100.511464,13.739425],[100.511182,13.739009],[100.509739,13.739634],[100.509085,13.740122],[100.508858,13.739849],[100.506579,13.741784],[100.506623,13.741854],[100.506213,13.742233],[100.50639,13.742421]],"type":"LineString"},"weight":229.06,"duration":1791.6,"distance":2239.6}'></a-map>
 
@@ -86,11 +86,13 @@ points: 100.548074,13.813143,Mo Chit Bus Station|99.812901,17.014624,Sukhothai B
 route: {"legs":[{"steps":[],"weight":2602.1,"summary":"","duration":2602.1,"distance":47485.2},{"steps":[],"weight":17430.1,"summary":"","duration":17430.1,"distance":395604.5}],"weight_name":"routability","geometry":{"coordinates":[[100.548859,13.812817],[100.580997,13.884553],[100.447577,13.92907],[100.411058,13.918051],[100.415926,13.942552],[100.33468,14.051879],[100.289431,14.116125],[100.291266,14.202002],[100.131432,14.445869],[100.130157,14.541477],[100.155995,14.608122],[100.102156,14.699785],[100.087993,14.785107],[100.118985,14.812377],[100.087606,14.866619],[100.073661,14.996839],[100.152993,15.057775],[100.136111,15.103228],[100.145365,15.171652],[100.092145,15.262597],[100.147288,15.394803],[100.125058,15.506035],[100.114437,16.022489],[100.149705,16.643549],[100.21097,16.79471],[100.213907,16.86351],[100.185618,16.914412],[100.115525,16.957262],[100.014496,16.971676],[99.967319,16.950232],[99.929786,17.007562],[99.888228,17.025795],[99.812949,17.014858]],"type":"LineString"},"weight":20032.2,"duration":20032.2,"distance":443089.7}
 ```
 
-The bus only stopped in the new town, so upon disembarking, I walked directly to a songthaew (shared pickup truck). I asked the driver the fare to the ancient city and attempted to haggle. He simply said, "Okay." The driver took me to a convenience store in the ancient city, but I insisted on going to a nearby hotel. When we arrived, he claimed the place was far and refused any discount, making the whole trip unpleasant.
+The bus only stopped in the new town, so I walked directly to the songthaew after getting off. I asked the driver how much it would cost to go to the ancient city and haggled with him. He just said "okay". The driver took me to a convenience store in the ancient city, where I insisted on going to a hotel nearby. When we arrived, the driver said the place was far and there was no discount, and this made the whole trip unpleasant.
 
-Lost and unable to locate the resort, I spotted only a humble food cart selling skewers. I approached, purchased some, and used the opportunity to ask for directions. The cart owner promptly summoned a man in uniform—it looked like a police uniform to my untrained eye, though later I learned he was actually a school teacher, perhaps wearing some kind of scout leader attire. He kindly offered to guide me, then insisted on driving me to the hotel in his pickup truck. My suspicions were initially raised, but his unwavering enthusiasm left me with no choice but to accept.
+Disembarking, I found myself lost and unable to locate the resort, only spotting a humble food cart selling skewers. I approached and purchased some, using the opportunity to ask for directions. The owner of the cart promptly summoned a uniformed police officer who kindly offered to guide me.
 
-We drove a mere hundred meters forward, turned right for another hundred, and soon arrived at the hotel. To my surprise, he demanded no payment, revealing only that he was a teacher in the area. I then recalled seeing a group of boy scouts traveling in a vehicle earlier—perhaps they were his students.
+As I prepared to depart, the officer insisted on personally driving me to the hotel in his pickup truck. My suspicions were initially raised, but his unwavering enthusiasm left me with no choice but to accept.
+
+We drove a mere hundred meters forward before turning right for another hundred, and soon enough, we arrived at the hotel. To my surprise, he did not demand any payment, simply revealing that he was a teacher in the area. It was then that I recalled seeing a group of boy scouts traveling in a vehicle earlier. Perhaps they were his students.
 
 <a-map :zoom="15" points="99.702936,17.030496,Tourist Information Center|99.706329,17.031670,Baan Rim Klong Resort" route='{"legs":[{"steps":[],"weight":65,"summary":"","duration":65,"distance":536.5}],"weight_name":"routability","geometry":{"coordinates":[[99.702871,17.030497],[99.702891,17.032022],[99.704591,17.031841],[99.706311,17.031568]],"type":"LineString"},"weight":65,"duration":65,"distance":536.5}'></a-map>
 
