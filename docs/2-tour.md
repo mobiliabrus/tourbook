@@ -633,7 +633,7 @@ The next day, Danni departed for Kota Kinabalu.
 
 ## George Town
 
-Having spent several days in Penang, logic dictated that I should have moved on to explore new destinations. However, lacking a pre-planned itinerary and feeling too lethargic to formulate new strategies, I decided to extend my stay at my current hostel, hoping to wait for Isis’s return from Langkawi. Fate, however, had other plans. The owner informed me that the upcoming weekend coincided with a Malaysian national holiday, and every room was fully booked. Consequently, I was forced to vacate. Shortly after my departure, Isis returned, but we missed the chance to reunite.
+Having spent several days in Penang, logic dictated that I should have moved on to explore new destinations. However, lacking a pre-planned itinerary and feeling too lethargic to formulate new strategies, I decided to extend my stay at my current hostel, hoping to wait for Isis’s return from Langkawi. Fate, however, had other plans. The owner informed me that the upcoming weekend coincided with a Malaysian national holiday, and every bed was booked. Consequently, I was forced to vacate. I moved to another guesthouse nearby. Isis came back, but we didn't meet. She left again.
 
 <a-hotel name="Day & Night Guesthouse" date="2014-01-17" nights="2"></a-hotel>
 
