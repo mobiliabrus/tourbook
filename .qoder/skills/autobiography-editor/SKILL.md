@@ -13,14 +13,36 @@ the full voice and component rules; this skill is the editing procedure.
 
 ## Procedure
 
-1. Locate the passage in its chapter. Note which journey and roughly when — this
-   determines what the present-day "I" should already have learned. Use
-   `timeline-context` if the chronology matters.
+1. Locate the passage in its chapter, then **date its wording** before judging it:
+   `git blame -L <line>,<line> --date=short -- docs/<file>`, and read the line's
+   antecedent in `485e963` (2022) / `afcfed4` (2024) under the same section heading —
+   searching the whole chapter, not just that section, because the batch merged his
+   paragraphs (R16). A chapter's prevailing register is **not** a reference: about 60%
+   of the prose lines are the 2026-03/04 polish batch. The reference is what the author
+   chose, which measured out to his own hand-typed wording — see `AGENTS.md`
+   § Style standard and `style-standard.md` in this directory.
+   Use `timeline-context` if the chronology matters.
 2. Diagnose before editing. Separate **errors** (grammar, spelling, broken
    syntax) from **choices** (register, pacing, imagery). Only errors get fixed
    silently; choices get raised as questions.
 3. Apply the smallest edit that resolves each error.
-4. Report in English, using the output sections below.
+4. After editing `docs/*.md`, run `pnpm check-style`. It must not report a chapter
+   above its frozen baseline. If a word you added is flagged, remove it rather than
+   raising the baseline; only the author may lower or restate a baseline number. A run
+   that prints `FATAL` measured nothing — fix the path, do not report clean.
+5. Run `pnpm check-style --inflation` (R11): it lists lines the word gate cannot see —
+   sentences padded with perfectly legal words. Read every line it lists that grew
+   ≥1.7× over the closest same-section line he actually wrote. It exits 0 by design, so
+   **an empty exit code means nothing; the list must be read.** Never lengthen his
+   sentence to improve it, never close a paragraph with a bow.
+6. Before replacing a rate-capped word (R13), run `pnpm check-style --attested <word>`.
+   0 occurrences in his revisions → **REJECT**: a "simpler synonym" he never wrote is
+   new input, not a reduction (R14). 1–2 occurrences → **THIN**: legal where it is his,
+   never allowed to absorb a dozen swaps. Never bulk-replace: the caps are rates, and
+   the same word may be legal in his own lines.
+7. Restore whole antecedent sets (R16/R17), never the best-matching paragraph, and never
+   a 2022 wording his 2024 layer already superseded.
+8. Report in English, using the output sections below.
 
 ## Input
 
@@ -34,8 +56,12 @@ the full voice and component rules; this skill is the editing procedure.
 Grammar: tense consistency (narrative is past tense), subject–verb agreement,
 articles, preposition collocations, sentence fragments, pronoun reference.
 
-Structure: paragraph transitions, logical coherence, topic sentences,
-cause-and-effect, chronological consistency.
+Structure: only *order* problems a reader would trip on. Do not add topic
+sentences, transitions, cause-and-effect glue or "connective tissue" — their absence is
+his voice (`Instead of recording it, I turned on the air conditioning and television.`).
+Do not repair "monotonous simple-sentence chains": short declarative chains are the
+baseline, and his newest edits run 13.2 words/sentence with `I` opening 23.5% of
+sentences.
 
 Chinglish: direct-translation phrasing, L1 interference, missing connectors,
 monotonous simple-sentence chains.
@@ -46,8 +72,10 @@ fragments, truncated words.
 
 ## What NOT to do
 
-- Do not raise the register. TEM-4 vocabulary is the ceiling. If the existing
-  text is already over-polished, say so rather than matching it.
+- Do not raise the register. The ceiling is a **rate**, not a word list: he uses
+  `serendipitous`, `tumultuous` and `gastronomic` himself, once each. If the existing text
+  is already over-polished, say so rather than matching it — and do not "fix" his own
+  ornate words, which are the reference, not the defect.
 - Do not add reflections, imagery, or emotional beats the author didn't write.
 - Do not remove sensory detail — heat, noise, smell, insects — even when it
   reads as incidental. It is load-bearing.
@@ -87,6 +115,10 @@ Use these sections:
 
 ## Revised text
 [Revised English — minimal necessary changes only]
+
+## Register check
+[the three counts for the edited chapter from `pnpm check-style`, and for each tell you did
+ NOT fix because a prior ruling covers the line, name that ruling]
 ```
 
 Cite `file:line` for every issue so the author can jump straight to it. When

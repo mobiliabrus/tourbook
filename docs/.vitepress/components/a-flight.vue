@@ -12,21 +12,38 @@ interface FlightProps {
 
 const props = defineProps<FlightProps>()
 
+// A bare `2010-04-16` in a fenced YAML block is parsed by js-yaml into a Date and
+// reaches this component as `2010-04-16T00:00:00.000Z`. Read back as a local time,
+// that instant is not midnight and not even the same day outside UTC+8, so the date
+// is cut down to its day part first and no clock is invented for it.
+const DATE_ONLY_ISO = /^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}\.\d{3}Z$/
+const toDayValue = (value: string) => (DATE_ONLY_ISO.test(value) ? value.slice(0, 10) : value)
+const hasClock = (value: string) => /\d{1,2}:\d{2}/.test(toDayValue(value))
+
+const dayLabel = (value: string) => dayjs(toDayValue(value)).format('D MMM')
+const clockLabel = (value: string) => dayjs(value).format('HH:mm')
+
 const departureTimeLocale = computed(() => {
-  return dayjs(props.departureTime).format('D MMM, HH:mm')
+  if (!hasClock(props.departureTime)) {
+    return dayLabel(props.departureTime)
+  }
+  return `${dayLabel(props.departureTime)}, ${clockLabel(props.departureTime)}`
 })
 
 const arriveTimeLocale = computed(() => {
-  if (dayjs(props.departureTime).diff(props.arriveTime, 'day') === 0) {
-    return dayjs(props.arriveTime).format('HH:mm')
+  if (!hasClock(props.arriveTime)) {
+    return dayLabel(props.arriveTime)
   }
-  return dayjs(props.arriveTime).format('D MMM, HH:mm')
+  if (dayjs(toDayValue(props.departureTime)).diff(toDayValue(props.arriveTime), 'day') === 0) {
+    return clockLabel(props.arriveTime)
+  }
+  return `${dayLabel(props.arriveTime)}, ${clockLabel(props.arriveTime)}`
 })
 </script>
 
 <template>
   <div class="a-flight" aria-hidden="true">
-    <div class="a-flight-no"><span>{{ flight }}</span></div>
+    <div v-if="flight" class="a-flight-no"><span>{{ flight }}</span></div>
     <div class="am-steps am-steps-horizontal am-steps-label-vertical">
       <div class="am-steps-item am-steps-item-process am-steps-item-custom">
         <div class="am-steps-item-tail"></div>

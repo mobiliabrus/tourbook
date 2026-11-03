@@ -26,7 +26,7 @@ departure-time: 2010-04-16
 arrive-time: 2010-04-16
 ```
 
-Traveling as part of a tour group, we were offered an optional excursion to sites along the 38th Parallel for an extra fee. Wenwen, another member of our tour group, and I opted out. Consequently, we were left behind at a rest stop while the rest of the group continued their tour. Initially feeling somewhat isolated, we wandered into a nearby convenience store for coffee. There, we met the owner’s child, whose endearing nature and eagerness to play instantly bridged the language barrier. What began as a moment of abandonment turned into a delightful encounter, reminding us that human connection transcends spoken words.
+I joined a tour group for the journey. When the guide asked if everyone would be willing to pay extra to visit sites along the 38th Parallel, Wenwen, a girl in the group, and I opted out. We were left behind at a rest stop along the way, feeling rather pitiful. We wandered into a nearby convenience store for coffee. The owner's child was particularly adorable and approached us to play. Although we couldn't understand each other's words, it was still an enjoyable experience. Language seemed to pose no barrier.
 
 ```<a-map>
 points: 127.03588586216844,37.51402948996639,Imperial Palace Seoul|126.98449333522179,37.56382942746806,Myeong-dong|126.98115396433205,37.55370946055917,Namsan|127.0855585,37.5690015,Siloam|126.68362613171828,37.778494623724804,Pilseung-ro|127.0244706,37.5219876,Hotel Sunshine
@@ -100,7 +100,7 @@ name: wzd
 name: wzd2
 ```
 
-Beyond the food, the island offered memorable encounters. I met a female writer there, whose sophisticated allure and intellectual depth left a lasting impression on me.
+On the Island, we also encountered a female writer whose mature charm captivated me.
 
 ```<a-img>
 name: wzd3.jpg

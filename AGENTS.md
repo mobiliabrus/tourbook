@@ -148,9 +148,15 @@ shame of remembering).
 
 - **Minimal changes.** The smallest edit that fixes the problem. This is
   refinement, not rewriting — a "medical report", not a novel.
-- **TEM-4 vocabulary.** Do not upgrade diction. Words like `serendipitous`,
-  `gastronomic`, `tumultuous` are already past the line; the existing over-
-  polished chapters are a known problem, not a target to match.
+- **TEM-4 vocabulary.** Do not upgrade diction. This is a **rate** rule, not a
+  word rule: he uses ornate words too, but about once each — `serendipitous`
+  (2-tour `afcfed4:492`), `tumultuous` (6-tour `:58`), `gastronomic` (2-tour `:502`)
+  are all his, one occurrence apiece, so the bullet that once banned them by name
+  was banning his voice. The defect is the polish layer spreading such words across
+  every page. `pnpm check-style --attested <word>` answers "is this word his at all",
+  and answers **THIN** for a word he uses once: legal to keep where it is his, never
+  to be used as a swap target many times. The existing over-polished chapters are a
+  known problem, not a target to match.
 - Preserve sensory detail (heat, sound, smell) even when it seems incidental.
 - Preserve the author's Chinglish-adjacent rhythm where it carries voice. Fix
   grammar, not personality.
@@ -161,10 +167,60 @@ shame of remembering).
 - Explain how a proposed change affects emotional tone, not just grammar.
 - Ask before making structural changes (reordering, merging, splitting chapters).
 
+### Style standard
+
+The reference is what the author **chose**, not what a chapter currently sounds like. In 14 paired
+trials — his wording against the 2026-03/04 batch's, same passage, full text — the batch's wording
+won **0**. His own edits of 2026-11 are the cleanest sample of all, so the profile below is anchored
+there, and his 2022/2023-24 text remains the vocabulary reference (`style_voice.py`,
+`style_voicespec.py`, per 100 sentences):
+
+| | 2022 notes | 2023-24 hand | 2026-11 his own edits | the 2026 batch |
+|---|---|---|---|---|
+| words / sentence | 8.4 | 13.8 | **13.2** | 16.7 |
+| sentences opening `I` | 15.9 | 12.0 | **23.5** | 5.0 |
+| trailing `, -ing` | 1.8 | 6.3 | **0.0** | 13.3 |
+| em-dash per 1k words | 0.0 | 1.6 | **0.0** | 4.0 |
+| hedge (`perhaps`, `maybe`, `seemed`, `rather`) | — | — | **11.8** | 3.3 |
+
+Four clauses, in priority order:
+
+1. **The machine's wording never replaces his.** Vocabulary is tiered by whether it is his: **T1**
+   never his and rejected by him (`melancholy`, `washed over`, `paths diverged`, `destined`,
+   `commenced`, `instantly`, `transcend`, `mesmerizing`, `palpable`, `teeming`) — banned. **T2** his
+   but multiplied by the batch, capped at his own 2023-24 rate x1.35 (`upon` 0.79/1k, `bustling`,
+   `lively`, `captivating`, `arrival`, `amidst`, trailing `, -ing` 6.3/100 sentences, em-dash
+   1.6/100) — never add more, and close a gap by **substituting**, never by deleting his prose.
+   **T3** his and not inflated — legal, including `Thus`, `To my surprise`, `however`, `it turned
+   out`, `I found myself`, `meandered`, `gastronomic`, `serendipitous`, `tumultuous`. Those are his
+   voice, not polish; a pass that "fixes" them is destroying the reference it should be matching.
+2. **Paragraph granularity is his.** The batch merged his paragraphs into single lines; five lines
+   still carry that merge. A restore puts back his **whole antecedent set**, not its
+   best-matching paragraph — otherwise "restoring his sentence" silently deletes another
+   paragraph of his.
+3. **New propositions need his yes, per item.** A sentence the batch added about how a moment felt,
+   looked or mattered is a defect. A fact he never wrote down but confirms happened is content **he**
+   owns: approve it by name, never fold it into a style pass.
+4. **The machine does only what he says he cannot do**: grammar, tense, articles, agreement,
+   spelling, and turning a three-word note into a complete sentence. Nothing else.
+
+Closing-reflection lines (`looking back`, `in hindsight`, `reminding me that…`) are **frozen**:
+counted by the gate, never edited by a style pass, and not added — the author has not decided them.
+
+Full evidence and rules R1–R17: `.qoder/skills/autobiography-editor/style-standard.md`.
+Commands: `pnpm check-style` (ratchet — counts may only fall), `--inflation` (lists length-inflated
+lines, always exits 0 — it is a reading list, not a gate), `--attested <word>` (is that word his at
+all?), `--guard <rev>` (re-test the tier lists against the hand-typed revisions), `--update-baseline`
+after an approved fix, `--ratchet-only` in CI. A `FATAL` means the tool read nothing: never treat it
+as clean.
+
 ### Known state issues
 
 The manuscript is mid-edit and the chapters are **not in one voice**: 1-tour and
 2-tour are heavily polished; 6-tour and 7-tour are near-raw drafts. 3-tour still
 contains AI prompt placeholders. 5-tour is a stub. When editing, do not
-"harmonize" by pulling raw chapters up to the polished register — that makes the
-voice problem worse. Flag it instead.
+"harmonize" by pulling raw chapters up to the polished register, and do not
+harmonize *within* a chapter either: a chapter's prevailing register is mostly the
+polish layer (chapter II has no sentence of his own once block quotes are excluded),
+so it cannot serve as the reference. The reference is `### Style standard` above.
+`pnpm check-style` fails if polish counts rise.

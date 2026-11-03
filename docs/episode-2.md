@@ -70,6 +70,8 @@ dir: animation
 
 After descending the mountain, I spent one final night at its base. Sitting in the hotel lobby, I watched a news report on television detailing the most severe smog crisis in China's history.
 
+I missed the train from Chengdu to Chongqing. They put me on the next one. There were no seats left, so I stood the whole way, several hours. I was tired when I reached home.
+
 ## Gulangyu Island
 
 In March, I purchased my very first budget airline ticket, scheduled for a flight to Bangkok, Thailand, in October. However, prior to that trip, in June, I spontaneously embarked on a journey to Gulangyu Island—a true embodiment of a spur-of-the-moment adventure.

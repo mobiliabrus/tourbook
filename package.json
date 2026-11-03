@@ -11,7 +11,8 @@
     "start": "node ../scripts/lib/watch & vitepress dev docs",
     "encode": "node ../scripts/lib/encodeAll",
     "decode": "node ../scripts/lib/decodeAll",
-    "type-check": "tsc --noEmit"
+    "type-check": "tsc --noEmit",
+    "check-style": "node scripts/check-style.mjs"
   },
   "devDependencies": {
     "@types/node": "^25.5.2",

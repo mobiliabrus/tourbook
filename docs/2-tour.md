@@ -332,7 +332,7 @@ points: 116.076504,5.982953,Bar|116.0776038,5.9833774,Borneo Backpackers
 route: {"legs":[{"steps":[],"weight":5.55,"summary":"","duration":46.2,"distance":57.7},{"steps":[],"weight":18.12,"summary":"","duration":103,"distance":128.7}],"weight_name":"routability","geometry":{"coordinates":[[116.076509,5.982962],[116.076967,5.982714],[116.077018,5.982686],[116.077273,5.983151],[116.077344,5.983366],[116.077358,5.983305],[116.077438,5.983263],[116.077511,5.983302],[116.077552,5.983399]],"type":"LineString"},"weight":23.67,"duration":149.2,"distance":186.4}
 ```
 
-The next morning, I was listlessly browsing through my book when Marilyn approached me. She crouched down by my feet and gently broke the news: she would be heading to Mount Kinabalu with another tourist she had met here. Thus, our paths diverged. A strange sense of melancholy washed over me. I had secretly hoped to climb the mountain with her, but my itinerary was predetermined and unchangeable.
+The next morning, I was listlessly browsing through my book when Marilyn approached me. She crouched down by my feet and gently broke the news: she would be heading to Mount Kinabalu with another tourist she had met here. Thus, our paths diverged. I had secretly hoped to climb the mountain with her.
 
 Once again, I found myself left in the sole company of the hostel cat. Much like my own idle state, the creature spent its hours gazing out from the balcony, lost in contemplation of the world beyond. In that shared silence, the cat and I seemed to understand each other perfectly.
 
@@ -457,7 +457,7 @@ name: gt3.jpg
 dir: privacy
 ```
 
-As we reviewed the photos together, conversation flowed naturally. She revealed that she was traveling solo and hailed from Chongqing. Sensing a kindred spirit in a fellow lone traveler, we asked about her accommodation. She couldn’t recall the specific name of her hostel but remembered it was located on Love Lane—the very same street where Isis and I were staying. As fate would have it, we were all heading in the same direction, so we invited her to walk with us, musing on the possibility that we might even be under the same roof.
+As we reviewed the photos together, conversation flowed naturally. She revealed that she was traveling solo and hailed from Chongqing. We asked about her accommodation. She couldn’t recall the specific name of her hostel but remembered it was located on Love Lane—the very same street where Isis and I were staying. As fate would have it, we were all heading in the same direction, so we invited her to walk with us, musing on the possibility that we might even be under the same roof.
 
 ```<a-img>
 name: loveln-2.jpg
@@ -633,7 +633,7 @@ The next day, Danni departed for Kota Kinabalu.
 
 ## George Town
 
-Having spent several days in Penang, logic dictated that I should have moved on to explore new destinations. However, lacking a pre-planned itinerary and feeling too lethargic to formulate new strategies, I decided to extend my stay at my current hostel, hoping to wait for Isis’s return from Langkawi. Fate, however, had other plans. The owner informed me that the upcoming weekend coincided with a Malaysian national holiday, and every bed was booked. Consequently, I was forced to vacate. I moved to another guesthouse nearby. Isis came back, but we didn't meet. She left again.
+Having spent several days in Penang, logic dictated that I should have moved on to explore new destinations. However, lacking a pre-planned itinerary and feeling too lethargic to formulate new strategies, I decided to extend my stay at my current hostel, hoping to wait for Isis’s return from Langkawi. The owner informed me that the upcoming weekend coincided with a Malaysian national holiday, and every bed was booked. Consequently, I was forced to vacate. I moved to another guesthouse nearby. Isis came back, but we didn't meet. She left again.
 
 <a-hotel name="Day & Night Guesthouse" date="2014-01-17" nights="2"></a-hotel>
 

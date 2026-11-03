@@ -4,11 +4,11 @@ title: Intro
 
 # {{ $frontmatter.title }}
 
-Friends often ask me why I travel alone. For me, it was about seeking new experiences. Traveling alone offered a deeper, more personal connection with the places I visited.
+Friends often ask me why I travel alone. For me, it was about seeking new experiences. Perhaps traveling alone offered a deeper, more personal connection with the places I visited. Or perhaps, there was no one who wanted to go with me.
 
 > So never refuse an invitation. Never resist the unfamiliar. Never fail to be polite. And never outstay your welcome. Just keep your mind open and suck in the experience.
 
-An event in a travel forum discussing budget airlines reignited my desire to explore Thailand. My first trip was marked by loneliness: through the wall I could hear the couple next door, and I stayed locked in my room for days. Deciding to embrace backpacking and staying in hostels, I met fellow travelers. However, what do I truly seek? Is it to capture stunning footage? To embark on new adventures? To find a partner? Or to experience cross-cultural romance?
+An event in a travel forum discussing budget airlines reignited my desire to explore Thailand. My first trip was marked by loneliness: through the wall I could hear the couple next door, and I stayed locked in my room for days. So, I started trying backpacking and found ways to meet other travelers. I wanted to do something challenging during my trips, and I also hoped for some romantic relationships, even dreaming of finding a foreign girlfriend along the way.
 
 It was only after years of sorting through my photos that I gradually came to realize—those landscapes devoid of people had lost their meaning. Instead, it was those casually captured moments, the expressions on people's faces, that became the memories truly worth cherishing.
 

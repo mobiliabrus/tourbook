@@ -446,8 +446,6 @@ I found a camera in the sand. I asked around, but nobody claimed it. I kept danc
 
 At midnight, where the music from the beach party was still audible, a couple that we should be danced in the party found me. "It's him... a good guy who found a camera..." The guy told his girlfriend. We took photos, and they were supposed to be uploaded. Unfortunately, I never found it.
 
-Maybe that's fitting. Some moments aren't meant to be kept. They're meant to be lived, then released.
-
 After that I took a speed boat back to Koh Samui. It was still early morning. The energy had drained out of me, the music fading into background noise. Maybe it was because I knew no one there. Or maybe it was because she wasn't there. Whatever the reason, the party felt hollow. I was done.
 
 ```<a-map>

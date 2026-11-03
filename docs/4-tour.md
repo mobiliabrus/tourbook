@@ -133,7 +133,7 @@ name: fullmoon-2
 name: fullmoon-14
 ```
 
-As the night progressed, the crowd swelled, and the atmosphere gradually intensified into a frenzy. At some point during the revelry, she handed me her glasses for safekeeping. In a moment of casual negligence, I hooked them onto the collar of my T-shirt. Lost in the euphoria of the moment, I remained completely oblivious to their fate. It was not until much later, when she casually asked about them, that the sinking realization hit me: the glasses were gone, likely lost amidst the chaos of our dancing.
+As the night progressed, the crowd swelled, and the atmosphere gradually intensified into a frenzy. At some point during the revelry, she handed me her glasses for safekeeping. I hooked them onto the collar of my T-shirt. I could not stand watching the other men be so close to her, and the old want of a romance abroad came back. So I went off to find someone else to talk to. My attention was diverted. When she asked about the glasses later, they were already gone.
 
 ```<a-img>
 name: fullmoon-1
@@ -206,7 +206,7 @@ name: she-10.jpg
 dir: privacy
 ```
 
-I barely held on until the fourth day. Then, she told me she planned to continue with the AOW course and would not be joining me for the rest of the itinerary. And so, I had to continue the journey alone.
+I barely held on until the fourth day. Then, she told me she planned to continue with the AOW course and would not be joining me for the rest of the itinerary. And so, I went on alone.
 
 ## Krabi
 
