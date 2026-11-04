@@ -136,12 +136,13 @@ name: fullmoon-14
 As the night progressed, the crowd swelled, and the atmosphere gradually intensified into a frenzy. At some point during the revelry, she handed me her glasses for safekeeping. I hooked them onto the collar of my T-shirt. I could not stand watching the other men be so close to her, and the old want of a romance abroad came back. So I went off to find someone else to talk to. My attention was diverted. When she asked about the glasses later, they were already gone.
 
 ```<a-img>
-name: fullmoon-1
+name: shemoon-1.jpg
+dir: privacy
 ```
 
 ```<a-img>
-name: she
-dir: animation
+name: shemoon-2.gif
+dir: privacy
 ```
 
 ```<a-img>
@@ -188,7 +189,7 @@ When we arrived at the diving school later, they arranged for a vehicle to take 
 
 However, things changed quickly. She made new friends during her course, and we hardly saw or spoke to each other anymore.
 
-Once, when I returned to my room, I heard the sounds of a couple being intimate nearby. My heart raced until I confirmed the noise was not coming from the room next door—only then did my suspended heart finally settle. Later, a girl wearing nothing but a white T-shirt emerged from a room, seemingly on a phone call, pacing back and forth in front of mine. I remembered that a couple from Chengdu was staying in this row of houses, but I couldn’t be sure if it was them.
+Once, when I returned to my room, I heard the sounds of a couple being intimate nearby. My heart raced until I confirmed the noise was not coming from the room next door. Later, a girl wearing nothing but a white T-shirt emerged from a room, seemingly on a phone call. She paced back and forth in front of mine. I remembered that a couple from Chengdu was staying in this row of houses, but I couldn’t be sure if it was them.
 
 <a-carousel :img="[{name:'tao1.jpg',dir:'privacy'},{name:'tao2.jpg',dir:'privacy'},{name:'tao3.jpg',dir:'privacy'}]"></a-carousel>
 
