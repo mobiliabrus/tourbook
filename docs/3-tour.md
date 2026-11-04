@@ -49,7 +49,7 @@ route: {"legs":[{"steps":[],"weight":2866.4,"summary":"","duration":2865.9,"dist
 
 <a-carousel :img="[{name:'tree-house-me'},{name:'treehouse-1'}]"></a-carousel>
 
-We booked three treehouses — Tamarind House, Moon House, and Rimtarn House. Moon House was the largest, with a big open platform and a small sleeping hut on the third floor. It was open and comfortable, so we spent the days there. Rimtarn House was a small hut by the stream; Sheyao and her friend slept there. Tamarind House was the tallest and the oldest of the three. You climbed stairs to the top of the tree, and the shower and the toilet were up there too.
+We booked three treehouses — Tamarind House, Moon House, and Rimtarn House. Moon House was the largest, with a big open platform and a small sleeping hut on the third floor. It was open and comfortable, so we spent the days there. Rimtarn House was a small hut by the stream; ‘she’ and her friend slept there. Tamarind House was the tallest and the oldest of the three. You climbed stairs to the top of the tree, and the shower and the toilet were up there too.
 
 ```<a-img>
 name: she-1
@@ -70,7 +70,7 @@ name: treehouse-2.jpg
 dir: privacy
 ```
 
-Sheyao was not feeling well and went back to her room to rest. So I did as I had promised and took photos of Yun'er. She was from Guangdong, pretty and gentle, and I introduced her to the other girls.
+‘she’ was not feeling well and went back to her room to rest. So I did as I had promised and took photos of Yun'er. She was from Guangdong, pretty and gentle, and I introduced her to the other girls.
 
 ```<a-img>
 name: yuner0.jpg
@@ -280,7 +280,7 @@ But Tamarind House was really high, and really plain. Alone up there I was scare
 
 ## Swimming Pool
 
-Sheyao rented an apartment in the new city, near the airport. Planes roared over it often. It had a shared pool.
+‘she’ rented an apartment in the new city, near the airport. Planes roared over it often. It had a shared pool.
 
 ```<a-map>
 points: 98.9660400,18.7979829,Baan Thai Apartment
@@ -288,9 +288,9 @@ zoom: 16
 theme: satellite
 ```
 
-She had found my thread on the forum, and I introduced her to the other girls there. Sheyao, Qin and I were going to learn diving on Koh Tao together; we planned it before we ever met. She was warm and optimistic, and she seemed to have a great many friends.
+‘she’ had found my thread on the forum, and I introduced her to the other girls there. ‘she’, Qin and I were going to learn diving on Koh Tao together; we planned it before we ever met. She was warm and optimistic, and she seemed to have a great many friends.
 
-We came back from the treehouses at noon on 5 November. The other girls went shopping. Sheyao wanted to practise swimming, so the two of us went back to her apartment. We swam together.
+We came back from the treehouses at noon on 5 November. The other girls went shopping. ‘she’ wanted to practise swimming, so the two of us went back to her apartment. We swam together.
 
 ```<a-img>
 name: sheswim.jpg
@@ -379,7 +379,7 @@ We met for the first time on this trip, and for the last. I took a songthaew bac
 
 ## Accident
 
-Later that day Sheyao, her friend and I went to Chiang Mai University, but we could not get in.
+Later that day ‘she’, her friend and I went to Chiang Mai University, but we could not get in.
 
 ```<a-map>
 points: 98.9660400,18.7979829,Baan Thai Apartment|98.9547589,18.8083025,Chiang Mai University
@@ -393,7 +393,7 @@ dir: privacy
 
 <a-gallery :img="[{name:'chiang-2.jpg',dir:'privacy'},{name:'chiang-3.jpg',dir:'privacy'}]"></a-gallery>
 
-So we went to the old town and rode bicycles. Then her friend had an accident. We took her to hospital for a check-up, and luckily it was nothing serious. Sheyao had originally planned to come with us to Koh Tao to learn diving, but between the accident and a friend's invitation, she decided not to come this time.
+So we went to the old town and rode bicycles. Then her friend had an accident. We took her to hospital for a check-up, and luckily it was nothing serious. ‘she’ had originally planned to come with us to Koh Tao to learn diving, but between the accident and a friend's invitation, she decided not to come this time.
 
 ## Khao San Road
 
