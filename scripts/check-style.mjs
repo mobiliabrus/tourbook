@@ -132,17 +132,21 @@ const CAPS = [
 // Moved again 2026-11-03 after the A/B/C batches: episode-2 tell 1→0 and 1-tour 6→2 (author's
 // picks applied to 7 passages), then 1-tour 2→0 and 2-tour 31→29 / 7→6 as `style-keeps.json`
 // began excluding lines the author chose to keep.
+// Re-frozen 2026-11-04 from `--update-baseline` at the working tree: 2-tour tell 29→28→27 (items 11 and 12,
+// the KL block, landed as his C), index tell 1→0, episode-1 tell 1→0, 7-tour hard 1→0 (the three
+// falls were measured before this file was updated, so the literal was stale). `wps` is report-only;
+// index 10.1→13 and episode-1 17.1→16 are what the tool measures now, not a raised bar.
 const BASELINE = {
-  'index.md': { tell: 1, hard: 0, wps: 10.1 },
-  'episode-1.md': { tell: 1, hard: 0, wps: 17.1 },
-  'episode-2.md': { tell: 0, hard: 0, wps: 17.2 },
-  '1-tour.md': { tell: 0, hard: 1, wps: 13.7 },
-  '2-tour.md': { tell: 29, hard: 5, wps: 16.6 },
+  'index.md': { tell: 0, hard: 0, wps: 13 },
+  'episode-1.md': { tell: 0, hard: 0, wps: 16 },
+  'episode-2.md': { tell: 0, hard: 0, wps: 15.1 },
+  '1-tour.md': { tell: 0, hard: 1, wps: 13.1 },
+  '2-tour.md': { tell: 11, hard: 3, wps: 15.5 },
   '3-tour.md': { tell: 0, hard: 0, wps: 13.6 },
-  '4-tour.md': { tell: 2, hard: 0, wps: 16.1 },
+  '4-tour.md': { tell: 2, hard: 0, wps: 14.9 },
   '5-tour.md': { tell: 0, hard: 0, wps: 13.8 },
   '6-tour.md': { tell: 0, hard: 0, wps: 14.3 },
-  '7-tour.md': { tell: 3, hard: 1, wps: 13.2 },
+  '7-tour.md': { tell: 3, hard: 0, wps: 13.4 },
   'appendix.md': { tell: 0, hard: 0, wps: 8.9 },
 };
 

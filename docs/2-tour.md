@@ -42,15 +42,13 @@ The dormitory was steeped in silence, broken only by a chorus of loud snoring fr
 
 Everyone was obviously asleep because they were snoring loudly. I walked quietly and tried not to wake anyone up. My bed was beside a pipe that made constant noise throughout the night. However, I was so exhausted that I fell asleep despite the noise.
 
-When I woke the next morning, the room was empty; everyone else had already vanished into the city. A self-service breakfast awaited me—toast, butter, and instant coffee. A note pinned to the wall gently reminded guests to wash their own dishes, adding a touch of practical efficiency to the quiet morning.
+When I woke up the next morning, everyone else had already left. Breakfast was self-service: toast, butter and coffee. A reminder on the wall said to clean any dishes or cups after use.
 
-Stepping outside, I was immediately engulfed by the city's frenetic energy. The contrast with Thailand was striking—here, people rushed past with heads down, avoiding eye contact, their faces blank and unreadable. No warm smiles, no welcoming glances, just an invisible wall between strangers. It felt as though an invisible force was driving them forward, allowing for no pauses, no breaths, and no moments of stillness.
+I went for a walk after breakfast. The city seemed extremely busy, and everyone lived a fast-paced life without taking any breaks.
 
-This sense of relentless momentum followed me into my dining experiences. Determined to avoid high-end restaurants and crowded tourist traps, I sought out small Indian eateries, hoping for a slower, more affordable meal. However, even here, the rhythm was different. At the first restaurant I visited, no spoons were provided. When I asked for one, the owner simply demonstrated how to eat with hands, treating my request as a cultural misunderstanding rather than a preference. It was only after I insisted several times that he found a spoon for me. I shared this anecdote with Jing Yuman, knowing that having studied in Malaysia, she would appreciate such a raw slice of local cultural nuance. Sitting alone with my food, I did not feel like an outsider struggling to adapt; rather, I felt like a traveler observing a distinct way of life.
+I steered clear of high-end restaurants and crowded venues, and ate in Indian eateries because they were less busy and cheaper. The first one didn't provide spoons. When I asked, he showed me how to eat with my hands. They found a spoon for me only after I asked several times. I shared this with Manyu, since she had studied here and might understand the cultural nuance.
 
-It was then that the metaphor struck me: this city felt like a black hole. Just as a black hole’s gravity traps light, the city’s intense, unyielding pace seemed to absorb the individuality and energy of everyone within it. The hurried strangers on the street, the impersonal rules at the hostel, and even the resistance to a simple request for a spoon—all were symptoms of a place that consumed time and spirit without giving anything back.
-
-For two days, I limited my existence to the bare essentials: walking, eating, and sleeping. But with each passing hour, the realization grew stronger: this environment was suffocating me. The city demanded a speed and intensity that I could not sustain, nor did I wish to. It wasn’t just busy; it was overwhelming. Recognizing that this was not the place for me, I leaved.
+The city felt like a black hole, and it absorbed the people around it. People walked fast and hurriedly through the crowded streets. I limited myself to walking, eating and sleeping for two days. Perhaps this wasn't the place for me, so I left.
 
 ```<a-img>
 name: klcc
@@ -68,11 +66,7 @@ route: {"legs":[{"steps":[],"weight":214.4,"summary":"","duration":214.4,"distan
 ```
 
 
-I had operated under the assumption that there was only one airport bus line serving the city. Perhaps this explained the uncertainty I overheard behind me. A young Chinese couple, who had boarded at the first stop, were whispering anxiously to each other, doubting whether this bus actually headed to the downtown area.
-
-Curiosity prompted me to turn around and join their discussion. For a moment, I hesitated—after the cold reception from Kuala Lumpur's locals, initiating conversation felt like stepping out of my comfort zone. But the anxiety in their voices reminded me of my own travel jitters, and I pushed through my reluctance. I shared what I knew about the route, recounting how I had verified the transfer information before my departure. They listened with relief, and as our conversation deepened, they expressed surprise that I was traveling entirely alone. It was only then that I learned they were from Wuhan. They shared a charming story: both were passionate motorbike enthusiasts, and it was this shared love for riding that had brought them together and sparked their romance.
-
-As fate would have it, after we disembarked and began walking, we discovered that our accommodations were located on adjacent streets, just a stone’s throw away from each other. This coincidence marked the beginning of a genuine friendship. Over the next few days, we stayed in close contact. I even visited their guesthouse, where we spent hours sipping tea and chatting. Their lodging was nestled right against a lush mountain backdrop. They excitedly told me that they had spotted monkeys roaming in the hills behind their house—a wild touch to their urban stay that I had completely missed in my solitary rush.
+I believed this city had only one airport bus. So it was no wonder that a pair of Chinese lovers, who got on at the first stop, doubted whether the bus went to downtown. They sat behind me and talked about it, and I turned my head and joined them. I told them what I knew about this bus line, and how I arrived and got my transfer information before departure. They were surprised that I was traveling alone. They came from Wuhan. Both of them loved motorbikes, and that was why they met and fell in love. When we got off, we found our guesthouses were on the same street. We became friends. I visited him and we talked a lot. He was an interior designer with long hair and a long beard.
 
 ```<a-img>
 name: riders.jpg
@@ -83,19 +77,19 @@ dir: privacy
 
 The hostel I stayed at was a hidden gem, accessible only through a discreet door that opened onto a narrow stairway leading up to the second-floor reception. The place was managed by a kind-hearted, slightly plump middle-aged local woman who ran the business with genuine warmth.
 
-One day, as I passed the front desk, she urgently beckoned me over. Despite our language barrier, she gestured for me to follow her upstairs to the third floor. We arrived at a room occupied by a young Chinese girl who was visibly distressed. It turned out there was a large cockroach in the room, terrifying both the guest and the owner. Although I am no fan of insects myself, I reluctantly agreed to help. Summoning my courage, I armed myself with a slipper and successfully dispatched the intruder. Upon returning to the reception, the owner, in her gracious manner, invited me to help myself to a cold drink from the fridge as a gesture of appreciation. I gladly accepted, deeply appreciating her thoughtful gesture.
+One day I passed the front desk and the owner stopped me for help. A girl staying on the third floor had found a cockroach in her room. The owner was afraid of cockroaches herself, so she asked me to go up. I was no braver, but I went in and hit it. After that she told me to get a drink myself, as a reward.
 
 My sleeping quarters were in a mixed six-bed dormitory on the second floor, shared with two other girls and three guys. The mix of nationalities made for some memorable interactions.
 
 There was Carl, a girl from Germany. One night, in an attempt to make conversation, I asked her a rather tactless question: “Do you have a child?” She looked at me, bewildered, and replied, “I’m only nineteen!” I was mortified by my own awkwardness. Shortly after that incident, Carl disappeared. Her luggage remained in the room, but she was nowhere to be found. None of us knew where she had gone. Worried, I left a note on her bag. Days later, I received a text from her; she had spontaneously decided to travel to Sandakan.
 
-Then there was Marilyn from Paris, who mentioned she had been traveling in China for several months. We also had two Chinese boys in the room who were quite humorous. One of them had a nickname back home: “Spinach” (Bo Cai). Since neither my fellow Chinese companions nor I could recall the English word for this specific vegetable, we struggled to explain it. Finally, in a moment of linguistic improvisation, we told Marilyn his name was simply 'Vegetable.' To our amusement, the nickname stuck.
+Marilyn from Paris was another. She said she had been in China for several months. There were two other Chinese boys in the room who were quite funny. One of them was called "Bo Cai", which sounds like spinach in Chinese. None of us knew how to say it in English, so we told Marilyn that his name was "Vegetable".
 
-The next morning, while I was enjoying breakfast, 'Vegetable' approached me and invited me to join our small group on an independent excursion to a nearby island. I was thrilled to accept, especially when I learned that Marilyn had been invited as well. It seemed my lonely journey was about to become a shared adventure.
+The next morning, when I was enjoying breakfast, Vegetable came to invite me on their tour to an island. I was glad to go, because Marilyn was invited too.
 
 ## Pulau Sapi
 
-The destination was an island named Sapi. To our Chinese ears, the name sounded suspiciously like "shǎ bī" (stupid), so we jokingly refused to call it by its real name. Instead, we rechristened it "Mermaid Island," though none of us knew then that the nickname would find its true purpose sooner than expected.
+The island was named "Sapi", which sounds like "stupid" in Chinese. We preferred "Mermaid Island", because Marilyn was one.
 
 ```<a-img>
 name: marilyn-2
@@ -130,7 +124,7 @@ name: marilyn-6
 name: marilyn-7
 ```
 
-We spent the afternoon snorkeling in the shallow waters. Although the seabed was littered with patches of dead coral, the crystal-clear water created a mesmerizing stage. It was there that Marilyn earned her nickname properly. As she dove beneath the surface, her movements were incredibly fluid and graceful. Through my camera lens, I captured a stunning shot of her gliding silently among the fish, her silhouette framed by the shimmering sunlight filtering from above. She looked exactly like a real-life mermaid—not because of some childish island game, but simply because she belonged in that element. From that moment on, "Mermaid" wasn't just a playful tease—it was her definitive title among us.
+We spent the afternoon snorkeling in the shallow water, where plenty of dead coral could be found. The water was clear. It was there that Marilyn earned her nickname. I took photos of her as she went down and as she came back up. Later she took my camera and swam after the small fish, and took photos of herself under the water. She looked like a real mermaid, not because of a childish game, but because she belonged in the water. From then on, Mermaid was what we called her.
 
 ```<a-img>
 name: ng1
@@ -158,7 +152,7 @@ name: sapi-1
 name: sapi-2
 ```
 
-After lunch, a divergence of opinions arose regarding our next activity. Marilyn was eager to try parasailing, dreaming of soaring high above the turquoise sea. However, "Vegetable" hesitated, deeming the activity too expensive and opting out. Seeing this as a unique opportunity to share the sky with our "Mermaid"—and perhaps to capture another magical moment—I immediately agreed to join her.
+After lunch we did not agree on what to do next. Marilyn wanted to try parasailing. Vegetable thought it was too expensive and would not go. I saw it as a chance to be close to our Mermaid, and perhaps to take another good photo, so I agreed.
 
 ```<a-img>
 name: sapi-3
@@ -180,19 +174,19 @@ name: fly-5.jpg
 dir: privacy
 ```
 
-The adventure, however, came with a steep price. Upon returning from the island, I discovered that my back had been severely sunburned. The pain was immediate and intense. Over the next few days, large patches of skin began to peel off, a painful but vivid reminder of my day under the tropical sun.
+The adventure came at a price. After returning from the island, I found that my back was severely sunburned, and several days later large patches of skin peeled off.
 
 ## The Black Guy
 
-Originally, my itinerary was meticulously planned well in advance, with flight tickets purchased early and only a brief stopover allocated for Kota Kinabalu. However, upon arriving in KK, I encountered a serendipitous connection that compelled me to depart sooner than intended. This unforeseen turn of events drastically truncated my stay. Consequently, I was forced to reluctantly forgo further underwater exploration the following day and embark on the next leg of my journey, leaving the pristine diving spots of Semporna for another time.
+In the original plan, I intended to stay in Kota Kinabalu for several days, even purchasing a return flight ticket. However, I later became attracted to Semporna and decided to insert this trip into my itinerary. Thus, the next day, I had to reluctantly leave behind the mermaid encounter and embark on a new journey.
 
 <a-flight flight="AK6262" departure="BKI" destination="TWU" departure-time="2014-01-08 16:05" arrive-time="2014-01-08 17:00"></a-flight>
 
-While waiting in the airport lounge, I encountered a Black man who claimed to have a special affinity for Chinese people, citing a previous visit to Guangdong. With feigned earnestness, he boasted about how adored he was by the local girls, going so far as to claim that virgins threw themselves at him.
+While waiting in the airport lounge, I encountered a Black man who claimed to have a special affinity for Chinese people, citing a previous visit to Guangdong. In earnest, he told me how much the girls there adored him, going so far as to claim that virgins threw themselves at him.
 
-Although he seemed to derive great pleasure from recounting these tales, I found his company increasingly tedious.
+Although he seemed to derive great pleasure from recounting these stories, I found him a bit annoying.
 
-As boarding commenced, he mentioned his seat was in Row 28 and inquired about mine, clearly hoping to continue our conversation on the plane. With a subtle hint of smugness, I informed him that I was seated in Row 6, within the premium cabin. Thus, while he proceeded toward the rear door, I boarded through the front. In doing so, I ensured that I would never see him again.
+As we were boarding, he mentioned that he was seated in Row 28 and asked which row I was in, hoping to continue our conversation on the plane. With a hint of smugness, I told him Row 6 - the paid seats section. Consequently, while he headed for the rear entrance, I boarded through the front entrance. And thus, I never saw him again after that.
 
 ## Semporna
 
@@ -228,9 +222,9 @@ Before boarding the boat, I coincidentally met a fellow traveler from Chengdu wh
 
 <a-hotel name="Uncle Chang Bungalow" date="2014-01-09" nights="2" points="118.6271726,4.2477133"></a-hotel>
 
-At our accommodation, my male companion from Chengdu and I shared a room with a diver from Taiwan. He enthusiastically recounted his underwater experiences, telling me that just days prior, he had spotted several sea turtles right beneath this very platform. He confidently assured me that with a keen eye, I would surely encounter them as well. Motivated by his words, I spent considerable time on the platform over the following days, eagerly scanning the waters. Regrettably, not a single turtle appeared.
+At our accommodation, the guy from Chengdu and I shared a room with a man from Taiwan who had come for diving. He was always telling us about his dives, and said that a few days earlier he had seen several turtles right beneath this very platform. He assured me that if I paid attention, I would surely see them too. So in the following days I spent time on the platform, hoping to catch sight of these creatures. However, not a single turtle appeared.
 
-On one occasion, anxiety spread among the platform staff when a diving boat failed to return on schedule. When it finally docked safely, the Taiwanese diver revealed that the team had encountered a perilous "washing machine current" near Sipadan, which had nearly jeopardized their safe return. Witnessing such dramatic incidents—where danger and wonder coexisted—profoundly impacted me. It was these very experiences that ultimately inspired me to embark on my own journey into the world of diving.
+One time, their diving boat failed to return on schedule, causing concern among the platform staff. Eventually, it did return, and the Taiwanese man informed me that they had encountered a "washing machine current" at Sipadan, which nearly prevented them from returning safely. It was incidents like these that influenced me and eventually led me down the path of diving as well.
 
 
 ```<a-map>
@@ -245,11 +239,13 @@ name: mabul-1
 
 <a-carousel :img="[{name:'mabul-1.jpg',dir:'privacy'},{name:'mabul-2.jpg',dir:'privacy'},{name:'mabul-6.jpg',dir:'privacy'},{name:'mabul-7.jpg',dir:'privacy'}]"></a-carousel>
 
-Additionally, we encountered a girl from Chongqing diving alongside her mother on the platform, a sight that filled us all with admiration for her courage.
+We also met a girl from Chongqing on the platform. She was diving with her mother, and we all admired her courage.
 
 ## Kapalai
 
-The three girls from Guangdong had planned only a brief half-day stopover; their itinerary involved snorkeling at Kapalai before proceeding to Mataking Island. Our boat ferried them towards Kapalai, taking a route that passed the Seaventure Dive Rig—a distinctive offshore oil platform repurposed into a diving resort. We paused beneath the towering structure to drop off a fellow passenger, a girl who was scheduled to stay there.
+The three girls from Guangdong were only staying half a day, and they planned to go snorkeling at Kapalai before heading to Mataking Island.
+
+Our boat ferried us over to Kapalai, passing the Seaventure Dive Rig, an offshore oil platform repurposed into a diving shop. We stopped under the platform for a while to drop off a girl who was heading there.
 
 ```<a-img>
 name: girl2rig
@@ -276,7 +272,7 @@ A favorite pastime on the platform involved a simple yet challenging game: swing
 
 The weather in January, however, was notoriously inclement. One day, the sky turned a bruised purple under heavy overcast clouds, and fierce winds whipped across the deck. Rumors spread that a typhoon was brewing in the Philippines, sending shivers of anticipation through the resort.
 
-Seeking shelter from the gale, a group of local Bajau Laut, often referred to as "sea nomads," gathered on the platform. Among them were several young men with sun-bronzed skin and radiant smiles. One of them strummed a guitar, filling the windy afternoon with melodious songs that warmed our hearts. In a spontaneous moment of camaraderie, a group of Malay tourists, who had appeared as if out of nowhere, approached me to request a photo. Though they were complete strangers, they explained warmly that they were from Penang—just not the George Town district I was destined to visit soon. Their unexpected friendliness served as a bright spot amidst the gloomy weather, reminding me of the genuine hospitality found in these remote corners of the world.
+People on the island were all sea gypsies, with several young men among them who had dark skin and were especially friendly. One of them could even play the guitar and sing. On another occasion, a group of Malay tourists appeared out of nowhere to ask for a photo with me. I didn't even know them, but they told me they were from Penang, though not the George Town that I was headed to.
 
 ```<a-img>
 name: mabul-4
@@ -305,13 +301,11 @@ name: mabul-3.jpg
 dir: privacy
 ```
 
-The girl with short hair left two vivid impressions on me. The first was the striking image of her in a white bikini while snorkeling, exuding confidence amidst the blue waters. The second was the noticeable attention she received from the dive shop staff; several of them were clearly taken with her and frequently inquired about her identity.
+The girl with shoulder-length hair made two impressions on me: one was when she wore a white bikini while snorkeling, and the other was that several staff members at the dive shop seemed to fancy her and asked me about her.
 
-Coincidentally, our journeys off the island aligned. We shared the same transfer vehicle provided by the dive shop, though our paths diverged upon arrival in Tawau. They headed to the airport for their flights, while I proceeded to the town center. It was a typical transient travel friendship—intense while it lasted, yet ending as quietly as it began.
+Later, by chance, we left the island together. We took the same vehicle provided by the dive shop; they headed to Tawau Airport while I went to downtown Tawau.
 
 ## Tawau
-
-Upon reaching Tawau, our paths finally diverged. The two girls disembarked at the airport terminal, ready to catch their flights, while I continued my journey further into the city center, as my own flight was not scheduled until the following morning.
 
 <a-hotel name="VS Hotel" date="2014-01-11" nights="1" points="117.8818416595459,4.244709464515594"></a-hotel>
 
@@ -332,9 +326,9 @@ points: 116.076504,5.982953,Bar|116.0776038,5.9833774,Borneo Backpackers
 route: {"legs":[{"steps":[],"weight":5.55,"summary":"","duration":46.2,"distance":57.7},{"steps":[],"weight":18.12,"summary":"","duration":103,"distance":128.7}],"weight_name":"routability","geometry":{"coordinates":[[116.076509,5.982962],[116.076967,5.982714],[116.077018,5.982686],[116.077273,5.983151],[116.077344,5.983366],[116.077358,5.983305],[116.077438,5.983263],[116.077511,5.983302],[116.077552,5.983399]],"type":"LineString"},"weight":23.67,"duration":149.2,"distance":186.4}
 ```
 
-The next morning, I was listlessly browsing through my book when Marilyn approached me. She crouched down by my feet and gently broke the news: she would be heading to Mount Kinabalu with another tourist she had met here. Thus, our paths diverged. I had secretly hoped to climb the mountain with her.
+The next morning, I was flipping through a Japanese book the hostel had, not mine. I was sitting in an armchair when Marilyn came over, squatted down, and said she was going to Mount Kinabalu with a man from the same hostel. So, we parted ways.
 
-Once again, I found myself left in the sole company of the hostel cat. Much like my own idle state, the creature spent its hours gazing out from the balcony, lost in contemplation of the world beyond. In that shared silence, the cat and I seemed to understand each other perfectly.
+Later I saw the cat on the shared balcony. It put its head out over the balcony and watched the cars pass below. I wish I could go with her. Perhaps that was me, staying here alone.
 
 ```<a-img>
 name: cat
@@ -361,7 +355,7 @@ Upon returning to the room after our chat, I was greeted by an unexpected sight:
 
 ## Little India
 
-I promptly introduced Isis to Feng Cheche. The three of us hit it off immediately and made plans to explore the city together the following day. True to our word, the next morning we set out for Little India. 
+I promptly introduced Isis to Feng Cheche. The three of us hit it off immediately and made plans to explore the city together the following day. True to our word, the next morning we set out for Little India.
 
 ```<a-img>
 name: little-india-1
@@ -429,9 +423,9 @@ name: george-town-fengcheche
 
 ## Danni
 
-As we concluded our visit and began to depart, walking along the coastal path near the entrance, we spotted a young girl standing alone by the water, focused on taking selfies.
+As we finished and left, we walked along the coastal path near the entrance. A young girl by the water was taking selfies.
 
-Observing her solitary efforts, Feng Cheche exclaimed, "What a cute girl taking selfies! Let me help her with that." Encouraged by her enthusiasm, we approached the stranger with friendly intentions and offered to take some photos for her. She accepted gratefully, and this simple act of kindness instantly broke the ice.
+Feng Cheche said, "What a cute girl taking selfies! Let me help you." So we went over and offered to take some photos for her. She said yes.
 
 ```<a-img>
 name: danni-0.jpg
