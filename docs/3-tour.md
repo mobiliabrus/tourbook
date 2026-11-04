@@ -288,7 +288,7 @@ zoom: 16
 theme: satellite
 ```
 
-‘she’ had found my thread on the forum, and I introduced her to the other girls there. ‘she’, Qin and I were going to learn diving on Koh Tao together; we planned it before we ever met. She was warm and optimistic, and she seemed to have a great many friends.
+‘she’ had found my thread on the forum, and I introduced her to the other girls there. Qin, ‘she’ and I were going to learn diving on Koh Tao together; we planned it before we ever met. ‘she’ was warm and optimistic, and she seemed to have a great many friends.
 
 We came back from the treehouses at noon on 5 November. The other girls went shopping. ‘she’ wanted to practise swimming, so the two of us went back to her apartment. We swam together.
 
