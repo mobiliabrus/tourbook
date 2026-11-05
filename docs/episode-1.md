@@ -8,7 +8,7 @@ At the age of twenty, forgoing higher education, I accepted a position as a secu
 My days there were often filled with lighthearted moments, particularly when engaging in playful banter with the young women in the office and the shop girls.
 These exchanges remained friendly yet carried a teasingly ambiguous undertone, characteristic of my youthful innocence.
 
-Among them was a girl who made my heart move. Later, she was my first.
+Among them was one who made my heart move. Later, she was my first.
 
 <a-secret name="jxd" autoload></a-secret>
 
@@ -19,10 +19,6 @@ Among them was a girl who made my heart move. Later, she was my first.
 <a-secret name="psj" autoload></a-secret>
 
 The mall did poorly and another company took it over. It laid off a lot of staff. After that I chose to become a telephone salesman. Quiet by nature, I never liked people who talked big. I made four hundred calls a day. Sincerity won me quite a few customers. The pay was small, and yet I did rather well. Hardly anyone stayed in that company. A lot of young girls passed through it, and I noticed some of them.
-
-<a-secret name="yfj" autoload></a-secret>
-
-<a-secret name="yxy" autoload></a-secret>
 
 ## South Korea
 
@@ -78,6 +74,8 @@ departure-time: 2010-04-18
 arrive-time: 2010-04-18
 ```
 
+At two in the morning, Seoul time, I got back to my hostel in Incheon. I had spent the evening at Dongdaemun and was too tired to do more than lie down. The wake-up call came at six. I had hardly slept. I ate some noodles, packed a few Korean snacks and ran for the bus to Incheon Airport.
+
 ```<a-flight>
 flight: 
 departure: ICN
@@ -85,6 +83,8 @@ destination: PEK
 departure-time: 2010-04-19 08:30
 arrive-time: 2010-04-19 11:30
 ```
+
+We left on time, at 8:30. The rain had stopped by the time we landed at Beijing Capital. The connection to Chongqing was meant to go at 15:30 in the afternoon. The guide got us moved to an earlier one. That would have put me home three hours sooner, and I hoped they would call it off. They called it off. The 15:30 came back, and I was glad, though nobody else was. Then the weather over Chongqing turned. They called us to the plane at 15:30. Nothing happened. At 19:30 they called us again, and we took off at 21:20. I stepped off at 23:50. It was late and the terminal was full of people. I looked for her in the crowd.
 
 ```<a-flight>
 flight: 
@@ -94,15 +94,25 @@ departure-time: 2010-04-19 21:20
 arrive-time: 2010-04-19 23:50
 ```
 
+We were hours late. She came anyway.
+
+To start with, she came with me to look for a hotel for me to stay. We found one that seemed all right, and I went in to ask. There was a room, but I deliberately lied. I told her they were full. She had no choice but to take me to her place. That night, I slept in a small guest room on her balcony.
+
 <a-secret name="lxx" autoload></a-secret>
 
-Upon returning home, I made the pivotal decision to resign from my job and start a business with several colleagues from the sales company. We had our own e-commerce platform.
+Upon returning from Korea, I made the pivotal decision to resign from my job and start a business with several colleagues from the sales company. We launched our own e-commerce platform.
 
 ## Shenlong Gorge
 
 Once, two of my partners and I planned a secret trip. I had to keep it from their girlfriends. Those girls had also been at the sales company, and I knew all of them. I was a single dog, so naturally I had nothing to hide. I told a girl from that company when we were going, and she said she wanted to come with me.
 
 <a-secret name="ranling" autoload></a-secret>
+
+<a-secret name="dl" autoload></a-secret>
+
+<a-secret name="yfj" autoload></a-secret>
+
+<a-secret name="yxy" autoload></a-secret>
 
 ## Weizhou Island
 
