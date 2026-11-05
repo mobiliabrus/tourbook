@@ -4,7 +4,23 @@ title: Episode I. Beginnings
 
 # {{ $frontmatter.title }}
 
+At the age of twenty, forgoing higher education, I accepted a position as a security guard at a bustling home furnishings and building supplies mall.
+My days there were often filled with lighthearted moments, particularly when engaging in playful banter with the young women in the office and the shop girls.
+These exchanges remained friendly yet carried a teasingly ambiguous undertone, characteristic of my youthful innocence.
+
+<a-secret name="jxd" autoload></a-secret>
+
 <a-secret name="jyy" autoload></a-secret>
+
+<a-secret name="hxy" autoload></a-secret>
+
+<a-secret name="psj" autoload></a-secret>
+
+The mall did poorly and another company took it over. It laid off a lot of staff. After that I chose to become a telephone salesman. Quiet by nature, I never liked people who talked big. I made four hundred calls a day. Sincerity won me quite a few customers. The pay was small, and yet I did rather well. Hardly anyone stayed in that company. A lot of young women passed through it, and I noticed some of them.
+
+<a-secret name="yfj" autoload></a-secret>
+
+<a-secret name="yxy" autoload></a-secret>
 
 ## South Korea
 
