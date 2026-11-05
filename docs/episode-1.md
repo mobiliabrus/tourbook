@@ -8,6 +8,8 @@ At the age of twenty, forgoing higher education, I accepted a position as a secu
 My days there were often filled with lighthearted moments, particularly when engaging in playful banter with the young women in the office and the shop girls.
 These exchanges remained friendly yet carried a teasingly ambiguous undertone, characteristic of my youthful innocence.
 
+Among them was a girl who made my heart move. Later, she was my first.
+
 <a-secret name="jxd" autoload></a-secret>
 
 <a-secret name="jyy" autoload></a-secret>
@@ -94,7 +96,11 @@ arrive-time: 2010-04-19 23:50
 
 <a-secret name="lxx" autoload></a-secret>
 
-Upon returning home, I made the pivotal decision to resign from my job and pursue entrepreneurship.
+Upon returning home, I made the pivotal decision to resign from my job and start a business with several colleagues from the sales company. We had our own e-commerce platform.
+
+## Shenlong Gorge
+
+Once, two of my partners and I planned a secret trip. I had to keep it from their girlfriends. Those girls had also been at the sales company, and I knew all of them. I was a single dog, so naturally I had nothing to hide. I told a girl from that company when we were going, and she said she wanted to come with me.
 
 <a-secret name="ranling" autoload></a-secret>
 
