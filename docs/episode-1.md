@@ -18,7 +18,7 @@ Among them was a girl who made my heart move. Later, she was my first.
 
 <a-secret name="psj" autoload></a-secret>
 
-The mall did poorly and another company took it over. It laid off a lot of staff. After that I chose to become a telephone salesman. Quiet by nature, I never liked people who talked big. I made four hundred calls a day. Sincerity won me quite a few customers. The pay was small, and yet I did rather well. Hardly anyone stayed in that company. A lot of young women passed through it, and I noticed some of them.
+The mall did poorly and another company took it over. It laid off a lot of staff. After that I chose to become a telephone salesman. Quiet by nature, I never liked people who talked big. I made four hundred calls a day. Sincerity won me quite a few customers. The pay was small, and yet I did rather well. Hardly anyone stayed in that company. A lot of young girls passed through it, and I noticed some of them.
 
 <a-secret name="yfj" autoload></a-secret>
 
