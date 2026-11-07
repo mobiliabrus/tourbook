@@ -317,8 +317,6 @@ After checking into my accommodation, I decided to take a leisurely stroll throu
 
 Upon my return to Kota Kinabalu, the hostel room was deserted. As evening fell, I reunited with Marilyn, and we promptly made plans for dinner. Afterward, she suggested visiting a nearby spot for a nightcap.
 
-## Salty Dog
-
 I followed her to a lively open-air bar. Our conversation drifted across various topics, ranging from her experiences in China to her reasons for returning to France. She recommended a local wine infused with a distinct salty note. To her surprise, I finished the glass swiftly and ordered another. Later, we strolled back to the hostel along the quiet streets. Upon entering the room, I found her lying on the upper bed, video-chatting with her boyfriend; I offered a polite greeting before settling in.
 
 ```<a-map>
@@ -332,6 +330,32 @@ Later I saw the cat on the shared balcony. It put its head out over the balcony 
 
 ```<a-img>
 name: cat
+```
+
+Mount Kinabalu is a popular destination. Besides Marilyn, a German girl named Luca stayed in the same room. I had an awkward moment with her one night. We were chatting in the room, and I asked her if she had a child. She said, "I'm only 18." After that night she was gone, but her bag was still in the room. We were all a little afraid for her. Before I left for Semporna, I left a message on her bag. When I came back and then left again, she still had not returned. Later she saw it and contacted me. That was how I learned she had gone to Mount Kinabalu and Sandakan.
+
+```<a-img>
+name: kkm
+```
+
+```<a-img>
+name: luca1.jpg
+dir: privacy
+```
+
+```<a-img>
+name: luca2.jpg
+dir: privacy
+```
+
+```<a-img>
+name: luca3.jpg
+dir: privacy
+```
+
+```<a-img>
+name: luca4.jpg
+dir: privacy
 ```
 
 ## Penang
@@ -525,10 +549,7 @@ name: gt4.jpg
 dir: privacy
 ```
 
-```<a-img>
-name: danni-moji.jpg
-dir: privacy
-```
+<a-gallery :img="[{name:'danni10.jpg',dir:'privacy'},{name:'danni11.jpg',dir:'privacy'},{name:'danni-moji.jpg',dir:'privacy'}]"></a-gallery>
 
 ```<a-img>
 name: pbeach-1.jpg

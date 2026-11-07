@@ -103,6 +103,11 @@ dir: animation
 
 Dinner was served at the Panalaban Restaurant within the complex. Laban Rata itself was a sprawling mountain lodge accommodating climbers from all over. It was here, amidst the bustling dining hall, that I met Ailin and her boyfriend. To my astonishment, she revealed she was originally from Chongqing, though she now resided in Hong Kong with her partner. Having communicated exclusively in English up until that point, neither of us had realized we shared the same hometown. The moment we switched to our native dialect, the distance between strangers instantly vanished.
 
+```<a-img>
+name: ailin.jpg
+dir: privacy
+```
+
 During the meal, a humorous incident occurred involving yet another group of six hikers, this time consisting entirely of Malaysian Chinese. As I walked through the restaurant, clutching my OnePlus 3 with its distinctive red charging cable dangling from it, I bumped into one of the men from this group whom I had briefly exchanged greetings with earlier. He glanced at my phone and the cable, a look of confusion crossing his face, seemingly wondering if I had mistakenly picked up his charger.
 
 "Is that yours?" he asked, pointing at the red cable.<br/>
