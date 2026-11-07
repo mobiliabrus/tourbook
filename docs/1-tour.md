@@ -46,15 +46,7 @@ Walking down the street, it was common to encounter people from various backgrou
 name: bkk
 ```
 
-```<a-img>
-name: bkdelay1
-dir: animation
-```
-
-```<a-img>
-name: bkdelay2
-dir: animation
-```
+<a-gallery :img="[{name:'bkdelay1',dir:'animation'},{name:'bkdelay2',dir:'animation'}]"></a-gallery>
 
 ## Cowboy
 
