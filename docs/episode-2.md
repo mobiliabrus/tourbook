@@ -74,7 +74,7 @@ I missed the train from Chengdu to Chongqing. They put me on the next one. There
 
 ## Gulangyu Island
 
-In March, I purchased my very first budget airline ticket, scheduled for a flight to Bangkok, Thailand, in October. However, prior to that trip, in June, I spontaneously embarked on a journey to Gulangyu Island—a true embodiment of a spur-of-the-moment adventure.
+In March, I purchased my very first ticket on a budget airline, scheduled for a flight to Bangkok, Thailand, in October. But prior to my trip to Thailand, in June, I spontaneously embarked on a journey to Gulangyu Island—a true embodiment of a "say go and just travel" adventure.
 
 ```<a-flight>
 flight: SC4723
@@ -84,28 +84,36 @@ departure-time: 2013-06-05 07:00
 arrive-time: 2013-06-05 10:30
 ```
 
+I got off the plane and went directly to the pier, then took the ferry to the island. I stayed the first night near Piano Pier. There was a street of shops there, full of tourists.
+
 ```<a-hotel>
-name: 厦门鼓浪朵拉旅馆
+name: Xiamen Dora's House
 date: 2013-06-05
 nights: 1
 points: 118.06551857629651,24.44736064618408
 ```
 
-```<a-map>
-points: 118.06551857629651,24.44736064618408,厦门鼓浪朵拉旅馆|118.06267167432208,24.45217298291665,一九一九巢庭别院旅馆
-```
+The next day I moved to a quieter place, near the old American Consulate building. Between the two places there was a small path, and few people walked it. I went there and back every day.
 
 ```<a-hotel>
-name: 一九一九巢庭别院旅馆
+name: Chaoting 1919 Villa
 date: 2013-06-06
 nights: 1
 points: 118.06267167432208,24.45217298291665
 ```
 
+```<a-map>
+points: 118.06551857629651,24.44736064618408,Xiamen Dora's House|118.06267167432208,24.45217298291665,Chaoting 1919 Villa
+```
+
+The island was most beautiful in the early morning. The ferries had not started yet and no tourists were on the island. It was quiet and easy there. I could walk through the alleys and hear the wind chimes. The food on the island was delicious as hell. It was all for tourists. In the end I found that I could only eat KFC.
+
 ```<a-img>
 name: gly-1.jpg
 dir: privacy
 ```
+
+At night I was watching a Premier League match on television. Suddenly a sound came from next door. The old villa had thin walls. It was a man and a woman, and the woman was loud. It seemed that she was right beside me. My heart went fast.
 
 <a-flight flight="CA4166" departure="XMN" departure-time="2013-06-07 22:05" destination="CKG" arrive-time="2013-06-08 00:30"></a-flight>
 

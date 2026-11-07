@@ -180,7 +180,7 @@ I changed hotels twice. One of them was located right next to Wat Buppharam, the
 name: tj
 ```
 
-```<a-img>
+
 name: tj2
 ```
 

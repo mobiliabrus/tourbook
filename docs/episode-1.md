@@ -20,6 +20,16 @@ Among them was one who made my heart move. Later, she was my first.
 
 The mall did poorly and another company took it over. It laid off a lot of staff. After that I chose to become a telephone salesman. Quiet by nature, I never liked people who talked big. I made four hundred calls a day. Sincerity won me quite a few customers. The pay was small, and yet I did rather well. Hardly anyone stayed in that company. A lot of young girls passed through it, and I noticed some of them.
 
+```<a-img>
+name: baidu
+dir: privacy
+```
+
+```<a-img>
+name: baidu2
+dir: privacy
+```
+
 ## South Korea
 
 The year I was named Sales Champion, the reward was supposed to be a trip to Thailand. However, due to the political turmoil surrounding the Red Shirt Movement, our destination was abruptly changed to South Korea. This detour marked not only my first journey abroad but also my inaugural flight.
@@ -104,7 +114,11 @@ Upon returning from Korea, I made the pivotal decision to resign from my job and
 
 ## Shenlong Gorge
 
-Once, two of my partners and I planned a secret trip. I had to keep it from their girlfriends. Those girls had also been at the sales company, and I knew all of them. I was a single dog, so naturally I had nothing to hide. I told a girl from that company when we were going, and she said she wanted to come with me.
+August 2010, two of my partners and I planned a secret trip. I had to keep it from their girlfriends. Those girls had also been at the sales company, and I knew all of them. I was a single dog, so naturally I had nothing to hide. I told a girl from that company when we were going, and she said she wanted to come with me.
+
+```<a-img>
+name: slx
+```
 
 <a-secret name="ranling" autoload></a-secret>
 
@@ -124,12 +138,10 @@ Our initial accommodation was a place called "Piglet Bar," which proved to be ne
 
 Seeking better value, we later moved to a local guesthouse run by the village head. The rates were far more reasonable, and the fees for processing our fresh catches were fair. We continued our culinary exploration, particularly savoring abalone served with rich sauce over steamed rice—a dish so delicious it could tempt one to eat several bowls. Not every experiment was a success, though; we tried shark meat, which turned out to be truly unpleasant. Its gritty texture, reminiscent of sand, made it quite unpalatable.
 
-```<a-img>
-name: wzd
-```
+<a-carousel :img="[{name:'wzd'},{name:'wzd2'},{name:'wzd5'},{name:'wzd6'}]"></a-carousel>
 
 ```<a-img>
-name: wzd2
+name: wzd4
 ```
 
 On the Island, we also encountered a female writer whose mature charm captivated me.
