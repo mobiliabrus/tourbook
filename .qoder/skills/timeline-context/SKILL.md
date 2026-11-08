@@ -10,16 +10,16 @@ description: Establish chronological and structural context for the Tourbook mem
 Answer "when / in what order / where is this" questions about the memoir, and
 catch chronological contradictions before they reach the published page.
 
-## The encrypted timeline
+## The timeline source
 
-`docs/assets/confidential/timeline.md` was historically the master index. It is
-now **AES ciphertext** and the decode script is missing, so it is unreadable
-here. Never open it for context — ciphertext answers nothing and costs tokens.
+`docs/assets/confidential/timeline.md` is AES ciphertext. Do not open it or run
+a decode script. The plaintext source `timeline.mdx` is present locally and may
+be read under `AGENTS.md` when the task needs it.
 
-Do not mourn it. Every date that matters is already in the public chapters, in
-plaintext, inside `<a-flight>`, `<a-hotel>`, and `<a-divelog>` records. Derive
-the timeline from those. When the author decodes `timeline.md` and supplies it,
-treat it as authoritative and reconcile against the derived data.
+Every date that matters is already in the public chapters, in plaintext, inside
+`<a-flight>`, `<a-hotel>`, and `<a-divelog>` records. Derive the timeline from
+those first. Use `timeline.mdx` as a cross-check when needed; when sources
+disagree, show both and ask which is authoritative.
 
 ## Deriving chronology
 
@@ -73,9 +73,8 @@ ls docs/assets/confidential/
 ```
 
 If a chapter mentions a person who has a confidential file, say the file exists.
-Do not read it, do not speculate about its contents, and do not infer a date for
-that person's story from the filename. If a date is needed and only the
-encrypted file would have it, say so and move on.
+Do not read `.md` ciphertext or infer a date from the filename. A task-needed
+`.mdx` source may be read under `AGENTS.md`; otherwise leave the content alone.
 
 ## Answering
 

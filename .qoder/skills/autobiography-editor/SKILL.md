@@ -84,7 +84,7 @@ fragments, truncated words.
 - Do not "smooth out" awkwardness that is actually voice.
 - Do not touch `<a-*>` component syntax unless it is genuinely broken.
 - Do not reorder, merge, or split sections without asking.
-- Do not read `docs/assets/confidential/*` for context. See `AGENTS.md`.
+- Follow `AGENTS.md` for confidential content: task-needed `.mdx` reads are allowed; ciphertext bodies and password-based encryption/decryption are not.
 
 ## Write-as (new prose, or a passage he asks you to draft)
 

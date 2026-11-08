@@ -18,9 +18,9 @@ pnpm build        # production build → docs/.vitepress/dist
 pnpm type-check   # tsc --noEmit
 ```
 
-`pnpm start`, `pnpm encode`, `pnpm decode` are **broken**: they point at
-`../scripts/lib/*`, which does not exist in this repo. Do not rely on them, and
-do not "fix" them by guessing at the missing scripts.
+`pnpm encode`, `pnpm decode`, and `pnpm start` invoke password-based encoding or
+watch scripts. Do not run them; the author handles encryption. Use `pnpm dev`
+for the site without the watcher.
 
 Deployment: `.github/workflows/deploy.yml` builds and publishes to GitHub Pages
 under `base: '/tourbook/'`.
@@ -94,33 +94,23 @@ Rules when editing:
 
 `docs/assets/confidential/*.md` are **AES ciphertext**, committed to git and
 decrypted in the browser by `a-secret.vue` after the reader supplies a key.
-The plaintext `.mdx` sources are gitignored and currently absent locally, and
-the decode script is missing — so this content is **not readable** here.
+The plaintext `.mdx` sources are gitignored and present locally.
 
-- Never attempt to decrypt, decode, brute-force, or reconstruct this content.
-- Never read a confidential file's body to "get context". Ciphertext is not
-  context; it just burns the window.
-- Referencing a confidential file by name (to check whether an `<a-secret>`
-  reference resolves) is fine. Reading its contents requires the author's
-  explicit go-ahead, and is currently impossible anyway.
+- The author permits reading `docs/assets/confidential/*.mdx` when the current
+  task needs them. This is standing access to the plaintext sources; do not ask
+  per file or per session. Read only the files the task needs, not siblings for
+  context.
+- Editing a `.mdx` still requires the author's request for that content change.
+  Change content only; leave encoding and publication to the author.
+- Never ask for, store, test, or use a password. Never encrypt, decrypt,
+  brute-force, or reconstruct confidential content. Do not run `pnpm encode`,
+  `pnpm decode`, `pnpm start`, or equivalent encoding/watch scripts.
+- Do not read `.md` ciphertext bodies. Filenames and directory listings are
+  metadata and may be used to resolve `<a-secret>` references.
 - These are real people. Do not quote, summarize, or paraphrase private stories
   into public chapters, and never suggest making them public.
-
-### Asking before access
-
-Consent is per request, not per project. A go-ahead given in an earlier session
-does not carry over — ask again even if the same file was read before.
-
-1. Stop before reading. Do not open the body to decide whether it is relevant.
-2. Name every file the task needs and ask once for all of them:
-   "This is confidential content. May I access `<filename>`?"
-3. Wait for an explicit yes. Silence, or an answer about something else, is not
-   consent. Read only the files named, not their siblings.
-4. If the author declines, stop that line of work. Do not re-ask, and do not
-   route around the refusal by inferring the content from elsewhere.
-
-If a confidential body is read without consent, say so immediately, stop using
-that content, and wait for the author's instruction.
+- Keep searches scoped to the files the task needs. If private text is exposed
+  unexpectedly, say so, stop using it, and wait for the author's instruction.
 
 ## Writing conventions
 
