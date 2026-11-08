@@ -15,11 +15,11 @@ title: II. The Backpacker
 My second journey began with a heart-stopping race against time.
 It was a domestic flight delay that nearly caused me to miss my international connection.
 
-My original plan was straightforward: take a domestic flight to Kunming, then transfer to an AirAsia flight to Kuala Lumpur. I had calculated plenty of buffer time, but fate had other plans. When I arrived at the boarding gate in Chongqing far earlier than necessary, I was shocked to see the aircraft already parked there. To my bewilderment, the plane was physically present yet completely inaccessible. The aircraft’s schedule for the day was a complex loop predetermined by the airline: it had just arrived from another city and was scheduled to fly to a third destination before finally returning to Chongqing to pick me up for the Kunming leg. In a twist of dramatic irony, I had to watch my plane take off, wait two hours for it to complete its round trip, and only then could I board. Essentially, the delay meant the plane had to “lap” me before I could get on.
+My original plan was straightforward: take a domestic flight to Kunming, then transfer to an AirAsia flight to Kuala Lumpur. I had calculated plenty of buffer time, but fate had other plans. When I arrived at the boarding gate in Chongqing far earlier than necessary, I was shocked to see the aircraft already parked there. To my bewilderment, the plane was physically present yet completely inaccessible. The aircraft's schedule for the day was a complex loop predetermined by the airline: it had just arrived from another city and was scheduled to fly to a third destination before finally returning to Chongqing to pick me up for the Kunming leg. In a twist of dramatic irony, I had to watch my plane take off, wait two hours for it to complete its round trip, and only then could I board. Essentially, the delay meant the plane had to “lap” me before I could get on.
 
 Two hours later, I finally touched down in Kunming. The delay had completely consumed my carefully reserved buffer time; in fact, the international flight was now scheduled to depart in less than thirty minutes. Panic set in immediately. To make matters worse, I had checked in my backpack—a completely unnecessary decision since it could have been carry-on luggage. Now, I was forced to stand helplessly at the baggage carousel, watching the minutes tick away while waiting for my bag. Since I had booked separate tickets rather than a connected itinerary, I could not use the seamless international transfer channel. I had to collect my luggage, exit the domestic arrivals hall, and sprint to the international departure counter to check in all over again.
 
-The situation was frantic. On the plane to Kunming, I had desperately sought help from a flight attendant, only to receive a brisk reply: “You’ll make it if you run fast.” That advice proved both terrifying and true. At the check-in counter, the agent was just about to close the system when she spotted me. “One last passenger for seat 1A!” she announced loudly. The immigration process was equally surreal; I nervously asked the passengers ahead if I could cut in line. To my surprise, the officer smiled and said, “It’s fine; the passengers you jumped ahead of are on the same flight as you.”
+The situation was frantic. On the plane to Kunming, I had desperately sought help from a flight attendant, only to receive a brisk reply: “You’ll make it if you run fast.” That advice proved both terrifying and true. At the check-in counter, the agent was just about to close the system when she spotted me. “One last passenger for seat 1A!” she announced loudly. The immigration process was equally surreal; I nervously asked the passengers ahead if I could cut in line. To my surprise, the officer smiled and said, “It's fine; the passengers you jumped ahead of are on the same flight as you.”
 
 When I finally sprinted to the boarding gate, there were only five minutes left before closure. Yet, in a moment of strange calm amidst the chaos, I even managed to slip into the restroom. As I washed my hands, the adrenaline slowly faded, and my suspended heart finally settled. I was the last person to board, stepping onto the plane just as the gate was closing.
 
@@ -389,7 +389,7 @@ name: little-india-1
 
 ## Jetty
 
-A fresh day commenced with a new itinerary. Our first stop was the jetty, where we soaked in the harbor views before detouring to a separate ticketing office to secure Isis’s ferry passage to Langkawi. With that errand completed, we headed to Fort Cornwallis, a historic seaside citadel, to rest and explore.
+A fresh day commenced with a new itinerary. Our first stop was the jetty, where we soaked in the harbor views before detouring to a separate ticketing office to secure Isis's ferry passage to Langkawi. With that errand completed, we headed to Fort Cornwallis, a historic seaside citadel, to rest and explore.
  
 ```<a-map>
 points: 100.3405987,5.4125915,Chew Jetty;100.3445641,5.4194291,Langkawi Ferry Services Sdn Bhd;100.343897,5.420885,FORT Cornwallis
@@ -475,7 +475,7 @@ name: gt3.jpg
 dir: privacy
 ```
 
-As we reviewed the photos together, conversation flowed naturally. She revealed that she was traveling solo and hailed from Chongqing. We asked about her accommodation. She couldn’t recall the specific name of her hostel but remembered it was located on Love Lane—the very same street where Isis and I were staying. As fate would have it, we were all heading in the same direction, so we invited her to walk with us, musing on the possibility that we might even be under the same roof.
+As we reviewed the photos together, conversation flowed naturally. She revealed that she was traveling solo and hailed from Chongqing. We asked about her accommodation. She couldn't recall the specific name of her hostel but remembered it was located on Love Lane—the very same street where Isis and I were staying. As fate would have it, we were all heading in the same direction, so we invited her to walk with us, musing on the possibility that we might even be under the same roof.
 
 ```<a-img>
 name: loveln-2.jpg
@@ -532,7 +532,7 @@ name: bar
 > _Finally, I've been to a bar... Never in the early 20 years..._
 > <br/><span style="display: block; text-align: right;">_Danni - 2014-01-14_</span>
 
-It was only after we finally left the bar, buoyed by good spirits but mindful of the late hour, that a shadow of caution fell over me as we began our final walk back to the accommodation. During my trip preparations, I had read warnings about Penang’s safety, specifically regarding fly-by bag snatchers on motorcycles. Although the girls were not carrying backpacks, I instinctively positioned them on the inner side of the sidewalk, away from the road, as we navigated the quieter, dimly lit streets.
+It was only after we finally left the bar, buoyed by good spirits but mindful of the late hour, that a shadow of caution fell over me as we began our final walk back to the accommodation. During my trip preparations, I had read warnings about Penang's safety, specifically regarding fly-by bag snatchers on motorcycles. Although the girls were not carrying backpacks, I instinctively positioned them on the inner side of the sidewalk, away from the road, as we navigated the quieter, dimly lit streets.
 
 Suddenly, a motorcycle zoomed past us, carrying two riders. The passenger in the backseat cast a peculiar, lingering glance in my direction. "Could this be one of those snatch-and-grab attempts?" I wondered, my heart skipping a beat.
 
@@ -586,7 +586,7 @@ Later, Feng Cheche departed as her itinerary required.
 
 2014-01-16
 
-With Feng Cheche’s departure, it was just Danni and I left. She suggested a visit to Penang Hill. On the morning of our trip, she spent considerable time meticulously applying her makeup. While waiting for her to get ready, I passed the time by taking numerous photos of her with my camera.
+With Feng Cheche's departure, it was just Danni and I left. She suggested a visit to Penang Hill. On the morning of our trip, she spent considerable time meticulously applying her makeup. While waiting for her to get ready, I passed the time by taking numerous photos of her with my camera.
 
 ```<a-img>
 name: danni-16.jpg
@@ -648,7 +648,7 @@ The next day, Danni departed for Kota Kinabalu.
 
 ## George Town
 
-Having spent several days in Penang, logic dictated that I should have moved on to explore new destinations. However, lacking a pre-planned itinerary and feeling too lethargic to formulate new strategies, I decided to extend my stay at my current hostel, hoping to wait for Isis’s return from Langkawi. The owner informed me that the upcoming weekend coincided with a Malaysian national holiday, and every bed was booked. Consequently, I was forced to vacate. I moved to another guesthouse nearby. Isis came back, but we didn't meet. She left again.
+Having spent several days in Penang, logic dictated that I should have moved on to explore new destinations. However, lacking a pre-planned itinerary and feeling too lethargic to formulate new strategies, I decided to extend my stay at my current hostel, hoping to wait for Isis's return from Langkawi. The owner informed me that the upcoming weekend coincided with a Malaysian national holiday, and every bed was booked. Consequently, I was forced to vacate. I moved to another guesthouse nearby. Isis came back, but we didn't meet. She left again.
 
 <a-hotel name="Day & Night Guesthouse" date="2014-01-17" nights="2"></a-hotel>
 
@@ -675,5 +675,3 @@ Subsequently, I spent my days wandering aimlessly around Kuala Lumpur, engaging 
 <a-flight flight="AK1008" departure="KUL" destination="KMG" departure-time="2014-01-21 13:05" arrive-time="2014-01-21 16:55"></a-flight>
 
 <a-flight flight="MU2244" departure="KMG" destination="CKG" departure-time="2014-01-21 21:10" arrive-time="2014-01-21 22:20"></a-flight>
-
-<a-secret name="sxm" autoload></a-secret>

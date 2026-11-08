@@ -177,7 +177,7 @@ name: fullmoon-5
 
 ## Koh Tao
 
-Afterward, we took a boat back to Koh Tao. We slept through the entire day, recovering from the previous night’s party. It was nearly sunset when we finally woke up and made our way to the beach. As I walked along the beach with her, there were beauties sunbathing au naturel on the sand, but my attention remained steadfastly on her silhouette; the lens of my gaze never wandered. We strolled until we reached a spot with loungers where we decided to rest. We also ventured to the row of houses behind and discovered that one of them housed a Chinese couple—a man and a woman—who hailed from Chengdu and had come to learn scuba diving. After exploring the area, we both agreed that the accommodations there were quite satisfactory.
+Afterward, we took a boat back to Koh Tao. We slept through the entire day, recovering from the previous night's party. It was nearly sunset when we finally woke up and made our way to the beach. As I walked along the beach with her, there were beauties sunbathing au naturel on the sand, but my attention remained steadfastly on her silhouette; the lens of my gaze never wandered. We strolled until we reached a spot with loungers where we decided to rest. We also ventured to the row of houses behind and discovered that one of them housed a Chinese couple—a man and a woman—who hailed from Chengdu and had come to learn scuba diving. After exploring the area, we both agreed that the accommodations there were quite satisfactory.
 
 <a-carousel :img="[{name:'she-13.jpg',dir:'privacy'},{name:'she-11.jpg',dir:'privacy'},{name:'she-12.jpg',dir:'privacy'},{name:'she-9.jpg',dir:'privacy'}]"></a-carousel>
 
@@ -189,7 +189,7 @@ When we arrived at the diving school later, they arranged for a vehicle to take 
 
 However, things changed quickly. She made new friends during her course, and we hardly saw or spoke to each other anymore.
 
-Once, when I returned to my room, I heard the sounds of a couple being intimate nearby. My heart raced until I confirmed the noise was not coming from the room next door. Later, a girl wearing nothing but a white T-shirt emerged from a room, seemingly on a phone call. She paced back and forth in front of mine. I remembered that a couple from Chengdu was staying in this row of houses, but I couldn’t be sure if it was them.
+Once, when I returned to my room, I heard the sounds of a couple being intimate nearby. My heart raced until I confirmed the noise was not coming from the room next door. Later, a girl wearing nothing but a white T-shirt emerged from a room, seemingly on a phone call. She paced back and forth in front of mine. I remembered that a couple from Chengdu was staying in this row of houses, but I couldn't be sure if it was them.
 
 <a-carousel :img="[{name:'tao1.jpg',dir:'privacy'},{name:'tao2.jpg',dir:'privacy'},{name:'tao3.jpg',dir:'privacy'}]"></a-carousel>
 
@@ -198,7 +198,7 @@ points: 99.825093,10.085696,Crystal Dive Resort
 divesites: 99.81525,10.10535,White Rock|99.81301,10.11741,Twins Rocks|99.78779,10.16120,Chumphon Pinnacle|99.81537,10.10169,HTMS Sattakut
 ```
 
-One evening, after I finished my AOW course, I was at a bar chatting with my diving instructor. He was strict in class but friendly in private. He told me about his adorable kitten that once climbed onto his shoulder to play. He also shared a piece of advice with me: “If you wear this massive dive computer, it won’t help you attract any girls.”
+One evening, after I finished my AOW course, I was at a bar chatting with my diving instructor. He was strict in class but friendly in private. He told me about his adorable kitten that once climbed onto his shoulder to play. He also shared a piece of advice with me: “If you wear this massive dive computer, it won't help you attract any girls.”
 
 The AOW course took only two days, whereas her OW course required four. Those remaining two days felt endless. I had nothing to do but sit in front of the house drinking Chang beer, or walk along the shore collecting shells. In a quiet gesture of hope, I even arranged some shells into a star shape right outside her door.
 

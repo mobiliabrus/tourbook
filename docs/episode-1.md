@@ -61,8 +61,6 @@ name: 38-parallel.jpg
 dir: privacy
 ```
 
-Our journey continued to Jeju Island, which added further depth and richness to the experience.
-
 ```<a-flight>
 flight: LJ325
 departure: GMP

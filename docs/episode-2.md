@@ -48,6 +48,8 @@ arrive-time: 2012-09-13 11:45
 
 <a-secret name="dww" autoload></a-secret>
 
+<a-secret name="sxm" autoload></a-secret>
+
 ## Mount Emei
 
 In January, equipped with a newly purchased set of waterproof jackets, my camera, and a heavy-duty tripod, I boarded a train bound for Chengdu. Upon arrival, I transferred to a long-distance bus that took me to the foot of Mount Emei. As vehicle access to the summit was restricted, I spent the night at the base and began my ascent at the crack of dawn the following day.

@@ -9,7 +9,11 @@ import { createOutlineSyncer, type Heading } from '../composables/useOutlineSync
 const props = defineProps({
   name: {
     type: String,
-    required: true,
+    default: '',
+  },
+  content: {
+    type: String,
+    default: '',
   },
   autoload: {
     type: Boolean,
@@ -75,22 +79,32 @@ onMounted(async () => {
     return
   }
 
-  loading.value = true
-  
-  try {
-    // Build file path
-    const filePath = `../../assets/confidential/${props.name}.md`
+  if (!props.name && !props.content) {
+    console.error('a-secret requires either "name" or "content"')
+    return
+  }
 
-    // Check if file exists
-    if (!confidentialModules[filePath]) {
-      console.error(`Secret file not found: ${props.name}.md`)
-      loading.value = false
-      return
+  loading.value = true
+
+  try {
+    if (props.content) {
+      // Inline ciphertext takes precedence; trim YAML trailing newline
+      rawContent.value = props.content.trim()
+    } else {
+      // Build file path
+      const filePath = `../../assets/confidential/${props.name}.md`
+
+      // Check if file exists
+      if (!confidentialModules[filePath]) {
+        console.error(`Secret file not found: ${props.name}.md`)
+        loading.value = false
+        return
+      }
+
+      // Dynamically import file content
+      const module = await confidentialModules[filePath]()
+      rawContent.value = module as string
     }
-    
-    // Dynamically import file content
-    const module = await confidentialModules[filePath]()
-    rawContent.value = module as string
 
     // Decrypt content
     if (secretKey.value && rawContent.value) {

@@ -421,11 +421,11 @@ name: qinx1.jpg
 dir: privacy
 ```
 
-We eventually got on the boat, and the sea was very rough; it felt like we were surfing as the boat rose and fell with the waves, dropping suddenly each time. Half of the passengers on board ended up seasick and vomiting. I couldn’t vomit though, which left me feeling miserable with nausea. My friend, however, was fine. I only felt better after forcing myself to sleep for a while; when I woke up, we could already see Koh Tao.
+We eventually got on the boat, and the sea was very rough; it felt like we were surfing as the boat rose and fell with the waves, dropping suddenly each time. Half of the passengers on board ended up seasick and vomiting. I couldn't vomit though, which left me feeling miserable with nausea. My friend, however, was fine. I only felt better after forcing myself to sleep for a while; when I woke up, we could already see Koh Tao.
 
 ## Crystal Dive
 
-When we first arrived on the island, it would often rain, and the ground was crawling with millipedes as thick as thumbs. The diving shop provided free accommodation, but my friend wasn’t satisfied with it and rented another room elsewhere. I, on the other hand, made do with what was provided.
+When we first arrived on the island, it would often rain, and the ground was crawling with millipedes as thick as thumbs. The diving shop provided free accommodation, but my friend wasn't satisfied with it and rented another room elsewhere. I, on the other hand, made do with what was provided.
 
 ```<a-img>
 name: crystal-desk
@@ -433,7 +433,7 @@ name: crystal-desk
 
 <a-gallery :img="[{name:'kohtaorainny'},{name:'kohtaosunny'}]"></a-gallery>
 
-Once the classes started, the weather gradually cleared up, and it didn’t rain after that.
+Once the classes started, the weather gradually cleared up, and it didn't rain after that.
 
 ```<a-img>
 name: crystal
@@ -444,7 +444,7 @@ name: crystal-girl.jpg
 dir: privacy
 ```
 
-There was a girl among the trainees who I found very agreeable, so I asked her out for dinner. However, she already had plans with another guy, so the three of us went together. We went to an Italian restaurant where I ordered pizza and an additional dish to share with everyone. But this turned out to be unnecessary; in their culture, they don’t share food and didn’t partake in it. Their conversation mostly revolved around European landmarks they had visited, which left me unable to contribute much to the discussion.
+There was a girl among the trainees who I found very agreeable, so I asked her out for dinner. However, she already had plans with another guy, so the three of us went together. We went to an Italian restaurant where I ordered pizza and an additional dish to share with everyone. But this turned out to be unnecessary; in their culture, they don't share food and didn't partake in it. Their conversation mostly revolved around European landmarks they had visited, which left me unable to contribute much to the discussion.
 
 Later, when my friend finished her course, I took the opportunity to leave as well.
 
