@@ -7,6 +7,13 @@ iframe {
   margin: 8px 0;
 }
 
+@font-face {
+  font-family: 'redacted-script';
+  src: url('./redacted-script-regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
 .VPSidebarItem {
   padding-bottom: 4px !important;
 }
@@ -22,7 +29,7 @@ iframe {
 }
 
 .vp-doc h1 {
-  font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: sohne, 'Helvetica Neue', Helvetica, Arial, sans-serif;
   letter-spacing: -0.011em;
 }
 

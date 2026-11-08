@@ -219,14 +219,9 @@ onUnmounted(() => {
 
 .a-secret-blackout {
   display: inline;
-  background-color: #333;
-  color: transparent;
-  padding: 0 8px;
   user-select: none;
-  height: 18px;
-  line-height: 18px;
   word-break: break-all;
-  letter-spacing: -5.5px;
   cursor: pointer;
+  font-family: 'redacted-script';
 }
 </style>
