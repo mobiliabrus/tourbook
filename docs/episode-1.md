@@ -106,8 +106,6 @@ arrive-time: 2010-04-19 23:50
 
 We were hours late. She came anyway.
 
-To start with, she came with me to look for a hotel for me to stay. We found one that seemed all right, and I went in to ask. There was a room, but I deliberately lied. I told her they were full. She had no choice but to take me to her place. That night, I slept in a small guest room on her balcony.
-
 <a-secret name="lxx" autoload></a-secret>
 
 Upon returning from Korea, I made the pivotal decision to resign from my job and start a business with several colleagues from the sales company. We launched our own e-commerce platform.
