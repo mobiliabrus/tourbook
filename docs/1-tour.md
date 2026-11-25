@@ -212,17 +212,7 @@ name: patong
 name: victorria
 ```
 
-```<a-img>
-name: victorria-1
-```
-
-```<a-img>
-name: victorria-2
-```
-
-```<a-img>
-name: victorria-3
-```
+<a-carousel :img="[{name:'victorria-1'},{name:'victorria-2'},{name:'victorria-3'},{name:'victorria-4'},{name:'victorria-5'}]"></a-carousel>
 
 ## Phuket Town
 

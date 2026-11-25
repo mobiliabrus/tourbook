@@ -237,7 +237,7 @@ name: mabul-1
 
 <a-carousel :img="[{name:'mabul-4.jpg',dir:'privacy'},{name:'mabul-5.jpg',dir:'privacy'}]"></a-carousel>
 
-<a-carousel :img="[{name:'mabul-1.jpg',dir:'privacy'},{name:'mabul-2.jpg',dir:'privacy'},{name:'mabul-6.jpg',dir:'privacy'},{name:'mabul-7.jpg',dir:'privacy'}]"></a-carousel>
+<a-carousel :img="[{name:'mabul-1.jpg',dir:'privacy'},{name:'mabul-2.jpg',dir:'privacy'},{name:'mabul-6.jpg',dir:'privacy'},{name:'mabul-7.jpg',dir:'privacy'},{name:'mabul-9.jpg',dir:'privacy'},{name:'mabul-10.jpg',dir:'privacy'},{name:'mabul-11.jpg',dir:'privacy'}]"></a-carousel>
 
 We also met a girl from Chongqing on the platform. She was diving with her mother, and we all admired her courage.
 
