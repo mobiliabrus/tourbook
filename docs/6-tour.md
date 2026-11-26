@@ -28,7 +28,7 @@ People often visit Surat Thani because it serves as the primary gateway to the i
 
 In Surat Thani town itself, the atmosphere was remarkably quiet.
 
-<a-hotel name="Papangkorn House" date="2017-01-06" nights="1"></a-hotel>
+<a-hotel name="Papangkorn House" date="2017-01-06" nights="1" points="99.333013684943,9.14651073017441"></a-hotel>
 
 The following day, I boarded a long-distance bus to continue my travels.
 I rarely err in my itineraries, and even when issues do arise, I have always managed to navigate through them successfully.
@@ -190,7 +190,7 @@ points: 98.907734,8.102171,Bus Stop|98.90439255672624,8.077798727763875,B.B.mans
 route: {"legs":[{"steps":[],"weight":60.21,"summary":"","duration":385.1,"distance":481.5},{"steps":[],"weight":256.15,"summary":"","duration":1739,"distance":2171.5},{"steps":[],"weight":149.23,"summary":"","duration":1088.8,"distance":1358.3}],"weight_name":"routability","geometry":{"coordinates":[[98.907763,8.102181],[98.908279,8.10105],[98.910201,8.1002],[98.910835,8.099454],[98.909901,8.098249],[98.907422,8.094009],[98.906131,8.090764],[98.906041,8.088043],[98.906378,8.081887],[98.906572,8.081152],[98.901141,8.080788],[98.900582,8.080506],[98.900024,8.079862],[98.902852,8.0785],[98.904091,8.077354],[98.904279,8.077842]],"type":"LineString"},"weight":465.59,"duration":3212.9,"distance":4011.3}
 ```
 
-<a-hotel name="B.B.mansion" date="2017-01-11" nights="1"></a-hotel>
+<a-hotel name="B.B.mansion" date="2017-01-11" nights="1" points="98.90439255672624,8.077798727763875"></a-hotel>
 
 After sleeping for two hours and then a six-hour journey of combined transportation by train and ship, I was there.
 
@@ -200,7 +200,7 @@ After sleeping for two hours and then a six-hour journey of combined transportat
 
 I saw flooding on this island. The minibus driver had to take a detour through the jungle. Having arrived at the resort after lunchtime, I told the front desk that I had just finished my seagoing tour. The stormy weather made the ship swing up and down. After the voyage, I got a week-long land sickness which made me feel the ground shifting under my feet.
 
-<a-hotel name="Sarikantang Resort & Spa, Koh Phangan" date="2017-01-12" nights="5"></a-hotel>
+<a-hotel name="Sarikantang Resort & Spa, Koh Phangan" date="2017-01-12" nights="5" points="100.0663727,9.6712821"></a-hotel>
 
 Before the sun had even set, I arrived at the beach with my camera in hand. Despite enduring the wait until nightfall, there weren't many people around. By about 10 o'clock, feeling overwhelmingly exhausted, I decided to call it a night and head back to sleep. I traveled 500 kilometers for this? It seemed like a questionable outcome considering the effort put into the journey.
 

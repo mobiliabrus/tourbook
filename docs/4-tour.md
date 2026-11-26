@@ -185,7 +185,7 @@ Afterward, we took a boat back to Koh Tao. We slept through the entire day, reco
 
 When we arrived at the diving school later, they arranged for a vehicle to take us to our lodging. The car meandered through the area and eventually pulled up at the very same row of houses we had visited yesterday. I was assigned the room closest to the beach, while she got the one right next door.
 
-<a-hotel name="Crystal Dive Resort" date="2015-04-05" nights="4"></a-hotel>
+<a-hotel name="Crystal Dive Resort" date="2015-04-05" nights="4" points="99.825093,10.085696"></a-hotel>
 
 However, things changed quickly. She made new friends during her course, and we hardly saw or spoke to each other anymore.
 
@@ -230,7 +230,7 @@ name: draw
 
 <a-times :times="2" location="Phuket"></a-times>
 
-<a-hotel name="Woraburi Phuket Resort & Spa" date="2015-04-11" nights="4"></a-hotel>
+<a-hotel name="Woraburi Phuket Resort & Spa" date="2015-04-11" nights="4" points="98.294148,7.844075"></a-hotel>
 
 ```<a-img>
 name: songkran-karon

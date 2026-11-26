@@ -40,7 +40,7 @@ route: {"legs":[{"steps":[],"weight":434.7,"summary":"","duration":434.7,"distan
 
 After an arduous eighteen-hour journey, I finally reached my accommodation. Once settled and having watched the sunset, I treated myself to a well-deserved dinner at Balsam Café within Mount Kinabalu Park.
 
-<a-hotel name="Dormitory (Grace Hostel) at Kinabalu Park (1585M)" date="2017-04-02" nights="1"></a-hotel>
+<a-hotel name="Dormitory (Grace Hostel) at Kinabalu Park (1585M)" date="2017-04-02" nights="1" points="116.5393427365916,6.01042297268944"></a-hotel>
 
 ```<a-map>
 points: 116.5421188,6.0053195,Kinabalu National Park;116.5393427365916,6.01042297268944,Grace hostel
@@ -90,7 +90,7 @@ name: mtkk-2
 
 By 15:00, we finally arrived at Laban Rata, situated at an altitude of 3,270 meters.
 
-<a-hotel name="Non-Heated Dormitory-Laban Rata Resthouse" date="2017-04-03" nights="1"></a-hotel>
+<a-hotel name="Non-Heated Dormitory-Laban Rata Resthouse" date="2017-04-03" nights="1" points="116.5658471,6.058954"></a-hotel>
 
 ```<a-img>
 name: raban-rata
@@ -174,7 +174,7 @@ The day after descending the mountain, my knee became so swollen that I couldn't
 
 By the time I went diving, I had regained my mobility, although I still felt a faint discomfort.
 
-<a-hotel name="Borneo Backpackers" date="2017-04-04" nights="2"></a-hotel>
+<a-hotel name="Borneo Backpackers" date="2017-04-04" nights="2" points="116.0776038,5.9833774"></a-hotel>
 
 When I returned to Borneo Backpackers, it felt like visiting a ghost from my past. The room layout remained the same, yet everything had shifted. The owner seemed different—perhaps it was a new person, or perhaps the warmth I remembered had simply existed in my memory. The shop downstairs had been converted into a restaurant. This time, I did not stay in the mixed dormitory but opted for a single room instead. Due to my knee and limited mobility, I rarely ventured out, spending most of my time confined to the room, nursing the injury. I didn't meet anyone new. Didn't speak to a single soul. The stark contrast from my previous experience—the lively conversations, Marilyn, Carl, the vegetable boy—all of it seemed like someone else's memory. This place hadn't changed; I had. Or maybe loneliness had finally caught up with me.
 
@@ -190,7 +190,7 @@ Scheduled land transfer from Tawau Airport to Semporna at 1100hrs
 
 Scheduled boat transfer from Semporna to Rig at 1230hrs
 
-<a-hotel name="Seaventures Dive Rig" date="2017-04-06" nights="3"></a-hotel>
+<a-hotel name="Seaventures Dive Rig" date="2017-04-06" nights="3" points="118.63344342417173,4.253798859528792"></a-hotel>
 
 ```<a-divelog>
 no: 36
@@ -399,7 +399,7 @@ Eventually, I made my way back to the station, waiting for the next airport expr
 
 <a-times :times="1" location="Koh Samui"></a-times>
 
-<a-hotel name="Samui Hostel" date="2017-04-10" nights="7"></a-hotel>
+<a-hotel name="Samui Hostel" date="2017-04-10" nights="7" points="100.055656,9.5179429"></a-hotel>
 
 ## Koh Phangan
 

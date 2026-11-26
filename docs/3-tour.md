@@ -40,7 +40,7 @@ We were staying at different hostels, so on the morning of 4 November the driver
 
 The engine started and the city went behind us. Halfway there we turned off the main road onto a small one that began to climb north, with trees on both sides. It was a completely new experience.
 
-<a-hotel name="Rabeang Pasak Treehouse Resort" date="2014-11-04" nights="1"></a-hotel>
+<a-hotel name="Rabeang Pasak Treehouse Resort" date="2014-11-04" nights="1" points="99.124138,18.983908"></a-hotel>
 
 ```<a-map>
 points: 98.9660400,18.7979829,Baan Thai Apartment|98.9970986,18.7842285,So Hostel|98.9838874,18.7963096,A Little Bird 2 Guest House|98.98652265355459,18.795304760190298,Chang Phuak Gate|99.124138,18.983908,Rabeang Pasak Treehouse Resort

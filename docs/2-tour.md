@@ -73,7 +73,7 @@ name: riders.jpg
 dir: privacy
 ```
 
-<a-hotel name="Borneo Backpackers" date="2014-01-06" nights="2"></a-hotel>
+<a-hotel name="Borneo Backpackers" date="2014-01-06" nights="2" points="116.0776038,5.9833774"></a-hotel>
 
 The hostel I stayed at was a hidden gem, accessible only through a discreet door that opened onto a narrow stairway leading up to the second-floor reception. The place was managed by a kind-hearted, slightly plump middle-aged local woman who ran the business with genuine warmth.
 

@@ -7,9 +7,14 @@ export function parsePoint(point: unknown): [number, number] | void {
 
 export function parsePoints(points: unknown): any[] | [] {
   if (typeof points === 'string') {
-    return points.split(/[;|]{1}/).map((points) => points.split(','));
+    return points.split(/[;|]{1}/)
+      .map((points) => {
+        const [lng, lat, ...label] = points.split(',')
+        return [lng?.trim(), lat?.trim(), label.join(',')]
+      })
+      .filter(([lng, lat]) => lng && lat && Number.isFinite(Number(lng)) && Number.isFinite(Number(lat)))
   }
-  return [];
+  return []
 }
 
 export function parseFlights(flights: unknown): any[] | [] {
