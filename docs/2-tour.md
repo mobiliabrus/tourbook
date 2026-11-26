@@ -50,10 +50,6 @@ I steered clear of high-end restaurants and crowded venues, and ate in Indian ea
 
 The city felt like a black hole, and it absorbed the people around it. People walked fast and hurriedly through the crowded streets. I limited myself to walking, eating and sleeping for two days. Perhaps this wasn't the place for me, so I left.
 
-```<a-img>
-name: klcc
-```
-
 ## Kota Kinabalu
 
 <a-times :times="1" location="Kota Kinabalu"></a-times>
@@ -360,11 +356,13 @@ dir: privacy
 
 ## Penang
 
+<a-flight flight="AK5323" departure="BKI" destination="PEN" departure-time="2014-01-13 13:20" arrive-time="2014-01-13 16:05"></a-flight>
+
 <a-times :times="1" location="Penang"></a-times>
 
-## George Town
+I took an airport bus to George Town and got off at KOMTAR. It was the centre of the whole area, with buses from all over Penang stopping there. I often went there to shop. I chose to walk to the hostel. On the way, I met a girl from China. We were both interested in the murals on the walls and walked together for part of the way.
 
-<a-flight flight="AK5323" departure="BKI" destination="PEN" departure-time="2014-01-13 13:20" arrive-time="2014-01-13 16:05"></a-flight>
+## George Town
 
 ```<a-img>
 name: gt-1
@@ -372,8 +370,7 @@ name: gt-1
 
 <a-hotel name="Ryokan @ Muntri Street" date="2014-01-13" nights="4"></a-hotel>
 
-My room was situated at the very end of the corridor on the second floor, accessible via a winding black iron spiral staircase. It was equipped with bunk beds and a private ensuite bathroom.
-Initially, I was the solitary occupant of this space. Later, Feng Cheche joined me, and we spent some time conversing at a small round table just outside the hostel entrance.
+My room was situated at the very end of the corridor on the second floor, accessible via a winding black iron spiral staircase. It was equipped with bunk beds and a private  bathroom. Initially, I was the solitary occupant of this space. Later, Feng Cheche joined me, and we spent some time conversing at a small round table just outside the hostel entrance.
 
 Upon returning to the room after our chat, I was greeted by an unexpected sight: a young girl was perched on the top bunk, waving enthusiastically at me. She introduced herself as Isis Yu, a traveler from Hong Kong.
 
@@ -385,11 +382,9 @@ I promptly introduced Isis to Feng Cheche. The three of us hit it off immediatel
 name: little-india-1
 ```
 
-2014-01-14
-
 ## Jetty
 
-A fresh day commenced with a new itinerary. Our first stop was the jetty, where we soaked in the harbor views before detouring to a separate ticketing office to secure Isis's ferry passage to Langkawi. With that errand completed, we headed to Fort Cornwallis, a historic seaside citadel, to rest and explore.
+Our second stop was the jetty, where we soaked in the harbor views before detouring to a separate ticketing office to secure Isis's ferry passage to Langkawi.
  
 ```<a-map>
 points: 100.3405987,5.4125915,Chew Jetty;100.3445641,5.4194291,Langkawi Ferry Services Sdn Bhd;100.343897,5.420885,FORT Cornwallis
@@ -424,7 +419,7 @@ dir: privacy
 name: isisjetty
 ```
 
-We spent a leisurely while within the fortress grounds. I took the opportunity to capture photographs of the ancient ramparts and my companions against the backdrop of the sea.
+With that errand completed, we headed to Fort Cornwallis, a historic seaside citadel, to rest and explore. We spent a leisurely while within the fortress grounds. I took the opportunity to capture photographs of the ancient ramparts and my companions against the backdrop of the sea.
 
 ```<a-img>
 name: kc-1.jpg
@@ -646,8 +641,6 @@ The next day, Danni departed for Kota Kinabalu.
 > _The last day in Penang. Kota Kinabalu the next morning!_
 > <br/><span style="display: block; text-align: right;">_Danni - 2014-01-16_</span>
 
-## George Town
-
 Having spent several days in Penang, logic dictated that I should have moved on to explore new destinations. However, lacking a pre-planned itinerary and feeling too lethargic to formulate new strategies, I decided to extend my stay at my current hostel, hoping to wait for Isis's return from Langkawi. The owner informed me that the upcoming weekend coincided with a Malaysian national holiday, and every bed was booked. Consequently, I was forced to vacate. I moved to another guesthouse nearby. Isis came back, but we didn't meet. She left again.
 
 <a-hotel name="Day & Night Guesthouse" date="2014-01-17" nights="2"></a-hotel>
@@ -669,6 +662,10 @@ route: {"legs":[{"steps":[],"weight":31.3,"summary":"","duration":31.3,"distance
 I traveled back to Kuala Lumpur by bus and checked into a hostel on the famous Jalan Alor. To my surprise, the atmosphere was desolate. There were only two other foreign travelers in the entire building, deeply engrossed in a discussion about how to find accommodations that were merely five dollars cheaper. True to their frugal words, they moved out the following day, leaving me as the sole guest in the vast, empty hostel.
 
 <a-hotel name="Hotel Budget Inn Jalan Alor" date="2014-01-19" nights="2"></a-hotel>
+
+```<a-img>
+name: klcc
+```
 
 Subsequently, I spent my days wandering aimlessly around Kuala Lumpur, engaging in mundane activities that offered little joy. A profound sense of listlessness washed over me, mirroring the intense discomfort and alienation I had felt upon my initial arrival in the city.
 

@@ -12,6 +12,10 @@ title: IV. Lonely Soul
 
 <a-hotel name="Baiyoke Sky Hotel" date="2015-03-31" nights="1"></a-hotel>
 
+Baiyoke Sky Hotel was the tallest hotel in Southeast Asia. The hotel was old, but the Superior Suite Sky Zone caught my eye. The room had a balcony projecting out of the tower, with a view over Bangkok at night. I paid a lot to stay there, and I had a wild night there.
+
+<a-hotel name="Mode Sathorn Hotel" date="2015-04-01" nights="1" points="100.5218,13.7192"></a-hotel>
+
 ```<a-img>
 name: she-1.jpg
 dir: privacy

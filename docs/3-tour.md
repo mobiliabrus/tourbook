@@ -612,4 +612,6 @@ In retrospect, I wonder what compelled me to traverse half of Koh Tao, from one 
 
 <a-hotel name="48 ville" date="2014-11-13" nights="1"></a-hotel>
 
+It was close to Don Mueang Airport, but it was on the opposite side from the terminal, to the northwest. Getting there meant taking a long way round. There were almost no tourists around. There was a Big C, and many food stalls along the road sold what locals liked. The prices were cheap, so I stayed here before leaving Thailand.
+
 <a-flight flight="FD552" departure="DMK" destination="CKG" departure-time="2014-11-14 14:55" arrive-time="2014-11-14 19:05"></a-flight>

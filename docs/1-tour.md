@@ -298,9 +298,9 @@ name: flightx
 name: flighte
 ```
 
-<a-flight flight="FD3020" departure="HKT" departure-time="2013-10-29 08:00" destination="DMK" arrive-time="2013-10-29 09:25"></a-flight>
-
 ## Bangkok
+
+<a-flight flight="FD3020" departure="HKT" departure-time="2013-10-29 08:00" destination="DMK" arrive-time="2013-10-29 09:25"></a-flight>
 
 ## Pratunam
 
