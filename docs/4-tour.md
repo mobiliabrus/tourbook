@@ -27,84 +27,6 @@ dir: privacy
 
 <a-hotel name="Ananda Villa" date="2015-04-03" nights="2"></a-hotel>
 
-```<a-divelog>
-no: 5
-date: 2015-04-05
-location: Twins, Koh Tao
-objective: AOWPPB
-conditions: 30℃
-timein: 13:26
-timeout: 13:33
-depth: 9.5m
-comment: 4kg Weights
-buddy: 285136
-```
-
-```<a-divelog>
-no: 6
-date: 2015-04-05
-location: Twins, Koh Tao
-objective: AOW
-conditions: 30℃
-timein: 14:32
-timeout: 14:57
-depth: 13.4m
-comment: 4kg Weights
-buddy: 285136
-```
-
-```<a-divelog>
-no: 7
-date: 2015-04-05
-location: Twins, Koh Tao
-objective: AOW
-conditions: 30℃
-timein: 15:50
-timeout: 16:27
-depth: 11.6m
-comment: 4kg Weights
-buddy: 285136
-```
-
-```<a-divelog>
-no: 8
-date: 2015-04-05
-location: White Rock, Koh Tao
-objective: AOW
-conditions: 30℃
-timein: 19:06
-timeout: 19:46
-depth: 17.1m
-comment: Green Turtle, 4kg Weights
-buddy: 285136
-```
-
-```<a-divelog>
-no: 9
-date: 2015-04-06
-location: Chumphon Pinnacle
-objective: AOW
-conditions: 29℃
-timein: 8:33
-timeout: 9:06
-depth: 29.3m
-comment: 4kg Weights
-buddy: 285136
-```
-
-```<a-divelog>
-no: 10
-date: 2015-04-06
-location: HTMS Sattakut
-objective: AOW
-conditions: 31℃
-timein: 10:28
-timeout: 11:01
-depth: 27.8m
-comment: 4kg Weights
-buddy: 285136
-```
-
 ## Koh Phangan
 
 <a-times :times="1" location="Koh Phangan"></a-times>
@@ -190,6 +112,85 @@ Afterward, we took a boat back to Koh Tao. We slept through the entire day, reco
 When we arrived at the diving school later, they arranged for a vehicle to take us to our lodging. The car meandered through the area and eventually pulled up at the very same row of houses we had visited yesterday. I was assigned the room closest to the beach, while she got the one right next door.
 
 <a-hotel name="Crystal Dive Resort" date="2015-04-05" nights="4" points="99.825093,10.085696"></a-hotel>
+
+
+```<a-divelog>
+no: 5
+date: 2015-04-05
+location: Twins, Koh Tao
+objective: AOWPPB
+conditions: 30℃
+timein: 13:26
+timeout: 13:33
+depth: 9.5m
+comment: 4kg Weights
+buddy: 285136
+```
+
+```<a-divelog>
+no: 6
+date: 2015-04-05
+location: Twins, Koh Tao
+objective: AOW
+conditions: 30℃
+timein: 14:32
+timeout: 14:57
+depth: 13.4m
+comment: 4kg Weights
+buddy: 285136
+```
+
+```<a-divelog>
+no: 7
+date: 2015-04-05
+location: Twins, Koh Tao
+objective: AOW
+conditions: 30℃
+timein: 15:50
+timeout: 16:27
+depth: 11.6m
+comment: 4kg Weights
+buddy: 285136
+```
+
+```<a-divelog>
+no: 8
+date: 2015-04-05
+location: White Rock, Koh Tao
+objective: AOW
+conditions: 30℃
+timein: 19:06
+timeout: 19:46
+depth: 17.1m
+comment: Green Turtle, 4kg Weights
+buddy: 285136
+```
+
+```<a-divelog>
+no: 9
+date: 2015-04-06
+location: Chumphon Pinnacle
+objective: AOW
+conditions: 29℃
+timein: 8:33
+timeout: 9:06
+depth: 29.3m
+comment: 4kg Weights
+buddy: 285136
+```
+
+```<a-divelog>
+no: 10
+date: 2015-04-06
+location: HTMS Sattakut
+objective: AOW
+conditions: 31℃
+timein: 10:28
+timeout: 11:01
+depth: 27.8m
+comment: 4kg Weights
+buddy: 285136
+```
 
 However, things changed quickly. She made new friends during her course, and we hardly saw or spoke to each other anymore.
 
